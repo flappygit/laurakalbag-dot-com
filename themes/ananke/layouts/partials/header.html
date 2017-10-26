@@ -1,0 +1,28 @@
+{{ $featured_image := .Param "featured_image" | default "images/gohugo-default-sample-hero-image.jpg" }}
+{{ if $featured_image }}
+	{{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+	{{ $featured_image := (trim $featured_image "/") | absURL }}
+	<header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
+		{{ partial "navigation.html" .}}
+			<h1>
+				{{ .Title | default .Site.Title }}
+			</h1>
+		{{ with .Params.description }}
+			<h2>
+				{{ . }}
+			</h2>
+		{{ end }}
+	</header>
+{{ else }}
+	<header class="{{ .Site.Params.background_color_class | default "bg-black" }}">
+		{{ partial "navigation.html" . }}
+		<h1>
+			{{ .Title | default .Site.Title }}
+		</h1>
+		{{ with .Params.description }}
+			<h2>
+				{{ . }}
+			</h2>
+		{{ end }}
+	</header>
+{{ end }}
