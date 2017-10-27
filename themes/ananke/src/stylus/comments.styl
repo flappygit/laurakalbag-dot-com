@@ -1,0 +1,37 @@
+// COMMENTS
+
+#comments
+	.commentlist
+		font-size 0.9em // shrink comments a little compared to other text
+		padding 0
+		
+		li
+			list-style-type none
+			margin-left 0
+		
+	.avatar
+		border-radius 100% // make it a circle
+		float right
+		margin-left $x-space
+		margin-right $x-space
+		max-width 72px // width of avatar
+		
+	#reply-title
+		border-bottom-style()
+		margin-top ($x-space*2)
+	
+		@media screen and (min-width: $bigger-x-space)
+			margin-top ($x-space*4)
+			
+	.nocomments
+		margin-top ($x-space*2)
+	
+		@media screen and (min-width: $bigger-x-space)
+			margin-top ($x-space*4)
+		
+	.comment-form
+		padding 0
+		
+		#submit
+			margin-left 0
+	

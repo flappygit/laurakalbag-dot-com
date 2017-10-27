@@ -1,0 +1,112 @@
+// FONTS
+
+@font-face {
+	font-family: Recia;
+	src:
+		url('fonts/recia-regular-webfont.woff2') format('woff2'),
+		url('fonts/recia-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Recia;
+	src:
+		url('fonts/recia-regularitalic-webfont.woff2') format('woff2'),
+		url('fonts/recia-regularitalic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Recia;
+	src:
+		url('fonts/recia-semibold-webfont.woff2') format('woff2'),
+		url('fonts/recia-semibold-webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Recia;
+	src:
+		url('fonts/recia-semibolditalic-webfont.woff2') format('woff2'),
+		url('fonts/recia-semibolditalic-webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+$font-family = Recia, Georgia, serif
+
+html
+	font-size 14px // all font sizes and rems scale from here
+	line-height 1.6
+	
+	@media screen and (min-width: 480px)
+		font-size 15px // all font sizes and rems scale from here
+		
+	@media screen and (min-width: 540px)
+		font-size 16px // all font sizes and rems scale from here
+		
+	@media screen and (min-width: 620px)
+		font-size 17px // all font sizes and rems scale from here
+		
+	@media screen and (min-width: 660px)
+		font-size 18px // all font sizes and rems scale from here
+	
+	@media screen and (min-width: 760px)
+		font-size 19px // all font sizes and rems scale from here
+	
+body
+	font-family $font-family
+	
+h1, h2, h3
+	font-weight normal
+	margin 0
+	
+h1
+	font-size 2em
+	
+h2
+	font-size 1.5em
+	
+h3
+	font-size 1.25em
+	
+h4, h5, h6
+	font-style italic
+	
+h4
+	font-size 1.2em
+
+h5
+	font-size 1.1em
+
+h6
+	font-size 1.1em
+	
+strong
+	font-weight bold
+
+em
+	font-style italic
+	
+small
+	font-size 1em
+	
+	a
+		text-decoration none
+		
+blockquote
+	font-style italic
+	
+.home .page
+	p
+		font-size 1.25em
+		font-style italic
+
+.entry-meta
+	font-size 1em
+
+.site-footer h3
+	font-style italic

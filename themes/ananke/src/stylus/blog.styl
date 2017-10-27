@@ -1,0 +1,121 @@
+// BLOG
+
+.skip
+	overflow hidden
+	margin-top (-($x-space*3))
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-top (-($x-space*6))
+		max-width 100% // don't max-width, so button floats properly to right
+
+.skip a
+	button-style()
+	border-top-width 0
+	border-top-right-radius 0
+	border-top-left-radius 0
+	float right
+	font-size 0.9em // smaller
+	margin-top 0
+	margin-right 0
+	width auto
+
+.wp-caption
+	content-block()
+	width auto !important // override inline CSS
+	margin-bottom ($x-space*2)
+	
+	img
+		margin-bottom $x-space
+		margin-left 0
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-right ($x-space*2)
+		margin-bottom ($x-space*4)
+		margin-left ($x-space*2)
+	
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		margin-right 0
+		margin-left ($x-space*4)
+		
+	.wp-caption-text
+		font-size 0.9em
+		italic()
+		opacity .9
+		
+		@media screen and (min-width: $bigger-x-space)
+			padding-right 0
+			padding-left 0
+	
+.entry-summary
+	margin-bottom ($x-space*3)
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-bottom ($x-space*6)
+	
+.entry-meta
+	margin-bottom ($x-space)
+	padding-top 0
+	
+.widget-area
+	border-top-style()
+	
+	.widget-title
+		border-top-style()
+		border-bottom-style()
+	
+.entry-utility
+	border-top-style()
+	border-bottom-style()
+	
+	ul
+		padding-left 0
+		padding-right 0
+		
+		@media screen and (min-width: 420px)
+			display flex
+			flex-direction row
+			flex-wrap nowrap
+			justify-content flex-start
+			align-content stretch
+			align-items flex-start
+			margin 0
+		
+		li
+			font-size 0.9em
+			list-style-type none
+			margin-left 0
+			
+			@media screen and (min-width: 420px)
+				margin-left 0
+				flex 1 1 50%
+				align-self auto
+				margin-bottom 0
+				padding ($x-space/2) 0 $x-space 0
+			
+			@media screen and (min-width: $bigger-x-space)
+				font-size 1em
+		
+		li:nth-of-type(1)
+			@media screen and (min-width: 420px)
+				border-right-style()
+				
+.entry-utility-prep
+	padding-bottom ($x-space/2)
+	
+.widget_categories
+	content-block()
+	ul
+		list-style-type none
+		
+		li
+			display inline-block
+			line-height 2
+			margin-right ($x-space*1.5)
+			margin-bottom 0
+			margin-left 0
+	
+.tagcloud
+	content-block()
+	a
+		display inline-block
+		height ($x-space*2.5)

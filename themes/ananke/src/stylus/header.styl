@@ -1,0 +1,141 @@
+// HEADER LAYOUT AND FONTS
+
+.site-header .site-title
+	font-size 1em
+	margin-bottom 0
+
+.skip-link
+	display block
+	height 0
+	width 0
+	overflow hidden
+	padding 0
+	
+.menu-toggle
+	float right
+	
+nav
+	overflow hidden // clear contained floats
+	
+	.home &
+		@media screen and (min-width: 800px)
+			padding-left $x-space
+			
+		@media screen and (min-width: $bigger-horizontal-x-space)
+			padding-left ($x-space*3)
+	
+	ul
+		margin-top $x-space
+		margin-bottom 0
+		
+		@media screen and (min-width: 800px)
+			padding-left $x-space
+		
+	li
+		list-style-type none
+		margin 0
+		
+	a
+		display inline-block
+		margin-left 0
+		margin-bottom $x-space // space between links
+		margin-right $x-space // space between links
+		padding-right ($x-space)
+		padding-left ($x-space)
+		text-decoration none
+		
+		@media screen and (min-width: 560px)
+			margin-right ($x-space*2) // space between links
+			padding-right 0
+			padding-left 0
+			
+	a:hover, a:active
+		text-decoration underline
+		
+	.indie
+		box-sizing border-box
+		float left
+		height 36px
+		margin $x-space $x-space ($x-space*.75) $x-space
+		
+		@media screen and (min-width: 800px)
+			margin-top ($x-space*.75)
+			margin-left ($x-space*2)
+			margin-bottom 0
+			
+		@media screen and (min-width: $bigger-horizontal-x-space)
+			margin-left ($x-space*4)
+		
+.menu-navigation-container
+	clear both
+	overflow hidden // stops the navigation jumping on menu toggle
+	
+	@media screen and (min-width: 800px)
+		float left
+		clear none
+	
+	ul
+		display flex
+		flex-direction row
+		flex-wrap wrap
+		justify-content flex-start
+		align-content flex-start
+		align-items flex-start
+
+// bobbing animation for the Ind.ie balloon
+@keyframes bobbing
+	20%
+		transform: translateY(-10%) rotate(1deg);
+	50%
+		transform: translateY(0) rotate(0);
+	80%
+		transform: translateY(-5%) rotate(-1deg);
+		
+// colouring the Ind.ie balloon
+.site-title a:after,
+nav .indie svg
+	fill currentColor
+	
+.site-title
+	overflow hidden // to clear the floats
+	
+	a
+		border-bottom none
+		float left // to position the balloon on the right
+		text-decoration none
+		
+		svg
+			display block
+			fill currentColor
+			float right
+			height 2rem
+			position relative
+			width 2rem
+			
+		:hover, :active
+			animation infinite bobbing 4000ms linear
+		
+nav .indie
+	:hover, :active
+		animation infinite bobbing 4000ms linear
+			
+// active navigation links
+
+nav .current-menu-item a,
+.single-post nav .blog a,
+.projects-template-default nav .projects a
+	background-color $glass
+	border-radius $x-space
+
+	@media screen and (min-width: 560px)
+		background-color transparent
+		border-bottom 0.23rem solid $soakedcement
+		border-radius 0
+		margin-bottom 0
+		padding-bottom $x-space-minus-2pxish
+		text-decoration none
+		
+nav .current-menu-item a:hover, nav .current-menu-item a:active,
+.single-post nav .blog a:hover, .single-post nav .blog a:active,
+.projects-template-default nav .projects a:hover, .projects-template-default nav .projects a:active
+	text-decoration none

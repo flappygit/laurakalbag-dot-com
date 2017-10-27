@@ -1,0 +1,37 @@
+// DECORATIVE
+
+// Borders
+// Apply decorative borders to sectioning elements
+
+border-top-style()
+	border-top 1px solid $glass
+	width 100%
+
+border-right-style()
+	border-right 1px solid $glass
+	
+border-bottom-style()
+	border-bottom 1px solid $glass
+	width 100%
+
+h1, h2
+	border-bottom-style()
+	
+nav
+	border-bottom-style()
+	
+footer
+	border-top-style()
+	
+hr
+	border none // reset
+	border-top-style()
+	
+a
+	text-decoration-color $soakedcement
+	-webkit-text-decoration-skip skip
+	text-decoration-skip skip 
+	
+h1 a, h2 a, h3 a
+	border-bottom 1px solid $soakedcement
+	text-decoration none

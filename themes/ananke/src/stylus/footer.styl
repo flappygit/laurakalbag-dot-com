@@ -1,0 +1,36 @@
+// FOOTER
+
+footer
+	margin-top ($x-space*8)
+	padding-top $x-space
+	margin-bottom $x-space
+	
+	.footer-container
+		@media screen and (min-width: $bigger-x-space)
+			display flex
+			flex-direction row
+			flex-wrap nowrap
+			justify-content flex-start
+			align-content stretch
+			align-items flex-start
+	
+	.avatar
+		border-radius 100% // make it a circle
+		float right
+		margin-left $x-space
+		margin-right $x-space
+		max-width 96px // width of avatar
+		
+		@media screen and (min-width: $bigger-x-space)
+			order 2
+			flex 0 0 96px
+			align-self flex-start
+	
+	.widget-text
+		@media screen and (min-width: $bigger-x-space)
+			order 1
+			flex 0 1 auto
+			align-self flex-start
+			
+	.site-info
+		display block

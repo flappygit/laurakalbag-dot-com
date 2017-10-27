@@ -1,0 +1,175 @@
+// LAYOUT
+
+// unit which initially follows root em on html font-size, 
+// but can be used proportionally with this variable
+$x-space = 0.625rem
+$x-space-minus-2pxish = 0.395rem // for nav - border padding
+
+// media query widths
+$bigger-x-space = 600px // the point where we double the spacing
+$bigger-horizontal-x-space = 860px // the point where we double the horizontal spacing
+
+*
+	box-sizing border-box
+
+// rules for chunky content that needs to be wide on narrow
+// viewports but have a contained width on wider viewports
+content-block()
+	display block
+	height auto
+	margin $x-space 0
+	position relative
+	max-width 100%
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin ($x-space*2) 0
+		
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		margin ($x-space*4) 0
+		
+	@media screen and (min-width: 800px)
+		max-width 760px // don’t let the images get longer than the line-lengths
+
+// remove typical list styles by resetting margins and removing bullets (apply to uls)
+no-bullets()
+	margin 0
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin 0
+	
+	li
+		list-style-type none
+		margin-left 0
+		margin-bottom 0
+		
+		@media screen and (min-width: $bigger-x-space)
+			margin-bottom 0
+		
+		@media screen and (min-width: $bigger-horizontal-x-space)
+			margin-left 0
+		
+body
+	//use flexbox to position footer at bottom
+	display flex
+	flex-direction column
+	flex-wrap nowrap
+	justify-content space-between
+	align-content flex-start
+	align-items flex-start
+	height 100vh
+	margin 0 // reset
+	
+	.structure
+		width 100%
+
+h1, h2, h3
+	margin 0
+	padding $x-space
+	
+	@media screen and (min-width: $bigger-x-space)
+		padding ($x-space*2)
+	
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		padding ($x-space*2) ($x-space*4)
+		
+	
+h1
+	margin-top ($x-space*2)
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-top ($x-space*4)
+		
+.page-title
+	margin-bottom ($x-space*3)
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-bottom ($x-space*6)
+		
+.entry-title
+	margin-bottom ($x-space*1.5)
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-bottom ($x-space*3)
+	
+h2
+	margin-top ($x-space*2)
+	margin-bottom $x-space
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-top ($x-space*4)
+		margin-bottom ($x-space*2)
+	
+h2:nth-of-type(1) // when an h2 follows an h1, give it no top margin
+	margin-top 0
+	
+h4, h5, h6
+	margin $x-space 0
+	padding 0 $x-space
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin ($x-space*2) 0
+		padding 0 ($x-space*2)
+		
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		padding 0 ($x-space*4)
+	
+p, small, .tagcloud
+	margin-top 0
+	margin-bottom $x-space
+	padding 0 $x-space
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-bottom ($x-space*2)
+		padding 0 ($x-space*2)
+	
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		padding 0 ($x-space*4)
+	
+ul, ol
+	margin $x-space 0 ($x-space*2) 0
+	padding 0 $x-space
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin ($x-space*2) 0 ($x-space*4) 0
+		padding 0 ($x-space*2)
+	
+	@media screen and (min-width: $bigger-horizontal-x-space)
+		padding 0 ($x-space*4)
+	
+	li
+		margin-left ($x-space*2)
+		margin-bottom ($x-space/2)
+		
+		@media screen and (min-width: $bigger-x-space)
+			margin-bottom $x-space
+		
+		@media screen and (min-width: $bigger-horizontal-x-space)
+			margin-left ($x-space*2)
+	
+img
+	content-block()
+
+pre
+	content-block()
+
+blockquote
+	margin $x-space
+	
+	::before
+		content "“"
+		margin-left -0.3em
+		
+	::after
+		content "”"
+
+p, ul, ol
+	@media screen and (min-width: 800px)
+		max-width 760px // don’t let the line-lengths get longer than this
+		
+hr
+	margin-top ($x-space*1.5)
+	margin-bottom ($x-space*1.5)
+	
+	@media screen and (min-width: $bigger-x-space)
+		margin-top ($x-space*3)
+		margin-bottom ($x-space*3)
