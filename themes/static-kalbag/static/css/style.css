@@ -1,24 +1,4 @@
 @charset "UTF-8";
-/*
-Theme Name:     Laura Kalbag 2016
-Theme URI:      http: //laurakalbag.com
-Description:    A brand spanking new theme for laurakalbag.com, actually finished in 2017
-Author:         Laura Kalbag
-Author URI:     http: //laurakalbag.com
-Version:        0.1
-*/
-/*
-
-             /\_..._/             |/ \_/ \|
-             | o.-.o |
-             \ ( O ) /
-             /'--U--'             |  .:.  | /             | /:;:\ |` /
-             | |:;:| |-'
-      jgs   /  |'-'|              `""`   `""`
-
-Want to snoop at my stylus? Have a look in the /stylus folder
-
-*/
 body {
   background: #dedede;
   color: #424242;
@@ -66,25 +46,25 @@ h3 a {
 }
 @font-face {
   font-family: Recia;
-  src: url("fonts/recia-regular-webfont.woff2") format('woff2'), url("fonts/recia-regular-webfont.woff") format('woff');
+  src: url("/fonts/recia-regular-webfont.woff2") format('woff2'), url("/fonts/recia-regular-webfont.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: Recia;
-  src: url("fonts/recia-regularitalic-webfont.woff2") format('woff2'), url("fonts/recia-regularitalic-webfont.woff") format('woff');
+  src: url("/fonts/recia-regularitalic-webfont.woff2") format('woff2'), url("/fonts/recia-regularitalic-webfont.woff") format('woff');
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: Recia;
-  src: url("fonts/recia-semibold-webfont.woff2") format('woff2'), url("fonts/recia-semibold-webfont.woff") format('woff');
+  src: url("/fonts/recia-semibold-webfont.woff2") format('woff2'), url("/fonts/recia-semibold-webfont.woff") format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Recia;
-  src: url("fonts/recia-semibolditalic-webfont.woff2") format('woff2'), url("fonts/recia-semibolditalic-webfont.woff") format('woff');
+  src: url("/fonts/recia-semibolditalic-webfont.woff2") format('woff2'), url("/fonts/recia-semibolditalic-webfont.woff") format('woff');
   font-weight: bold;
   font-style: italic;
 }
