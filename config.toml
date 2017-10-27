@@ -1,7 +1,7 @@
 baseURL = "https://laurakalbag.com"
 languageCode = "en-uk"
 title = "Laura Kalbag"
-theme = "ananke"
+theme = "static-kalbag"
 [permalinks]
 	pages = "/:filename/"
 	posts = "/:filename/"
