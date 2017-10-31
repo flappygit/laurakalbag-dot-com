@@ -1,7 +1,6 @@
+<a href="#content" class="skip-link">Skip navigation</a>
 <nav>
-	<a href="{{ .Site.BaseURL }}">
-		{{ .Site.Title }}
-	</a>
+	<div class="menu-navigation-container">
 		{{ if .Site.Menus.main }}
 		<ul>
 			{{ range .Site.Menus.main }}
@@ -13,4 +12,5 @@
 			{{ end }}
 		</ul>
 	{{ end }}
+	</div>
 </nav>

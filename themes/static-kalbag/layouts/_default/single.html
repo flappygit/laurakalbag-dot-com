@@ -1,16 +1,9 @@
 {{ define "header" }}{{ partial "header.html" . }}{{ end }}
 {{ define "main" }}
 	<article>
-		<header>
-			<p>
-				{{ humanize .Section | upper }}
-			</p>
-			<h1>
-				{{ .Title }}
-			</h1>
-		</header>
-	<div>
+		<h1 class="entry-title">{{ .Title }}</h1>
+		<div class="entry-content">
 		{{ .Content }}
-	</div>
+		</div>
 	</article>
 {{ end }}
