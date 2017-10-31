@@ -3,7 +3,8 @@ title: "Home"
 date: 2017-10-26T20:28:58+02:00
 draft: true
 menu:
- main: {}
+ main:
+  weight: -20
 ---
 
 ## Honesty, craft, and indie design.
