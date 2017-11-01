@@ -5,3 +5,4 @@ theme = "static-kalbag"
 [permalinks]
 	pages = "/:filename/"
 	posts = "/:filename/"
+	projects = "/project/:filename/"
