@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Past Projects"
 date: 2017-10-26T20:28:58+02:00
 draft: true
 menu:
@@ -7,4 +7,4 @@ menu:
   weight: 20
 ---
 
-# Blog
+# Past Projects

@@ -4,7 +4,7 @@ date: 2017-11-01T18:07:44+01:00
 draft: true
 menu:
  main:
-  weight: 20
+  weight: 30
 ---
 
 I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.
