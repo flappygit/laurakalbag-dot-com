@@ -10,7 +10,7 @@ menu:
 
 ## The Basics
 
-Email [info@laurakalbag.com](mailto:info@laurakalbag.com "Create an e-mail to Laura Kalbag in your mail client")
+{{< emailaddress "Email" >}}.
 
 Twitter [laurakalbag](http://twitter.com/laurakalbag "Laura Kalbag on Twitter")
 
