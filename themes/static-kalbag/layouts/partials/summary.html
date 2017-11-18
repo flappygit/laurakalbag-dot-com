@@ -1,11 +1,13 @@
-<div>
-	<span>{{ humanize .Section }}</span>
-	<h1>
+<li>
+	<h2>
 		<a href="{{ .URL }}">
 		{{ .Title }}
 		</a>
-	</h1>
-	<div>
-		{{ .Summary }}
+	</h2>
+	<h3 class="entry-meta">Posted: {{.Date.Format "2 Jan 2006"}}</h3>
+	<div class="summary">
+		<p>
+		{{ .Summary }} <a href="{{ .URL }}">Read more</a>
+		</p>
 	</div>
-</div>
+</li>

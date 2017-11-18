@@ -3,10 +3,10 @@
 		{{ .Content }}
 	</article>
 	{{ $section := where .Data.Pages "Section" .Section }}
-	<section>
+	<ul class="posts-list">
 		{{ range  $section }}
 			{{ partial "summary.html" . }}
 		{{ end }}
-	</section>
+	</ul>
 	{{ template "_internal/pagination.html" . }}
 {{ end }}
