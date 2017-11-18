@@ -35,7 +35,8 @@ Many of the speakers at Responsive Day Out spoke about how we need to break away
 
 > “Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2737" alt="Anna Debenham—Device detection isn't future proof. Avoid." src="/images/2013/04/devicedetection.jpg" width="800" height="463"  caption="Anna Debenham—Device detection isn’t future proof. Avoid.">}}](/images/2013/04/devicedetection.jpg)
+[{{<figure class="wp-caption aligncenter size-full wp-image-2737" alt="Anna Debenham—Device detection isn't future proof. Avoid." src="/images/2013/04/devicedetection.jpg" width="800" height="463" caption="Anna Debenham—Device detection isn’t future proof. Avoid.">}}](/images/2013/04/devicedetection.jpg)
+
 As Tom Maslen pointed out, we’re foolish focusing on devices. Before responsive design, did we ever talk about whether a website worked on a particular Dell PC or a MacBook? We didn’t, we thought in terms of browsers and whether our sites worked in Internet Explorer 8 or the most recent version of Firefox. This makes it much easier to test and gives us a much narrower set of requirements that our sites need to fulfil.
 
 David Bushell explained how screen size doesn’t equate to viewport size, as many desktop users, especially those with very large displays, will use browser windows much narrower than their screen. Something that I also touched on in my talk was that you can’t judge what device is being used, or what user is doing based on the size of their viewport. A narrower viewport does not necessarily guarantee a mobile device, or low bandwidth or that the user is “on the go”. A narrower viewport could just mean that the user has stuck the browser window to one side of their enormous display on a high-end Mac, using broadband while at work in their office.
@@ -44,7 +45,7 @@ David Bushell explained how screen size doesn’t equate to viewport size, as ma
 
 Many of the speakers discussed breakpoints, but not obsessing over them as the defining feature of Responsive Web Design. While most of us have been guilty of basing breakpoints on particular (Apple!) devices, the focus was on moving away from device-based breakpoints.
 
-Mark Boulton suggested that breakpoints should be based on changing user experiences based on the features and capabilities of the browser; using “macro breakpoints” when something big happens, such as a layout change, and mostly basing your CSS around “micro breakpoints”, on the little tweaking details that add up to 80% of your styles. These are very much along the same lines as[ Jeremy Keith’s “tweakpoints”](http://adactio.com/journal/6044/)&nbsp;.
+Mark Boulton suggested that breakpoints should be based on changing user experiences based on the features and capabilities of the browser; using “macro breakpoints” when something big happens, such as a layout change, and mostly basing your CSS around “micro breakpoints”, on the little tweaking details that add up to 80% of your styles. These are very much along the same lines as [Jeremy Keith’s “tweakpoints”](http://adactio.com/journal/6044/).
 
 In my talk I shared my ideas of basing breakpoints around the optimal display of the content, as every content element has an ideal maximum width and and ideal minimum width. Using the content in this way ensures the best browsing experience, as well as using constraints derived from the one thing that won’t change in the future.
 
@@ -66,7 +67,6 @@ Tom Maslen and Andy Hume both work on large news sites ([bbc.co.uk](http://bbc.c
 
 This technique relies on building a simple core experience where the content is accessible from any device. Andy suggested there are three stages of the page load, where only one is vital:
 
-
 1. “content”: HTML and CSS
 2. “enhancement”: javascript which enhances the experience with rich/interactive media
 3. “leftovers”: analytics, ads, and anything else which is least important to the users but useful to include on the page
@@ -75,8 +75,10 @@ Tom pointed out that using this technique would mean no time wasted on polyfilli
 
 This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2729" alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" src="/images/2013/04/browsercompatibility.jpg" width="800" height="468"  caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers">}}](/images/2013/04/browsercompatibility.jpg)
-<h1>More markup and code</h1>
+[{{<figure class="wp-caption aligncenter size-full wp-image-2729" alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" src="/images/2013/04/browsercompatibility.jpg" width="800" height="468" caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers">}}](/images/2013/04/browsercompatibility.jpg)
+
+# More markup and code
+
 > “The web and web standards have always been responsive”-Bruce Lawson on how the web is inherently flexible.
 
 Bruce Lawson started his talk saying that we constrained ourselves on the web. Mark Boulton later pointed out that we didn’t really constrain ourselves, we’ve been using the web for everything and anything when it was really just designed for memos. The web wasn’t **designed** to be inherently flexible, it just happened that way.
@@ -133,7 +135,7 @@ Performance was a key word of the day. Many speakers mentioned how we’ve been 
 * Content
 * Decorative
 
-[{{<figure class="wp-caption aligncenter"> src="/images/2013/04/types-of-images.png" alt="Paul Robert Lloyd&#039;s slide on types of images" width="632" height="406" class="size-full wp-image-2793"  caption="Paul Robert Lloyd’s slide on types of images">}}](https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22)
+[{{<figure class="wp-caption aligncenter" src="/images/2013/04/types-of-images.png" alt="Paul Robert Lloyd&#039;s slide on types of images" width="632" height="406" class="size-full wp-image-2793" caption="Paul Robert Lloyd’s slide on types of images">}}](https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22)
 
 ### Asset fonts
 
@@ -157,7 +159,7 @@ In my talk, I spoke about how text makes up so much of web design that typograph
 
 Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2757" alt="Richard Rutters potential solutions for web font loading wait-time" src="/images/2013/04/webfontoptions.jpg" width="800" height="660"  caption="Richard Rutters potential solutions for web font loading wait-time">}}](/images/2013/04/webfontoptions.jpg)
+[{{<figure class="wp-caption aligncenter size-full wp-image-2757" alt="Richard Rutters potential solutions for web font loading wait-time" src="/images/2013/04/webfontoptions.jpg" width="800" height="660" caption="Richard Rutters potential solutions for web font loading wait-time">}}](/images/2013/04/webfontoptions.jpg)
 
 1. Default: text appears as each web font loads
 2. Don’t send web fonts to small screens
@@ -277,30 +279,23 @@ This feeling of uncertainty is here for good, and it’s a valuable part of ensu
 
 ## Related resources
 
-* 
-### Fontforge, an app for creating fonts, recommended by Josh Emerson
+* ### Fontforge, an app for creating fonts, recommended by Josh Emerson
+[http://fontforge.org/](http://fontforge.org/)
 
-<p>[http://fontforge.org/](http://fontforge.org/)
-* 
-### Symbolset, a ligature asset fonts service, recommended by Josh Emerson
+* ### Symbolset, a ligature asset fonts service, recommended by Josh Emerson
+[http://symbolset.com/](http://symbolset.com/)
 
-<p>[http://symbolset.com/](http://symbolset.com/)
-* 
-### Icomoon, a service for creating asset fonts, recommended by Josh Emerson as the simplest solution
+* ### Icomoon, a service for creating asset fonts, recommended by Josh Emerson as the simplest solution
+[http://icomoon.io/](http://icomoon.io/)
 
-<p>[http://icomoon.io/](http://icomoon.io/)
-* 
-### WebFont Loader, a JavaScript library to give you more control over font loading, recommended by Richard Rutter
+* ### WebFont Loader, a JavaScript library to give you more control over font loading, recommended by Richard Rutter
+[https://developers.google.com/webfonts/docs/webfont_loader](https://developers.google.com/webfonts/docs/webfont_loader)
 
-<p>[https://developers.google.com/webfonts/docs/webfont_loader](https://developers.google.com/webfonts/docs/webfont_loader)
-* 
-### Modernizr, a JavaScript library used to detect browser capabilities, recommended by Bruce Lawson
+* ### Modernizr, a JavaScript library used to detect browser capabilities, recommended by Bruce Lawson
+[http://modernizr.com/](http://modernizr.com/)
 
-<p>[http://modernizr.com/](http://modernizr.com/)
-* 
-### Modular Scale, a tool built by Tim Brown to design typographic ratios around musical intervals
-
-<p>[http://modularscale.com/](http://modularscale.com/)
+* ### Modular Scale, a tool built by Tim Brown to design typographic ratios around musical intervals
+[http://modularscale.com/](http://modularscale.com/)
 
 ## 8 comments
 

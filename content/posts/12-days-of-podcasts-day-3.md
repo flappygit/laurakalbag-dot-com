@@ -1,10 +1,9 @@
 ---
-
 title: "Accessibility By Design"
 draft: true
 colours: ["#b02654", "#771939", "#b02654", "#771939", "#e8326f", "#62152f", "#dd2f6a"]
 date: 2015-05-23T15:04:40+00:00
-categories: ["Accessibility"
+categories: ["Accessibility"]
 tags: ["#GAAD", "accessibility", "aesthetics", "constraints", "design", "Global Accessibility Awareness Day"]
 ---
 

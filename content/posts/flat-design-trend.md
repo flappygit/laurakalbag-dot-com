@@ -1,5 +1,5 @@
 ---
-title: "Fl\*t design trend"
+title: "Fl&#42;t design trend"
 draft: true
 colours: ["#c92c68", "#812855", "#d62980", "#630d2c", "#81283b", "#420525", "#b81e28"]
 date: 2013-06-11T14:41:59+00:00
