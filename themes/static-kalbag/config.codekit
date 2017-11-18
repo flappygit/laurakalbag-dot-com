@@ -23,28 +23,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/images\/screenshot.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 394121,
-		"inputAbbreviatedPath": "\/images\/screenshot.png",
-		"outputAbbreviatedPath": "\/images\/screenshot.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/tn.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 165447,
-		"inputAbbreviatedPath": "\/images\/tn.png",
-		"outputAbbreviatedPath": "\/images\/tn.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/layouts\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -268,6 +246,15 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/src\/css\/layout.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/css\/layout.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/package.json": {
 		"fileType": 524288,
