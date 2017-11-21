@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Usability"]
 tags: ["conference", "future insights live", "naivety", "native vs web", "platforms", "user experience", "web"]
 ---
 
-{{< oldpost >}}
-
 Last week I was at the wonderful [Future Insights Live conference in Las Vegas](http://futureinsightslive.com). Annoyingly as I was speaking twice (that bit wasn’t annoying, it was fun!) I missed a load of talks, but had some fantastic discussions around some particularly interesting topics.
 
 The topic of naïvety in user experience first came up in [Aral Balkan](http://twitter.com/aral)’s brilliant opening keynote, but using it as an approach it was an ongoing theme through the week, summed up by [Josh Clark](http://twitter.com/globalmoxie):

@@ -7,8 +7,6 @@ categories: ["Accessibility"]
 tags: ["accessibility", "BBC Taster", "Creative Bloq", "Flash"]
 ---
 
-{{< oldpost >}}
-
 In the spirit of catching up on slightly older news, in January I was part of a [panel commenting on BBC Taster on Creative Bloq](http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087).
 
 Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.

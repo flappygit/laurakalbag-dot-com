@@ -7,8 +7,6 @@ categories: ["ind.ie", "Personal"]
 tags: ["moving", "Sweden"]
 ---
 
-{{< oldpost >}}
-
 Well… we’re here! In Malmö, sitting in our new office at Media Evolution City.
 
 It’s been a busy and exhausting week. Oskar and I made our 800 mile trip in one day, thanks to the wonderful “courier” and took another day to recover. Then it was straight into the office.

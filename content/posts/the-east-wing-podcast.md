@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Freelancing", "Podcasts"]
 tags: ["conferences", "freelancing", "mentor", "podcast", "speaking", "The East Wing", "women"]
 ---
 
-{{< oldpost >}}
-
 Yesterday I was a guest on [Tim Smith](http://twitter.com/ttimsmith)‘s [The East Wing podcast](http://theeastwing.net/). It was a pre-recorded conversation and it was great fun. You can [listen to it on the East Wing website](http://theeastwing.net/episodes/laura-kalbag), and it’ll be up on iTunes soon.
 
 We discussed how I got started in the industry (really sorry traditional Graphic Design people, I may have generalised a bit…), speaking at conferences, women in the industry and mentoring.

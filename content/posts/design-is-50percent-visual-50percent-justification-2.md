@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["clients", "decisions", "design", "justification", "school", "value", "work", "writing"]
 ---
 
-{{< oldpost >}}
-
 After I finished my last post about [Design Tips for Developers](http://laurakalbag.wpengine.com/design-tips-for-developers/), it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.
 
 When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’. I really have no idea if I’m the only one that does this? I assume not. I know a lot of people don’t, they just send static images. Does this mean it’s not worthwhile?

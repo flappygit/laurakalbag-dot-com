@@ -7,8 +7,6 @@ categories: ["Design", "ind.ie"]
 tags: ["icons", "labs", "logo design", "style language"]
 ---
 
-{{< oldpost >}}
-
 Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)
 
 Friday and today, I’ve been getting our [Labs](https://ind.ie/labs) and [source.ind.ie](https://source.ind.ie/) in tip-top shape. Now with our own logo in the corner, it feels more like home, and Aral has added single sign-on so you can sign up with your GitHub account, as well as adding some new copy on [the source homepage](https://source.ind.ie/) to explain a little more about what is housed on source.ind.ie. (It’s only visible if you’re signed out.)

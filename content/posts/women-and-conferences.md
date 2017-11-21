@@ -7,8 +7,6 @@ categories: ["Events", "Personal"]
 tags: ["conferences", "events", "speaking", "women"]
 ---
 
-{{< oldpost >}}
-
 I used to not understand the fuss around women at conferences, I thought that we should all just carry on with what we were doing well already and not get caught up in needless controversy. I even [wrote a blog post saying exactly that a couple of years ago](http://laurakalbag.wpengine.com/women-in/ "Women in…"). I’d never experienced (to my knowledge) any difficulties because I was a woman.
 
 ## A bit uncomfortable
@@ -76,6 +74,7 @@ I enjoy speaking occasionally, but I’m really more of a fan of attending confe
 I’m still going to fight this one out, though. I want to make the industry a more diverse, interesting and inviting place, and I want to [set a good example for those that come after us](http://laurakalbag.wpengine.com/a-loveletter/ "A loveletter"). I know that I’m quite a confident person, and I feel like I’m in a better position to stand up for us than many others, and I don’t want to waste my opportunity to do so.
 
 ---
+
 
 ### Note
 

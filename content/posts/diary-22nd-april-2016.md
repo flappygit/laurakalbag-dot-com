@@ -7,8 +7,6 @@ categories: ["ind.ie"]
 tags: ["companies", "director", "Ind.ie", "Limited Company"]
 ---
 
-{{< oldpost >}}
-
 Always busy here! Aral and I have been doing a good job of getting out to events in our new home city of Malmö. Last week we went to see [A Good American at DocLounge](https://forum.ind.ie/t/a-good-american-doc-lounge-screening-in-malmo/1135), and this week we’ve been to a few events right here in [Media Evolution City](http://mediaevolutioncity.se/" rel="nofollow). We’re really lucky to have an amazing venue that hosts so many events around us.
 
 I’ve been knuckling down on the financial/admin side of things now we’ve moved to Malmö. I can’t remember if I mentioned before that Aral and I are both closing our own limited companies down so that we’re only paying to run Article 12 (Ind.ie). This makes sense as we have no money going into those companies, And so I’m now officially a Director of Article 12 (the other being Aral). This much better reflects my day-to-day responsibilities too.

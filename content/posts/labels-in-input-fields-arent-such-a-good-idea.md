@@ -7,8 +7,6 @@ categories: ["Design Issues", "Usability"]
 tags: ["accessibility", "form", "form fields", "HTML5", "interface", "label", "placeholder attribute", "usability", "users"]
 ---
 
-{{< oldpost >}}
-
 There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
 
 Example:

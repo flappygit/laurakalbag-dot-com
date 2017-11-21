@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues"]
 tags: ["content", "Digital Arts magazine", "template design", "web design"]
 ---
 
-{{< oldpost >}}
-
 Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called [Designing for the unknown: how to design templates and frameworks](http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/), and has contributions from some really smart people.
 
 The title image is from my writeup of the [Default Perch Theme project](http://laurakalbag.wpengine.com/project/default-perch-theme/ "Default Perch Theme") I did with Perch.

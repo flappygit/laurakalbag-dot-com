@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["digest", "future of web design", "Storify", "Twitter", "ubelly"]
 ---
 
-{{< oldpost >}}
-
 I’ve written up [my digest of Future Of Web Design 2012 over at the ubelly blog](http://www.ubelly.com/2012/05/craft-and-care-future-of-web-design-london-2012/).
 
 For those who want more of a blow-by-blow account of the day, I’ve compiled all of my live tweets (and retweets) from the day in a Storify feed.

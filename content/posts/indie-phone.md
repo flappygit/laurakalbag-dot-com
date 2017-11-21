@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing", "Milestones", "Personal"]
 tags: ["client work", "data", "discount", "freedom", "freelancing", "Indie Phone", "indie tech", "privacy"]
 ---
 
-{{< oldpost >}}
-
 There’s some big changes around here. As of Monday, I am now working with [Indie Phone](http://indiephone.eu) for 50% of my working time.
 
 ## What is Indie Phone?

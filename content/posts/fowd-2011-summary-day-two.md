@@ -7,8 +7,6 @@ categories: ["Design Issues", "Events"]
 tags: ["communication", "conference", "copywriting", "creativity", "IE9", "mobile apps", "mobile web", "responsive web design", "self-promotion", "summary", "touch interfaces", "tweets", "Twitter", "user interfaces"]
 ---
 
-{{< oldpost >}}
-
 # Day Two
 
 ## Ethan Marcotte –; Responsive Web Design
@@ -24,6 +22,7 @@ tags: ["communication", "conference", "copywriting", "creativity", "IE9", "mobil
 [Tweet](https://twitter.com/laurakalbag/status/70769336872218624)
 ---
 
+
 ## Femi T Adesina –; Enhancing your Creativity
 
 I mis-hastagged the first tweet!
@@ -36,6 +35,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/laurakalbag/status/70783293863362560)
 [Tweet](https://twitter.com/laurakalbag/status/70784592235335680)
 ---
+
 
 ## Josh Clark –; Buttons Are a Hack: The New Rules of Designing for Touch
 
@@ -65,6 +65,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/laurakalbag/status/70807634038628352)
 ---
 
+
 ## John McGarvey –; Copywriting is Design
 
 [Tweet](https://twitter.com/laurakalbag/status/70809101566885888)
@@ -82,6 +83,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/laurakalbag/status/70837006686629888)
 ---
 
+
 ## Martin Beeby –; IE9: The Story So Far
 
 [Tweet](https://twitter.com/laurakalbag/status/70838762313236480)
@@ -92,6 +94,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/laurakalbag/status/70841865779425280)
 ---
 
+
 ## Abbey Tosic –; Standing Out and Moving Up In Web Design
 
 [Tweet](https://twitter.com/laurakalbag/status/70846362970894336)
@@ -100,6 +103,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/laurakalbag/status/70851463445872640)
 [Tweet](https://twitter.com/laurakalbag/status/70851692404543489)
 ---
+
 
 ## Sarah B Nelson –; Bullet Proof Communication Techniques: A UX Strategist’s Guide
 
@@ -118,6 +122,7 @@ I mis-hastagged the first tweet!
 [Tweet](https://twitter.com/globalmoxie/status/70876401598869504)
 [Tweet](https://twitter.com/steveworkman/status/70876936301330433)
 ---
+
 
 ## Josh Clark –; Cage Match: Mobile Web vs. Native App
 

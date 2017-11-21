@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["ethics", "purpose", "The Pastry Box", "work"]
 ---
 
-{{< oldpost >}}
-
 Today [my thought for March was posted on The Pastry Box](https://the-pastry-box-project.net/laura-kalbag/2014-march-11). It was inspired by [First Things First 2014](http://firstthingsfirst2014.org), talks by [Cole Peters](http://twitter.com/cole_peters) and [Nicklas de León Persson](http://twitter.com/takete) at [Design and Banter](http://designandbanter.com), and [Fictive Kin](http://fictivekin.com/purpose)‘s [slashpurpose.org](http://slashpurpose.org).
 
 I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.

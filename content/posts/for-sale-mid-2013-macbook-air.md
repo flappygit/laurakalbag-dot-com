@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["for sale", "MacBook Air"]
 ---
 
-{{< oldpost >}}
-
 In October, I found myself doing a lot more in Terminal than I’d done before, and I needed a computer with a faster processor, so I upgraded to a MacBook Pro. This means that my pimped-out Mid 2013 MacBook Air that I bought in December 2013 is now for sale. It’s in nearly-new condition, as it’s been kept in a shell case for almost all its (short) life. I used it for around 8 months. These are the specs:
 
 * 13.3" Mid 2013 MacBook Air

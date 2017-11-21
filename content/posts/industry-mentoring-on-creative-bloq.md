@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["interview", "mentoring"]
 ---
 
-{{< oldpost >}}
-
 Craig Grannell has written [a fantastic article on Creative Bloq about mentoring](http://www.creativebloq.com/netmag/why-industry-mentoring-utterly-invaluable-11410363), looking at loads of different ways the web industry can do mentoring well. Including interviews with Clare Sutcliffe, Greg Hoy, Jeffery Zeldman, Andy Budd, Josh Emerson, Andy Budd, Anna Debenham and me!
 
 It’s well-worth a read if you want to mentor somebody, or would like to find a mentor yourself.

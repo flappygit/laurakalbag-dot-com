@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["design", "meetup", "speaking"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at [Design + Banter](http://designandbanter.com) on Monday in London. It’s already sold out, but there’s a waiting list available for the free tickets.
 
 Nicklas Persson and Cole Peters are also speaking so I’m really chuffed to be part of a great lineup!

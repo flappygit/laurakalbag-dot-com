@@ -7,8 +7,6 @@ categories: ["Milestones"]
 tags: ["accounts", "clients", "desk space", "freelance", "scheduling", "work"]
 ---
 
-{{< oldpost >}}
-
 It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.
 
 ## Getting Started

@@ -7,8 +7,6 @@ categories: ["Personal", "Podcasts"]
 tags: ["burnout", "Geek Mental Help Week", "mental health"]
 ---
 
-{{< oldpost >}}
-
 [Last week’s episode of Unfinished Business](http://unfinished.bz/89) was a very different discussion from the usual. Andy and I talked about his fantastic idea for Geek Mental Help week (October 27th onwards) and how so many people in our industry are affected by mental health issues. I’ll definitely be writing a post for Geek Mental Help Week, and I hope you will too! I’m sure you’ll be able to find out the latest about Geek Mental Help Week from the Twitter account [@geekmentalhelp](https://twitter.com/geekmentalhelp).
 
 <p style="text-align: center;">[{{< figure class="aligncenter wp-image-4098 size-full" src="/images/2013/11/unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." width="642" height="294" >}}](http://unfinished.bz/83)</p>

@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["ampersand conference", "comic sans", "conference", "content", "context", "CSS", "CSS3", "emotion", "event", "fonts", "modular scale", "process", "readability", "responsive web design", "systems", "user experience", "web fonts"]
 ---
 
-{{< oldpost >}}
-
 I’ve tried to condense [my notes from Ampersand conference](http://laurakalbag.wpengine.com/notes-from-ampersand-conf/) into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
 
 And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!)

@@ -7,8 +7,6 @@ categories: ["Milestones"]
 tags: []
 ---
 
-{{< oldpost >}}
-
 Well, I’ve got a blog.
 
 This is **not** a promise, but I will attempt to post some stuff focussing on quality over quantity. I’m thinking some of the more useful resources I come across; probably lots on WordPress, maybe a bit on mobile design, I’ve got a rant about HTML brewing somewhere too.

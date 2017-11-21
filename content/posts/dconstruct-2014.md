@@ -7,8 +7,6 @@ categories: ["Design Issues", "Events"]
 tags: ["dConstruct", "diversity", "freedom", "privacy", "surveillance", "technology", "writeup"]
 ---
 
-{{< oldpost >}}
-
 Jeremy Keith is a master curator of brilliant talks from wonderful speakers, and Friday’s [dConstruct](http://2014.dconstruct.org/) was a great event. Gone are the days where I write long connected writeups on conference themes. I wish I had the time, and venues like the Brighton Dome are far too dark to take notes. However, I really wanted to record and share some of the thoughts I got out of dConstruct, as I think the themes are very important.
 
 ## Living with the network

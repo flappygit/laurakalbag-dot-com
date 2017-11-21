@@ -7,8 +7,6 @@ categories: ["Podcasts"]
 tags: ["business", "comfort zone", "freelancing", "myths", "photo manipulation", "social media", "speaking", "writing"]
 ---
 
-{{< oldpost >}}
-
 I was so busy last week that I forgot to post about [Unfinished Business episode 81: Do you have a dinosaur onesie?](http://unfinished.bz/81) This week, Ashley and I recorded [episode 82: Love a good pep talk](http://unfinished.bz/82).
 
 It’s been a fun few weeks. It’s been interesting how a lot of people have said that Ashley and I focused more on business-related topics than Andy’s recent episodes. That may well be the case, but it wasn’t really intentional, or because we think the podcast should be more business-focused. I love the informal, conversational style, and how (as a listener) I can keep up with the goings-on of the regular guests. There’s a lot more to business than the obvious topics.

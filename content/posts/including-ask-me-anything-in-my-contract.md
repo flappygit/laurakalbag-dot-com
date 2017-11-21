@@ -7,8 +7,6 @@ categories: ["Freelancing"]
 tags: ["clients", "contract", "freelancing"]
 ---
 
-{{< oldpost >}}
-
 At Dare conference in September, I saw [a great talk by Kevin Hoffman on “How To Rebuild Amidst Crisis.”](http://2013.dareconf.com/videos/hoffman) I loved this talk, there was so much in it, but one thing struck me as something I could carry over into my work: Kevin said he included “ask any question and I’ll answer it” in his contract.
 
 This might seem like stating the obvious at first, but really there’s nothing obvious to a client who is new to you, and your process. And this is even more true for a client who is new to having a website built, or working with web professionals for the first time. There’s no book on how to be a client, and many of us (regardless of whether we’re on the client or consultant side) can often be fearful of asking the wrong questions in case it shows us up as ignorant.

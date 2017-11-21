@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["book review", "development", "HTML5"]
 ---
 
-{{< oldpost >}}
-
 Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.
 
 [{{< figure class="aligncenter size-full wp-image-113" title="my copy of HTML5 For Web Designers" src="/images/2010/07/Screen-shot-2010-07-12-at-15.47.10.jpg" alt="my copy of HTML5 For Web Designers" width="362" height="483" >}}](/images/2010/07/Screen-shot-2010-07-12-at-15.47.10.jpg)

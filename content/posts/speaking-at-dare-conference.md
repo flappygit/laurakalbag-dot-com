@@ -7,8 +7,6 @@ categories: ["Events", "Personal"]
 tags: ["conference", "event", "honesty", "talk"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking as a ‘Breakout’ speaker at [Dare conference in September](http://2013.dareconf.com/). As soon as I saw the rumblings of this conference, I knew it was an event I wanted to attend. It’s focusing on risk, vulnerability, communication and trying to make the world a better place.
 
 Then I realised that I actually had an idea for a talk that could work for this event. I’d wanted to talk about my openness and honesty online, and how it affects my business. I was only just becoming aware of what I was doing, and writing a talk was a good way for me to dig a little bit deeper. So I wrote a proposal and my proposal was accepted.

@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["criticism", "ego", "feedback", "Twitter"]
 ---
 
-{{< oldpost >}}
-
 Oh Twitter. Yesterday was another day where I accidentally incited another riot with a poorly-worded tweet. Nobody is perfect, but it’s starting to happen with alarming frequency, and I wanted to understand *why* I keep doing this.
 
 ## The ever-present ego

@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["Digital Arts magazine", "font services", "typography", "web fonts"]
 ---
 
-{{< oldpost >}}
-
 Another fab and in-depth article from Craig Grannell on Digital Arts, this time on [Web fonts: what designers need to know in 2015](http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/). Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.
 
 [{{< figure class="aligncenter size-large wp-image-4621" src="/images/2015/02/Digital-Arts-Web-fonts-2015-1024x707.png" alt="Digital Arts - Web fonts 2015" width="1024" height="707" >}}](http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/)

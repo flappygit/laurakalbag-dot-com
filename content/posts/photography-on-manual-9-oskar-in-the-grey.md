@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 This week we’ve been looking more at natural light, and portraits with foreground detail. I took my trusty (actually incredibly unreliable) model, Oskar, out for a walk and hounded him with the camera. It was a very grey day, but with a lot of light.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4730" src="/images/2015/05/DSCF4660-small.jpg" alt="Oskar the dog amongst cow parsley plants" width="1000" height="758" caption="**Oskar in the cow parsley.** It’s much easier to get a shot in focus when the model is sitting still! I’m pleased with the depth from the different layers of cow parsley.">}}](/images/2015/05/DSCF4660-small.jpg)

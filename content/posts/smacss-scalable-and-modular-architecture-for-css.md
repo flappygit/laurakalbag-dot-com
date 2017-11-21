@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["CSS", "HTML", "preprocessors", "Sass", "semantics", "structure"]
 ---
 
-{{< oldpost >}}
-
 I bought [Jonathan Snook’s Scalable and Modular Architecture for CSS](http://smacss.com/) five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
 
 {{< figure class="aligncenter  wp-image-1252" title="SMACSS book cover" src="/images/2012/10/IMG_5259.jpg" alt="SMACSS book cover" width="925" height="890" >}}</p>

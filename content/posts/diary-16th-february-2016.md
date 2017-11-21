@@ -7,8 +7,6 @@ categories: ["ind.ie", "Personal"]
 tags: ["moving", "Sweden"]
 ---
 
-{{< oldpost >}}
-
 It’s nearly time! We’re moving to Sweden next Tuesday, and it’s currently at equal parts exciting and stressful.
 
 The storage locker in Brighton is almost empty, and we’ve stashed all our sentimental stuff—the things you want to keep, but probably aren’t worth putting in a suitcase to a foreign land—at my family’s house. We’re only taking a couple of suitcases of clothes, our work equipment, and of course Oskar. If we can squeeze Aral’s fancy Anglepoise lamp and a few nice bits of artwork into the pet transportation van, then we’ll have those along too.

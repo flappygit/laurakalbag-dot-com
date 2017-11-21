@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Freelancing", "Podcasts"]
 tags: ["clients", "design", "freelancing", "inspiration", "podcast"]
 ---
 
-{{< oldpost >}}
-
 Last Friday I was a guest for today’s [Happy Monday podcast](http://www.happymondaypodcast.com/episodes/laura-kalbag). It was great fun chatting with Josh and Sarah about design, client work and inspiration.
 
 [{{< figure class="aligncenter size-full wp-image-4033" alt="HAPPY MONDAY. A new, short-burst, industry podcast available every Monday from 7am GMT." src="/images/2013/08/happy-monday.png" width="855" height="670" >}}](http://www.happymondaypodcast.com/episodes/laura-kalbag)

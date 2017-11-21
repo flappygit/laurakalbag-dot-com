@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "meetup", "speaking"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at the very first [418:conf web meetup](http://418conf.co.uk) on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.
 
 If you’re local, you should get your ticket now. They’re free!

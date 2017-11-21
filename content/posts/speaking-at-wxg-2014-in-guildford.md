@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["conference", "design", "speaking", "WXG 2014"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at [WXG 2014 in Guildford](http://wxg.co.uk/#speakers) in September. This is exciting for me because I attended the first ever WXG a couple of years ago, and it’s about as local as a conference is going to get to my hometown, Reigate.
 
 The [tickets](http://www.eventbrite.co.uk/e/wxg-2014-tickets-9070836115) are a bargain at just £69 for early birds, and there’s already a great lineup with still more to be announced…

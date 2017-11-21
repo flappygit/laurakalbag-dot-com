@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["speaking"]
 ---
 
-{{< oldpost >}}
-
 Next month I’m speaking at [Breaking Borders](http://breakingborde.rs/). Breaking Borders is a brand new, totally free, bi-monthly event in Reading organised by my good friend, [Ben MacGowan](http://www.benmacgowan.co.uk/).
 
 The inaugural Breaking Borders event will have the lovely Steve Workman speaking about *Front-end web architectures that won’t bite you (in the ass)* and me speaking about design systems.

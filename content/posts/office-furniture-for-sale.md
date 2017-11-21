@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["Apple Display", "chair", "desk", "furniture", "selling"]
 ---
 
-{{< oldpost >}}
-
 So we’re finally moving to Sweden at the end of the month. You might remember that we [sold a lot of our stuff](http://laurakalbag.wpengine.com/book-bundles/) last summer when we left Brighton. We kept a lot of good stuff, thinking we’d relocate it with us.
 
 But now we’re moving to a small apartment in Malmö, and a beautiful furnished office in [Media Evolution City](http://www.mediaevolutioncity.se), so we are only taking the essentials. (Yes, that includes [Oskar](http://twitter.com/gigapup).)

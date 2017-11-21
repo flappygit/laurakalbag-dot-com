@@ -7,8 +7,6 @@ categories: ["Accessibility", "Writing"]
 tags: ["Accessibility For Everyone", "book"]
 ---
 
-{{< oldpost >}}
-
 After three years of work, I can finally tell you that I’ve written a book for [A Book Apart](https://abookapart.com) about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone).
 
 [{{< figure class="alignnone wp-image-4947" src="/images/2017/08/aba-cover-23_300x@2x-2.png" alt="Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering" width="300" height="464" >}}](/images/2017/08/aba-cover-23_300x@2x-2.png)

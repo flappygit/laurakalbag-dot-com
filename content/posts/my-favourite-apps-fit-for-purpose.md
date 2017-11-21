@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["Adobe", "apps", "graphics", "Illustrator", "Photoshop", "tools"]
 ---
 
-{{< oldpost >}}
-
 After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.
 
 [Tweet](https://twitter.com/laurakalbag/statuses/260750478453899264)

@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["Brighton", "dog walk", "meetup"]
 ---
 
-{{< oldpost >}}
-
 The last web talk dog walk was a success, with three of us (plus three dogs) taking in the slightly damp wilds of Sheepcote Valley. Now for the next one!
 
 I was originally planning on making them fortnightly but have already failed as I wasn’t organised enough to sort one out this week. This means the next Web talk dog walk will be:

@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["conference", "design", "event", "ideas", "learning"]
 ---
 
-{{< oldpost >}}
-
 I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.
 
 I went with a notebook and an open mind. I didn’t want to go all reverse-snob on the pretentious (something I’m generally pretty guilty of being) and be ignorant of learning when I’d paid ££s for the pleasure.

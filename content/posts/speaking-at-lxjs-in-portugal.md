@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["code of conduct", "conference", "diversity", "javascript", "speaking"]
 ---
 
-{{< oldpost >}}
-
 I’m really looking forward to October, where I get to return to Portugal to speak at [LXJS in Lisbon](http://2013.lxjs.org/).
 
 One of the reasons I jumped at the chance to speak at LXJS was their fantastic [Code of Conduct](http://2013.lxjs.org/code-of-conduct). After [hearing some](http://www.jenseninman.com/blog/13737040/speakingupitstime) [horror stories](http://www.sazzy.co.uk/2013/02/speaking-up/) [from other women speakers](http://www.sazzy.co.uk/2013/02/speaking-up/), I wish more conferences had this sort of approach. It’s friendly, not strict, and lets everybody know where they stand.

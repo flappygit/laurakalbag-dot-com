@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["business", "freelancing", "meetup", "speaking"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at [12 Devs of Winter on the 22nd January in Shoreditch](http://12devs.co.uk/events/12-devs-of-winter-2014/). Because I’ve clearly lost my mind, I’m going to be doing another new talk. This time on ‘Freelancing for the reluctant businessperson.’ I’m that reluctant businessperson, and I’m hoping to share some silly stories about all the daft things I’ve done and some of the things that have worked out just fine.
 
 For once, I’m ahead of the schedule, and tickets will be released this Wednesday 8th January at 10am.

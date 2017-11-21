@@ -7,14 +7,13 @@ categories: ["WordPress"]
 tags: ["custom post types", "template parts", "wordpress", "wordpress 3.0", "wordpress loop", "wordpress templates"]
 ---
 
-{{< oldpost >}}
-
 This post has three parts. This is part two. Visit the other parts below:
 
 * Part 1: [WordPress 3.0—Pre 3.0 and Beyond](http://laurakalbag.wpengine.com/wordpress-3-0-pre-3-and-beyond)
 * Part 3: [WordPress 3.0—Theme Development and the Design](http://laurakalbag.wpengine.com/wordpress-3-0-theme-development-and-the-design)
 
 ---
+
 
 ## Really WordPress 3.0
 
@@ -140,6 +139,7 @@ Leaving all other posts happily served by index.php. This would keep your templa
 As I’ve said before, I’m no PHP developer, but if somebody could explain the logic of this particular loop.php file to me, it’d make me feel a lot happier!
 
 ---
+
 
 This post has three parts. This is part two. Visit the other parts below:
 

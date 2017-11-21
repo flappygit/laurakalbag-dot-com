@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["design theory", "meetup", "speaking"]
 ---
 
-{{< oldpost >}}
-
 Nothing quite like a last-minute post… Tonight I’m speaking at [Untangle the Web](http://www.meetup.com/Untangling-the-Web-London/events/119203762/) at Google Campus in London. I’m doing a talk on Design Theory for the Web where I do a whistle-stop tour through designing with typography, grids and colour on the web.
 
 I also have a stinking cold so I’m going to be taking industrial quantities of Red Bull and a quarantine zone with me.

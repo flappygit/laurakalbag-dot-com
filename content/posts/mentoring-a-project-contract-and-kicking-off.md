@@ -7,8 +7,6 @@ categories: ["Freelancing", "Learning"]
 tags: ["clients", "contract", "freelancing", "mentee", "mentor", "process", "project"]
 ---
 
-{{< oldpost >}}
-
 Previous posts on the mentoring project:
 
 * [Mentoring a project: the idea](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
@@ -17,6 +15,7 @@ Previous posts on the mentoring project:
 * [Mentoring a project: the project](http://laurakalbag.wpengine.com/mentoring-the-project/ "Mentoring a project: the project")
 
 ---
+
 
 It’s been far too long since I wrote about the mentoring project. I’ve been incredibly busy and really needed to dedicate more time to make it a success (more about that in another post!)
 

@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["'design eye'", "bathcamp", "colour", "contrast", "CSS", "design", "fonts", "gradients", "grids", "icons", "imagery", "layout", "light", "noise", "shadows", "talk", "textures"]
 ---
 
-{{< oldpost >}}
-
 This little post is based around the talk I gave at Bathcamp. [Rich Quick](http://twitter.com/richquick) came up with the great idea that, whilst [Bathcamp](http://bathcamp.org) attendees are mostly developers, a talk on design for developers was probably appropriate.
 
 And you might have seen on [my post from last week](http://laurakalbag.wpengine.com/bathcamp-plea-for-bad-designs-by-developers/), I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.

@@ -7,8 +7,6 @@ categories: ["Design", "Tools"]
 tags: ["dreams", "hardware", "inspiration", "software"]
 ---
 
-{{< oldpost >}}
-
 A few weeks ago [I answered some questions](http://workspiration.org/laura-kalbag) for [Workspiration](http://workspiration.org) on my hardware and software setup, inspiration and dreams.
 
 Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!

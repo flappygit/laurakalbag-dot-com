@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: []
 ---
 
-{{< oldpost >}}
-
 I’ve got a talk for [Bathcamp 2010](http://bathcamp.org) in the works! Thanks to the ever-helpful [Rich Quick](http://twitter.com/richquick) for the idea, I’m going to do a talk on **Design Tips for Developers**.
 
 However, alongside a bit of time, effort and available slot on the day, this is subject to some help from a kind developer. I’m looking for a bad design created by a developer to use as a case study.

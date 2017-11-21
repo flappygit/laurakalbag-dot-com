@@ -7,8 +7,6 @@ categories: ["Design", "Learning"]
 tags: ["app design", "apps", "Bardowl", "designer-developer", "honesty", "transparency", "working for free"]
 ---
 
-{{< oldpost >}}
-
 For the last few years, I’ve been working with a great team of people on [our iPhone app](https://itunes.apple.com/app/bardowl/id492667930?ls=1&amp;mt=8), [Bardowl](http://bardowl.com), an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)
 
 It’s not been a quick and easy. Getting publishers to come round to the idea, and securing good audiobooks, has been a lengthy process but we’ve been lucky to have people who really know what they’re talking about behind the scenes. Our [CEO, Chris Book](http://twitter.com/bookmeister) and [CTO, Neil Chapman](http://twitter.com/neilp33l), have bootstrapped the business and have worked incredibly hard, taking a big risk, because they really believe in bringing good audiobooks to the iPhone without massive subscription costs or limited listening choices. They’re the reason I was first interested in being involved, and the reason I’ve stuck at it for so long.

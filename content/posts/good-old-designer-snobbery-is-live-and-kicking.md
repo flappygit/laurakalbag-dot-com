@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["critiques", "design", "designers", "Dribbble", "logo design"]
 ---
 
-{{< oldpost >}}
-
 There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”
 
 These are comments I’m 100% guilty of saying, but I think the problem is the outlet. If it’s a quick chatter between friends then there’s not much lost except making yourself look like a bit of an arse, but start broadcasting these harsh judgements to the world and you’ll rapidly give the impression of a big ego, huge mouth and tiny brain.

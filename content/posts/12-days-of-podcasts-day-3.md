@@ -7,8 +7,6 @@ categories: ["Accessibility"]
 tags: ["#GAAD", "accessibility", "aesthetics", "constraints", "design", "Global Accessibility Awareness Day"]
 ---
 
-{{< oldpost >}}
-
 On Thursday morning I gave a talk online for [Inclusive Design 24](http://www.inclusivedesign24.org), a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
 
 [{{< figure class="aligncenter size-full wp-image-4690" src="/images/2015/05/Accessibility-By-Design.001.jpg" alt="Accessibility By Design. Laura Kalbag @laurakalbag. Ind.ie @indie" width="1024" height="768" >}}](/images/2015/05/Accessibility-By-Design.001.jpg)

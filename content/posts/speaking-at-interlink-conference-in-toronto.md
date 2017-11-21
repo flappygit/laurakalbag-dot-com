@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conferences", "speaking", "travel"]
 ---
 
-{{< oldpost >}}
-
 *Sadly, [Interlink conference has been cancelled](http://interlinkconference.com" title="The End of Interlink). I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.*
 
 <hr/>

@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues", "Development"]
 tags: ["browser windows", "clients", "communication", "language", "responsive design", "screen sizes"]
 ---
 
-{{< oldpost >}}
-
 In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.
 
 ## “Devices”

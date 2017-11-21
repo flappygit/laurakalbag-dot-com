@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["CSS3", "Five Simple Steps", "Hardboiled Web Design", "HTML5", "iBooks", "microformats", "Transcending CSS"]
 ---
 
-{{< oldpost >}}
-
 ## My history with Transcending CSS
 
 In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading [Web Standards Solutions](http://www.amazon.co.uk/gp/product/1430219203?ie=UTF8&amp;tag=laurkalb-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1430219203).

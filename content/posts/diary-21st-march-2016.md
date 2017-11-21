@@ -7,8 +7,6 @@ categories: ["Accessibility", "ind.ie", "Personal"]
 tags: ["ethical design manifesto", "moving", "speaking", "subtitles", "Sweden", "video"]
 ---
 
-{{< oldpost >}}
-
 It’s been a busy few weeks.
 
 ## Ethical Design Manifesto refresh

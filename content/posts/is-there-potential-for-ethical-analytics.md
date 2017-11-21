@@ -7,8 +7,6 @@ categories: ["Design Issues"]
 tags: ["analytics", "design ethics", "ethics", "forum", "Ind.ie"]
 ---
 
-{{< oldpost >}}
-
 We have [Piwik analytics](https://forum.ind.ie/t/piwik-alternative-for-analytics/627) on the [Ind.ie site](https://ind.ie/), and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use [Ghostery](https://www.ghostery.com/en/) so I actually block analytics like this for my own use.
 
 As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:

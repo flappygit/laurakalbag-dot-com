@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing", "ind.ie", "Learning"]
 tags: ["A List Apart", "client work", "command line", "design", "development", "Git", "learning"]
 ---
 
-{{< oldpost >}}
-
 Last week [my latest column, Breaking Stuff](http://alistapart.com/column/breaking-stuff), was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at [ind.ie](https://ind.ie), so I think I’ll be writing more about situations like these as time goes on.
 
 I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)

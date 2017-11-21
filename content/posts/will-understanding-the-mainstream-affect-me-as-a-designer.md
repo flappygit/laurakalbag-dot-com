@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues", "Usability"]
 tags: ["design patterns", "Facebook", "Google Chrome", "mainstream", "research", "users"]
 ---
 
-{{< oldpost >}}
-
 I’ve been contemplating how designers can identify better with more mainstream users.
 
 I had a thought last week. What if, by rejecting Facebook, I’m actually missing out on design patterns that are so influential on the mainstream user that it affects their perception on the rest of the web?
@@ -23,6 +21,7 @@ Well I think I’m going to try being more of a mainstream user. I want to under
 
 I’d say I’ll post in a month’s time and write about whether I’ve noticed a change, but I’m not sure it’ll be as conscious as that. We’ll have to wait and see…
 ---
+
 
 Note: throughout this post I keep saying ‘mainstream.’ This is because I feel that ‘average’ or ‘normal’ aren’t really the right words. I’m trying to talk about that majority of users who are consumers, rather than makers or builders, of the web.
 

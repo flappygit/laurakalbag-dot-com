@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["Geek Mental Help Week"]
 ---
 
-{{< oldpost >}}
-
 *Last night I had a dream, or maybe a nightmare. I was in a ballet class in a church hall, learning all kinds of complicated and not-really-ballet dance sequences. The class was busy, we were all in clumsy rows. We were a diverse group of dancers in our everyday clothes. It was the same church hall I did most of my ballet classes in when I was younger, with lots of wood panelling, and stacked plastic chairs in place of a barre. The left side of the hall was a folding wall painted pale green. One of the folds was open into the side room, to allow latecomers and visitors in and out of the room. Lots of people were coming and going through the door.*
 
 *During a particularly tricky piece of choreography, I absent-mindedly looked over to the side door and saw my mum standing in the doorway, watching and smiling. I hurried through the pack of dancers to get to her, but she turned and walked away, exiting the side room door into the carpark. I chased her, and called out to her, “Mummy!” She turned around smiling at me, standing there in the car park. I went to give her a hug, there was nothing more that I wanted in the world than to just give her a hug. But before I could get to her, she put her hands up and gestured for me to stay away. “You’re all sweaty. It’s not good for me. Not right now.”*

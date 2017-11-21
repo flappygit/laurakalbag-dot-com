@@ -7,8 +7,6 @@ categories: ["Events", "Freelancing"]
 tags: ["agencies", "clients", "feedback", "freelancing", "getting started", "location", "podcast", "subcontractor"]
 ---
 
-{{< oldpost >}}
-
 Last Friday I was a [guest co-host on Unfinished Business](http://unfinished.bz/19) again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.
 
 I’m a massive fan of Unfinished Business and listen to every episode so it was a real treat to go back again. Thank you for inviting me, Andy!

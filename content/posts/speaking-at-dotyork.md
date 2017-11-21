@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "talk"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at [DotYork conference](http://dotyork.com) in York on the 1st of May. My friend Jonic is one of the organisers, and with the thought and love that they’re putting into the event, it’s got to be fantastic.
 
 It’ll be my first time in York, so I’m looking forward to seeing the sights and feeling incredibly Southern. You should join me! Early bird tickets are coming out soon, so why not [go over to the DotYork website](http://dotyork.com) and sign up to be the first to hear when tickets are available.

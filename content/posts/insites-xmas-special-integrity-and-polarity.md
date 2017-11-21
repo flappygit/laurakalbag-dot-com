@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "honesty", "integrity", "polarity", "politics", "sharing"]
 ---
 
-{{< oldpost >}}
-
 Yesterday was [Insites: The Xmas Special](http://viewportindustries.com/events/insites-the-xmas-special/), a brilliant event put on by the lovely [Keir Whitaker](http://twitter.com/keirwhitaker) and [Elliot Jay Stocks](https://twitter.com/elliotjaystocks). After being well fed, everybody in the room gave a six minute(ish) talk about something they’ve learned in 2012.
 
 It was a personal, open and incredibly meaningful set of talks. There were no slides, and nobody in the room was sat behind a laptop or Twitter. The conversations that ensued afterwards were greater than anything you’d get at any big conference. We had all shared our experiences equally and honestly. As [Rachel Andrew](http://twitter.com/rachelandrew) put so well, it was almost group therapy.

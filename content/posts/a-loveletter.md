@@ -7,11 +7,10 @@ categories: ["Personal"]
 tags: []
 ---
 
-{{< oldpost >}}
-
 
 <p style="opacity: 0.9; font-style:italic;">Note: I wrote this a while ago when I was thinking about the things that made me want to work on the web. Of course, it’s not exclusively women that inspire me, but as a girl who continually questions the value she is bringing to a project, I often find the women of the web had the greatest effect on my self assurance. I wrote this in my notebook in a fit of fury&nbsp;after witnessing some upsetting trolling towards a couple of women on Twitter.</p>
 ---
+
 
 To the women of the web (and those who support them),
 

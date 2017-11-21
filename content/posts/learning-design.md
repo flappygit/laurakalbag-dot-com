@@ -7,8 +7,6 @@ categories: ["Design", "Learning"]
 tags: ["books", "design", "designers", "education", "grids", "learning", "learning design", "Twitter", "user experience"]
 ---
 
-{{< oldpost >}}
-
 Every now and again someone will email me asking how they should go about learning design. After reading [Aral Balkan’s fantastic post](http://aralbalkan.com/notes/design-is-not-veneer/) on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
 
 First off, read [Aral’s post](http://aralbalkan.com/notes/design-is-not-veneer/). It might seem intimidating. Aral emphasises the importance of considering every tiny design decision you make. There’s no easy-in. But really there’s no easy-in to doing anything well. Development might appear to be something with a low barrier to entry, but in order to do development with web standards, or to any level of efficiency, you need to take the time to learn the best techniques and working processes.

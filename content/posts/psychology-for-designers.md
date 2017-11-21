@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["book", "cognitive psychology", "Five Simple Steps", "pocket guides", "psychology", "social psychology"]
 ---
 
-{{< oldpost >}}
-
 This week I went all out and bought all the currently-released [Five Simple Steps](http://www.fivesimplesteps.com) [Pocket Guide digital books](http://www.fivesimplesteps.com/products/pocket-guides-collection-one). I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
 
 [{{< figure class="aligncenter size-full wp-image-3185" alt="Psychology for designers by Joe Leech" src="/images/2013/04/psychology-for-designers-cover.png" width="600" height="395" >}}](/images/2013/04/psychology-for-designers-cover.png)

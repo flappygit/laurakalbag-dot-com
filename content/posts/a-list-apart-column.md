@@ -1,5 +1,6 @@
 ---
 
+
 title: "A List Apart column and first post on Good Designers, Good Clients"
 draft: true
 colours: ["#cc7d33", "#6e6e6e", "#e0983e", "#4a4a4a", "#e3e3e3", "#212121", "#ffffff"]
@@ -7,8 +8,6 @@ date: 2013-08-30T09:00:54+00:00
 categories: ["Design", "Milestones"]
 tags: ["clients", "designers", "freelance", "process", "writing"]
 ---
-
-{{< oldpost >}}
 
 This week the [first post was published on my A List Apart column](http://alistapart.com/column/good-designers-good-clients). It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.
 

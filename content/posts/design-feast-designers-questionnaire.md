@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["clients", "design", "ego", "questionnaire"]
 ---
 
-{{< oldpost >}}
-
 Design Feast have my answers to their Designer’s Quest(ionnaire) on their site.
 
 Scroll past the scarily large photo of me quickly… their questions prompted me to think about some interesting points, especially challenges for designers:

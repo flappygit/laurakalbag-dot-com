@@ -7,8 +7,6 @@ categories: ["Personal", "Tools"]
 tags: ["work", "workplace", "workspace"]
 ---
 
-{{< oldpost >}}
-
 This morning Martin Wolf published an interesting [blog post with photos of the “workplaces of web professionals”](http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/). I always wonder if people really are *that* tidy, or if they spent a while clearing up before they took the photo.
 
 The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.

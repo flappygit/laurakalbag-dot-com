@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["image capture", "inspiration", "zootool"]
 ---
 
-{{< oldpost >}}
-
 Since I started using [Zootool](http://zootool.com/ "Zootool") in March I’ve been totally addicted.
 
 I’d been looking for a scrapbook-style app, to stash all the inspiration I find, for a while. On cool sites like [Dribbble](http://dribbble.com/), [Drawar](http://www.drawar.com/), [FFFFound](http://ffffound.com/) and all over the web, I’m always finding pretty things I’d like to keep and use when I’m designing later on.
@@ -33,9 +31,11 @@ Zootool also has special versions for iPhone and iPad (though for some reason I 
 
 ---
 
+
 Note: I was really lucky to meet [Bastian Allgeier](http://twitter.com/bastianallgeier "Bastian Allgeier on Twitter"), the creator of Zootool, at Future Of Web Design this year and tell him how much I love it, and great to see his hard work acknowledged by [Jon Hicks](http://hicksdesign.co.uk/ "Hicksdesign design partnership") on stage.
 
 ---
+
 
 <span id="asterisk">* I keep the ad-supported version of [Tweetie](http://www.atebits.com/tweetie-iphone/) for this reason, the ads are usually for top-quality, useful products.</span>
 

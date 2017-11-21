@@ -7,8 +7,6 @@ categories: ["Markup"]
 tags: ["accessibility", "clients", "control", "development", "frameworks", "grids"]
 ---
 
-{{< oldpost >}}
-
 I’ve written [a post for 12 Devs of Xmas on Grid Frameworks](http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks).
 
 After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.

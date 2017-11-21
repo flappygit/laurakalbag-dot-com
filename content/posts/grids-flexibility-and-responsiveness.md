@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["base units", "choosing typefaces", "columns", "content-first", "grids", "responsive web design"]
 ---
 
-{{< oldpost >}}
-
 ## First steps: choosing a typeface
 
 The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?!) before completely falling for Avenir. [Avenir was only available (with the delivery method I preferred) as a web font from fonts.com](http://www.fonts.com/font/linotype/avenir?QueryFontType=Web "Avenir web font on fonts.com") so that made choosing the font service much easier.

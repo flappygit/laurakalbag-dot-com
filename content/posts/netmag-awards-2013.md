@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["happy"]
 ---
 
-{{< oldpost >}}
-
 Last Friday, this happened. I really didn’t expect it; I tripped over on the way up to the stage and mumbled through a thank you while the microphone was mostly switched off. Despite being clumsy and totally inarticulate, I was delighted. It didn’t just make my day, it made my year :)
 
 [{{< figure class="aligncenter size-full wp-image-3329" alt=".net award 2013 Winner, Brilliant Newcomer" src="/images/2013/06/award.jpg" width="900" height="643" >}}](/images/2013/06/award.jpg)

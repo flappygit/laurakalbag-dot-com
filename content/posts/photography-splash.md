@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 The first exercise we’ve been given is to capture a splash in a cup…
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4663" src="/images/2015/05/DSCF3495-small.jpg" alt="Tea splashing out of a mug on the kitchen floor" width="1500" height="1000" caption="**First splash.** My kitchen is in a basement, so it’s a little bit dark. Even with the ISO jacked all the way up, this was the lightest I could get with the fastest possible shutter speed.">}}](/images/2015/05/DSCF3495-small.jpg)

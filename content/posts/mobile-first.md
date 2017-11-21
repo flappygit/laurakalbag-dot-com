@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["design", "devices", "mobile", "native vs web", "UI"]
 ---
 
-{{< oldpost >}}
-
 Continuing on with my chapter-a-day, last week I finished reading the brilliant [Mobile First](http://www.abookapart.com/products/mobile-first "Mobile First on A Book Apart") by Luke Wroblewski.
 
 <p style="text-align: center;">{{< figure class="aligncenter size-full wp-image-513" title="Mobile First by Luke Wroblewski" src="/images/2011/12/mobile-first.jpg" alt="Mobile First by Luke Wroblewski" width="480" height="642" >}}</p>

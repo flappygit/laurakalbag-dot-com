@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["drafts", "Dribbble", "feedback", "Forrst", "logo design", "process", "project"]
 ---
 
-{{< oldpost >}}
-
 A couple of weeks ago I created a quickie logo for Andy Warburton’s mobile stock photography service Stockyoo. Andy was really keen on the idea of using [Forrst](http://forrst.com) and [Dribbble](http://dribbble.com) for posting the progress of the project to get the opinions of potential users of a stock photography service and do some early promo for Stockyoo itself.
 
 ## Dribbble and Forrst
@@ -122,6 +120,7 @@ I’d like to try using Dribbble and Forrst for feedback on a longer-term projec
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-229" title="The final Stockyoo logo" src="/images/2010/09/Screen-shot-2010-09-14-at-19.55.54.png" alt="The final Stockyoo logo" width="594" height="175" caption="The final Stockyoo logo">}}](/images/2010/09/Screen-shot-2010-09-14-at-19.55.54.png)
 ---
+
 
 *By the way, if anybody could give me guidance on the proper pronunciation of ‘Forrst’, I’d really appreciate it. I can’t say it aloud without sounding ridiculous.*
 

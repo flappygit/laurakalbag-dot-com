@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["augmented reality", "conference", "dConstruct", "digital history", "digital past", "digital products", "emotion", "empowering users", "memories", "narratives", "possessions", "systems", "technology", "user experience"]
 ---
 
-{{< oldpost >}}
-
 It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.
 
 The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.

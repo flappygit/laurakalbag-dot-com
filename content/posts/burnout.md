@@ -7,8 +7,6 @@ categories: ["Freelancing", "Personal"]
 tags: ["burnout", "freelancing", "health"]
 ---
 
-{{< oldpost >}}
-
 Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you *want* to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.
 
 I’m burned out. The last couple of months have really taken their toll. I tend to always be on top of my work schedule, ensuring I don’t work late into the evenings or weekends on client work, as I know I need time away from the screen to spend on my social life and my health. However, due to some client work getting out of hand, over-optimism with scheduling, and a talk at Responsive Day Out (speaking is always exhausting), I got through the mad rush and just couldn’t do *any more*.

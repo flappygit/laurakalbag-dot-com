@@ -7,8 +7,6 @@ categories: ["Markup"]
 tags: ["CSS", "markup", "preprocessors", "Sass"]
 ---
 
-{{< oldpost >}}
-
 Despite saying that I wanted to avoid writing post about development, I wanted to write something about [Sass](http://sass-lang.com/).
 
 ### Excuse me, what is Sass?

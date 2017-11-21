@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["code", "javascript", "learning", "programming", "workshop"]
 ---
 
-{{< oldpost >}}
-
 
 ## Programming block
 

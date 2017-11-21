@@ -7,8 +7,6 @@ categories: ["Personal", "Writing"]
 tags: ["editing", "stories", "The Pastry Box", "thinking", "writing"]
 ---
 
-{{< oldpost >}}
-
 I was slow to post about[ my April Pastry Box post](https://the-pastry-box-project.net/laura-kalbag/2014-april-19) as [my realign](http://laurakalbag.wpengine.com/a-little-realign/ "A little realign") got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.
 
 <p style="text-align: center;">[{{< figure class="aligncenter size-full wp-image-4466" alt="Laura Kalbag on The Pastry Box, Saturday 19th April 2014" src="/images/2014/05/pastry-box-april.png" width="720" height="535" >}}](https://the-pastry-box-project.net/laura-kalbag/2014-april-19)</p>

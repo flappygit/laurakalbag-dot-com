@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["conference", "design", "speaking", "WXG 2014"]
 ---
 
-{{< oldpost >}}
-
 You might have seen that I’m speaking at WXG in Guildford in September. If you didn’t already get a ticket, you might want to use my discount code of **kalbagWXG** to get £10 off the (already very affordable £99) ticket price.
 
 There’s some great speakers in the lineup, and it’s sure to be a fun day!

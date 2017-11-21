@@ -7,8 +7,6 @@ categories: ["Usability"]
 tags: ["back button", "links", "mobile browsers", "tabs", "usability", "users", "windows"]
 ---
 
-{{< oldpost >}}
-
 I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
 
 I understand their concern. *I really do*. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.
@@ -37,6 +35,7 @@ Some mobile browsers may just ignore your ‘Open in New Window’ suggestion as
 Please be considerate of your users, and don’t treat them like they don’t know what they’re doing. For those that *really* don’t know what they’re doing, keep it simple. If users remember yours as the site that was easy to use, that’s going to make you a lot more popular than forcing them to look at your content ever will.
 
 ---
+
 
 Some other handy articles I found on this subject:
 

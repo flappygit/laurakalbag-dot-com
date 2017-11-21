@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Podcasts"]
 tags: ["inspiration", "mockups", "process", "sketching", "working process"]
 ---
 
-{{< oldpost >}}
-
 Yesterday the [first episode](http://www.beyondink.co.uk/shows/01-laura-and-simon) of [the Beyond Ink podcast](http://www.beyondink.co.uk) went live. This was a podcast that Rachel had in the works for a while, and we first recorded together a few months ago. Last week we re-recorded that episode, so everything was up-to-date, and I had a fancy new microphone so I didn’t sound as terrible as I did [on the last Unfinished Business](http://laurakalbag.wpengine.com/unfinished-business-44/ "Unfinished Business #44").
 
 Rachel and I chatted about process, the type of work we like to do and inspiration, amongst other things. I think this will shape up to be a great podcast for insights into different designer’s working processes.

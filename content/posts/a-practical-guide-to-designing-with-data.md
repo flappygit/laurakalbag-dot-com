@@ -7,8 +7,6 @@ categories: ["Design", "Reviews"]
 tags: ["book", "Designing with data", "Five Simple Steps"]
 ---
 
-{{< oldpost >}}
-
 Another ubelly post from me, this time a review. Much like [my](http://laurakalbag.wpengine.com/mobile-first/ "Mobile First") [other](http://laurakalbag.wpengine.com/designing-for-emotion/ "Designing For Emotion") [reviews](http://laurakalbag.wpengine.com/a-practical-guide-to-designing-the-invisible/ "A Practical Guide to Designing the invisible") [of](http://laurakalbag.wpengine.com/hardboiled-web-design-and-transcending-css/ "Hardboiled Web Design and Transcending CSS") [books on this blog](http://laurakalbag.wpengine.com/category/reviews/), just in another location!
 
 [A Practical Guide to Designing with Data](http://www.ubelly.com/2012/07/a-practical-guide-to-designing-with-data-a-review/)

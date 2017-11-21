@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 The last few days have brought a very miscellaneous collection of photos.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4737" src="/images/2015/05/DSCF4833-small.jpg" alt="A Rama figurine, standing in pebbles on Brighton beach" width="1500" height="1000" caption="**Rama on the beach.** I was out trying to get the sea and the pier, but the weather was grim, and I found this little figure instead. I think it might be Rama, but I might be wrong…">}}](/images/2015/05/DSCF4833-small.jpg)

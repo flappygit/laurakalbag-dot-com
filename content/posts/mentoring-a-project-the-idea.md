@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing", "Learning"]
 tags: ["freelancing", "inspiration", "mentor", "students"]
 ---
 
-{{< oldpost >}}
-
 A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.
 
 ## Me and freelancing

@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["Brighton", "dog walk", "meetup"]
 ---
 
-{{< oldpost >}}
-
 I walk my dog Oskar every day, no matter what the weather. And usually it’s just him and me. So I’ve got this idea. A “web talk dog walk” where a group of us from the Brighton area can meet on a regular basis (probably fortnightly, maybe monthly) to walk dogs and chat about the web. Do you want to join us?
 
 ## The first walk is 9am this Wednesday 12th June 2013

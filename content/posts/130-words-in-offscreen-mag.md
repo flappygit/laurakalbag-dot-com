@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: []
 ---
 
-{{< oldpost >}}
-
 I’m slightly behind on my posts, but I wanted to share my contribution in the latest edition of [Offscreen Magazine](http://www.offscreenmag.com). Offscreen is a beautiful, printed, independent magazine about the “People behind Bits and Pixels.” I contributed 130 words to Issue 10 on getting into a creative mindset.
 
 You can [buy a copy, or get a subscription to Offscreen by visiting their website](http://www.offscreenmag.com/buy/).

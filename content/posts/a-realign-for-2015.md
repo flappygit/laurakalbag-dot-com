@@ -7,8 +7,6 @@ categories: ["Design", "Milestones"]
 tags: ["accessibility", "colour", "design"]
 ---
 
-{{< oldpost >}}
-
 Almost a year after [last year’s realign](http://laurakalbag.wpengine.com/a-little-realign/ "A little realign"), I’ve made some more tweaks to my site. There were a few reasons behind it:
 
 * I’m not freelance anymore, so I don’t need the focus on my portfolio

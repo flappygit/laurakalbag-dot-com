@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues", "Tools"]
 tags: ["Fonts.com", "mockups", "typography", "web fonts"]
 ---
 
-{{< oldpost >}}
-
 I do like the way that [fonts.com](http://www.fonts.com/) do web fonts. (*I also like all of the web font services for different reasons and different projects.*)
 
 ## Mockup fonts

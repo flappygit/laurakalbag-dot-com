@@ -7,8 +7,6 @@ categories: ["Design", "Reviews"]
 tags: ["ideas", "Leuchtturm1917", "Moleskine", "notebooks", "sketching", "stationery", "wireframes"]
 ---
 
-{{< oldpost >}}
-
 I’m a notebook and sketchbook-aholic. Actually I’m addicted to stationery of any kind. Pens, pencils, post-it notes. It’s incredibly easy to convince myself I need these items when I mostly don’t.
 
 Notebooks and sketchbooks (and maybe some nice accompanying pens), however, are an *absolutely vital* part of my working life.

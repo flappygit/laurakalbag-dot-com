@@ -7,8 +7,6 @@ categories: ["Design", "Development", "Events"]
 tags: ["approach", "asset fonts", "attitude", "breakpoints", "capabilities", "comfortable", "communication", "content", "CSS", "devices", "features", "flexbox", "fluid", "HTML", "images", "inputs", "layout", "markup", "navigation", "performance", "prefixes", "process", "responsive", "Responsive Day Out", "responsive web design", "screens", "typography", "viewports", "web fonts"]
 ---
 
-{{< oldpost >}}
-
 <em style="opacity: 0.9;">A month ago I spoke at [Responsive Day Out](http://responsiveconf.com/), an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to [Jeremy Keith](http://adactio.com) when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.</em>
 
 <em style="opacity: 0.9;">After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since ([you can listen to them here](http://responsiveconf.com/), or [watch them on BeSquare](http://www.besquare.me/conferences/responsive-day-out/)), I’ve joined a lot of dots in my head. I had intended to publish this writeup just a few days after the event, but [burnout](http://laurakalbag.wpengine.com/burnout/ "Burnout") and a whole lot of client work got on top of me.</em>
@@ -16,6 +14,7 @@ tags: ["approach", "asset fonts", "attitude", "breakpoints", "capabilities", "co
 <em style="opacity: 0.9;">Even though it’s a month later, I still wanted to share all of these great things I learned on that day. This writeup has now become a writeup-reflection. Do I still feel excited by these things a month later? How did these talks affect my work over the next month?</em>
 
 ---
+
 
 ## The hugeness that is Responsive Web Design
 
@@ -245,6 +244,7 @@ Mark Boulton ended the day on the point that we need to stop trying to be comfor
 This feeling of uncertainty is here for good, and it’s a valuable part of ensuring we make our sites better for those unpredictable situations.
 
 ---
+
 
 ## Related reading
 

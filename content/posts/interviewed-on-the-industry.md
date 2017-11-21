@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing"]
 tags: []
 ---
 
-{{< oldpost >}}
-
 Last week I had a chat with the lovely Conor O’Driscoll and last night he [published the interview on The Industry](http://theindustry.cc/2013/03/13/an-interview-with-laura-kalbag/). We talking about design work, education and what I define as success, among other things.
 
 {{< figure class="aligncenter size-full wp-image-2605" alt="The Industry" src="/images/2013/03/the-industry.png" width="740" height="165" >}}

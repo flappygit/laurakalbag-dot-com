@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["@font-face", "CSS", "Font Squirrel", "fonts", "Fonts.com", "Fontshop", "Google Web Fonts", "typekit"]
 ---
 
-{{< oldpost >}}
-
 I’ve got a new infatuation; web fonts. Since the second I heard about [Typekit](http://typekit.com) (and [Fontdeck](http://fontdeck.com/)) last year I’ve been giddy with excitement about being able to use more fonts on the web. [Georgia](http://en.wikipedia.org/wiki/Georgia_font "Georgia on Wikipedia") just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.
 
 ## @font-face and Font Squirrel

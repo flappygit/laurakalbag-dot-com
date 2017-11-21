@@ -7,8 +7,6 @@ categories: ["Freelancing", "Podcasts", "Reviews"]
 tags: ["business", "freelancing", "podcast", "Unfinished Business"]
 ---
 
-{{< oldpost >}}
-
 I know, this is a funny topic on which to base a blog post but I love the [Unfinished Business podcast](http://unfinished.bz/), and I’d like to elaborate why in something more than a few [fawning tweets](https://twitter.com/laurakalbag/status/306038603950198785).
 
 ## Business, but not suits

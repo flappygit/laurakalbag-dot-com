@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Learning"]
 tags: ["design", "learning design", "workshop"]
 ---
 
-{{< oldpost >}}
-
 Here’s a slightly scary thing: I’m doing [my first solo workshop on the 11th October 2013 in Barnsley](http://makedo.in/design-theory-for-the-web/).
 
 I often get asked about the best way to “learn design”, and I usually say that you learn by doing and you learn by watching how others do it. In this workshop, I want to give new designers, developers, and anybody else wanting to learn how to design for the web, a good foundation with five primers, a bit of doing and a bit of watching.

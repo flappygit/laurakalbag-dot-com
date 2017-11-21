@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues"]
 tags: ["aspiring", "design", "ethical design", "impact"]
 ---
 
-{{< oldpost >}}
-
 I was just asked, amongst a couple of other questions, what advice I would give to aspiring designers or typographers.
 
 With my mind focused on the aspiration part, I started writing an answer based on finding your own way of working through studying others, not copying… And then I realised it was a bit *superficial*. What’s the biggest problem with young designers today? They’re coin-operated[\*](#coin-operated). So I wrote what I hope is slightly better advice:

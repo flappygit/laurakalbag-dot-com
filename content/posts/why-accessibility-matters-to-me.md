@@ -7,8 +7,6 @@ categories: ["Accessibility", "Design", "Usability"]
 tags: ["#GAAD", "accessibility", "learning"]
 ---
 
-{{< oldpost >}}
-
 The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an *essential* part of the nature of the web.
 
 ## How I learned accessibility
@@ -20,6 +18,7 @@ When I started to learn about web design and development, I learned from great b
 Nowadays when developers talk about modern web development techniques, they most often mention the impact they may have on web performance. Considering performance during each step of a project makes sense as bandwidth and battery life are uncertain commodities. However, I’d really like the community to start talking (again) about accessibility in the same way they talk about web performance. We need to change the minds of people who think that accessibility doesn’t make business sense, and I want the web to be a better place to visit for a wider range of people.
 
 ---
+
 
 I’ve written this little post as part of [Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org) (#GAAD). Thanks to Neil Milliken and his [fantastic post on designing for accessibility](http://atrophiedmind.wordpress.com/2014/05/15/design-choice-is-more-than-just-about-taste-its-an-accessibility-issue/) for the heads-up. If you want to find out more about accessibility, there’s a [24 hour Inclusive Design community conference](http://inclusivedesign24.org) happening online right now (Thanks to [Bruce Lawson](http://twitter.com/brucel) for tweeting so much about it!)
 

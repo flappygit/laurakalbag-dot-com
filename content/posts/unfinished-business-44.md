@@ -7,8 +7,6 @@ categories: ["Podcasts"]
 tags: ["business", "client work", "freelancing", "podcast", "Unfinished Business", "workshops"]
 ---
 
-{{< oldpost >}}
-
 [Last week I was on Unfinished Business again](http://unfinished.bz/44)! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…
 
 I’m also going to be on Unfinished Business more regularly. I always have fun chatting to Andy, and it’s a great excuse to pick his more experienced brains about business stuff.

@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["addiction", "caffeine", "health"]
 ---
 
-{{< oldpost >}}
-
 Using a Fitbit over the last year and a half has taught me that making your habits more visible in public makes you more likely to work harder. When you’re giving up a bad habit, often there’s not much stopping us from slipping back into the bad habits. So I am writing here, on Tuesday 27th August 2013 that <i>I am giving up Red Bull</i>.
 
 <b>It sounds ridiculous, but I have a problem</b>

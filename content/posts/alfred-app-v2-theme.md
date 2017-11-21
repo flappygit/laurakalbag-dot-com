@@ -7,8 +7,6 @@ categories: ["Design", "Tools"]
 tags: ["OSX", "procrastinating", "theme", "tools"]
 ---
 
-{{< oldpost >}}
-
 Today I finally got around to playing with [Alfred v2](http://www.alfredapp.com/). This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
 
 I was playing around with the appearance and made a really minimal theme. There was a handy sharing feature so I thought I may as well share it…

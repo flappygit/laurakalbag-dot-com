@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues", "Pet Hates"]
 tags: ["aesthetic", "design", "designer", "flat", "trend"]
 ---
 
-{{< oldpost >}}
-
 I’m about to apply a mute filter to the word “flat” on Twitter. That or start unfollowing *a lot* of people.
 
 ## What’s flat?
@@ -30,6 +28,7 @@ There will be a decision and a reason behind choosing that aesthetic. It will be
 And I’m sure that decisions made by 99.99% of designers will not have been “I’ll use the flat design trend.”
 
 ---
+
 
 <h3 style="opacity: .8;">*Notes:*</h3>
 <p style="opacity: .8;">*This post was inspired by the many people on Twitter criticising Apple for “following the flat design trend” (and the many variants on that comment) with their iOS7 interface design. I’m trying not to be snotty when I say this, but I’m reserving judgement until I’ve had a device running iOS7 in my hands for a few days.*</p>

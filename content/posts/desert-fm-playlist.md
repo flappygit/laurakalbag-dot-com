@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["family", "music", "playlist"]
 ---
 
-{{< oldpost >}}
-
 A few weeks ago I was asked to create a [playlist of ten songs for Desert.fm](http://www.desert.fm/laura-kalbag.html). Nate, Bobby and Jamie sent me an email with the premise:
 
 > Our idea is to to add value to digital playlists through personal stories and inspirational music. We’re totally genre agnostic and we don’t judge (honest!), we can find inspiration in the most unlikely of places sometimes, so we encourage our curators not to hold back. If theres a story to it we want to hear it.

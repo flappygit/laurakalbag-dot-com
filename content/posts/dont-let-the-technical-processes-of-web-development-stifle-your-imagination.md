@@ -7,8 +7,6 @@ categories: ["Design", "Design Issues"]
 tags: ["creativity", "in-browser", "process", "workflow"]
 ---
 
-{{< oldpost >}}
-
 A new post from me, [this time at .net magazine. Keep it creative!](http://www.netmagazine.com/opinions/keep-it-creative "Keep it Creative! by Laura Kalbag on .net magazine") There’s some pretty cool comments over there too.
 
 	

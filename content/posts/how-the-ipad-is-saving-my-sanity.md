@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["App Store", "App Stream", "Crop Suey", "iBooks", "iPad", "iPhoto", "photos", "reading", "reeder", "RSS", "Twitter", "Twitterrific", "wordpress", "work habits"]
 ---
 
-{{< oldpost >}}
-
 ## Fan girl
 
 I’ve had an iPad since the day it was released in the UK. I bought it because I’m a fan girl. I admit it. I could pretend that I wanted it to take to conferences or use for testing or when I didn’t need a laptop when I went to visit clients. In truth, I only go to one or two conferences per year, I’ve not yet made a site that needed an iPad-specific site and when I go to visit clients I **always** need my laptop. I was simply justifying my desire to have something shiny.

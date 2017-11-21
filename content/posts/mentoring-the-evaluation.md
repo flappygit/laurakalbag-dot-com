@@ -7,8 +7,6 @@ categories: ["Freelancing", "Learning"]
 tags: ["clients", "communication", "contract", "disciplines", "hybrid", "meetings", "mentoring", "roles", "team", "time"]
 ---
 
-{{< oldpost >}}
-
 Previous posts on the mentoring project:
 
 * [Mentoring a project: the idea](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
@@ -18,6 +16,7 @@ Previous posts on the mentoring project:
 * [Mentoring a project: contract and kicking off](http://laurakalbag.wpengine.com/mentoring-a-project-contract-and-kicking-off/ "Mentoring a project: contract and kicking off")
 
 ---
+
 
 It’s been four months since we started the mentoring project and now it’s drawing to a close.
 

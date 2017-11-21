@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4668" src="/images/2015/05/DSCF3596-small.jpg" alt="Sign for re:publica event, stage one" width="1500" height="1000" caption="re:publica in Berlin">}}](/images/2015/05/DSCF3596-small.jpg)

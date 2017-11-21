@@ -7,8 +7,6 @@ categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "reviews"]
 ---
 
-{{< oldpost >}}
-
 It’s not even been a week since 51.9% UK citizens voted to leave the EU, and it’s already a mess for any business operating from, or with, British Pounds. I’ve spent today working through our finances to see how best for us to proceed in terms of currencies and bank accounts. Despite living in Sweden, we’re still tied to the UK, not least because I’m a British citizen… * shakes fist at the idiots who voted to Leave *
 
 Other than the Brexit woes, we’ve been working hard on keeping Better up-to-date and fixing any teething problems we’ve had with the trackers list. Since launch we’ve updated Better (the app) twice, and updated the content (the tracker list) seven times. We’ve had loads of great reviews on the App Store, and reading these are encouraging, motivational, and the best way to start our days! :smile:

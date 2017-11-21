@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["happy"]
 ---
 
-{{< oldpost >}}
-
 After [winning the .net award two weeks ago](http://laurakalbag.wpengine.com/netmag-awards-2013/ ".net awards 2013"), I really wasn’t expecting to win another award. Last night at a fun black tie, storybook-themed ubelly Critters awards, I won Next Big Thing.
 
 [{{< figure class="aligncenter size-full wp-image-3657" alt="Critters 2013 Next Big Thing award" src="/images/2013/06/next-big-thing.jpg" width="800" height="580" >}}](/images/2013/06/next-big-thing.jpg)

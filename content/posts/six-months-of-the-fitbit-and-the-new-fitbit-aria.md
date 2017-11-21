@@ -7,8 +7,6 @@ categories: ["Freelancing", "Reviews"]
 tags: ["Fitbit", "Fitbit Aria", "gadget", "health", "mind"]
 ---
 
-{{< oldpost >}}
-
 [Skip to the main review!](#main-review)
 
 ## The backstory

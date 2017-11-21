@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "mobile", "thebigm", "Twitter"]
 ---
 
-{{< oldpost >}}
-
 I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, [The Big M](http://thebigm.mobi "The Big M website").
 
 [{{< figure class="aligncenter size-medium wp-image-326" title="The Big M website" src="/images/2011/03/full-site-589square-320x320.jpg" alt="The Big M website" width="320" height="320" >}}](http://thebigm.mobi)
@@ -26,5 +24,6 @@ So, all you have to do to win a ticket is tweet something with the hashtag **#se
 There’s still some tickets left on [The Big M website](http://thebigm.mobi/#register "Tickets for The Big M"). With tickets as little as £199 +vat for a conference day pass and student conferences passes at just £50 +vat, you’d be mad to miss out on a fun new event in beautiful Bath.
 
 ---
+
 
 The winners, [as announced on Twitter](http://twitter.com/#!/laurakalbag/status/43297547447582721) were [@NicPresley](http://twitter.com/NicPresley), [@chrsgrrtt](http://twitter.com/chrsgrrtt) and [@richquick](http://twitter.com/richquick).

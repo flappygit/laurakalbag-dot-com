@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 I’ve had a DSLR for nearly a year now. And I still only ever use it on the Auto modes. I studied photography (with film cameras) during my Art Foundation course ~10 years ago, but I think any decent photos were mostly luck, and I can’t remember much of it. So when Ashley set up her [Girl With A Camera Course](http://girlwithacamera.co.uk/courses/), “For the beginner photographer who wants to pick up their camera more,” I was instantly sold!
 
 Over the next month, I’m going to try to blog some of my photos taken during Ashley’s exercises (and hopefully lots more that I’ve taken for fun!) Maybe I’ll be able to ditch the Auto modes by the end of it. I’ve not edited any of these photos yet, as tempting as it is, as I want to wait til we get to that bit of the course!

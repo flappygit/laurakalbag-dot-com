@@ -7,8 +7,6 @@ categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "slides", "speaking", "talks"]
 ---
 
-{{< oldpost >}}
-
 This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
 
 [{{< figure class="aligncenter size-large wp-image-4862" src="/images/2017/04/001-1024x576.jpg" alt="Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next @laurakalbag @indie @betterbyindie https://ind.ie https://better.fyi" width="1024" height="576" >}}](/images/2017/04/001.jpg)

@@ -7,8 +7,6 @@ categories: ["Events", "Personal"]
 tags: ["speaking", "writing"]
 ---
 
-{{< oldpost >}}
-
 A while ago, [Jeremy Keith](http://adactio.com) introduced me to [ladiesintech.com](http://ladiesintech.com/), suggesting that it might be something that’d interest me. After having a chat with the lovely [Jenn Lukas](https://twitter.com/jennlukas) over email, I had a story that I wanted to share about my adventures in speaking, and Jenn has now helped me [share it on the site](http://ladiesintech.com/asking-for-help/).
 
 This was the first time I’ve ever had anybody edit my writing. I’ve had other people proof-read and check my writing for mistakes, but never changing that much (despite often needing it!) Jenn teamed me up with [Steph Hay](http://www.stephaniehay.com/), who was so kind in helping me un-jumble the story into a more coherent order and make sure I made my points clearly. They both gave me a lot of support and encouragement along the way too!

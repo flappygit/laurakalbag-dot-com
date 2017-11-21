@@ -7,8 +7,6 @@ categories: ["Design", "Events", "Podcasts"]
 tags: ["clients", "community", "crit", "criticism", "ego", "feedback", "freelancing", "mentor", "podcast"]
 ---
 
-{{< oldpost >}}
-
 Last week I was guest co-host on [one of my most favourite podcasts](http://laurakalbag.wpengine.com/why-i-love-unfinished-business/ "Why I love Unfinished Business"), [Unfinished Business](http://unfinished.bz/12). It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
 
 We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.

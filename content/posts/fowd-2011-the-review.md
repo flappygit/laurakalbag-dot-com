@@ -7,8 +7,6 @@ categories: ["Events", "Reviews"]
 tags: ["attendees", "conference", "cost", "FOWD", "people", "speakers", "talks", "themes"]
 ---
 
-{{< oldpost >}}
-
 Another great event from Carsonified, I really enjoyed [Future Of Web Design](http://futureofwebdesign.com/london-2011) this year.
 
 ## The Cost

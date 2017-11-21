@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["accessibility", "conference", "speaking"]
 ---
 
-{{< oldpost >}}
-
 Next Friday I’m speaking at MobX Conference in Berlin about designing for accessibility, covering problems that affect many different types of screens and devices. It will be my first time in Germany, so I’m very excited!
 
 [{{< figure class="alignnone size-full wp-image-4069" alt="MobX - Friday, September 13, 2013 in Berlin MobX Conference. Mobile Experience Design &amp; Usability - Meet the Experts!" src="/images/2013/09/mobx.png" width="700" height="380" >}}](http://2013.mobxcon.com/)

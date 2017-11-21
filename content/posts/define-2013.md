@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["diversity", "freelance", "speaking"]
 ---
 
-{{< oldpost >}}
-
 Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.
 
 It’s an event aimed at improving diversity in computing and I’m really proud to be speaking. I’m going to talk about a day in the life of a web designer/developer in the hope that I can share the variety involved in this kind of work and how rewarding and fun this job can be. I’m also hoping to promote a more independent way of working, showing that you don’t have to go and work for somebody else when you leave school, and that working for yourself isn’t necessarily the financial hardship that it’s often painted as.

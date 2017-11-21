@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["interview", "OpenType", "typography"]
 ---
 
-{{< oldpost >}}
-
 A few months ago Tyler Sanguinette sent me some questions about design and web typography as part of his thesis on web fonts.
 
 Recently I found that [he’d published the interview](http://typequest.org/articles/kalbag/), and interviews with a load of very smart people, on the [Type Quest website](http://typequest.org). Type Quest also has some really useful information on the OpenType features of web fonts, so it’s well-worth a look.

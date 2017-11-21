@@ -7,8 +7,6 @@ categories: ["Uncategorized"]
 tags: ["accessibility", "French", "languages", "translation"]
 ---
 
-{{< oldpost >}}
-
 Yesterday I gave a talk at [KiwiParty](http://kiwiparty.fr/) in Strasbourg. KiwiParty is a lovely conference, but all of the speakers spoke in French, to the French audience. Except me. I speak a little bit of (A-Level) French, but I certainly couldn’t give a talk in French.
 
 ## Designing for accessibility
@@ -34,6 +32,7 @@ Now I had a talk which would be easy to understand for English speakers, and Fre
 Accessibility isn’t just about wheelchairs or screen readers. Accessibility is about optimising the experience to include as many people as possible. With the French translations of my slides, I hope I was able to do just that.
 
 ---
+
 
 Sidenote: The French designers and developers were mostly very knowledgeable about accessibility. I was introduced to a great resource for accessibility: [opquast.com](http://opquast.com/en/). It’s in English as well as French. Thanks KiwiParty!
 

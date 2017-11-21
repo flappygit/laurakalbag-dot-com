@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing", "ind.ie"]
 tags: ["criticism", "crowdfunding", "feedback", "flexibility", "freelancing", "Ind.ie", "learning"]
 ---
 
-{{< oldpost >}}
-
 I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.
 
 <p>And that’s what happened. In June, I wrote about [becoming part of Indie Phone](http://laurakalbag.wpengine.com/indie-phone/ "Becoming part of Indie Phone") for 50% of my time. Then some time in August I became full time. 50/50 sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or [Ind.ie](https://ind.ie). The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.

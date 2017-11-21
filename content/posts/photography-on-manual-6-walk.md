@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["Oskar", "photography"]
 ---
 
-{{< oldpost >}}
-
 When I started doing this course, I knew I’d probably end up with a lot of dog walking photos. Oskar and I are out every day, and so there’s lots of photo opportunities.
 
 After [exploring the self-timer in my last photo](http://laurakalbag.wpengine.com/photography-on-manual-5-levitation/), I thought I’d try it again. Dog photos are obviously great, but I wanted something to show how we exist as a pair. Also outdoors.

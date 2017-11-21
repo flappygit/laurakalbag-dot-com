@@ -7,8 +7,6 @@ categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "reviews", "support"]
 ---
 
-{{< oldpost >}}
-
 Time rolls by and it’s about time I did another diary entry. I’m going to try to get Aral and me to write more frequently now what we’re working on ([Better](https://better.fyi)) is out in the open. (No more talk of the hush-hush project! ;-)
 
 Since the launch of Better, we’ve been keeping development going, whilst making improvements to the Better app and Better.fyi, as well as responding to emails, tweets, feedback and questions.

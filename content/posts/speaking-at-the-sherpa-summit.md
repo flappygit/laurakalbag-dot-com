@@ -7,8 +7,6 @@ categories: ["Accessibility", "Events"]
 tags: ["accessibility", "online conference", "speaking"]
 ---
 
-{{< oldpost >}}
-
 Last October, [Web Standards Sherpa](http://webstandardssherpa.com) published my [mini series on Getting Started With Sass](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-3/). It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.
 
 ## Sherpa Summit

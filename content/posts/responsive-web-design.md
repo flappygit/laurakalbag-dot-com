@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["browsers", "CSS", "CSS3", "flexible", "fluid layouts", "HTML", "mobile", "mobile first", "process", "progressive enhancement", "responsive web design"]
 ---
 
-{{< oldpost >}}
-
 I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](http://laurakalbag.wpengine.com/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.
 
 {{< figure class="attachment_474 wp-caption aligncenter size-large wp-image-474 " title="Responsive Web Design by Ethan Marcotte" src="/images/2011/07/web-716x960.jpg" alt="Responsive Web Design by Ethan Marcotte" width="512" height="686" caption="My copy of Responsive Web Design, already featuring a &#39;much used&#39; cover curl..." >}}

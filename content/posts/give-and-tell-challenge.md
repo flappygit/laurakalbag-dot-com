@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["charity", "equality"]
 ---
 
-{{< oldpost >}}
-
 When [Andy Clarke challenged me to the “Give and Tell Challenge”](http://stuffandnonsense.co.uk/blog/about/give-and-tell-challenge), I was very happy to comply. [Dan James,](http://www.ceoblues.com/archive/2014/august/giveandtell) inspired by the [ALS Ice Bucket Challenge](https://en.wikipedia.org/wiki/Ice_Bucket_Challenge), came up with the challenge:
 
 > You donate to a cause, or causes, that have meaning to you and you say why. You then challenge 3 other people to do the same thing.

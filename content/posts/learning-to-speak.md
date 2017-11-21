@@ -7,8 +7,6 @@ categories: ["Events", "Learning"]
 tags: ["conference", "learning", "speaking", "talk"]
 ---
 
-{{< oldpost >}}
-
 Just over a year ago, I was in a country I’d never visited, about to give two talks I’d never given before to two large, paying audiences in the space of three days at [Future Insights Live](http://futureinsightslive.com/las-vegas-2012/). I had only given a couple of talks to small audiences before. It was one of the scariest things I’d ever done.
 
 ## A helping hand

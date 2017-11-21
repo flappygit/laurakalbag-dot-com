@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["communication", "conferences", "content", "education", "freelance", "New Adventures in Web Design", "Twitter", "user experience", "visual design", "working process"]
 ---
 
-{{< oldpost >}}
-
 ## Conferences are my social life
 
 As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.

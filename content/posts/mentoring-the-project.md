@@ -7,8 +7,6 @@ categories: ["Freelancing", "Learning"]
 tags: ["clients", "freelancing", "meeting", "mentee", "mentor", "money", "project"]
 ---
 
-{{< oldpost >}}
-
 Previous posts on the mentoring project:
 
 * [<span style="line-height: 13px;">Mentoring a project: the idea</span>](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
@@ -16,6 +14,7 @@ Previous posts on the mentoring project:
 * [Mentoring a project: finding the right people](http://laurakalbag.wpengine.com/mentoring-a-project-finding-the-right-people/" target="_blank "Mentoring a project: finding the right people")
 
 ---
+
 
 In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.
 

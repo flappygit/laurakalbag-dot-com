@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing", "Learning"]
 tags: ["clients", "mentee", "mentor", "project"]
 ---
 
-{{< oldpost >}}
-
 We’ve got a project! I’ll elaborate on the details of the project in a future post, but the importance of having a project was that it’s allowed me to choose the designers/developers who could get something out of being [mentees](http://en.wikipedia.org/wiki/Mentee). I didn’t want to do this before securing the right project as I needed to know what I was looking for in a mentee.
 
 ## Finding the right mentee for the job

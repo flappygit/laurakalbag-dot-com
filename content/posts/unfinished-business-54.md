@@ -7,8 +7,6 @@ categories: ["Freelancing", "Podcasts"]
 tags: ["client work", "conferences", "podcast", "rates", "Unfinished Business"]
 ---
 
-{{< oldpost >}}
-
 The [latest Unfinished Business podcast](http://unfinished.bz/54) has just been published, and I’m on it again! I had a lovely time talking to Andy about scheduling projects, invoicing, rates and people who don’t understand copyright.
 
 A very big thank you to [my friend Jo](http://twitter.com/Jo_annaP) who let me take over her internet and bedroom for the recording, as our internet is still terrible!

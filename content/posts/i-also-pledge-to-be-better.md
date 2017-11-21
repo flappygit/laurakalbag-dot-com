@@ -7,8 +7,6 @@ categories: ["Events", "Personal"]
 tags: ["conferences", "discrimination", "diversity", "pledge", "women"]
 ---
 
-{{< oldpost >}}
-
 This post was inspired by [Faruk’s great post “I Pledge To Be Better (And I Hope You Do Too)”](http://farukat.es/journal/2013/10/698-i-pledge-be-better-and-i-hope-you-do-too) where he speaks about the continuing problems with discrimination and lack of diversity in tech, and how more people should speak up about these issues. Faruk rightly says we all have the power and responsibility to make things better. I believe that when we don’t speak out about discrimination, we’re almost causing as much damage as condoning discrimination. Because it won’t just go away if we pretend it’s not there.
 
 I’ve [spoken about it before](http://laurakalbag.wpengine.com/women-and-conferences/ "Women and conferences"), and I’m all too aware of how I used to be one of those [“Fuck You, I Got Mine”](https://medium.com/about-work/e82b7ca7de03 "Fantastic post by @Shanley about women in tech for the patriarchy") women. I want to make up for that. I also believe it’s important that women aren’t scared to be vocal about discrimination and diversity. In fact, it’s of the utmost importance that *nobody* is scared to be vocal about these issues.
@@ -44,6 +42,7 @@ I pledge to be better, and set a positive example for others in our community, i
 [1]: [http://adainitiative.org/what-we-do/conference-policies/](http://adainitiative.org/what-we-do/conference-policies/ "The Ada Initiative Conference anti-harassment policy")
 
 ---
+
 
 ### The appeal
 

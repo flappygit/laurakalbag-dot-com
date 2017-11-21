@@ -7,8 +7,6 @@ categories: ["Design Issues"]
 tags: ["advertising", "images", "perception", "post production"]
 ---
 
-{{< oldpost >}}
-
 I don’t like to say it, but I think the Girlguides UK campaign ([#](http://twitter.com/#search?q=%23gukforrealimages "hashtag search on Twitter")[gukforrealimages](http://twitter.com/#search?q=%23gukforrealimages "hashtag search on Twitter")) call for labelling all airbrushed images of women is unrealistic.
 
 > Our girls and young women are demanding action from the Prime Minister to introduce compulsory labelling to distinguish between airbrushed and natural imagesin order to ‘shape a generation of self-confident girls and young women.

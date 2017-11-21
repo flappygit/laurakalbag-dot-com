@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["accessibility", "diversity", "Ind.ie", "Indie Tech Summit", "universal design", "video"]
 ---
 
-{{< oldpost >}}
-
 Yesterday we finally published [all the videos from the Indie Tech Summit](https://ind.ie/summit/videos) on the [ind.ie site](https://ind.ie/). It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.
 
 Launching the videos was a longer process than we anticipated, but for many good reasons. We wanted all of our videos to have transcripts. We’re very committed to accessibility (see my talk below) and sometimes, people just prefer reading to watching. We also had a couple of false-starts with our video player. We didn’t want to use any of the services with corporate surveillance business models (Youtube is out) and we couldn’t afford for our videos to get a lot of views with expensive hosting (we had a $300 Wistia bill for a week of views!) We ended up using [VideoJS](http://www.videojs.com/) with some customisation made by Andy, Aral and I. It may still have bugs in some places and on some platforms, so if you spot any, [please let us know](mailto:hello@ind.ie)!

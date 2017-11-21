@@ -7,8 +7,6 @@ categories: ["Design", "Development", "Events", "Learning"]
 tags: ["case study", "Codekit", "CSS", "Sass", "slides", "web talk dog walk"]
 ---
 
-{{< oldpost >}}
-
 Yesterday I gave a talk at the [fantastic online conference CSS Summit](http://environmentsforhumans.com/2013/css-summit/) on ‘Sass for designers’. It uses [my new site Web Talk Dog Walk](http://webtalkdogwalk.in/brighton/) as a case study, and explains the basics of Sass and how to get started using [CodeKit](http://incident57.com/codekit/).
 
 Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:

@@ -7,8 +7,6 @@ categories: ["Reviews"]
 tags: ["drawing", "gestures", "iPad", "painting", "sketching", "user experience"]
 ---
 
-{{< oldpost >}}
-
 I’ve always been a kind-of arty person. I took Art at school, did an Art Foundation and a Graphics degree. I totally loved art when I was small, but as I’ve got older, and more technology and web-obsessed, a lot of the old media went a bit out of the window.
 
 Though I was still loving wireframing and taking notes by hand, I just threw all the paints out in frustration at how slow and difficult they were.

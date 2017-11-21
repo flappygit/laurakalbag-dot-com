@@ -7,8 +7,6 @@ categories: ["Illustration"]
 tags: ["drawing", "painting", "sketch of the day", "sketching"]
 ---
 
-{{< oldpost >}}
-
 A strange thing has happened in the last week. I’ve been a bit blue, but I’ve really got into my [One Sketch A Day book](http://www.amazon.co.uk/dp/0811875342). This was a lovely little book that [Rachel Shillcock](https://twitter.com/missrachilli) sent me.
 
 [{{< figure class="aligncenter size-full wp-image-4230" alt="Me and my One Sketch A Day book" src="/images/2014/01/book.jpg" width="600" height="478" >}}](/images/2014/01/book.jpg)

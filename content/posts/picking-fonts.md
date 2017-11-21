@@ -7,8 +7,6 @@ categories: ["Design"]
 tags: ["@font-face", "font-family", "fonts", "header", "mac", "paragraph", "sans-serif", "serif", "typekit", "windows"]
 ---
 
-{{< oldpost >}}
-
 This little post is an extension of my post on Web Fonts.
 
 Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.

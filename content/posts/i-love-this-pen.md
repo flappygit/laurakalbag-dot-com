@@ -7,8 +7,6 @@ categories: ["Design", "Reviews"]
 tags: ["ink", "notebooks", "pen", "sketching", "writing"]
 ---
 
-{{< oldpost >}}
-
 [{{< figure class="aligncenter size-large wp-image-4189" alt="Pen, ink and 'I love this pen' handwritten in my notebook" src="/images/2014/01/I-love-this-pen-1024x748.jpg" width="1024" height="748" >}}](/images/2014/01/I-love-this-pen.jpg)
 
 It’s a [J Herbin metal pen](http://www.bureaudirect.co.uk/j-herbin-metal-rollerball-pen/p3655). It’s a rollerball but it takes any standard ink cartridge. I use it with the [J Herbin ink cartridges](http://www.bureaudirect.co.uk/j-herbin-ink-cartridges-pk-6/p2926) as they come in loads of different colours and packaged in cute little tins.
@@ -18,6 +16,7 @@ It’s taken me years to find my ideal pen. I have small hands so I need somethi
 For someone who starts every project, post and sketch in a notebook, this pen means a lot to me. And it didn’t even cost very much. This pen has reinforced my belief that it’s worth holding out for good tools, keeping on looking for the right tool for the job, and not putting up with something that doesn’t work for me. It’s an approach I’ve started to take with software too. Life’s too short to use a rubbish pen.
 
 ---
+
 
 *And if you’re curious, my notebook is a Leuchtturm1917 squared notebook. [I wrote about that a few years ago…](http://laurakalbag.wpengine.com/notebooks-and-getting-over-moleskine/ "Notebooks and Getting Over Moleskine")*
 

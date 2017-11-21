@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing"]
 tags: ["A List Apart", "client work", "clients", "deliverables", "process"]
 ---
 
-{{< oldpost >}}
-
 There’s nothing wrong with sending a client a rough sketch if that’s all that’s needed to communicate your idea. In [my latest column on A List Apart](http://alistapart.com/column/delivery-logistics), I’ve written about deliverables and why what the client expects isn’t always the right thing to do…
 
 [{{< figure class="aligncenter size-full wp-image-4258" alt="Delivery Logistics on A List Apart" src="/images/2014/02/Delivery-Logistics.png" width="623" height="719" >}}](http://alistapart.com/column/delivery-logistics)

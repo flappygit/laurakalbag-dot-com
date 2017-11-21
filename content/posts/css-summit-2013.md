@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "CSS", "online conference", "Sass", "speaking"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at [CSS Summit 2013](http://environmentsforhumans.com/2013/css-summit/) about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)
 
 There’s a huge amount of expert speakers across three days, with a day each dedicated to CSS3 Training, Advanced CSS and Preprocessors. I’m on the third day, covering the basics of Sass with ‘Sass for Designers’. The other talks on that day will cover Sass in more depth, with case studies and more advanced techniques, so I’m hoping to provide a useful introduction for those of us who are less familiar with programming.

@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["clients", "conference", "contract", "design", "education", "freelancing", "industry", "labels", "titles", "user experience"]
 ---
 
-{{< oldpost >}}
-
 [Insites](http://insitestour.com/) is a mini tour of four cities in the UK where [Keir Whitaker](http://keirwhitaker.com/) and [Elliot Jay Stocks](http://elliotjaystocks.com/) present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where [Aral Balkan](http://aralbalkan.com/), [Sarah Parmenter](http://www.sazzy.co.uk/) and [Jeremy Keith](http://adactio.com/) were the guests.
 
 ## The Format
@@ -60,6 +58,7 @@ I took a day to write this post, so I’m a bit late in telling people to go to 
 It was definitely one of the best events I’ve attended in a while, and one that just gave me faith in how the industry and community is *just* **brilliant** (and probably the best ever.)
 
 ---
+
 
 Note: please forgive my enthusiasm in this post, I hope it’s not ***too*** annoying, but I had a really good time!
 

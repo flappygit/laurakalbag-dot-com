@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "event", "HTML5", "mobile", "workshops"]
 ---
 
-{{< oldpost >}}
-
 {{< figure class="size-medium wp-image-338 alignright" title="Big M badge" src="/images/2011/03/badge-242x320.jpg" alt="Big M badge" width="242" height="320" >}}
 
 First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work *everywhere*) so this is really going to be the most biased event review you’ve ever read!</p>

@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["conference", "followers", "Twitter"]
 ---
 
-{{< oldpost >}}
-
 ## I’ve been at Future Of Web Design
 
 The last two days were long, but fantastic, experiences at [Future Of Web Design](http://futureofwebdesign.com). The talks were high quality, loads of cool people were there and I learnt a lot.

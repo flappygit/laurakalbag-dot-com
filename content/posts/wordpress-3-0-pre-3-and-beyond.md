@@ -7,14 +7,13 @@ categories: ["WordPress"]
 tags: ["custom taxonomies", "featured images", "post thumbnails", "wordpress", "wordpress 2.8", "wordpress 2.9", "wordpress 3.0"]
 ---
 
-{{< oldpost >}}
-
 This post has three parts. This is part one. Visit the other parts below:
 
 * Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
 * Part 3: [WordPress 3.0—Theme Development and the Design](http://laurakalbag.wpengine.com/wordpress-3-0-theme-development-and-the-design)
 
 ---
+
 
 I’m a big fat WordPress fan. I love the [people behind it](http://automattic.com/ "Automattic, the people behind WordPress"), I love [the ethics](http://www.google.com/hostednews/afp/article/ALeqM5igVn4hcj6ZNWlawSvzLvgEMkZmkQ "AFP News--Blogging guru chips away at Great Firewall of China")and I love how it makes it easy for me to make cool sites that my clients can update themselves.
 
@@ -84,6 +83,7 @@ These are a bit trickier to implement than post thumbnails. Not much, but there�
 4. [Introducing WordPress 3 Custom Taxonomies on NetTuts](http://net.tutsplus.com/tutorials/wordpress/introducing-wordpress-3-custom-taxonomies/)
 
 ---
+
 
 This post has three parts. This is part one. Visit the other parts below:
 

@@ -7,8 +7,6 @@ categories: ["Design", "Events"]
 tags: ["icons", "wordpress", "wordpress admin", "WordPress admin icons"]
 ---
 
-{{< oldpost >}}
-
 I’m speaking at the [WordPress London January meetup on the 17th of January 2013](http://www.meetup.com/London-WordPress/events/81910532/).
 
 I’ve been using WordPress for years, for my own site and for client sites, and I really love it. I had absolutely no idea what to talk about though. I tend to create custom themes for clients, but these are very different from themes designed for use by many different sites, and so I wasn’t sure whether my experience would be relevant to many people. I also don’t feel very confident speaking about code.

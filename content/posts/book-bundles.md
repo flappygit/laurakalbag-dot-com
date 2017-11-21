@@ -7,8 +7,6 @@ categories: ["Personal"]
 tags: ["books", "selling"]
 ---
 
-{{< oldpost >}}
-
 *3rd July: NEW BOOKS ADDED!*
 
 [We’re moving](https://aralbalkan.com/notes/so-long-and-thanks-for-all-the-fish/). And because we’re moving abroad, we’re [getting rid of all of our stuff](http://www.gumtree.com/sellerads/1119077228).

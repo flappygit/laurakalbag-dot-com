@@ -7,14 +7,13 @@ categories: ["WordPress"]
 tags: ["accessibility", "custom backgrounds", "custom headers", "menus", "theme development", "twentyten", "usability", "wordpress", "wordpress 3.0", "wordpress admin"]
 ---
 
-{{< oldpost >}}
-
 This post has three parts. This is part three. Visit the other parts below:
 
 * Part 1: [WordPress 3.0—Pre 3.0 and Beyond](http://laurakalbag.wpengine.com/wordpress-3-0-pre-3-and-beyond)
 * Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
 
 ---
+
 
 ## Easier for theme developers to make it easy for users
 
@@ -95,6 +94,7 @@ This little alert that lets you know if you have comments, or need to update you
 To be fair these changes haven’t made the admin unusable. I am being picky. It would be very difficult to undo all the great work of Jane Wells and the UI team since WordPress 2.7.
 
 ---
+
 
 This post has three parts. This is part three. Visit the other parts below:
 

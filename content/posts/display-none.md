@@ -7,8 +7,6 @@ categories: ["Design Issues", "Markup"]
 tags: ["CSS", "HTML", "javascript", "learning", "mobile first", "progressive enhancement", "responsive web design", "small screens"]
 ---
 
-{{< oldpost >}}
-
 
 ## *Or* The things you think are common knowledge but really they aren’t.
 
@@ -51,6 +49,7 @@ Then, I would use media queries, or some kind of clever javascript, to load in t
 The good [Steve Marshall](http://twitter.com/SteveMarshall) has pointed out that there are also accessbility issues related to `display: none;`. I didn’t want to cover too much in the post, but in case you want to know more about that too, I recommend [Aaron Gustafson’s ‘Now You See Me’ on A List Apart](http://www.alistapart.com/articles/now-you-see-me/) and [Chris Coyier’s ‘Places It’s Tempting To Use Display: None; But Don’t on CSS Tricks](http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/). [/edit]
 
 ---
+
 
 ## Writing about markup
 

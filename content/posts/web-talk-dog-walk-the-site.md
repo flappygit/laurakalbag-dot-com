@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["Perch", "Sass", "web talk dog walk"]
 ---
 
-{{< oldpost >}}
-
 I’ve finally made [a site for the web talk dog walks](http://webtalkdogwalk.in/brighton/)! It may be a small site, and is probably very broken in places, but it was a fun mini project and worked well as a case study for my [Sass for designers talk](http://environmentsforhumans.com/2013/css-summit/).
 
 It also makes use of [Perch, that wonderful little content management system](http://grabaperch.com/). I really would recommend it.

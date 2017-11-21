@@ -7,8 +7,6 @@ categories: ["Learning"]
 tags: ["photography"]
 ---
 
-{{< oldpost >}}
-
 On my last day in Berlin, I took a lot more photos. Last night I started post-processing them, following Ashley’s email and video tutorials. Post-processing is an area where I have more experience, I’ve done a lot of Photoshopping in the past, but now I’m trying to achieve new effects using Lightroom, which is a very different animal!
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4675" src="/images/2015/05/DSCF3765-original-small.jpg" alt="Me taking a photo in a mirror in a hotel room" width="1500" height="1000" caption="**Me in a hotel room, original.** Travelling in Berlin, and being a bit slow to set up shots, I found my only (mostly) willing model was me. I found it really hard to get the focus on my face, so my hands are slightly crisper.">}}](/images/2015/05/DSCF3765-original-small.jpg)

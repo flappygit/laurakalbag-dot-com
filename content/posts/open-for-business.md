@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing"]
 tags: ["business", "client work", "openness", "transparency"]
 ---
 
-{{< oldpost >}}
-
 [My second column for A List Apart, “Open for Business,” is now up](http://alistapart.com/column/open-for-business). I wrote Open for Business as a follow-up to my [Dare conference](http://2013.dareconf.com) talk about honesty. It’s not the same as the full talk (and has been edited into a far better shape by Rose Weisburd) but is the essence of why I feel that being open works for my business.
 
 [{{< figure class="aligncenter size-full wp-image-4082" alt="Open for Business post on A List Apart" src="/images/2013/10/open-for-business.png" width="669" height="740" >}}](http://alistapart.com/column/open-for-business)

@@ -7,8 +7,6 @@ categories: ["Snippets"]
 tags: ["emoji", "Mail.app", "productivity"]
 ---
 
-{{< oldpost >}}
-
 After reading this brilliant [Mac App Storm post on Turning Mail.app Into the Best Mac Email App](http://mac.appstorm.net/how-to/internet-howto/turning-mail-app-into-the-best-mac-email-app/), I was inspired to follow a lot of the tips to make my emails easier to handle.
 
 I made three Smart Mailboxes, following the tips I chose:

@@ -7,8 +7,6 @@ categories: ["Freelancing"]
 tags: ["appearance", "business", "clients", "companies", "freelance"]
 ---
 
-{{< oldpost >}}
-
 There’s something that’s been niggling at me for ages. The way people act as if they’re a multi-person company when they’re really just one individual. This whole ‘we’ syndrome.
 
 > We have a great new client now working with us at Just Little Old Me Ltd.

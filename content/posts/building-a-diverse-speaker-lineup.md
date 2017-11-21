@@ -7,8 +7,6 @@ categories: ["Events"]
 tags: ["code of conduct", "conferences", "diversity", "speaking"]
 ---
 
-{{< oldpost >}}
-
 This post is so good, and so incredibly valuable, that it’s deserving of more than just a passing tweet. Julie Pagano has written about ‘[Building a Diverse Speaker Lineup](http://juliepagano.com/blog/2014/08/26/building-a-diverse-speaker-lineup/).’ This should be the go-to post for conference organisers, and it should be read as soon as you’re even thinking about organising an event.
 
 Julie’s post doesn’t just explain *why* you want a diverse lineup (also worth reading on this topic: [Aral’s post, On design and diversity](https://aralbalkan.com/notes/on-design-and-diversity/)), but also *how*.

@@ -7,8 +7,6 @@ categories: ["Design", "Milestones"]
 tags: ["justification", "redesign"]
 ---
 
-{{< oldpost >}}
-
 ## It’s about time…
 
 So finally I’ve redesigned my website. It’s been about three and a half years since the last version of laurakalbag.wpengine.com (still around at [http://2009.laurakalbag.wpengine.com](http://2009.laurakalbag.wpengine.com)) and that’s a site I designed before I finished university, before I even started freelancing full time. To be fair, it took a while for me to hate it (not that usual kind of as-soon-as-it’s-launched-I-hate-it problem us designers often have) but that’s far too long for a portfolio site to be hanging around. Since then we’ve had a huge shift to mobile design, then web fonts, then responsive design, and I wasn’t practicing what I was preaching on my own site.

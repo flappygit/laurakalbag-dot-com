@@ -7,8 +7,6 @@ categories: ["Design", "Freelancing"]
 tags: ["education", "inspiration", "sharing", "web"]
 ---
 
-{{< oldpost >}}
-
 I’ve written [a post over on The Branch](http://thebran.ch/articles/the-sharers).
 
 {{< figure class="aligncenter size-full wp-image-1861" alt="Screenshot from The Branch website: The Sharers - Laura Kalbag shares how a sense of community helped her to grow into a career she loves." src="/images/2013/01/the-sharers.png" width="626" height="325" >}}
