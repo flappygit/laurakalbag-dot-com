@@ -1,13 +1,13 @@
 @charset "UTF-8";
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-regular.woff2") format('woff2'), url("/fonts/informat-regular.woff") format('woff');
+  src: url("/fonts/informat-medium.woff2") format('woff2'), url("/fonts/informat-medium.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-regularit.woff2") format('woff2'), url("/fonts/informat-regularit.woff") format('woff');
+  src: url("/fonts/informat-mediumit.woff2") format('woff2'), url("/fonts/informat-mediumit.woff") format('woff');
   font-weight: normal;
   font-style: italic;
 }
@@ -75,10 +75,10 @@ h3 {
   margin: 0;
 }
 h1 {
-  font-size: 2em;
+  font-size: 3em;
 }
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 h3 {
   font-size: 1.25em;
