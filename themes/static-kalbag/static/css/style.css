@@ -79,6 +79,7 @@ h3 {
 }
 h1 {
   font-size: 4em;
+  margin-top: 1em;
 }
 h2 {
   font-size: 2.5em;
@@ -109,7 +110,7 @@ em {
   font-style: italic;
 }
 small {
-  font-size: 1em;
+  font-size: 0.9em;
 }
 small a {
   text-decoration: none;
@@ -120,8 +121,11 @@ blockquote {
 .entry-meta {
   font-size: 1em;
 }
-.site-footer h3 {
-  font-style: italic;
+figcaption,
+.site-info p,
+.site-info small,
+.note {
+  font-size: 0.9em;
 }
 figure {
   margin: 1em 0 1em;
@@ -150,10 +154,6 @@ blockquote {
 .posts-list li {
   list-style-type: none;
 }
-.site-info p,
-.site-info small {
-  font-size: 0.9em;
-}
 a {
   color: #000;
 }
@@ -179,4 +179,10 @@ p,
 small {
   margin: 0 1em 0.5em 1em;
   max-width: 37em;
+}
+.site-info p,
+.site-info small,
+.note,
+figcaption p {
+  margin-left: 1.1em;
 }
