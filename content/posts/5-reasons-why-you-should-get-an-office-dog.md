@@ -1,6 +1,5 @@
 ---
 
-
 title: "5 reasons why you should get an office dog"
 draft: true
 colours: ["#777777", "#565656", "#946d16", "#333333", "#ffffff", "#0a0a0a", "#ffffff"]

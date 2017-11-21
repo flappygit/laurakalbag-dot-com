@@ -23,7 +23,6 @@ This means that, if you’re anything like me, you spend the whole book studying
 
 Each chapter in Designing For Emotion takes you through a principle of emotional design:
 
-
 1. Emotional Design (Intro/Overview)
 2. Designing For Humans
 3. Personality

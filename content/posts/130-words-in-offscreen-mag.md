@@ -14,3 +14,4 @@ You can [buy a copy, or get a subscription to Offscreen by visiting their websit
 [{{< figure class="aligncenter size-full wp-image-4646" src="/images/2015/04/Offscreen.jpg" alt="Photo of my 130 words in print" width="2000" height="1500" >}}](/images/2015/04/Offscreen.jpg)
 
 [{{< figure class="aligncenter wp-image-4649 size-full" src="/images/2015/04/Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" width="1000" height="1320" >}}](http://www.offscreenmag.com)
+

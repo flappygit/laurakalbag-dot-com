@@ -29,3 +29,4 @@ The best place to walk in the area (and conveniently [near to where we live is E
 And now I wait and see if anyone can come along. If this day/time is inconvenient, then I’m happy to reschedule next time!
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-3501" alt="Oskar the husky/malamute cross in Sheepcote Valley" src="/images/2013/06/osky.jpg" width="800" height="600" caption="Oskar in Sheepcote Valley">}}](/images/2013/06/osky.jpg)
+

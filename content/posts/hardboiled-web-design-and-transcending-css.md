@@ -48,6 +48,7 @@ I bought [the bundle package from Five Simple Steps](http://fivesimplesteps.com/
 I liked the idea of having the PDF for reading using [iBooks](http://www.apple.com/ipad/features/ibooks.html "Apple's iBooks") on my iPhone and iPad. This was a bit of an issue, as the PDF has the same layout as the book itself, including very wide margins. This made for easy reading at full size on my mac, slightly eye-straining use on my iPad and a right nightmare on the iPhone. To read the text on iPhone, you have to zoom about a lot. Alongside constant scrolling to read the full width in the page, it’s not the most comfortable reading experience.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-295 " title="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" src="/images/2011/01/web.png" alt="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" width="384" height="576" caption="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4">}}](/images/2011/01/web.png)
+
 I don’t necessarily think it should have been designed for these small devices! I’m just saying that I wouldn’t buy the PDF if iPhone usage (or even iPad, really) was what you had in mind.
 
 ### No index again!
@@ -55,6 +56,7 @@ I don’t necessarily think it should have been designed for these small devices
 Again, the biggest issue for me was the absence of an index. With a book so full of useful examples, I’m constantly flicking through trying to find the example I remembered from the first read. Having the PDF is useful, as you can use a search function to find what you’re looking for, but fiddling about opening PDF files isn’t really for me when I could just grab the book from next to my desk. So, I’ve gone back to the old-school and have started sticking postits in as bookmarks. I like the idea that it looks like a much-loved textbook!
 
 [{{<figure class="wp-caption aligncenter size-medium wp-image-296" title="old-school postit bookmarks" src="/images/2011/01/web-320x238.jpg" alt="old-school postit bookmarks" width="320" height="238" caption="old-school postit bookmarks">}}](/images/2011/01/web.jpg)
+
 ## Should you buy Hardboiled Web Design?
 
 ### Absolutely, without a doubt, yes.

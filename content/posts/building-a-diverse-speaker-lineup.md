@@ -24,3 +24,4 @@ In response to a few organisers complaining about being bullied for their event�
 > Organizing a conference is hard work. Nobody is denying that. Working on making your conference diverse should be part of that work. I just gave you some insight into how you can do that. If you don’t want to do the hard work, you may receive criticism or people may not want to attend your event. That’s not bullying. That is holding you accountable for failing to do your job well. Work hard and avoid falling into the trap of the homogeneous conference lineup.
 
 [{{< figure class="aligncenter size-full wp-image-4534" src="/images/2014/09/Screen-Shot-2014-09-02-at-09.16.19.png" alt="Julie Pagano: Building a Diverse Speaker Lineup" width="625" height="570" >}}](http://juliepagano.com/blog/2014/08/26/building-a-diverse-speaker-lineup/)
+

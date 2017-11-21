@@ -18,7 +18,6 @@ As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘ins
 To me, inspiration is in ideas and approaches. Inspiration is the what drives me to do the best, most meaningful, work that I can. Yes, these gallery sites might show very technically able designs and inspire me to become a more technically proficient designer, but I find the context of the design, the reasons behind *why* the designer made those decisions so much more motivational.
 
 
-
 ## One comment
 
 <ol class="commentlist">

@@ -19,7 +19,6 @@ Nowadays when developers talk about modern web development techniques, they most
 
 ---
 
-
 I’ve written this little post as part of [Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org) (#GAAD). Thanks to Neil Milliken and his [fantastic post on designing for accessibility](http://atrophiedmind.wordpress.com/2014/05/15/design-choice-is-more-than-just-about-taste-its-an-accessibility-issue/) for the heads-up. If you want to find out more about accessibility, there’s a [24 hour Inclusive Design community conference](http://inclusivedesign24.org) happening online right now (Thanks to [Bruce Lawson](http://twitter.com/brucel) for tweeting so much about it!)
 
 I also run a Twitter account that shares all the best accessibility resources that I find, it’s called [@newtoa11y](http://twitter.com/newtoa11y).

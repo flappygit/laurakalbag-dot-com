@@ -25,5 +25,4 @@ There’s still some tickets left on [The Big M website](http://thebigm.mobi/#re
 
 ---
 
-
 The winners, [as announced on Twitter](http://twitter.com/#!/laurakalbag/status/43297547447582721) were [@NicPresley](http://twitter.com/NicPresley), [@chrsgrrtt](http://twitter.com/chrsgrrtt) and [@richquick](http://twitter.com/richquick).

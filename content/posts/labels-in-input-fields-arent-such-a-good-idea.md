@@ -53,11 +53,9 @@ After:
 
 {{< figure class="aligncenter size-large wp-image-429" title="WordPress 3.1 post editor" alt="WordPress 3.1 post editor" src="/images/2011/05/Screen-shot-2011-05-27-at-17.19.17-960x624.png" width="640" height="416" >}}
 
-
 The problem is that the first input box you’ll click into is the top title input. It actually auto-focuses, and some clever script means that it puts the label back in after the auto-focus, but then the second you start typing you’ve lost that label. If you start typing, then backspace because you made a mistake, you’ve lost that label:
 
 <p style="text-align: center;">{{< figure class="aligncenter size-full wp-image-431" title="WordPress 3.1 post editor with no title label" alt="WordPress 3.1 post editor with no title label" src="/images/2011/05/Screen-shot-2011-05-27-at-17.18.48.png" width="636" height="460" caption="" >}}
-
 
 #### Designers often make assumptions
 
@@ -68,7 +66,6 @@ It’s all very well to assume that the user will remember that the title belong
 Originally we used pre-entered text in an input field as an example, to help users understand the input required. WordPress itself has a great example of this on the Writing Settings page in the WordPress admin:
 
 {{< figure class="aligncenter size-full wp-image-433" title="WordPress Writing Settings uses text inside input boxes to help users understand the input required" alt="WordPress Writing Settings uses text inside input boxes to help users understand the input required" src="/images/2011/05/Screen-shot-2011-05-27-at-17.30.53.png" width="641" height="253" >}}
-
 
 These fantastic triggers mean that users who aren’t necessary technically minded can see the type of input that’s required to set up post via email, match that to the information they have and easily enter it into the boxes.
 
@@ -271,7 +268,6 @@ Mike
 
 
 
-
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-208">
 			<div class="comment-author vcard">
@@ -312,7 +308,6 @@ The `for` attribute of the `label` can only take an `id` as a value. But the cor
 		</div>
 
 		
-
 
 
 

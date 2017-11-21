@@ -51,6 +51,7 @@ Feedback isn’t instant, work takes much longer or nowhere near as long as esti
 Work got miles easier when I had my own working area set up. Matt built me a great custom desk, shelf unit and wall-mounted my second screen. When I’m at my desk, I’m working. The division between working at home and just being at home makes a big difference.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-201" title="My desk area (if anybody knows a good way to keep those cables tidy, I'd love to hear it!!)" src="/images/2010/08/desk.jpg" alt="desk area" width="600" height="448" >}}](/images/2010/08/desk.jpg)<p class="wp-caption-text">My desk area (if anybody knows a good way to keep those cables tidy, I’d love to hear it!!)
+
 </div>
 
 3. ### Honesty, friendliness and manners go a long way.
@@ -163,7 +164,6 @@ Definitely see you at Bath Camp, it’ll be worth the long journey :)
 		</div>
 
 		
-
 
 
 

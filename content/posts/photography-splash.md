@@ -16,3 +16,4 @@ The first exercise we’ve been given is to capture a splash in a cup…
 [{{<figure class="wp-caption aligncenter size-full wp-image-4665" src="/images/2015/05/DSCF3527-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Plant pot on the left." width="1500" height="1000" caption="**Best splash.** Finally got the hang of it. Though I wonder if the plant pot on the left spoils the composition.">}}](/images/2015/05/DSCF3527-small.jpg)
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4666" src="/images/2015/05/DSCF3527-square-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Square crop." width="1500" height="1464" caption="**Best splash, cropped.** If I crop the pot out, but keep it landscape, I cut too much of the splash out. I’m not sure if square works either.">}}](/images/2015/05/DSCF3527-square-small.jpg)
+

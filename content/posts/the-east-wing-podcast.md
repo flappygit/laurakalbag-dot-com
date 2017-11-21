@@ -17,5 +17,4 @@ And if you don’t already [subscribe to The East Wing podcast](https://itunes.a
 
 {{< figure class="aligncenter size-full wp-image-2085" alt="The East Wing podcast" src="/images/2013/02/east-wing.png" width="220" height="215" >}}
 
-
 	

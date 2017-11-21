@@ -12,3 +12,4 @@ Last week [my latest column, Breaking Stuff](http://alistapart.com/column/breaki
 I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)
 
 [{{< figure class="aligncenter size-full wp-image-4561" src="/images/2014/10/Breaking-Stuff.png" alt="Breaking Stuff column on A List Apart" width="735" height="740" >}}](http://alistapart.com/column/breaking-stuff)
+

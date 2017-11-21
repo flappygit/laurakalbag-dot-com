@@ -74,7 +74,6 @@ A few people asked about the other apps I used (for development etc.) so I thoug
 
 {{< figure class="attachment_1206 wp-caption aligncenter size-full wp-image-1206" title="screenshot of the apps in my Mac OSX dock" src="/images/2012/10/dock.png" alt="screenshot of the apps in my Mac OSX dock" width="1456" height="64" caption="screenshot of the apps in my Mac OSX dock" >}}
 
-
 1. **Finder. **(*Mac OSX default*)
 * **Mail.app.** (*Mac OSX default*) I want my email available offline and on my iPhone. Mail does that. It may not be feature-filled, but at least Google isn’t snooping around in there…
 2. **Calendar**. (*Mac OSX default*) For calendaring things. Shared calendars is handy.
@@ -109,7 +108,6 @@ A few people asked about the other apps I used (for development etc.) so I thoug
 ‘Industry standard’ and ‘not worth paying for’ are both blights on our industry. Everybody has different needs and different budgets. The apps I use might not be right for you, I’m not telling you that you must use them, and you shouldn’t do that either.
 
 If we keep an open mind, a willingness to try new apps that might better suit our workflows, and the understanding that a good app is worth buying, maybe we’ll finally get a bit closer to those dream apps that can solve all our problems.
-
 
 
 ## 15 comments

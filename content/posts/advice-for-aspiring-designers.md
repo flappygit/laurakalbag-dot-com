@@ -16,7 +16,6 @@ With my mind focused on the aspiration part, I started writing an answer based o
 \* [Aral](https://ar.al) came up with that term. I just love it.
 
 
-
 ## One comment
 
 <ol class="commentlist">

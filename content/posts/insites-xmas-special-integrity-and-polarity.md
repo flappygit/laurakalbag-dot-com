@@ -32,7 +32,6 @@ But life’s too short to do things that don’t make you feel proud. Of course 
 We need to continually question what we’re doing and why we bother. I think I’m right in saying that most of what we do isn’t just “a job.” We do this because we care and we want to make better experiences for everyone.
 
 
-
 ## One comment
 
 <ol class="commentlist">

@@ -207,7 +207,6 @@ Mixins aren’t the only thing you can nest in Sass. You could nest tags within 
   padding-bottom: 10px;
 }
 
-
 /* written in Sass */
 
 .module {

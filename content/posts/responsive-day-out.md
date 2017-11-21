@@ -15,7 +15,6 @@ tags: ["approach", "asset fonts", "attitude", "breakpoints", "capabilities", "co
 
 ---
 
-
 ## The hugeness that is Responsive Web Design
 
 Elliot Jay Stocks described Responsive Web Design as being about “making your site accessible and adaptable to any device, regardless of the design.” Bruce Lawson described it as “make it work everywhere or else you’re a walrus.”
@@ -198,6 +197,7 @@ As a general rule, David suggested we should aim for as few menu items as possib
 It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-2753" alt="David Bushell on types of input" src="/images/2013/04/typesofinput.jpg" width="800" height="476"  caption="David Bushell on types of input">}}](/images/2013/04/typesofinput.jpg)
+
 A few of the different types of navigation David talked about were:
 
 * a print-style table of contents which makes the content hierarchy very clear
@@ -244,7 +244,6 @@ Mark Boulton ended the day on the point that we need to stop trying to be comfor
 This feeling of uncertainty is here for good, and it’s a valuable part of ensuring we make our sites better for those unpredictable situations.
 
 ---
-
 
 ## Related reading
 

@@ -18,6 +18,7 @@ I don’t think this is totally fair, but I’m sure some people might get confu
 Easily said, I know, but some fonts are clearly more suitable for particular designs than others. For example, you wouldn’t use a font that looks like it’s dripping blood on a corporate site, and you’d not use a handwriting-style font on a site about computer programming.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-92 " title="Firey font isn't really suitable for Daisy's Darling Cake shop" src="/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png" alt="Firey font isn't really suitable for Daisy's Darling Cake shop" width="610" height="70" caption="Firey font isn’t really suitable for Daisy’s Darling Cake shop">}}](/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png)
+
 <p>If you’re aiming for clean and modern, go sans-serif. If you’re looking for a slightly more traditional feel, go serif.
  
 ### Don’t use more than two fonts

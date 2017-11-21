@@ -7,5 +7,4 @@ menu:
   weight: 20
 ---
 
-
 # Blog

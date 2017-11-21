@@ -14,3 +14,4 @@ This week we’ve been looking more at natural light, and portraits with foregro
 [{{<figure class="wp-caption aligncenter size-full wp-image-4731" src="/images/2015/05/DSCF4677-small.jpg" alt="Oskar the dog walking on grass" width="1000" height="667" caption="**Oskar walking.** Trying to rotate the shot to make it feel less wonky meant it ended up quite closely cropped.">}}](/images/2015/05/DSCF4677-small.jpg)
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4732" src="/images/2015/05/DSCF4721-small.jpg" alt="Oskar the dog in the hedgerow, with blue flowers and weeds in the foreground" width="1000" height="667" caption="**Oskar in the hedgerow.** I used Ashley’s trick of picking some weeds and holding them in front of the camera.">}}](/images/2015/05/DSCF4721-small.jpg)
+

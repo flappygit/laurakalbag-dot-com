@@ -21,7 +21,6 @@ I try to cover all the basics of the design. I explain my choices regarding layo
 
 ## Why I write justifications
 
-
 1. #### Not all design work can speak for itself
 
 <p>Clients aren’t design specialists so you can’t expect them to ‘get’ your thinking behind a design just by looking at it (And you probably couldn’t expect most other designers to ‘get’ it either!)

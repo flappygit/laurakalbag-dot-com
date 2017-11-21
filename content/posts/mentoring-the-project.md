@@ -15,7 +15,6 @@ Previous posts on the mentoring project:
 
 ---
 
-
 In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.
 
 Now we’ve got our team together, I can elaborate on our client and the brief. I was very lucky to be contacted by the lovely [Mallen Baker](http://www.mallenbaker.net/" target="_blank), who had a great project in mind and was willing to give me, and the mentees I chose, a go.

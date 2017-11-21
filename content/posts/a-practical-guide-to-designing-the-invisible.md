@@ -14,7 +14,6 @@ It took me a few reads to start getting into it. I haven’t been dedicating eno
 
 A Practical Guide to Designing the invisible was my first book to read in this way. It is perfectly divided into five parts, which allowed me to read it one-part-a-day each weekday last week. It took me around twenty to twenty-five minutes to read each part. These are:
 
-
 1. Invisible communication 101
 2. Following the right signs
 3. Using the right palette

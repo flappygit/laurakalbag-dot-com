@@ -50,7 +50,6 @@ When you’ve worked for free, and you’ve put so much time and effort into a p
 Despite the occasional hiccups, I’ve found working with Bardowl immensely rewarding. There’s so much to be said about working for people who really believe and care about what they’re doing. It’s not just about doing design and development right, or business right, but about working with people right. Our CEO Chris Book is an example of somebody who cares about the people he works with. His role as CEO has often mean placating, convincing and cajoling, but he doesn’t just do this as a means to getting his app finished, he genuinely believes in providing value for those working on the project. And doing it all with honesty and transparency. Honesty and transparency are massively underrated.
 
 
-
 ## 2 comments
 
 <ol class="commentlist">

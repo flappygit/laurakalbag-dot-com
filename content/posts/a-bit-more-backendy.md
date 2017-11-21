@@ -1,6 +1,5 @@
 ---
 
-
 title: "Guest on A Bit More Backendy podcast" 
 
 draft: true

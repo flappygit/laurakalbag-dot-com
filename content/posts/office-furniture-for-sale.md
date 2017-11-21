@@ -51,7 +51,6 @@ Bought less than a year ago. Great whiteboard for wheeling around the office, an
 
 {{< figure class="aligncenter size-full wp-image-4809" src="/images/2016/02/31GOSYy3JLL.jpeg" alt="Nobo whiteboard" width="370" height="500" >}}
 
-
 It’s large and heavy (great for writing on, harder to lift.) It’s currently in two pieces: board and stand. It can be dismantled into smaller parts, but the board itself is 1200x900mm, and the wheelbase is probably no shorter than 1250mm in one piece, so you’ll need a vehicle that fits it all in.
 
 <h2 id="guitar">Vintage Shadow 861 Semi Acoustic Guitar (VEC1500N)</h2>

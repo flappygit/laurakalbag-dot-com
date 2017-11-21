@@ -51,7 +51,6 @@ It’s not always a problem if organisers used a fair process and it still resul
 
 Campaigning for diversity is the final controversy. It’s not a fun topic to discuss, and people are very easily hurt if they feel as though they’re being attacked or accused of gender discrimination. Unfortunately this results in all sorts of people reacting in ways that aim to shut up those who are trying to address the imbalance:
 
-
 1.Both men and women have said that men’s opinions on the matter aren’t as valid as women’s opinions. This is sad. While men may not have been able to experience the bias against women first-hand, that shouldn’t mean that they’re not allowed to fight for the equality that they believe in.
 
 > A great analogy from Martin Pilkington “…But you’re not allowed to speak out on women’s rights as you’re not a woman! Nor animal rights as you’re not a pigeon!” ([https://twitter.com/pilky/status/294468887246938115](https://twitter.com/pilky/status/294468887246938115))
@@ -61,7 +60,6 @@ Campaigning for diversity is the final controversy. It’s not a fun topic to di
 3. This is the one that I had feared for so long, and it finally happened to me a couple of weeks ago:
 
 > “Well she certainly wasn’t a ‘token girl’ at our second event, but she appears to want to be branded as one” ([https://twitter.com/leydon/status/294457218114408448](https://twitter.com/leydon/status/294457218114408448))
-
 
 4. The best way to shut women up about equal rights is to suggest that they’re only doing it for selfish reasons.*
 
@@ -74,7 +72,6 @@ I enjoy speaking occasionally, but I’m really more of a fan of attending confe
 I’m still going to fight this one out, though. I want to make the industry a more diverse, interesting and inviting place, and I want to [set a good example for those that come after us](http://laurakalbag.wpengine.com/a-loveletter/ "A loveletter"). I know that I’m quite a confident person, and I feel like I’m in a better position to stand up for us than many others, and I don’t want to waste my opportunity to do so.
 
 ---
-
 
 ### Note
 
@@ -149,7 +146,6 @@ It’s something, as you can imagine, that Andy and I are grappling with with [D
 		</div>
 
 		
-
 
 
 

@@ -13,7 +13,6 @@ To read about why and how I don’t believe this anymore, [please read Women and
 
 ---
 
-
 ## Business…Tech…Conferences…
 
 **Every time** I hear these dreaded phrases, “*Women in business*”, “*Women in tech*”, “*Women at conferences*” I just groan. It’s really boring.

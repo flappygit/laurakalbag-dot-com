@@ -22,7 +22,6 @@ Well I think I’m going to try being more of a mainstream user. I want to under
 I’d say I’ll post in a month’s time and write about whether I’ve noticed a change, but I’m not sure it’ll be as conscious as that. We’ll have to wait and see…
 ---
 
-
 Note: throughout this post I keep saying ‘mainstream.’ This is because I feel that ‘average’ or ‘normal’ aren’t really the right words. I’m trying to talk about that majority of users who are consumers, rather than makers or builders, of the web.
 
 ## 13 comments

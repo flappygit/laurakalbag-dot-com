@@ -14,7 +14,6 @@ This post is an update on [my mentoring project idea](http://laurakalbag.wpengin
 
 ---
 
-
 ## Finding the right project
 
 If you follow me on Twitter, you might have seen that I’m now looking for a different project to work on. Whilst the previous project I had in mind would have been great fun, the client had a very tight deadline. I didn’t want to push that pressure on to students and freelancers who are likely to have other work they need to do in order to pass their studies or pay the bills.

@@ -16,6 +16,7 @@ This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many peop
 Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4863" src="/images/2017/04/006-1024x576.jpg" alt="Screenshot of the Onion homepage" width="1024" height="576" caption="theonion.com">}}](/images/2017/04/006.jpg)
+
 Looking at [the Onion homepage](http://www.theonion.com), you can see it’s loading lots of images and a few videos. It’s mostly images and text content. There’s a big sticky ad at the bottom of the viewport that takes a while to load.
 
 [{{< figure class="aligncenter size-large wp-image-4864" src="/images/2017/04/009-1024x576.jpg" alt="Safari Web Inspector for The Onion: 384 resources, 8MB, 15.24 seconds, 205 errors, 8 warnings" width="1024" height="576" >}}](/images/2017/04/009.jpg)
@@ -66,6 +67,7 @@ You know what that means? Your web performance effort counts for little to noth
 ## Facebook
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4867" src="/images/2017/04/044-1024x576.jpg" alt="Screenshot of my Facebook profile" width="1024" height="576" caption="Me on Facebook">}}](/images/2017/04/044.jpg)
+
 Let’s look at this phenomenon from the perspective of the people browsing the web. We feel like we know Facebook’s game. They show us adverts, and we get to socialise for free. Simple as that?
 
 I don’t give Facebook much info, I get ads for the average 30 year old woman: washing liquid, shampoo, makeup, dresses, more dresses, and sometimes a wild card ad for pregnancy tests. But what happens when Facebook gets a bit more information?
@@ -286,7 +288,6 @@ I’ve got fake news in the title of this talk, but what does all of this have t
 
 First of all we have to look at what constitutes fake news. Fake news is content presented as a news story but with no grounding in reality, let alone journalistic rigour. Fake news roughly fits into three categories:
 
-
 1.Real issues exaggerated to distract you, such as issues that are exaggerated to distract the public.
 2. Propaganda, weaponised speech delivered to achieve a political aim –; a mixture of truth, exaggeration and deception.
 3. [“Disinformatzya,”](http://www.dw.com/en/fake-news-is-a-red-herring/a-37269377) false content deliberately created to muddy the waters of informed public opinion, to make you distrust everything in the news
@@ -431,6 +432,7 @@ We’re not just building cool stuff for fun, we’re building things that affec
 At Ind.ie, we decided we need an [Ethical Design Manifesto](https://ind.ie/ethical-design) for the things we use every day:
 
 [{{< figure class="aligncenter size-large wp-image-4913" src="/images/2017/04/Digital-Assitants-etc.371-1024x576.jpeg" alt="The 3 Rs of Ethical Design" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.371.jpeg)
+
 We need to build products that are decentralised, private, open, interoperable, accessible, secure and sustainable. Because that means a product will respect human rights.
 
 ### Decentralised
@@ -485,6 +487,7 @@ Once our product respects human rights and human effort, we can layer the deligh
 Delightful isn’t just making products fun and fluffy. It’s about creating a genuinely great experience, which is reinforced because it’s built upon the strong foundation of respecting your effort and rights. Basecamp is a good example of this, where they have little touches of delight.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4912" src="/images/2017/04/Digital-Assitants-etc.368-1024x576.jpeg" alt="Screenshot of Basecamp schedule with a cute pen drawing of a Basecamp icon toasting marshmallows over a campfire" width="1024" height="576" caption="The Basecamp schedule when you haven’t had any past events yet">}}](/images/2017/04/Digital-Assitants-etc.368.jpeg)
+
 Basecamp can only get away with whimsical details because they already respect your human rights and effort. As [Sara Wachter-Boettcher wrote in a fabulous article](https://medium.com/@sara_ann_marie/dear-tech-you-suck-at-delight-86382d101575) last year:
 
 > “Quit painting a thin layer of cuteness over fundamentally broken interfaces.”—[Dear Tech, You Suck at Delight, Sara Wachter-Boettcher](https://medium.com/@sara_ann_marie/dear-tech-you-suck-at-delight-86382d101575)

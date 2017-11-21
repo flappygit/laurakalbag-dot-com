@@ -12,6 +12,7 @@ Today I finally got around to playing with [Alfred v2](http://www.alfredapp.com/
 I was playing around with the appearance and made a really minimal theme. There was a handy sharing feature so I thought I may as well share it…
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-2677" alt="Minimal Alfred v2 theme" src="/images/2013/03/alfred-theme.png" width="730" height="540"  caption="Minimal Alfred v2 theme">}}](http://an.lklink.at/NwQZ)
+
 [Grab my Alfred v2 ‘Minimal’ theme](http://an.lklink.at/NwQZ). If you’ve got v2 installed on your machine, this link should auto-add the theme to your app. If you don’t, it won’t do anything!
 
 	

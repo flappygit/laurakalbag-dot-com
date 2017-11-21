@@ -33,7 +33,6 @@ Accessibility isn’t just about wheelchairs or screen readers. Accessibility is
 
 ---
 
-
 Sidenote: The French designers and developers were mostly very knowledgeable about accessibility. I was introduced to a great resource for accessibility: [opquast.com](http://opquast.com/en/). It’s in English as well as French. Thanks KiwiParty!
 
 ## 5 comments

@@ -16,6 +16,7 @@ I was originally planning on making them fortnightly but have already failed as 
 Meeting at the same spot on the [corner of Wilson Avenue and Roedean Road](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968) planning to walk for an hour or so (maybe slightly longer if I continue navigating badly) in [East Brighton Park/Sheepcote valley](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968). I drew some routes on the map below, but I’m a terrible navigator so I can’t promise we’ll stick to them. Some lovely people have been clearing the paths in Sheepcote Valley so it shouldn’t be too much of a jungle exploration!
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-3525 " alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="/images/2013/06/brighton-map.png" width="600" height="330"  caption="The routes (zoomed out) on Google Maps. Select the map to see [the full map.](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)">}}](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)
+
 ## Anyone can join us
 
 * No need to bring a dog if you just want to walk and talk

@@ -16,7 +16,6 @@ Previous posts on the mentoring project:
 
 ---
 
-
 It’s been far too long since I wrote about the mentoring project. I’ve been incredibly busy and really needed to dedicate more time to make it a success (more about that in another post!)
 
 Last time I wrote about the project, we had just started to get the contract sorted. I use an evolved version of [Andy Clarke’s Contract Killer](http://stuffandnonsense.co.uk/projects/contract-killer/) for my client projects. Over the last four years I’ve amended it, and added in extra chunks, to prevent myself from repeating the same mistakes on multiple projects.

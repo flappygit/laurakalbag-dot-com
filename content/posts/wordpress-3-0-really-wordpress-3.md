@@ -14,7 +14,6 @@ This post has three parts. This is part two. Visit the other parts below:
 
 ---
 
-
 ## Really WordPress 3.0
 
 ### Custom Post Types
@@ -54,6 +53,7 @@ I struggled a bit with custom post types at first. I think it It was probably b
 If you, like me, get a bit confused with the huge amount of options for custom post types in the functions.php file, I really would recommend you give [Custom Post Type UI](http://wordpress.org/extend/plugins/custom-post-type-ui/?compatibility%5Bversion%5D=3.0&amp;compatibility%5Btopic_version%5D=0.5.2&amp;compatibility%5Bcompatible%5D=1) by [WebDevStudios](http://webdevstudios.com/) a go. This excellent plugin does just what you would do in your functions.php file but gives it a friendly checkbox and text input interface in your WordPress admin so you needn’t write any code.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-126" title="Custom Post Types UI in action" src="/images/2010/07/Screen-shot-2010-07-16-at-19.27.32-960x433.png" alt="Custom Post Types UI in action" width="640" height="288" caption="Custom Post Types UI in action">}}](/images/2010/07/Screen-shot-2010-07-16-at-19.27.32.png)
+
 For those that more confident, these are the best resources I’ve found on creating custom post types straight into your themes (or plugins):
 
 * [Custom Post Types in WordPress by Justin Tadlock](http://justintadlock.com/archives/2010/04/29/custom-post-types-in-wordpress) (I know, I’m a fan!)
@@ -91,7 +91,6 @@ max_num_pages &gt; 1 ) : ?&gt;</pre>
 <p>
 
 
-
 <div class="gallery-thumb">$post-&gt;ID, ‘post_type’ =&gt; ‘attachment’, ‘post_mime_type’ =&gt; ‘image’, ‘orderby’ =&gt; ‘menu_order’, ‘order’ =&gt; ‘ASC’, ‘numberposts’ =&gt; 999 ) ); $total_images = count( $images ); $image = array_shift( $images ); $image_img_tag = wp_get_attachment_image( $image-&gt;ID, ‘thumbnail’ ); ?&gt;</div>
 <p>
 <p>
@@ -99,7 +98,6 @@ max_num_pages &gt; 1 ) : ?&gt;</pre>
 <p>
 <pre class="brush:php">
 <div id="post-&lt;?php the_ID(); ?&gt;">&gt; 
-
 
 →’, ‘twentyten’ ) ); ?&gt;</div>
 <p>
@@ -109,7 +107,6 @@ max_num_pages &gt; 1 ) : ?&gt;</pre>
 <div id="post-&lt;?php the_ID(); ?&gt;">&gt;</p>
 <h2 class="entry-title"></h2>
 <p>
-
 
 →’, ‘twentyten’ ) ); ?&gt; ‘</p>
 <div class="page-link">‘ . __( ‘Pages:’, ‘twentyten’ ), ‘after’ =&gt; ‘</div>
@@ -139,7 +136,6 @@ Leaving all other posts happily served by index.php. This would keep your templa
 As I’ve said before, I’m no PHP developer, but if somebody could explain the logic of this particular loop.php file to me, it’d make me feel a lot happier!
 
 ---
-
 
 This post has three parts. This is part two. Visit the other parts below:
 
@@ -189,7 +185,6 @@ This post has three parts. This is part two. Visit the other parts below:
 
 
 
-
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-22">
 			<div class="comment-author vcard">
@@ -228,7 +223,6 @@ This post has three parts. This is part two. Visit the other parts below:
 		</div>
 
 		
-
 
 
 

@@ -38,6 +38,7 @@ It works the other way round too. By constructively criticising other people’s
 Late last night the furore over the Gap logo redesign came about.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-232" title="The new Gap logo" src="/images/2010/10/Screen-shot-2010-10-06-at-10.09.54.png" alt="The new Gap logo" width="166" height="90" caption="The new Gap logo">}}](/images/2010/10/Screen-shot-2010-10-06-at-10.09.54.png)
+
 [Scrivs](http://alpha.drawar.com/posts/The-World-isn-t-a-Dribbble-Showcase "The World isn't a Dribbble Showcase on Drawar") puts it way better than I could but it seems like madness. The logo isn’t *that bad*. It’s average, and thus an improvement on 99% of logos in the world. Get some perspective!
 
 ### So quick to be rude about other people’s work
@@ -266,7 +267,6 @@ Actually I&#039;m being to half-full here. My point would be that the few arroga
 		</div>
 
 		
-
 
 
 

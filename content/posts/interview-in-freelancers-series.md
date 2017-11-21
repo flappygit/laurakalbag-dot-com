@@ -10,6 +10,7 @@ tags: []
 Last week Allan McAvoy posted up [the interview he did with me](http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag "An interview with Laura Kalbag") as part of his [Freelancers series](http://allanmcavoy.co.uk/blog/category/freelancers). Some of the questions are fairly standard, but there’s also some unusual ones like “favourite colour for design” and “typical day in the life…”
 
 [{{< figure class="aligncenter size-full wp-image-3789" alt="Screenshot of http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag" src="/images/2013/07/Screen-Shot-2013-07-01-at-21.19.29.png" width="640" height="470" >}}](/images/2013/07/Screen-Shot-2013-07-01-at-21.19.29.png)
+
 	## One comment
 
 <ol class="commentlist">

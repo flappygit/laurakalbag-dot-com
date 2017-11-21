@@ -59,7 +59,6 @@ It was definitely one of the best events I’ve attended in a while, and one tha
 
 ---
 
-
 Note: please forgive my enthusiasm in this post, I hope it’s not ***too*** annoying, but I had a really good time!
 
 ## 3 comments

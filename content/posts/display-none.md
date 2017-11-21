@@ -7,7 +7,6 @@ categories: ["Design Issues", "Markup"]
 tags: ["CSS", "HTML", "javascript", "learning", "mobile first", "progressive enhancement", "responsive web design", "small screens"]
 ---
 
-
 ## *Or* The things you think are common knowledge but really they aren’t.
 
 [I was on the ShopTalk show](http://shoptalkshow.com/episodes/040-with-laura-kalbag/) a few weeks ago, and a few people have asked me what I meant when I said “`display: none;` naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
@@ -49,7 +48,6 @@ Then, I would use media queries, or some kind of clever javascript, to load in t
 The good [Steve Marshall](http://twitter.com/SteveMarshall) has pointed out that there are also accessbility issues related to `display: none;`. I didn’t want to cover too much in the post, but in case you want to know more about that too, I recommend [Aaron Gustafson’s ‘Now You See Me’ on A List Apart](http://www.alistapart.com/articles/now-you-see-me/) and [Chris Coyier’s ‘Places It’s Tempting To Use Display: None; But Don’t on CSS Tricks](http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/). [/edit]
 
 ---
-
 
 ## Writing about markup
 
@@ -177,7 +175,6 @@ This could potentially make for a larger initial page load.
 
 
 
-
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-354">
 			<div class="comment-author vcard">
@@ -249,7 +246,6 @@ I agree there are many use cases –; but this isn’t what’s implied here. I 
 		</div>
 
 		
-
 
 
 

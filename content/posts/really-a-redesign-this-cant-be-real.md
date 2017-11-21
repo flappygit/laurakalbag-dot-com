@@ -30,7 +30,6 @@ Since I started the redesign process, I knew that I’d have to let go early on.
 I could go on forever about my decisions and choices and ifbutsmaybes so I’ll cut it short here. I might write some more posts about the design at some point, but I wouldn’t want to bore you to death…
 
 
-
 ## 11 comments
 
 <ol class="commentlist">

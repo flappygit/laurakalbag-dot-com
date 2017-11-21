@@ -30,6 +30,7 @@ I made use of the 3G signal on my phone to make notes on Twitter about the confe
 (*You might want to click the image to see it larger so you can read the really dinky text.)*
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-308 " title="My notes from New Adventures in Web Design" src="/images/2011/01/new-adventures-in-web-design.gif" alt="My notes from New Adventures in Web Design" width="640" height="2752" caption="My notes from New Adventures in Web Design (click to view full size)">}}](/images/2011/01/new-adventures-in-web-design.gif)
+
 Unlike [my notes on dConstruct](http://laurakalbag.wpengine.com/dconstruct-2010/ "dConstruct 2010"), I wanted to connect the different themes running through the talks as they made the day so much more than just random talks.
 
 ### Running themes

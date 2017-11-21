@@ -19,7 +19,6 @@ I arrived late for Aarron’s talk so it took me a while to engage properly.
 [Tweet](https://twitter.com/laurakalbag/status/70409366393720832)
 ---
 
-
 ## Mike Kus –; Designing for Humans
 
 [Tweet](https://twitter.com/laurakalbag/status/70413019372462080)
@@ -29,7 +28,6 @@ I arrived late for Aarron’s talk so it took me a while to engage properly.
 [Tweet](https://twitter.com/dstridsberg/status/70416403051716608)
 [Tweet](https://twitter.com/laurakalbag/status/70419338548625409)
 ---
-
 
 ## Ian Stewart –; Power Your Design With WordPress
 
@@ -50,7 +48,6 @@ I arrived late for Aarron’s talk so it took me a while to engage properly.
 [Tweet](https://twitter.com/laurakalbag/status/70445610720960512)
 ---
 
-
 ## Robin Christopherson –; Accessibility and Inclusive Design –; What’s Hot and What’s Not
 
 This was a short talk and FOWD get Robin to talk about accessibility every year. It’s always inspiring and shows you how easy it is to make browsing reasonable for everybody.
@@ -58,7 +55,6 @@ This was a short talk and FOWD get Robin to talk about accessibility every year.
 [Tweet](https://twitter.com/laurakalbag/status/70445610720960512)
 [Tweet](https://twitter.com/laurakalbag/status/70446198737211392)
 ---
-
 
 ## Daniel Rhatigan –; Web Fonts: Type Choice &amp; Type Use
 
@@ -71,7 +67,6 @@ This wasn’t at all the sales pitch talk that Monotype presented last year. Dan
 [Tweet](https://twitter.com/laurakalbag/status/70469387596992512)
 [Tweet](https://twitter.com/laurakalbag/status/70469697627369473)
 ---
-
 
 ## Samuel Bowles –; Extreme Design — Secrets to Successful Design Pairing
 
@@ -88,7 +83,6 @@ This wasn’t at all the sales pitch talk that Monotype presented last year. Dan
 [Tweet](https://twitter.com/laurakalbag/status/70478426733150208)
 [Tweet](https://twitter.com/laurakalbag/status/70478481749839872)
 ---
-
 
 ## Ian Hamilton –; Demystifying Accessibility
 
@@ -107,7 +101,6 @@ This wasn’t at all the sales pitch talk that Monotype presented last year. Dan
 [Tweet](https://twitter.com/laurakalbag/status/70489256719687680)
 ---
 
-
 ## Dan James –; Open Business
 
 [Tweet](https://twitter.com/laurakalbag/status/70508556541100032)
@@ -118,5 +111,4 @@ This wasn’t at all the sales pitch talk that Monotype presented last year. Dan
 [Tweet](https://twitter.com/laurakalbag/status/70511168229351424)
 [Tweet](https://twitter.com/laurakalbag/status/70511914194714624)
 [Tweet](https://twitter.com/laurakalbag/status/70513840336535552)
-
 

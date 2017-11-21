@@ -43,7 +43,6 @@ I pledge to be better, and set a positive example for others in our community, i
 
 ---
 
-
 ### The appeal
 
 Please blog about diversity. It doesn’t matter if you want to pledge for yourself or not, we just need to make it clear that we don’t accept discrimination in our industry. If you don’t have a blog, why not post a quick tweet? If you’re feeling unsure, [read these two](http://farukat.es/journal/2013/09/696-primer-sexism-tech) [primers first](http://aralbalkan.com/notes/on-false-dichotomies-and-diversity/).

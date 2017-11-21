@@ -12,3 +12,4 @@ I’m speaking at the very first [418:conf web meetup](http://418conf.co.uk) on�
 If you’re local, you should get your ticket now. They’re free!
 
 [{{< figure class="aligncenter size-full wp-image-4644" src="/images/2015/04/418conf.png" alt="Screenshot of the 418conf homepage" width="800" height="1090" >}}](http://418conf.co.uk)
+

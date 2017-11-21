@@ -18,6 +18,7 @@ I’ve been working to create a more consistent style language across our logos 
 ## Oskar status
 
 [{{<figure class="wp-caption aligncenter wp-image-4833 size-large" src="/images/2016/03/Screen-Shot-2016-03-29-at-16.50.33-1024x642.png" alt="Oskar the dog lying curled up on his raised canvas camping-style bed" width="1024" height="642" caption="Cosy on his fancy office bed…">}}](/images/2016/03/Screen-Shot-2016-03-29-at-16.50.33.png" rel="attachment wp-att-4833)
+
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-2016/1129](https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-2016/1129)
 
 	

@@ -15,7 +15,6 @@ Even though the specification for HTML5 isnâ€™t yet complete, those of us who ar
 
 The book is split into six chapters:
 
-
 1. A Brief History of Markup
 2. The Design of HTML5
 3. Rich Media
@@ -78,7 +77,6 @@ Jeremy Keith writes in a fun yet informative tone that makes you feel like youâ€
 
 
 
-
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-16">
 			<div class="comment-author vcard">
@@ -117,7 +115,6 @@ Jeremy Keith writes in a fun yet informative tone that makes you feel like youâ€
 		</div>
 
 		
-
 
 
 

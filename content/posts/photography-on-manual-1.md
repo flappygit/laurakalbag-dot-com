@@ -24,6 +24,7 @@ The first task was to switch my camera to manual…
 [{{<figure class="wp-caption aligncenter size-full wp-image-4660" src="/images/2015/05/DSCF3456-small.jpg" alt="Quite blurry photo of Oskar the dog scratching" width="1500" height="1000" caption="**Shutter speed 2**. The sharpest of the Osky shots.">}}](/images/2015/05/DSCF3456-small.jpg)
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4661" src="/images/2015/05/DSCF3468-small.jpg" alt="Blurry photo of Oskar the dog scratching" width="1500" height="1000" caption="**Shutter speed 3**. The blurriest of the Osky shots.">}}](/images/2015/05/DSCF3468-small.jpg)
+
 I’m also going to try to take more than just dog photos!
 
 	

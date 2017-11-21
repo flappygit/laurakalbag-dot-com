@@ -17,7 +17,6 @@ Previous posts on the mentoring project:
 
 ---
 
-
 It’s been four months since we started the mentoring project and now it’s drawing to a close.
 
 It’s been very different from what I expected, I didn’t realise I’d learn so much just through explaining to Sibylle, Yago and Phil what I do and why I do it. They really wanted to get to the bottom of the ideal processes when creating sites and working with clients and it made me want to do the same.
@@ -75,7 +74,6 @@ There were times where enviable teamwork took place. Smooth communication, smart
 It was my first go at mentoring a web project and I knew it was unlikely to be perfect. I was unprepared for how much it would challenge me, my working processes, and my abilities (or lack thereof) as a leader.&nbsp;I wasn’t great, and I really appreciate the risk Sibylle, Yago and Phil took in joining me on this project.
 
 These are guidelines to help me do better next time, I hope they might be helpful to anyone else looking to mentor other people who are new to the industry or client work:
-
 
 1. ### Guidelines for a better business
 

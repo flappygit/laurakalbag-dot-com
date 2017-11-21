@@ -16,7 +16,6 @@ Last month I was lucky enough to see Jonathan speak about [State-Based Design](h
 
 As a front-end developer, I’ve long been obsessed about writing really good clean and semantic HTML and CSS. Frameworks and boilerplates tend to make me cringe. Accessibility and [progressive enhancement](http://www.alistapart.com/articles/understandingprogressiveenhancement/) are what I value the most. It was lovely to read a book about CSS that was from a practical point of view but still held those ideals. The SMACSS core goals are:
 
-
 1. Increase the semantic value of a section of HTML and content
 2. Decrease the expectation of a specific HTML structure
 

@@ -22,6 +22,7 @@ The WordPress London guys kindly filmed my talk and I’ve included it below. Th
 I know I rave about the wonderful Mac app [Sketch](http://www.bohemiancoding.com/sketch/) non-stop on Twitter, but this was a chance for me to show people how easy Sketch is to use on a particular project. In the screenshot below you can see how I made use of their multiple artboards (canvases) among other features. As explained in the talk, I design my icons side-by-side with the existing icons to achieve a consistent feel.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-1993 " alt="screenshot of the Sketch app showing WordPress admin icons on different artboards for different sizes" src="/images/2013/02/icons-in-sketch.png" width="1100" height="550"  caption="Using multiple artboards for WordPress admin icons in Sketch">}}](/images/2013/02/icons-in-sketch.png)
+
 If you’re already a lucky owner of Sketch, and want to have a closer look at how the icons were made, you can [download the .sketch file](http://an.lklink.at/MauH) (it’s about 670kb.)
 
 ### And the book I recommended…

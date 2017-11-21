@@ -7,7 +7,6 @@ categories: ["Learning"]
 tags: ["code", "javascript", "learning", "programming", "workshop"]
 ---
 
-
 ## Programming block
 
 I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be *really really* good at HTML first, and **then** CSS and **then** JavaScript, but I somehow always stopped short of actually learning JavaScript properly.

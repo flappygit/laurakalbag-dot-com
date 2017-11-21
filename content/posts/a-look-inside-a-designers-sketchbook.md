@@ -1,6 +1,5 @@
 ---
 
-
 title: "A look inside a designer’s sketchbook"
 draft: true
 colours: ["#646464", "#b65b41", "#c84e26", "#383838", "#e67252", "#0a0a0a", "#ffffff"]

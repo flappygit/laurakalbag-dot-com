@@ -22,6 +22,7 @@ I started on the 12th December last year, with a quick sketch. I tried really ha
 This week I wanted to draw a bird. That’s not something I could draw off the top of my head, so I looked up a reference image that had the detail I wanted to use. Then I drew it in a fair amount of detail. This probably took about 15 minutes. And I was quite happy with the results, finally there was another sketch I was happy with sharing online.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4234" alt="sketch of a chaffinch" src="/images/2014/01/screen_shot_2014-01-27_at_12.07.11.png" width="485" height="645"  caption="Sketch of the day #46">}}](/images/2014/01/screen_shot_2014-01-27_at_12.07.11.png)
+
 And this got me on a nature theme, I drew a squirrel, a starling and a frog in the following days. This was so much fun, and a satisfying distraction from my gloominess. Each sketch took progressively longer, but I don’t mind because I’m enjoying the process, and I’m doing it for me.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4235" alt="sketch of a squirrel" src="/images/2014/01/screen_shot_2014-01-28_at_09.09.54.png" width="479" height="364"  caption="Sketch of the day #47">}}](/images/2014/01/screen_shot_2014-01-28_at_09.09.54.png)
@@ -29,9 +30,11 @@ And this got me on a nature theme, I drew a squirrel, a starling and a frog in t
 [{{<figure class="wp-caption aligncenter size-full wp-image-4236" alt="sketch of a starling" src="/images/2014/01/screen_shot_2014-01-29_at_10.36.32.png" width="444" height="477"  caption="Sketch of the day #48">}}](/images/2014/01/screen_shot_2014-01-29_at_10.36.32.png)
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4237" alt="sketch of a frog" src="/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png" width="472" height="355"  caption="Sketch of the day #45 (I went back to 45 so I could fill a whole page)" >}}](/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png)
+
 I’m not sure how I feel about creating work from other people’s reference photos. It feels like cheating somehow. I took the photo of the frog myself, so I was happier with that. I’d assemble my own still life structures, like we did at school, but I don’t think I could find subject matter anywhere near as interesting as the nature shots I can find on the web!
 
 This morning I’ve been the most ambitious so far. I cracked open a box of watercolour pencils I got given. I’m not great at handling watercolour, as most of my painting has been done in acrylic, but I think this will be fun to improve on.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4238" alt="watercolour/pencil drawing of a ladybird" src="/images/2014/01/screen_shot_2014-01-31_at_09.21.13.png" width="642" height="482"  caption="Sketch of the day #49">}}](/images/2014/01/screen_shot_2014-01-31_at_09.21.13.png)
+
 I’ve no idea if I’ll manage to get to 365 sketches. I want to go back and fill in the empty slots too, so I’ve got lots of work to do. It’s not something I want to become a chore, but it’s a nice excuse to improve my old-school drawing skills.

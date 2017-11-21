@@ -1,6 +1,5 @@
 ---
 
-
 title: "A little realign"
 draft: true
 colours: ["#2a4d9d", "#703967", "#24478b", "#2c2c62", "#509fe1", "#1b144a", "#ffffff"]
@@ -26,9 +25,11 @@ Now I’ve rewritten all the CSS from scratch using Sass, and added in a few new
 I love Avenir, I really do, but I was increasingly aware that it can be hard work to read as body text. After falling in love with [Brandon Text](http://hvdfonts.com/#189-Brandon%20Text "Brandon Text typeface"), I decided it was a nice evolution from Avenir, keeping the geometric shapes but in a softer, more legible, way.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4455" alt="Avenir as display and body text" src="/images/2014/05/previous-typography.jpg" width="721"  caption="Avenir as display and body text on the old version of my site">}}](/images/2014/05/previous-typography.jpg)
+
 I recently read Tim Brown’s fantastic [Combining Typefaces](http://nicewebtype.com/notes/2013/04/23/pocket-guide-to-combining-typefaces/) book and felt encouraged to be braver with my typefaces choices. I didn’t want to just keep using different weights of the same family as I had before. After some [deliberation](https://dribbble.com/shots/1510342-Freight-Micro-and-Brandon-Text-dilemma?list=users&amp;offset=6 "Dribbble shots showing the process of my heading typeface choice") and advice, I settled on [Arek](http://www.rosettatype.com/Arek) for headings, to add a bit of quirky personality to my site. This is the first time I’ve used [Fontdeck](http://fontdeck.com) properly, and I’m really pleased with the quality of the font and the speedy rendering.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4456" alt="Arek for the display text, and Brandon Text for the body text" src="/images/2014/05/new-typography.jpg" width="721"  caption="Arek for the display, and Brandon Text for the body on the new realign">}}](/images/2014/05/new-typography.jpg)
+
 I’m both self-hosting and using external JavaScript to pull in fonts for my site. Brandon Text is self-hosted whereas Arek is hosted on Fontdeck. I can’t quite make up my mind whether I prefer to suffer slow loading times on my self-hosted fonts, or the risk of my site depending on another site for the fonts to load with a font delivery service.
 
 ## Simplify
@@ -36,26 +37,30 @@ I’m both self-hosting and using external JavaScript to pull in fonts for my si
 The illustrations had to go. I’m always trying to tame my temptation to over-decorate, and while the illustrations in the previous version were a nice responsive bonus for large screens, a cleaner design is less distracting.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4460" alt="Previous homepage layout, with portfolio images, blog posts and a messy illustration" src="/images/2014/05/previous-homepage-991x1024.jpg" width="991" height="1024"  caption="Previous homepage layout, with portfolio images, blog posts and a messy illustration">}}](/images/2014/05/previous-homepage.jpg)
+
 For a long time, my homepage was my most hated page. And the most visited. It just felt like everything had been thrown on, it was unstructured and untidy. Given that the second most popular area of my site is the Past Projects, I decided to include twelve (nicely divisible for smaller screen sizes) images from my past projects and a brief introduction.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4458" alt="New version of the homepage, with just an introduction and larger portfolio images" src="/images/2014/05/new-homepage-1024x743.jpg" width="1024" height="743"  caption="New version of the homepage, with just an introduction and larger portfolio images">}}](/images/2014/05/new-homepage.jpg)
+
 WordPress, by default, gives you so many options for meta information on archive pages. I previously listed the amount of comments, categories and tags on each post on the blog archive. On the projects archive I listed the dates and type of project. I realised these were unnecessary chunks of information that were easy enough to find on the single post or project pages. Just because I *could* add everything to each template, it didn’t mean I should. Less repetitive content means the pages are now cleaner, easier to read, and nowhere near as long as before.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4459" alt="Previous blog, showing comments, categories and tags for each post" src="/images/2014/05/previous-blog-1024x541.jpg" width="1024" height="541"  caption="Previous blog, with lots of information about each post">}}](/images/2014/05/previous-blog.jpg)
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4457" alt="New blog post layout without comments, tags or category information" src="/images/2014/05/new-blog-1024x541.jpg" width="1024" height="541"  caption="New blog post layout with no unnecessary meta information">}}](/images/2014/05/new-blog.jpg)
+
 ## New projects with Dribbble shots
 
 I’ve been terrible at keeping my portfolio up to date in the last year. I’ve still got five projects that are halfway to being documented, but I’ve added four recent projects with some more in-depth explanations of the process. I want to keep adding more useful explanations to each project, making it more of a case study, so they’ll inevitably take a little longer.
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4454" alt="thumbnails of four new case studies" src="/images/2014/05/Screen-Shot-2014-05-02-at-13.07.28-1024x256.png" width="1024" height="256"  caption="four new case studies: Indie Phone, Freelancing map illustration, Rachel Andrew’s site and the Turbine logo">}}](/images/2014/05/Screen-Shot-2014-05-02-at-13.07.28.png)
+
 After hearing [Andy Clarke chat with Dan Cederholm on Unfinished Business](http://unfinished.bz/37) a few months ago, I shamelessly borrowed Andy’s great idea to include Dribbble shots from a project in my portfolio. I found a handy plugin to grab my Dribbble shots as they’re posted and add them into WordPress, so I can now easily connect my Dribbble shots to the relevant post and include a little gallery at the end of each project case study.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4453" alt="four Dribbble shots showing the rocket logo design process" src="/images/2014/05/Screen-Shot-2014-05-02-at-12.58.24.png" width="831" height="703"  caption="progress shots from the Indie Phone project">}}](/images/2014/05/Screen-Shot-2014-05-02-at-12.58.24.png)
+
 ## There’s probably more to do…
 
 As ever, there’s always more testing to be done. I don’t expect this site to be perfect, but I thought it was about time I hurried up and pushed it live. If you spot anything wonky, please let me know in the comments, [on Twitter](http://twitter.com/laurakalbag) or [send me an email](http://laurakalbag.wpengine.com/contact-me/ "Contact Me"). I’ll be very grateful!
-
 
 
 ## 2 comments

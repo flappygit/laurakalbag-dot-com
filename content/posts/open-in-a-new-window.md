@@ -11,7 +11,6 @@ I’ve been working with a client who wants every external link on their site to
 
 I understand their concern. *I really do*. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.
 
-
 1. ### The Back button is the second most-used form of navigation.
 
 If a user wants to go back to your site, they can. If you open in a new window or tab, you make the ‘Back’ button useless. Don’t treat your users like they’re idiots that need to be led-around by the nose. (It helps to be helpful, but not patronising!)
@@ -35,7 +34,6 @@ Some mobile browsers may just ignore your ‘Open in New Window’ suggestion as
 Please be considerate of your users, and don’t treat them like they don’t know what they’re doing. For those that *really* don’t know what they’re doing, keep it simple. If users remember yours as the site that was easy to use, that’s going to make you a lot more popular than forcing them to look at your content ever will.
 
 ---
-
 
 Some other handy articles I found on this subject:
 

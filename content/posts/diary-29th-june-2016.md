@@ -18,6 +18,7 @@ Oh, and I nearly forgot the…
 ## Oskar status
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4845" src="/images/2016/06/2016-06-29.jpg" alt="Oskar the husky dog on top of a hill" width="840" height="630" caption="King of the park">}}](/images/2016/06/2016-06-29.jpg)
+
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-wednesday-29th-june-2016/1234](https://forum.ind.ie/t/laura-s-diary-wednesday-29th-june-2016/1234)
 
 ## One comment

@@ -17,7 +17,6 @@ Sometimes it makes me giggle when I know somebody is an individual ‘me’ and 
 
 I can see there’s a couple of reasons why people feel the need to pretend to be bigger than they really are:
 
-
 1. It makes them look big and official to others, making them look more trustworthy. *That company won’t run away with my money, but that single cowboy there might do*.
 2. It seems to give them some kind of prestige over that teenage kid working in his bedroom. *Oh, it’s not just a student, they’re a proper company*.
 
@@ -233,9 +232,6 @@ The only pride I have &amp; take is in the quality of the apps I deliver to my c
 
 
 
-
-
-
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-57">
 			<div class="comment-author vcard">
@@ -284,7 +280,6 @@ There&#039;s nothing arrogant about saying you do it all when you really *do* do
 		</div>
 
 		
-
 
 
 
@@ -430,7 +425,6 @@ She took a job working for a chain of hotels as marketing manager, which had hea
 		</div>
 
 		
-
 
 
 
@@ -620,8 +614,6 @@ Then, at some stage, once that’s been going on for a while and you decide to t
 		</div>
 
 		
-
-
 
 
 

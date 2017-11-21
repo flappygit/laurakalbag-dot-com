@@ -16,3 +16,4 @@ On my last day in Berlin, I took a lot more photos. Last night I started post-pr
 [{{<figure class="wp-caption aligncenter size-full wp-image-4677" src="/images/2015/05/DSCF3839-original-small.jpg" alt="Street sign saying ‘Reichpietschufer’ in front of a chestnut tree" width="1500" height="1000" caption="**Reichpietschufer, original.** It was a bright but overcast day, so the original was high contrast but a bit dull.">}}](/images/2015/05/DSCF3839-original-small.jpg)
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4678" src="/images/2015/05/DSCF3839-small.jpg" alt="Street sign saying ‘Reichpietschufer’ in front of a chestnut tree" width="1500" height="1000" caption="**Reichpietschufer.** I wanted to soften it a little in post-processing, so it has a bit more of a retro feel. I also straightened it so the sign is along a properly horizontal line.">}}](/images/2015/05/DSCF3839-small.jpg)
+

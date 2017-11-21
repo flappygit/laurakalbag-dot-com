@@ -16,3 +16,4 @@ It’s an online event, so you can attend from wherever you have an internet con
 Individual tickets are just $99, but you can get a whole 20% off if you use the code *LAURA*.
 
 [{{< figure class="aligncenter size-large wp-image-4628" src="/images/2015/04/Sherpa-Summit-1024x839.png" alt="Sherpa Summit - the virtual, live, web professionals conference" width="1024" height="839" >}}](http://environmentsforhumans.com/2015/web-sherpa-summit/)
+

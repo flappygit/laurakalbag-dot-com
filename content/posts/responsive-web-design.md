@@ -17,7 +17,6 @@ The reason why I say ‘*for years to come*‘ is that Responsive Web Design doe
 
 The book is split into five easily-digested chapters:
 
-
 1. Our Responsive Web
 2. The Flexible Grid
 3. Flexible Images

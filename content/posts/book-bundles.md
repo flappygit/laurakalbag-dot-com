@@ -163,3 +163,4 @@ Sorry, these are already gone:
 ### The Ologies Bundle
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4761" src="/images/2015/06/The-Ologies.jpg" alt="Mythologies by Roland Barthes, The Decisive Moment by Jonah Lehrer, Here Comes Everybody by Clay Shirky" width="1200" height="388" caption="*Mythologies* by Roland Barthes, *The Decisive Moment *by Jonah Lehrer, *Here Comes Everybody *by Clay Shirky (Below 1kg) **£8**">}}](/images/2015/06/The-Ologies.jpg)
+

@@ -14,7 +14,6 @@ This post has three parts. This is part one. Visit the other parts below:
 
 ---
 
-
 I’m a big fat WordPress fan. I love the [people behind it](http://automattic.com/ "Automattic, the people behind WordPress"), I love [the ethics](http://www.google.com/hostednews/afp/article/ALeqM5igVn4hcj6ZNWlawSvzLvgEMkZmkQ "AFP News--Blogging guru chips away at Great Firewall of China")and I love how it makes it easy for me to make cool sites that my clients can update themselves.
 
 Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients. However, it was getting to the point where I couldn’t offer clients an easy way to input content that wasn’t a standard page or a standard blog post without getting a bit hacky with posts, categories and tags.
@@ -43,9 +42,11 @@ First, you’ll need to enable featured images in your functions.php file. This 
 Then you can see the Featured Image box appear in your post and page editors.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-121" title="Featured Image box in the Post editor" src="/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png" alt="Featured Image box in the WordPress Post editor" width="299" height="82" caption="Featured Image box in the Post editor">}}](/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png)
+
 The image selection process is identical to that of adding standard images into the post. You can choose to select from your computer, from a URL or from the Media Library. All you need to make sure is that, instead of hitting the ‘Insert into Post’ button, you select ‘Use as featured image’.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-123" title="Ensure you select 'Use as featured image'" src="/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png" alt="When adding a featured image to a WordPress post, ensure you select 'Use as featured image' when selecting an image" width="645" height="256" caption="Ensure you select ‘Use as featured image’">}}](/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png)
+
 If you only want to allow Featured Images for posts in your theme, you can specify this through:
 
 <pre>add_theme_support( 'post-thumbnails', array( 'post' ) );</pre>
@@ -76,14 +77,12 @@ If you wanted to tag your film reviews with different actors names, but still ke
 
 These are a bit trickier to implement than post thumbnails. Not much, but there’s a bit more to explain in the functions.php file, so if you want to know more I’d recommend that you visit one (or all) of the fantastic resources that I use, below:
 
-
 1.[Custom Taxonomies on the WordPress Codex](http://codex.wordpress.org/Custom_Taxonomies)
 2. [Custom Taxonomies in WordPress 2.8 by Justin Tadlock](http://justintadlock.com/archives/2009/05/06/custom-taxonomies-in-wordpress-28)
 3. [Creating a page template that lists all your custom taxonomies by Justin Tadlock](http://justintadlock.com/archives/2009/05/02/creating-a-page-template-that-lists-all-of-your-wordpress-taxonomies)
 4. [Introducing WordPress 3 Custom Taxonomies on NetTuts](http://net.tutsplus.com/tutorials/wordpress/introducing-wordpress-3-custom-taxonomies/)
 
 ---
-
 
 This post has three parts. This is part one. Visit the other parts below:
 
