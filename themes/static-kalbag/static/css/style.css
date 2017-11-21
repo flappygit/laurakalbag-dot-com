@@ -119,3 +119,19 @@ blockquote {
 .site-footer h3 {
   font-style: italic;
 }
+figure {
+  margin: 1em 0 2em;
+}
+figure a {
+  display: block;
+}
+img {
+  margin: 1em 0;
+  max-width: 100%;
+}
+figure img {
+  margin-bottom: 0;
+}
+p {
+  margin: 0 0 1em;
+}
