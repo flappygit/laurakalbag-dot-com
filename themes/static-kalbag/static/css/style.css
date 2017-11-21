@@ -138,6 +138,9 @@ figure img {
 .posts-list li {
   list-style-type: none;
 }
+a {
+  color: #000;
+}
 p {
   margin: 0 0 1em;
 }
