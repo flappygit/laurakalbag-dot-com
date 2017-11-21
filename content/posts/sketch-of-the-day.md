@@ -30,7 +30,7 @@ And this got me on a nature theme, I drew a squirrel, a starling and a frog in t
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4236" alt="sketch of a starling" src="/images/2014/01/screen_shot_2014-01-29_at_10.36.32.png" width="444" height="477"  caption="Sketch of the day #48">}}](/images/2014/01/screen_shot_2014-01-29_at_10.36.32.png)
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-4237" alt="sketch of a frog" src="/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png" width="472" height="355"  caption="Sketch of the day #45 (I went back to 45 so I could fill a whole page)<span style=" font-size: 14px; line-height: 1.5em;"></span>">}}](/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png)
+[{{<figure class="wp-caption aligncenter size-full wp-image-4237" alt="sketch of a frog" src="/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png" width="472" height="355"  caption="Sketch of the day #45 (I went back to 45 so I could fill a whole page)" >}}](/images/2014/01/screen_shot_2014-01-30_at_09.42.39.png)
 I’m not sure how I feel about creating work from other people’s reference photos. It feels like cheating somehow. I took the photo of the frog myself, so I was happier with that. I’d assemble my own still life structures, like we did at school, but I don’t think I could find subject matter anywhere near as interesting as the nature shots I can find on the web!
 
 This morning I’ve been the most ambitious so far. I cracked open a box of watercolour pencils I got given. I’m not great at handling watercolour, as most of my painting has been done in acrylic, but I think this will be fun to improve on.
