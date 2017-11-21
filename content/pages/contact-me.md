@@ -6,8 +6,6 @@ menu:
  main: {}
 ---
 
-# Contact Me
-
 ## The Basics
 
 {{< emailaddress "Email" >}}.
