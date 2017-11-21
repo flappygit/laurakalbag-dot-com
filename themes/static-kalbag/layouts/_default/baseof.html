@@ -18,6 +18,9 @@
 		{{ end }}
 
 		<link href='{{ "css/style.css" | absURL }}' rel='stylesheet' type="text/css" />
+
+		{{ partial "colour-theme.html" . }}
+
 		{{ block "favicon" . }}
 			{{ partial "site-favicon.html" . }}
 		{{ end }}
