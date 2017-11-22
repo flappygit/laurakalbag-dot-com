@@ -232,7 +232,8 @@ figcaption p {
 .posts-list li {
   list-style-type: none;
 }
-.posts-list h2 a {
+.posts-list h2 a,
+.posts-list h3 a {
   text-decoration: none;
 }
 .posts-list .entry-meta {

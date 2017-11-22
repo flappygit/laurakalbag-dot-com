@@ -5,7 +5,19 @@
 	{{ $section := where .Data.Pages "Section" .Section }}
 	<ul class="posts-list">
 		{{ range $section }}
-			<li>{{ partial "summary.html" . }}</li>
+			<li>
+				<h2>
+					<a href="{{ .URL }}">
+					{{ .Title }}
+					</a>
+				</h2>
+				<p class="entry-meta">Posted: {{.Date.Format "2 January 2006"}}</p>
+				<div class="summary">
+					<p>
+					{{ .Summary }} <a href="{{ .URL }}" title="Read the post titled {{ .Title }}">Read more</a>
+					</p>
+				</div>
+			</li>
 		{{ end }}
 	</ul>
 {{ end }}

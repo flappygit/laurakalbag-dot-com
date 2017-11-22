@@ -20,7 +20,7 @@
 					</h2>
 				{{ end }}
 				<ul class="posts-list">
-				{{ range $section }}
+				{{ range (first 3 $section) }}
 					{{ partial "summary.html" . }}
 				{{ end }}
 				</ul>
