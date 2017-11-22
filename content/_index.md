@@ -7,7 +7,7 @@ menu:
   weight: -20
 ---
 
-## Honesty, craft, and indie design.
+# Hi, friend.
 
 Hello! I’m a friendly designer originally from the UK, now living in Sweden. You’ll usually find me talking about ethical design, accessibility, privacy, web design and development.
 
