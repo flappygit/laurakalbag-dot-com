@@ -70,6 +70,8 @@ h3 {
 h1 {
   font-size: 2.8em;
   margin-top: 1em;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
 }
 @media screen and (min-width: 540px) {
   h1 {
@@ -79,15 +81,21 @@ h1 {
 h2 {
   font-size: 2.5em;
   margin-top: 2em;
+  margin-left: 0.35em;
+  margin-right: 0.35em;
 }
 h3 {
   font-size: 2em;
   margin-top: 2em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 h4,
 h5,
 h6 {
   font-style: italic;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 h4 {
   font-size: 1.75em;
@@ -97,6 +105,9 @@ h5 {
 }
 h6 {
   font-size: 1.25em;
+}
+p {
+  margin: 0 1em 0.5em 1em;
 }
 strong {
   font-weight: bold;
@@ -155,24 +166,8 @@ a {
 body {
   margin: 1em 0;
 }
-h1 {
-  margin-left: 0.25em;
-  margin-right: 0.25em;
-}
-h2 {
-  margin-left: 0.35em;
-  margin-right: 0.35em;
-}
-h3,
-h4,
-h5,
-h6 {
-  margin-left: 0.5em;
-  margin-right: 0.5em;
-}
 p,
 small {
-  margin: 0 1em 0.5em 1em;
   max-width: 37em;
 }
 .site-info p,

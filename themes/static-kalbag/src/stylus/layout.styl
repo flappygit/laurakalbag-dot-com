@@ -1,24 +1,43 @@
+// Layout-specfic VARIABLES
+
 max-width = 37em
+
+// NAKED ELEMENTS
 
 body
 	margin 1em 0
-	
-h1
-	margin-left 0.25em
-	margin-right 0.25em
-	
-h2
-	margin-left 0.35em
-	margin-right 0.35em
-	
-h3, h4, h5, h6
-	margin-left 0.5em
-	margin-right 0.5em
 
 p, small
-	margin 0 1em 0.5em 1em
 	max-width max-width
 
+figure
+	margin 1em 0 1em
+	
+	a
+		display block
+
+img
+	margin 1em 0
+	max-width 100% // don’t exceed width of viewport
+	
+	figure &
+		margin-bottom 0
+		
+ul, ol
+	margin 1em
+	padding-left 1em
+
+blockquote
+	margin 1em
+
+// CUSTOM COMPONENTS (CLASSES AND IDs)
+		
+.posts-list
+	padding-left 0
+	
+	li
+		list-style-type none
+		
 // when text is smaller, make margin correspond with size
 .site-info p, .site-info small, .note, figcaption p
 	margin-left 1.1em
