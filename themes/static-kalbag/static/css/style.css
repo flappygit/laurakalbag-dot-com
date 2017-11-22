@@ -197,6 +197,9 @@ figcaption p {
 .skip-link {
   display: block;
   padding: 0.25em 1em;
+  position: absolute;
+  right: 0;
+  top: -10em;
 }
 .navigation-menu ul {
   display: flex;
