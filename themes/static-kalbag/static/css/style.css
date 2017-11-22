@@ -82,6 +82,17 @@ h2 {
   font-size: 2.5em;
   margin-top: 2em;
 }
+h1,
+h1 a,
+h2,
+h2 a {
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
 h3 {
   font-size: 2em;
   margin-top: 2em;
@@ -103,6 +114,15 @@ h6 {
 p {
   margin: 0 1rem 0.5em 1rem;
 }
+p,
+a {
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
 strong {
   font-weight: bold;
 }
@@ -119,7 +139,7 @@ blockquote {
   font-style: italic;
 }
 .entry-meta {
-  font-size: 1em;
+  font-size: 1.25em;
 }
 figcaption,
 .site-footer p,
@@ -182,12 +202,6 @@ blockquote {
 .site-footer {
   padding: 0.5em 0;
 }
-.posts-list {
-  padding-left: 0;
-}
-.posts-list li {
-  list-style-type: none;
-}
 .site-footer p,
 .site-footer small,
 .note,
@@ -224,4 +238,14 @@ figcaption p {
   .navigation-menu ul a a:nth-of-type(1) {
     margin-left: 0.25rem;
   }
+}
+.posts-list {
+  margin: 0;
+  padding-left: 0;
+}
+.posts-list li {
+  list-style-type: none;
+}
+.posts-list h2 a {
+  text-decoration: none;
 }

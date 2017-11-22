@@ -95,6 +95,15 @@ h2
 	font-size 2.5em
 	margin-top 2em
 	
+h1, h1 a, h2, h2 a
+	// for really big text or long words
+	-ms-word-break break-all
+	word-break break-all
+	word-break break-word
+	-webkit-hyphens auto
+	-moz-hyphens auto
+	hyphens auto
+	
 h3
 	font-size 2em
 	margin-top 2em
@@ -114,6 +123,15 @@ h6
 p
 	margin 0 $layout-unit 0.5em $layout-unit
 	
+p, a
+	// for really long words or URLs
+	-ms-word-break break-all
+	word-break break-all
+	word-break break-word
+	-webkit-hyphens auto
+	-moz-hyphens auto
+	hyphens auto
+	
 strong
 	font-weight bold
 
@@ -130,7 +148,7 @@ blockquote
 	font-style italic
 
 .entry-meta
-	font-size 1em
+	font-size 1.25em
 	
 figcaption, .site-footer p, .site-footer small, .note
 	font-size 0.9em
