@@ -62,21 +62,15 @@ html
 	font-size 100% // all font sizes and rems scale from here
 	line-height 1.3
 	
-	@media screen and (min-width: 480px)
-		font-size 107% // all font sizes and rems scale from here
+	@media screen and (min-width: 18em)
+		font-size 110% // all font sizes and rems scale from here
 		
-	@media screen and (min-width: 540px)
-		font-size 114% // all font sizes and rems scale from here
+	@media screen and (min-width: 30em)
+		font-size 115% // all font sizes and rems scale from here
 		
-	@media screen and (min-width: 620px)
-		font-size 121% // all font sizes and rems scale from here
-		
-	@media screen and (min-width: 660px)
-		font-size 128% // all font sizes and rems scale from here
-	
-	@media screen and (min-width: 760px)
+	@media screen and (min-width: 35em)
 		font-size 135% // all font sizes and rems scale from here
-	
+
 body
 	font-family $font-family
 	letter-spacing -0.02em
@@ -89,8 +83,11 @@ h1, h2, h3
 	margin 0 0 0.5em 0
 	
 h1
-	font-size 4em
+	font-size 2.8em
 	margin-top 1em
+	
+	@media screen and (min-width: 540px)
+		font-size 4em
 	
 h2
 	font-size 2.5em
