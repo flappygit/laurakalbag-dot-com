@@ -128,10 +128,29 @@ blockquote {
   font-size: 1em;
 }
 figcaption,
-.site-info p,
-.site-info small,
+.site-footer p,
+.site-footer small,
 .note {
   font-size: 0.9em;
+}
+header {
+  background: rgba(0,0,0,0.2);
+}
+#content {
+  background: rgba(0,0,0,0.3);
+}
+.site-footer {
+  background: rgba(0,0,0,0.2);
+}
+a {
+  color: #000;
+}
+body {
+  margin: 1em 0;
+}
+p,
+small {
+  max-width: 37em;
 }
 figure {
   margin: 1em 0 1em;
@@ -160,18 +179,8 @@ blockquote {
 .posts-list li {
   list-style-type: none;
 }
-a {
-  color: #000;
-}
-body {
-  margin: 1em 0;
-}
-p,
-small {
-  max-width: 37em;
-}
-.site-info p,
-.site-info small,
+.site-footer p,
+.site-footer small,
 .note,
 figcaption p {
   margin-left: 1.1em;
