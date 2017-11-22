@@ -5,19 +5,6 @@ body
 
 p, small
 	max-width max-width
-
-figure
-	margin 1em 0 1em
-	
-	a
-		display block
-
-img
-	margin 1em 0
-	max-width 100% // don’t exceed width of viewport
-	
-	figure &
-		margin-bottom 0
 		
 ul, ol
 	margin 1em $layout-unit
@@ -36,6 +23,7 @@ blockquote
 
 .site-title
 	margin-top 0
+	margin-bottom 0.1em
 	
 	a
 		text-decoration none
@@ -52,6 +40,6 @@ blockquote
 	// to clear contained margins
 	padding 0.5em 0
 		
-// when text is smaller, make margin correspond with size
 .site-footer p, .site-footer small, .note, figcaption p
+	margin-right $layout-unit
 	margin-left $layout-unit
