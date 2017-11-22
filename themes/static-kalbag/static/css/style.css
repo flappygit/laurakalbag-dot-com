@@ -235,6 +235,10 @@ figcaption p {
 .posts-list h2 a {
   text-decoration: none;
 }
+.posts-list .entry-meta {
+  font-family: "Informat Black", Verdana, sans-serif;
+  font-weight: bold;
+}
 figure {
   margin: 1em 0 1em;
 }

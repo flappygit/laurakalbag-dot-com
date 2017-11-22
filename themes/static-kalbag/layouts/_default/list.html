@@ -4,8 +4,8 @@
 	</article>
 	{{ $section := where .Data.Pages "Section" .Section }}
 	<ul class="posts-list">
-		{{ range  $section }}
-			{{ partial "summary.html" . }}
+		{{ range $section }}
+			<li>{{ partial "summary.html" . }}</li>
 		{{ end }}
 	</ul>
 {{ end }}

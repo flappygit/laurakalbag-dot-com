@@ -12,42 +12,19 @@
 		{{/* Derive the section name  */}}
 		{{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-		<div>
-			{{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-			{{ with .Site.GetPage "section" $section_name }}
-				<h1>
-					Recent {{ .Title }}
-				</h1>
-			{{ end }}
+			<section class="recent-posts">
+				{{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
+				{{ with .Site.GetPage "section" $section_name }}
+					<h2>
+						Recent Posts
+					</h2>
+				{{ end }}
+				<ul class="posts-list">
+				{{ range $section }}
+					{{ partial "summary.html" . }}
+				{{ end }}
+				</ul>
+				</section>
 
-			<section>
-			{{/* Range through the first three items of the section */}}
-			{{ range (first 3 $section) }}
-				<div>
-					{{ partial "summary-with-image.html" . }}
-				</div>
-			{{ end }}
-			</section>
-
-		{{ if ge $section_count 4 }}
-			<section>
-				<h1>More</h1>
-				{{/* Now, range through the next four after the initial 3 items. Nest the requirements, "after" then "first" on the outside */}}
-				{{ range (first 4 (after 3 $section))  }}
-				<h2>
-					<a href="{{ .URL }}">
-						{{ .Title }}
-					</a>
-				</h2>
-			{{ end }}
-
-			{{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-			{{ with .Site.GetPage "section" $section_name }}
-				<a href="{{ .URL }}">All {{.Title }}</a>
-			{{ end }}
-			</section>
-		{{ end }}
-
-		</div>
 	{{ end }}
 {{ end }}

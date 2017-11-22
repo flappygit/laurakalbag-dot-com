@@ -1,21 +1,20 @@
 {{ $featured_image := .Params.featured_image }}
-<article>
-	{{ if .Params.featured_image }}
-		{{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+{{ if .Params.featured_image }}
+<h2>
+	<a href="{{ .URL }}">
+	{{ .Title }}
+	</a>
+</h2>
+<p class="entry-meta">Posted: {{.Date.Format "2 January 2006"}}</p>
+{{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
 	{{ $featured_image := (trim $featured_image "/") | absURL }}
 		<a href="{{.URL}}">
-		<img src="{{ $featured_image }}" alt="image from {{ .Title }}">
+			<img src="{{ $featured_image }}" alt=""/>
 		</a>
 	{{ end }}
 	<div class="{{ if .Params.featured_image }} featured-image{{ end }}">
-	<h1>
-		<a href="{{.URL}}">
-		{{ .Title }}
-		</a>
-	</h1>
-	<div>
-		{{ .Summary }}
-	</div>
-		<a href="{{.URL}}">{{$.Param "read_more_copy" | default "read more" }}</a>
-	</div>
-</article>
+<div class="summary">
+	<p>
+	{{ .Summary }} <a href="{{ .URL }}" title="Read the post titled {{ .Title }}">Read more</a>
+	</p>
+</div>
