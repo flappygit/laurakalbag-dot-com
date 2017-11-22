@@ -1,0 +1,27 @@
+.skip-link
+	display block
+	padding 0.25em 1em
+
+.navigation-menu
+	ul
+		display flex
+		flex-direction row
+		flex-wrap wrap
+		justify-content flex-start
+		align-content stretch
+		align-items stretch
+		list-style-type none
+		margin 0
+		padding 0
+		
+		a
+			display block
+			padding 0.25em ($layout-unit/2)
+			text-decoration none
+			
+			@media screen and (min-width: 35em)
+				padding 0.25em ($layout-unit/1.35)
+			
+				a:nth-of-type(1)
+					// on first item in list, add extra margin so lines up with items below
+					margin-left 0.25em
