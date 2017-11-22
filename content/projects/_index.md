@@ -8,3 +8,5 @@ menu:
 ---
 
 # Past Projects
+
+Sorry this section isn’t quite ready yet, I’m still reformatting all the past projects from my WordPress site.
