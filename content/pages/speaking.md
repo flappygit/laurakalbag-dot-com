@@ -11,9 +11,7 @@ I love conferences and meetups, and attend as many as I can, I think they’re 
 
 In the last couple of years, I’ve been really lucky to be invited to speak at a few conferences. You can find my [upcoming talks on the Ind.ie site](https://ind.ie/events). There’s [videos of a few past talks](https://ind.ie/services/talks/#laura) on the Ind.ie site too. You can find a list of most of my [past talks](#past-talks) below.
 
-[![Me speaking at 12 Devs of Winter](http://laurakalbag.com/wp-content/uploads/2012/10/Me-speaking-at-12-Devs.jpg)](http://www.flickr.com/photos/68110573@N02/12132726904/)
-
-A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes
+[{{< figure src="http://laurakalbag.com/wp-content/uploads/2012/10/Me-speaking-at-12-Devs.jpg" alt="Me speaking at 12 Devs of Winter" caption="A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes" >}}](http://www.flickr.com/photos/68110573@N02/12132726904/)
 
 ## Past Talks
 
