@@ -1,56 +1,106 @@
+// Plug colour variables into here
+
 body
-	background #ADF1DC
-	color #28508F
+	background $secondary-bg
+	color $text
 
 a, a:hover, a:visited, a:active
-	color #28508F
+	color $text
 	
 .site-header
-	background #ADF1DC
+	background $secondary-bg
 
 #content
-	background #C9FFEE
+	background $primary-bg
 	
 .site-footer
-	background #ADF1DC
+	background $secondary-bg
 	
 hr
-	border #296BD2 dashed 0.1em
+	border $accent dashed 0.1em
 	margin 2em 0
 	
 // invert colours for code
 
 pre
-	background #28508F
+	background $text
 	
 	code
-		color #C9FFEE
-		
+		color $primary-bg
 
 // give navigation links darker backgrounds that gradate to lightness
 // take initial value, and darken by X
-$darkened = lightness(#296BD2, 60%)
-// take darkened value and make transparent
-$darkenedtransparent = alpha($darkened, 0.9)
+$darkened = lightness($accent, 60%)
 
 .navigation-menu
 	ul
 		background alpha($darkened, 0.1)
 		
-		li:nth-of-type(1) a
-			background alpha($darkened, 0.9)
+.navigation-menu
+	background alpha(lightness($accent, 90%), 0.1)
+	
+	// set active navigation link background colour
+	li.active a
+		background alpha($primary-bg, 0.5)
 			
-		li:nth-of-type(2) a
-			background alpha($darkened, 0.75)
-			
-		li:nth-of-type(3) a
-			background alpha($darkened, 0.6)
-			
-		li:nth-of-type(4) a
-			background alpha($darkened, 0.45)
-			
-		li:nth-of-type(5) a
-			background alpha($darkened, 0.3)
-		
-		li:nth-of-type(6) a
-			background alpha($darkened, 0.15)
+// links before and after active navigation (relies on order of navigation being reflected)
+// darken text accordingly
+body.home .navigation-menu a[href="/about-me/"],
+body.about-me .navigation-menu a[href="/"],
+body.about-me .navigation-menu a[href="/posts/"],
+body.blog .navigation-menu a[href="/about-me/"],
+body.blog .navigation-menu a[href="/projects/"],
+body.past-projects .navigation-menu a[href="/posts/"],
+body.past-projects .navigation-menu a[href="/speaking/"],
+body.speaking .navigation-menu a[href="/projects/"],
+body.speaking .navigation-menu a[href="/contact-me/"],
+body.contact-me .navigation-menu a[href="/speaking/"]
+	background alpha($darkened, 0.1)
+	color darken($text, 5%)
+	
+// links second before and after active navigation
+// darken text accordingly
+body.home .navigation-menu a[href="/posts/"],
+body.about-me .navigation-menu a[href="/projects/"],
+body.blog .navigation-menu a[href="/"],
+body.blog .navigation-menu a[href="/speaking/"],
+body.past-projects .navigation-menu a[href="/about-me/"],
+body.past-projects .navigation-menu a[href="/contact-me/"],
+body.speaking .navigation-menu a[href="/posts/"],
+body.contact-me .navigation-menu a[href="/projects/"],
+body.contact-me .navigation-menu ul
+	background alpha($darkened, 0.2)
+	color darken($text, 10%)
+	
+// links third before and after active navigation
+// darken text accordingly
+body.home .navigation-menu a[href="/projects/"],
+body.about-me .navigation-menu a[href="/speaking/"],
+body.past-projects .navigation-menu a[href="/"],
+body.speaking .navigation-menu a[href="/about-me/"],
+body.contact-me .navigation-menu a[href="/posts/"]
+	background alpha($darkened, 0.3)
+	color darken($text, 15%)
+	
+// links fourth before and after active navigation
+// darken text accordingly
+body.home .navigation-menu a[href="/speaking/"],
+body.about-me .navigation-menu a[href="/contact-me/"],
+body.speaking .navigation-menu a[href="/"],
+body.contact-me .navigation-menu a[href="/about-me/"]
+	background alpha($darkened, 0.4)
+	color darken($text, 20%)
+
+// links fifth before and after active navigation
+// darken text accordingly
+body.home .navigation-menu a[href="/contact-me/"],
+body.speaking .navigation-menu a[href="/"],
+body.contact-me .navigation-menu a[href="/about-me/"]
+	background alpha($darkened, 0.5)
+	color darken($text, 25%)
+	
+// links sixth before and after active navigation
+// darken text accordingly
+body.contact-me .navigation-menu a[href="/"]
+	background alpha($darkened, 0.6)
+	color darken($text, 30%)

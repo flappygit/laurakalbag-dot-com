@@ -19,10 +19,6 @@
 
 		<link href='{{ "css/style.css" | absURL }}' rel='stylesheet' type="text/css" />
 
-		{{ if .Params.colours }}
-			{{ partial "colour-theme.html" . }}
-		{{ end }}
-
 		{{ block "favicon" . }}
 			{{ partial "site-favicon.html" . }}
 		{{ end }}
