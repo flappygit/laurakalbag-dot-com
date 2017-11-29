@@ -154,6 +154,10 @@ strong {
 em {
   font-style: italic;
 }
+code {
+  font-family: 'Lucida Console', monospace;
+  font-size: 0.9em;
+}
 small {
   font-size: 0.9em;
 }
@@ -199,6 +203,12 @@ hr {
   border: #296bd2 dashed 0.1em;
   margin: 2em 0;
 }
+pre {
+  background: #28508f;
+}
+pre code {
+  color: #c9ffee;
+}
 .navigation-menu ul {
   background: rgba(41,107,210,0.1);
 }
@@ -234,6 +244,12 @@ ol {
 }
 blockquote {
   margin: 1em 1rem;
+}
+pre {
+  border: none;
+  margin: 1em 0;
+  max-width: 44.215em;
+  padding: 2em 1rem;
 }
 .site-header {
   padding: 0.5em 0 0 0;

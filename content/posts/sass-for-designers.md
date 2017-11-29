@@ -25,7 +25,8 @@ So what are these advantages? It’s all about efficiency. It makes your markup 
 
 The best and most basic example is variables. We tend to use the same colours throughout the document. This result in us writing the same hex code or RGB value over and over again. If we want to change that colour, we need to do a [Find-and-Replace](http://en.wikipedia.org/wiki/Find_and_replace) to pick through all of our markup, making sure we don’t accidentally change the wrong value. You might have a few rules that each need your dark red brand colour:
 
-```a {
+```
+a {
   color: #822733;
 }
 
@@ -35,11 +36,13 @@ The best and most basic example is variables. We tend to use the same colours th
 
 .copyright {
   color: #822733;
-}```
+}
+```
 
 Using variables, we can give that particular red hex colour a variable name of `$brand-colour` at the beginning of our stylesheet, and then just use that variable throughout the stylesheet where we’d usually use the hex colour. Then, if you suddenly decide that the shade of red isn’t quite right, you just need to change where you declared `$brand-colour: #822733;` at the top, and it will be changed for every rule that uses the variable throughout the whole stylesheet.
 
-```// My Sass colour library
+```
+// My Sass colour library
 
 $brand-colour: #822733;
 
@@ -53,13 +56,15 @@ a {
 
 .copyright {
   color: $brand-colour;
-}```
+}
+```
 
 ### Numbers as variables
 
 Variables don’t just have to be strings of text, they can also be numbers which you can manipulate. If you use some kind of baseline grid idea, modular scale, or just a pattern of numbers to keep your design proportional, chances are you’re frequently repeating the same values throughout your stylesheet. If you were using 10px measurements all over the place, you might create ‘unit variable’ with `$unit = 10;`. This unit could then be repeated:
 
-```$unit = 10px;
+```
+$unit = 10px;
 
 h1, h2, h3 {
   margin-bottom: $unit;
@@ -67,11 +72,13 @@ h1, h2, h3 {
 
 p {
   margin-bottom: $unit;
-}```
+}
+```
 
-But how about when you want that unit to be doubled? You want *exactly* twice the margin on another element, because then it will still keep the rhythm in your design. With Sass, you can add simple maths (+, -, *, /, %) to do this very simply:
+But how about when you want that unit to be doubled? You want *exactly* twice the margin on another element, because then it will still keep the rhythm in your design. With Sass, you can add simple maths (+, -, \*, /, %) to do this very simply:
 
-```$unit = 10px;
+```
+$unit = 10px;
 
 h1, h2, h3 {
   margin-bottom: $unit;
@@ -87,7 +94,8 @@ aside {
 
 footer {
   margin-top: $unit*4; /* 40px */
-}```
+}
+```
 
 Then if you decide, one day, that multiples of 10px aren’t big enough for your design (need MOAR WHITESPACE) then you can just change your `$unit` variable to something bigger, such as `$unit = 15;` and all of your measurements will be changed accordingly, preserving those proportions throughout your stylesheet.
 
@@ -101,7 +109,8 @@ For example, you might have particular divider style that you use all over your 
 
 Then you might apply the following CSS class of `.shadow-border` to any HTML element you want to have the divider. It’s not very semantic, but it does the job:
 
-```.shadow-border {
+```
+.shadow-border {
   border-bottom: 1px solid #a4a4a4; 
   
   -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
@@ -109,22 +118,26 @@ Then you might apply the following CSS class of `.shadow-border` to any HTML ele
 
   padding-bottom: 20px;
   margin-bottom: 40px;
-}```
+}
+```
 
 If you wanted to be more semantic, you might go applying all those rules to all the relevant HTML elements, but this can make for an awkwardly-organised stylesheet.
 
-```header, article, p.intro {
+```
+header, article, p.intro {
   border-bottom: 1px solid #a4a4a4;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
   box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
 
   padding-bottom: 20px;
   margin-bottom: 40px;
-}```
+}
+```
 
 With mixins, you can give this collection a name using `@mixin`. This name doesn’t have to relate in any way to your HTML:
 
-```@mixin shadow-border {
+```
+@mixin shadow-border {
   border-bottom: 1px solid #a4a4a4; 
   
   -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
@@ -132,11 +145,13 @@ With mixins, you can give this collection a name using `@mixin`. This name doesn
 
   padding-bottom: 20px;
   margin-bottom: 40px;
-}```
+}
+```
 
 Then, to apply that mixin to any element, you just include its name `@include shadow-border;` like you would any other rule in CSS.
 
-```@mixin shadow-border {
+```
+@mixin shadow-border {
   border-bottom: 1px solid #a4a4a4; 
   
   -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
@@ -156,7 +171,8 @@ header {
 
 p.intro {
   @include shadow-border;
-}```
+}
+```
 
 Doesn’t that look neat and tidy?!
 
@@ -164,7 +180,8 @@ Doesn’t that look neat and tidy?!
 
 Even better, you can nest your mixins inside other mixins. We might want to apply that same type of shadow to lots of elements, so that our design appears to have a consistent light source throughout the site. So we then make a mixin especially for that shadow too. This has the added bonus of keeping all the prefixed CSS (`-webkit, -moz, -o, -ms` etc.) tucked away in one place too.
 
-```// A few variables thrown in for good measure
+```
+// A few variables thrown in for good measure
 $border-colour: #a4a4a4;
 $unit: 10px;
 
@@ -191,13 +208,15 @@ header {
 
 p.intro {
   @include shadow-border;
-}```
+}
+```
 
 ## Nesting
 
 Mixins aren’t the only thing you can nest in Sass. You could nest tags within each other if you wanted, which makes your CSS less repetitive and easier to read as you can see which selectors are related:
 
-```/* written in plain old CSS */
+```
+/* written in plain old CSS */
 
 .module h3 {
   font-weight: bold;
@@ -219,7 +238,8 @@ Mixins aren’t the only thing you can nest in Sass. You could nest tags within 
     padding-bottom: 10px;
   }
 
-}```
+}
+```
 
 But let’s face it, that’s getting really nit-picky about the neatness of your CSS.
 
@@ -233,7 +253,8 @@ Nesting media queries can help with this. Where previous you may have felt like 
 
 For example, I have an article which has a changing `width`, `line-height` and `font-size` depending on the width of the viewport. I want the text of my article to be as legible as possible across all devices. In CSS, this might look like this:
 
-```/* initial rule for all viewports, including browsers that don't support @media */
+```
+/* initial rule for all viewports, including browsers that don't support @media */
 article {
   font-size: 14px;
   line-height: 25px;
@@ -288,11 +309,13 @@ article h2 {
     line-height: 35px;
     padding-bottom: 20px; 
   }
-}```
+}
+```
 
 When you can include the media query *within* the selector, it suddenly becomes a lot easier to find those rules that you’re so likely to tweak in the future.
 
-```article {
+```
+article {
   font-size: 14px;
   line-height: 25px;
 
@@ -334,7 +357,8 @@ When you can include the media query *within* the selector, it suddenly becomes 
       padding-bottom: 20px; 
     }
   }
-}```
+}
+```
 
 ## Give it a go?
 
