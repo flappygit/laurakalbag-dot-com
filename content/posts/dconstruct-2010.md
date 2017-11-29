@@ -5,6 +5,8 @@ colours: ["#53712b", "#1D3722", "#D1EF5A", "#8EAB36", "#2DCCFA", "#19291c", "#46
 date: 2010-09-05T12:58:54+00:00
 categories: ["Design", "Events"]
 tags: ["conference", "design", "event", "ideas", "learning"]
+[params]
+  body_classes = "blog"
 ---
 
 I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.

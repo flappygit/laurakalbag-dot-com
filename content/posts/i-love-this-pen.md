@@ -5,6 +5,8 @@ colours: ["#841b2a", "#3a3a3a", "#af190b", "#5e5e5e", "#0a0a0a", "#333333", "#0a
 date: 2014-01-07T09:25:48+00:00
 categories: ["Design", "Reviews"]
 tags: ["ink", "notebooks", "pen", "sketching", "writing"]
+[params]
+  body_classes = "blog"
 ---
 
 [{{< figure class="aligncenter size-large wp-image-4189" alt="Pen, ink and 'I love this pen' handwritten in my notebook" src="/images/2014/01/I-love-this-pen-1024x748.jpg" width="1024" height="748" >}}](/images/2014/01/I-love-this-pen.jpg)

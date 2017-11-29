@@ -5,6 +5,8 @@ colours: ["#ec9b0e", "#cc5e00", "#ec7713", "#9f3a09", "#ffbf0f", "#711f09", "#ff
 date: 2013-01-30T09:31:00+00:00
 categories: ["Design", "Freelancing", "Learning"]
 tags: ["freelancing", "inspiration", "mentor", "students"]
+[params]
+  body_classes = "blog"
 ---
 
 A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.

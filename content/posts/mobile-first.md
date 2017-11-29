@@ -5,6 +5,8 @@ colours: ["#1A9568", "#126748", "#25b17e", "#0E5239", "#5dc09c", "#1f5c45", "#60
 date: 2011-12-12T09:14:54+00:00
 categories: ["Reviews"]
 tags: ["design", "devices", "mobile", "native vs web", "UI"]
+[params]
+  body_classes = "blog"
 ---
 
 Continuing on with my chapter-a-day, last week I finished reading the brilliant [Mobile First](http://www.abookapart.com/products/mobile-first "Mobile First on A Book Apart") by Luke Wroblewski.

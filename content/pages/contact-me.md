@@ -4,6 +4,8 @@ date: 2017-10-31T20:46:48+01:00
 draft: true
 menu:
  main: {}
+[params]
+  body_classes = "contact-me"
 ---
 
 ## The Basics

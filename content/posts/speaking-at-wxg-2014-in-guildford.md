@@ -5,6 +5,8 @@ colours: ["#5e5e5e", "#4f4f4f", "#a39803", "#262626", "#fcec04", "#0a0a0a", "#fc
 date: 2014-03-10T10:52:16+00:00
 categories: ["Design", "Events"]
 tags: ["conference", "design", "speaking", "WXG 2014"]
+[params]
+  body_classes = "blog"
 ---
 
 I’m speaking at [WXG 2014 in Guildford](http://wxg.co.uk/#speakers) in September. This is exciting for me because I attended the first ever WXG a couple of years ago, and it’s about as local as a conference is going to get to my hometown, Reigate.

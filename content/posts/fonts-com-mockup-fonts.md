@@ -5,6 +5,8 @@ colours: ["#c53434", "#4d221f", "#9C261C", "#38130f", "#9C261C", "#250b08", "#ff
 date: 2013-07-02T09:53:48+00:00
 categories: ["Design", "Design Issues", "Tools"]
 tags: ["Fonts.com", "mockups", "typography", "web fonts"]
+[params]
+  body_classes = "blog"
 ---
 
 I do like the way that [fonts.com](http://www.fonts.com/) do web fonts. (*I also like all of the web font services for different reasons and different projects.*)

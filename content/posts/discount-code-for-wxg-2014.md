@@ -5,6 +5,8 @@ colours: ["#5e5e5e", "#4f4f4f", "#a39803", "#262626", "#fcec04", "#0a0a0a", "#fc
 date: 2014-07-29T10:25:22+00:00
 categories: ["Design", "Events"]
 tags: ["conference", "design", "speaking", "WXG 2014"]
+[params]
+  body_classes = "blog"
 ---
 
 You might have seen that I’m speaking at WXG in Guildford in September. If you didn’t already get a ticket, you might want to use my discount code of **kalbagWXG** to get £10 off the (already very affordable £99) ticket price.

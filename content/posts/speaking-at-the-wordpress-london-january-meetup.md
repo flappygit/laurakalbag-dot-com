@@ -5,6 +5,8 @@ colours: ["#299dd2", "#216F94", "#D54E21", "#7b7b7b", "#DCDCDC", "#444444", "#F7
 date: 2012-12-17T11:56:56+00:00
 categories: ["Design", "Events"]
 tags: ["icons", "wordpress", "wordpress admin", "WordPress admin icons"]
+[params]
+  body_classes = "blog"
 ---
 
 I’m speaking at the [WordPress London January meetup on the 17th of January 2013](http://www.meetup.com/London-WordPress/events/81910532/).

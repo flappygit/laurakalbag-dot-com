@@ -5,6 +5,8 @@ colours: ["#567d9f", "#283f5d", "#866663", "#4D6478", "#A49076", "#2d4152", "#BC
 date: 2013-01-23T09:44:38+00:00
 categories: ["Design", "Freelancing"]
 tags: ["education", "inspiration", "sharing", "web"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve written [a post over on The Branch](http://thebran.ch/articles/the-sharers).

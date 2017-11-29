@@ -5,6 +5,8 @@ colours: ["#007fa9", "#5b5b5b", "#c54f00", "#303030", "#c4e2ea", "#020202", "#e4
 date: 2014-05-21T14:59:31+00:00
 categories: ["Events"]
 tags: ["insurance", "public speaking", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 Last week, the wonderful [Ashley Baxter](http://twitter.com/iamashley) asked me about how I got into public speaking. Ashley asked a few cool people, and published their [public speaking stories on the Insurance By Jack blog](http://insurancebyjack.co.uk/business-and-marketing/2014/05/20/how-to-get-started-with-public-speaking.html).

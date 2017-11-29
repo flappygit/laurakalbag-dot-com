@@ -5,6 +5,8 @@ colours: ["#EF561F", "#AB1A0C", "#ff8030", "#7d170d", "#537B92", "#792c11", "#ff
 date: 2011-03-25T18:15:25+00:00
 categories: ["Events"]
 tags: ["conference", "event", "HTML5", "mobile", "workshops"]
+[params]
+  body_classes = "blog"
 ---
 
 {{< figure class="size-medium wp-image-338 alignright" title="Big M badge" src="/images/2011/03/badge-242x320.jpg" alt="Big M badge" width="242" height="320" >}}

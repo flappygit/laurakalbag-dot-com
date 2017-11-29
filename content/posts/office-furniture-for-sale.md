@@ -5,6 +5,8 @@ colours: ["#2cb9e0", "#016199", "#138dd8", "#0a4a72", "#00addd", "#083b5b", "#3a
 date: 2016-02-02T15:51:26+00:00
 categories: ["Personal"]
 tags: ["Apple Display", "chair", "desk", "furniture", "selling"]
+[params]
+  body_classes = "blog"
 ---
 
 So we’re finally moving to Sweden at the end of the month. You might remember that we [sold a lot of our stuff](/book-bundles/) last summer when we left Brighton. We kept a lot of good stuff, thinking we’d relocate it with us.

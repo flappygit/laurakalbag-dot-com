@@ -5,6 +5,8 @@ colours: ["#87BA3C", "#343B34", "#aab1a0", "#757b6f", "#5e7c31", "#1c1c1c", "#74
 date: 2011-09-12T10:56:45+00:00
 categories: ["Events"]
 tags: ["augmented reality", "conference", "dConstruct", "digital history", "digital past", "digital products", "emotion", "empowering users", "memories", "narratives", "possessions", "systems", "technology", "user experience"]
+[params]
+  body_classes = "blog"
 ---
 
 It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.

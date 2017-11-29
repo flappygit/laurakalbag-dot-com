@@ -5,6 +5,8 @@ colours: ["#e74f29", "#d3d3d3", "#377cab", "#602d80", "#6be4b7", "#402055", "#fc
 date: 2015-04-14T13:55:31+00:00
 categories: ["Accessibility"]
 tags: ["accessibility", "BBC Taster", "Creative Bloq", "Flash"]
+[params]
+  body_classes = "blog"
 ---
 
 In the spirit of catching up on slightly older news, in January I was part of a [panel commenting on BBC Taster on Creative Bloq](http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087).

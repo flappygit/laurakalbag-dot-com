@@ -5,6 +5,8 @@ colours: ["#e17314", "#828C63", "#EBE870", "#54753C", "#F1A25D", "#36442c", "#EB
 date: 2010-06-19T13:19:16+00:00
 categories: ["Reviews"]
 tags: ["drawing", "gestures", "iPad", "painting", "sketching", "user experience"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve always been a kind-of arty person. I took Art at school, did an Art Foundation and a Graphics degree. I totally loved art when I was small, but as I’ve got older, and more technology and web-obsessed, a lot of the old media went a bit out of the window.

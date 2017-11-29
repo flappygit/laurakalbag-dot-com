@@ -5,6 +5,8 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-28T11:39:31+00:00
 categories: ["Learning"]
 tags: ["photography"]
+[params]
+  body_classes = "blog"
 ---
 
 The last few days have brought a very miscellaneous collection of photos.

@@ -5,6 +5,8 @@ colours: ["#972c3b", "#ce1d36", "#E8475A", "#191818", "#ffffff", "#7a1d2a", "#F1
 date: 2012-12-05T18:10:23+00:00
 categories: ["Events"]
 tags: ["creation", "equanimity", "identity", "process", "purpose", "reinvention", "seams"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve posted a [writeup of Build conference 2012 on ubelly](http://www.ubelly.com/2012/12/reinvention-and-building-ourselves-build-2012/).

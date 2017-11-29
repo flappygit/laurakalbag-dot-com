@@ -6,6 +6,8 @@ colours: ["#777777", "#565656", "#946d16", "#333333", "#ffffff", "#0a0a0a", "#ff
 date: 2014-09-17T09:16:30+00:00
 categories: ["Personal"]
 tags: ["gigapup", "office dogs", "Oskar", "The Pastry Box"]
+[params]
+  body_classes = "blog"
 ---
 
 Last week I wrote my Pastry Box thought on 5 reasons why you should get an office dog. It’s not just silly photos of Oskar, but actually five reasons why having Oskar for company has helped keep me sane. Through living and working by myself, to living and working with other people, he’s still incredibly valuable as a companion.

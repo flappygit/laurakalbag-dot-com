@@ -5,6 +5,8 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2014-08-04T09:47:42+00:00
 categories: ["Podcasts"]
 tags: ["business", "business contents", "copyright infringement", "freelancing", "insurance", "professional indemnity", "public liability"]
+[params]
+  body_classes = "blog"
 ---
 
 Andy Clarke is on holiday for three weeks and has handed over the [Unfinished Business](http://unfinished.bz/) reins to [Ashley Baxter](http://insurancebyjack.co.uk/) and I. [This week’s episode](http://unfinished.bz/80) is all about business insurance for freelancers and small businesses. We talked about public liability, professional indemnity, business contents and copyright infringement. It was great because I got to ask Ashley loads of questions I forgot to ask when she was helping me get insured!

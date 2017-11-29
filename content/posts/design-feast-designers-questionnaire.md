@@ -5,6 +5,8 @@ colours: ["#2485b2", "#4b6e95", "#1d92c9", "#2d3952", "#ffffff", "#000000", "#c9
 date: 2013-02-14T08:51:34+00:00
 categories: ["Design"]
 tags: ["clients", "design", "ego", "questionnaire"]
+[params]
+  body_classes = "blog"
 ---
 
 Design Feast have my answers to their Designer’s Quest(ionnaire) on their site.

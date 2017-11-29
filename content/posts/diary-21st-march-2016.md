@@ -5,6 +5,8 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-03-21T16:24:55+00:00
 categories: ["Accessibility", "ind.ie", "Personal"]
 tags: ["ethical design manifesto", "moving", "speaking", "subtitles", "Sweden", "video"]
+[params]
+  body_classes = "blog"
 ---
 
 It’s been a busy few weeks.

@@ -5,6 +5,8 @@ colours: ["#b02654", "#771939", "#b02654", "#771939", "#e8326f", "#62152f", "#dd
 date: 2015-05-23T15:04:40+00:00
 categories: ["Accessibility"]
 tags: ["#GAAD", "accessibility", "aesthetics", "constraints", "design", "Global Accessibility Awareness Day"]
+[params]
+  body_classes = "blog"
 ---
 
 On Thursday morning I gave a talk online for [Inclusive Design 24](http://www.inclusivedesign24.org), a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:

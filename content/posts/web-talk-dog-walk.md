@@ -5,6 +5,8 @@ colours: ["#3698ab", "#526367", "#1ca1ba", "#649137", "#FDF8B6", "#3b6a2a", "#FF
 date: 2013-06-09T16:13:31+00:00
 categories: ["Events"]
 tags: ["Brighton", "dog walk", "meetup"]
+[params]
+  body_classes = "blog"
 ---
 
 I walk my dog Oskar every day, no matter what the weather. And usually it’s just him and me. So I’ve got this idea. A “web talk dog walk” where a group of us from the Brighton area can meet on a regular basis (probably fortnightly, maybe monthly) to walk dogs and chat about the web. Do you want to join us?

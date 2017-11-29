@@ -5,6 +5,8 @@ colours: ["#485dad", "#344e8d", "#4f47ae", "#383276", "#7c76bc", "#2b266e", "#38
 date: 2013-10-17T07:28:18+00:00
 categories: ["Events", "Personal"]
 tags: ["conferences", "discrimination", "diversity", "pledge", "women"]
+[params]
+  body_classes = "blog"
 ---
 
 This post was inspired by [Faruk’s great post “I Pledge To Be Better (And I Hope You Do Too)”](http://farukat.es/journal/2013/10/698-i-pledge-be-better-and-i-hope-you-do-too) where he speaks about the continuing problems with discrimination and lack of diversity in tech, and how more people should speak up about these issues. Faruk rightly says we all have the power and responsibility to make things better. I believe that when we don’t speak out about discrimination, we’re almost causing as much damage as condoning discrimination. Because it won’t just go away if we pretend it’s not there.

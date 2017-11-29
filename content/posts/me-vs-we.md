@@ -5,6 +5,8 @@ colours: ["#47518a", "#235592", "#4f8ad2", "#3e466f", "#a4c6ef", "#30354f", "#bb
 date: 2010-09-02T10:42:49+00:00
 categories: ["Freelancing"]
 tags: ["appearance", "business", "clients", "companies", "freelance"]
+[params]
+  body_classes = "blog"
 ---
 
 There’s something that’s been niggling at me for ages. The way people act as if they’re a multi-person company when they’re really just one individual. This whole ‘we’ syndrome.

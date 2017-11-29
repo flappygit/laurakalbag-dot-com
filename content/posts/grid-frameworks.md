@@ -5,6 +5,8 @@ colours: ["#7e2727", "#AF302F", "#c93534", "#4e4e4e", "#F8E2E2", "#303030", "#F5
 date: 2013-01-01T19:01:59+00:00
 categories: ["Markup"]
 tags: ["accessibility", "clients", "control", "development", "frameworks", "grids"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve written [a post for 12 Devs of Xmas on Grid Frameworks](http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks).

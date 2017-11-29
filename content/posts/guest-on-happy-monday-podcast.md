@@ -5,6 +5,8 @@ colours: ["#7a4e83", "#4C5C71", "#c59626", "#63748E", "#7686A5", "#374458", "#EB
 date: 2013-08-19T08:26:55+00:00
 categories: ["Design", "Events", "Freelancing", "Podcasts"]
 tags: ["clients", "design", "freelancing", "inspiration", "podcast"]
+[params]
+  body_classes = "blog"
 ---
 
 Last Friday I was a guest for today’s [Happy Monday podcast](http://www.happymondaypodcast.com/episodes/laura-kalbag). It was great fun chatting with Josh and Sarah about design, client work and inspiration.

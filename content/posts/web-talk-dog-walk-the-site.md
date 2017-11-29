@@ -5,6 +5,8 @@ colours: ["#6f9933", "#3F5526", "#97C459", "#637A3D", "#EEEEEE", "#3F5526", "#63
 date: 2013-07-25T17:56:04+00:00
 categories: ["Events"]
 tags: ["Perch", "Sass", "web talk dog walk"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve finally made [a site for the web talk dog walks](http://webtalkdogwalk.in/brighton/)! It may be a small site, and is probably very broken in places, but it was a fun mini project and worked well as a case study for my [Sass for designers talk](http://environmentsforhumans.com/2013/css-summit/).

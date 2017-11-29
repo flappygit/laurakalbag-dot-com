@@ -5,6 +5,8 @@ colours: ["#1e5979", "#29535f", "#1d7699", "#243e48", "#e6bea5", "#142328", "#9b
 date: 2014-08-05T09:30:57+00:00
 categories: ["Personal"]
 tags: ["family", "music", "playlist"]
+[params]
+  body_classes = "blog"
 ---
 
 A few weeks ago I was asked to create a [playlist of ten songs for Desert.fm](http://www.desert.fm/laura-kalbag.html). Nate, Bobby and Jamie sent me an email with the premise:

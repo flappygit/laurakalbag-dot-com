@@ -5,6 +5,8 @@ colours: ["#457242", "#523417", "#F4EAE0", "#244419", "#EFF2EA", "#193111", "#EA
 date: 2010-09-14T20:06:38+00:00
 categories: ["Design"]
 tags: ["drafts", "Dribbble", "feedback", "Forrst", "logo design", "process", "project"]
+[params]
+  body_classes = "blog"
 ---
 
 A couple of weeks ago I created a quickie logo for Andy Warburton’s mobile stock photography service Stockyoo. Andy was really keen on the idea of using [Forrst](http://forrst.com) and [Dribbble](http://dribbble.com) for posting the progress of the project to get the opinions of potential users of a stock photography service and do some early promo for Stockyoo itself.

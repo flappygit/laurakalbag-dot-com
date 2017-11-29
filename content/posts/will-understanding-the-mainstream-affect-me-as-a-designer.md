@@ -5,6 +5,8 @@ colours: ["#e8262d", "#e1194e", "#ee2f2c", "#d50b2e", "#a18ed7", "#91001b", "#23
 date: 2012-06-01T21:51:38+00:00
 categories: ["Design", "Design Issues", "Usability"]
 tags: ["design patterns", "Facebook", "Google Chrome", "mainstream", "research", "users"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve been contemplating how designers can identify better with more mainstream users.

@@ -5,6 +5,8 @@ colours: ["#2377a4", "#466e84", "#94e1f2", "#3a86ae", "#4dc8be", "#235976", "#c1
 date: 2010-06-16T14:40:42+00:00
 categories: ["Usability"]
 tags: ["back button", "links", "mobile browsers", "tabs", "usability", "users", "windows"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.

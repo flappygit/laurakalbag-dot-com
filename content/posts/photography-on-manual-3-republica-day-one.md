@@ -5,6 +5,8 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-05T14:58:33+00:00
 categories: ["Learning"]
 tags: ["photography"]
+[params]
+  body_classes = "blog"
 ---
 
 This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!

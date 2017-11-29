@@ -5,6 +5,8 @@ colours: ["#AD1D1D", "#0D0C06", "#570D0D", "#DF000F", "#00A7DE", "#000000", "#FF
 date: 2011-05-23T15:00:01+00:00
 categories: ["Events", "Reviews"]
 tags: ["attendees", "conference", "cost", "FOWD", "people", "speakers", "talks", "themes"]
+[params]
+  body_classes = "blog"
 ---
 
 Another great event from Carsonified, I really enjoyed [Future Of Web Design](http://futureofwebdesign.com/london-2011) this year.

@@ -5,6 +5,8 @@ colours: ["#a4491e", "#581505", "#8e1406", "#311107", "#F0D8B4", "#1c0903", "#D5
 date: 2013-05-20T09:07:45+00:00
 categories: ["Events", "Freelancing"]
 tags: ["agencies", "clients", "feedback", "freelancing", "getting started", "location", "podcast", "subcontractor"]
+[params]
+  body_classes = "blog"
 ---
 
 Last Friday I was a [guest co-host on Unfinished Business](http://unfinished.bz/19) again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.

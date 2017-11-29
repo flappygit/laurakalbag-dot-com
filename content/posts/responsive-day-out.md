@@ -5,6 +5,8 @@ colours: ["#982510", "#4f4f4f", "#DD2200", "#3b3b3b", "#f50000", "#2b2b2b", "#8f
 date: 2013-04-01T22:52:39+00:00
 categories: ["Design", "Development", "Events"]
 tags: ["approach", "asset fonts", "attitude", "breakpoints", "capabilities", "comfortable", "communication", "content", "CSS", "devices", "features", "flexbox", "fluid", "HTML", "images", "inputs", "layout", "markup", "navigation", "performance", "prefixes", "process", "responsive", "Responsive Day Out", "responsive web design", "screens", "typography", "viewports", "web fonts"]
+[params]
+  body_classes = "blog"
 ---
 
 <em style="opacity: 0.9;">A month ago I spoke at [Responsive Day Out](http://responsiveconf.com/), an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to [Jeremy Keith](http://adactio.com) when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.</em>

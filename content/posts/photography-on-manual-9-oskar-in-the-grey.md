@@ -5,6 +5,8 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-24T15:20:03+00:00
 categories: ["Learning"]
 tags: ["photography"]
+[params]
+  body_classes = "blog"
 ---
 
 This week we’ve been looking more at natural light, and portraits with foreground detail. I took my trusty (actually incredibly unreliable) model, Oskar, out for a walk and hounded him with the camera. It was a very grey day, but with a lot of light.

@@ -5,6 +5,8 @@ colours: ["#01a5f4", "#14648a", "#0c90cf", "#6a9929", "#ffffff", "#537e26", "#B2
 date: 2013-09-05T17:05:28+00:00
 categories: ["Design", "Events"]
 tags: ["accessibility", "conference", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 Next Friday I’m speaking at MobX Conference in Berlin about designing for accessibility, covering problems that affect many different types of screens and devices. It will be my first time in Germany, so I’m very excited!

@@ -5,6 +5,8 @@ colours: ["#AD1D1D", "#0D0C06", "#570D0D", "#DF000F", "#00A7DE", "#000000", "#FF
 date: 2011-05-23T15:05:31+00:00
 categories: ["Design Issues", "Events"]
 tags: ["accessibility", "conference", "design pairing", "honest", "human design", "inclusive design", "open business", "transparency", "tweets", "Twitter", "user interfaces", "web fonts", "wordpress"]
+[params]
+  body_classes = "blog"
 ---
 
 A few people have recommended that I post all the tweets summarising the great talks at Future Of Web Design in a blog post. So here it is!

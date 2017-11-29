@@ -5,6 +5,8 @@ colours: ["#a98c4c", "#925a4f", "#ab5a44", "#333333", "#EBDFB8", "#000000", "#BD
 date: 2013-08-12T10:18:43+00:00
 categories: ["Design", "Events", "Learning"]
 tags: ["design", "learning design", "workshop"]
+[params]
+  body_classes = "blog"
 ---
 
 Here’s a slightly scary thing: I’m doing [my first solo workshop on the 11th October 2013 in Barnsley](http://makedo.in/design-theory-for-the-web/).

@@ -5,6 +5,8 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-18T08:39:23+00:00
 categories: ["Learning"]
 tags: ["photography"]
+[params]
+  body_classes = "blog"
 ---
 
 Our most recent exercise was to take a long exposure shot.

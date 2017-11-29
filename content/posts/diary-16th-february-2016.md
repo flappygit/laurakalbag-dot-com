@@ -5,6 +5,8 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-02-16T09:26:57+00:00
 categories: ["ind.ie", "Personal"]
 tags: ["moving", "Sweden"]
+[params]
+  body_classes = "blog"
 ---
 
 It’s nearly time! We’re moving to Sweden next Tuesday, and it’s currently at equal parts exciting and stressful.

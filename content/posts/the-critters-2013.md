@@ -5,6 +5,8 @@ colours: ["#936639", "#916f50", "#b97b41", "#521C02", "#EEB987", "#2a1004", "#F3
 date: 2013-06-14T19:25:35+00:00
 categories: ["Events"]
 tags: ["happy"]
+[params]
+  body_classes = "blog"
 ---
 
 After [winning the .net award two weeks ago](/netmag-awards-2013/ ".net awards 2013"), I really wasn’t expecting to win another award. Last night at a fun black tie, storybook-themed ubelly Critters awards, I won Next Big Thing.

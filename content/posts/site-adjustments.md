@@ -5,6 +5,8 @@ colours: ["#33a54f", "#00695a", "#28a026", "#007a6a", "#81d742", "#005b27", "#61
 date: 2017-04-10T10:18:28+00:00
 categories: ["Design"]
 tags: ["fonts", "realign", "redesign"]
+[params]
+  body_classes = "blog"
 ---
 
 My site is looking a little different, I’m now using the lovely [Recia](https://www.indiantypefoundry.com/fonts/recia) for the type. [Fontdeck recently retired](http://blog.fontdeck.com/post/133794978966/why-fontdeck-is-retiring), and while they gave *loads* of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.

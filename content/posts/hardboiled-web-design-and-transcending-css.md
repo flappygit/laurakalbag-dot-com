@@ -5,6 +5,8 @@ colours: ["#A05B77", "#474463", "#CC3638", "#181237", "#564A58", "#030206", "#62
 date: 2011-01-18T16:28:19+00:00
 categories: ["Reviews"]
 tags: ["CSS3", "Five Simple Steps", "Hardboiled Web Design", "HTML5", "iBooks", "microformats", "Transcending CSS"]
+[params]
+  body_classes = "blog"
 ---
 
 ## My history with Transcending CSS

@@ -5,6 +5,8 @@ colours: ["#006594", "#005176", "#687b00", "#003751", "#a4ba25", "#001c2d", "#ed
 date: 2014-06-14T11:19:30+00:00
 categories: ["Uncategorized"]
 tags: ["accessibility", "French", "languages", "translation"]
+[params]
+  body_classes = "blog"
 ---
 
 Yesterday I gave a talk at [KiwiParty](http://kiwiparty.fr/) in Strasbourg. KiwiParty is a lovely conference, but all of the speakers spoke in French, to the French audience. Except me. I speak a little bit of (A-Level) French, but I certainly couldn’t give a talk in French.

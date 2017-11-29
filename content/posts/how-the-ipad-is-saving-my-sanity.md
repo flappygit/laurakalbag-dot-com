@@ -5,6 +5,8 @@ colours: ["#51749d", "#304E75", "#A6C7E5", "#253c56", "#486C92", "#1d2d3f", "#26
 date: 2010-08-01T18:54:56+00:00
 categories: ["Reviews"]
 tags: ["App Store", "App Stream", "Crop Suey", "iBooks", "iPad", "iPhoto", "photos", "reading", "reeder", "RSS", "Twitter", "Twitterrific", "wordpress", "work habits"]
+[params]
+  body_classes = "blog"
 ---
 
 ## Fan girl

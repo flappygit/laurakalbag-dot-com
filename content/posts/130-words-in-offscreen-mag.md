@@ -5,6 +5,8 @@ colours: ["#84535c", "#2e2d3c", "#666486", "#525066", "#a2645e", "#0a0a0a", "#a4
 date: 2015-04-09T13:03:00+00:00
 categories: ["Design"]
 tags: []
+[params]
+  body_classes = "blog"
 ---
 
 I’m slightly behind on my posts, but I wanted to share my contribution in the latest edition of [Offscreen Magazine](http://www.offscreenmag.com). Offscreen is a beautiful, printed, independent magazine about the “People behind Bits and Pixels.” I contributed 130 words to Issue 10 on getting into a creative mindset.

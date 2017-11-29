@@ -5,6 +5,8 @@ colours: ["#24ad5e", "#0574ad", "#29c76c", "#086597", "#ffffff", "#064e74", "#3d
 date: 2014-01-20T18:06:30+00:00
 categories: ["Events"]
 tags: ["conference", "talk"]
+[params]
+  body_classes = "blog"
 ---
 
 I’m speaking at [DotYork conference](http://dotyork.com) in York on the 1st of May. My friend Jonic is one of the organisers, and with the thought and love that they’re putting into the event, it’s got to be fantastic.

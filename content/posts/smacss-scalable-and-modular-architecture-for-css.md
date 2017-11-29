@@ -5,6 +5,8 @@ colours: ["#4595a1", "#45587B", "#3c88af", "#496d7e", "#94C7E1", "#374850", "#60
 date: 2012-10-31T08:45:52+00:00
 categories: ["Reviews"]
 tags: ["CSS", "HTML", "preprocessors", "Sass", "semantics", "structure"]
+[params]
+  body_classes = "blog"
 ---
 
 I bought [Jonathan Snook’s Scalable and Modular Architecture for CSS](http://smacss.com/) five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.

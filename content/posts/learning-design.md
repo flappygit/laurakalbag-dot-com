@@ -5,6 +5,8 @@ colours: ["#37af9b", "#20794a", "#369dbb", "#2967a0", "#22bb5b", "#2e525e", "#3a
 date: 2012-12-31T14:57:05+00:00
 categories: ["Design", "Learning"]
 tags: ["books", "design", "designers", "education", "grids", "learning", "learning design", "Twitter", "user experience"]
+[params]
+  body_classes = "blog"
 ---
 
 Every now and again someone will email me asking how they should go about learning design. After reading [Aral Balkan’s fantastic post](http://aralbalkan.com/notes/design-is-not-veneer/) on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.

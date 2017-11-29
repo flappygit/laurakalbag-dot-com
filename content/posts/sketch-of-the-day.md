@@ -5,6 +5,8 @@ colours: ["#e14039", "#645c5a", "#675261", "#4e3042", "#bbaca7", "#26101c", "#a1
 date: 2014-01-31T10:08:46+00:00
 categories: ["Illustration"]
 tags: ["drawing", "painting", "sketch of the day", "sketching"]
+[params]
+  body_classes = "blog"
 ---
 
 A strange thing has happened in the last week. I’ve been a bit blue, but I’ve really got into my [One Sketch A Day book](http://www.amazon.co.uk/dp/0811875342). This was a lovely little book that [Rachel Shillcock](https://twitter.com/missrachilli) sent me.

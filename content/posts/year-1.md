@@ -5,6 +5,8 @@ colours: ["#ac473c", "#725653", "#f49425", "#6c2f28", "#df5343", "#39201d", "#f4
 date: 2010-08-31T10:00:04+00:00
 categories: ["Milestones"]
 tags: ["accounts", "clients", "desk space", "freelance", "scheduling", "work"]
+[params]
+  body_classes = "blog"
 ---
 
 It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.

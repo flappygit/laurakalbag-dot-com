@@ -5,6 +5,8 @@ colours: ["#66823d", "#445a23", "#5f922b", "#366722", "#dcc52b", "#043205", "#f0
 date: 2015-05-28T17:38:14+00:00
 categories: ["Learning"]
 tags: ["photography"]
+[params]
+  body_classes = "blog"
 ---
 
 A weird experiment that almost works…

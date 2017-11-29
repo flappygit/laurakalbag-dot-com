@@ -5,6 +5,8 @@ colours: ["#AD2706", "#5a1707", "#e38816", "#c53e11", "#EF9C35", "#852c0f", "#F2
 date: 2013-08-09T08:52:59+00:00
 categories: ["Events", "Freelancing", "Learning", "Podcasts"]
 tags: ["honesty", "mentoring", "podcast", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 Ahead of [speaking at Dare conference](/speaking-at-dare-conference/ "Speaking at Dare conference") this September, [I was interviewed by Jonathan Kahn](http://lucidplot.com/2013/08/05/kalbag-podcast/), one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.

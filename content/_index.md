@@ -5,6 +5,8 @@ draft: true
 menu:
  main:
   weight: -20
+[params]
+  body_classes = "home"
 ---
 
 # Hi, friend.

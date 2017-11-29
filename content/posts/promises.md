@@ -5,6 +5,8 @@ colours: ["#dc5c1b", "#535C66", "#669BB8", "#363F49", "#91bed6", "#2d343c", "#ff
 date: 2010-06-10T12:09:54+00:00
 categories: ["Milestones"]
 tags: []
+[params]
+  body_classes = "blog"
 ---
 
 Well, I’ve got a blog.

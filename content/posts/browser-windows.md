@@ -5,6 +5,8 @@ colours: ["#3643a6", "#28406c", "#4344a8", "#142648", "#523bb5", "#111e40", "#73
 date: 2013-08-08T18:59:17+00:00
 categories: ["Design", "Design Issues", "Development"]
 tags: ["browser windows", "clients", "communication", "language", "responsive design", "screen sizes"]
+[params]
+  body_classes = "blog"
 ---
 
 In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.

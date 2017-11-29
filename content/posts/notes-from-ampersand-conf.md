@@ -5,6 +5,8 @@ colours: ["#8e813e", "#a1944f", "#d5c87b", "#807b60", "#d9cd8c", "#000000", "#aa
 date: 2011-06-22T09:26:08+00:00
 categories: ["Design", "Events"]
 tags: ["ampersand conference", "mindmap", "notes", "typography"]
+[params]
+  body_classes = "blog"
 ---
 
 For those who wanted my notes in an undigested, scatterbrained form, here’s images from my notebook. ([My digest is available too](/digest-from-ampersand-conf/).)

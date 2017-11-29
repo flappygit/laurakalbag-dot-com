@@ -5,6 +5,8 @@ colours: ["#15A4D6", "#117699", "#5cc9ef", "#0e6685", "#ffffff", "#0c607e", "#ff
 date: 2010-10-25T19:21:06+00:00
 categories: ["Events"]
 tags: []
+[params]
+  body_classes = "blog"
 ---
 
 I’ve got a talk for [Bathcamp 2010](http://bathcamp.org) in the works! Thanks to the ever-helpful [Rich Quick](http://twitter.com/richquick) for the idea, I’m going to do a talk on **Design Tips for Developers**.

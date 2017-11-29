@@ -5,6 +5,8 @@ colours: ["#2cb1c9", "#4B7CA5", "#95d1e4", "#1694AB", "#5783a8", "#3e5970", "#a3
 date: 2012-05-07T14:46:30+00:00
 categories: ["Design", "Events", "Usability"]
 tags: ["conference", "future insights live", "naivety", "native vs web", "platforms", "user experience", "web"]
+[params]
+  body_classes = "blog"
 ---
 
 Last week I was at the wonderful [Future Insights Live conference in Las Vegas](http://futureinsightslive.com). Annoyingly as I was speaking twice (that bit wasn’t annoying, it was fun!) I missed a load of talks, but had some fantastic discussions around some particularly interesting topics.

@@ -5,6 +5,8 @@ colours: ["#ff9b12", "#b23d17", "#34A031", "#c24000", "#F2F1EF", "#992500", "#C1
 date: 2012-12-10T21:23:00+00:00
 categories: ["Design", "Learning"]
 tags: ["app design", "apps", "Bardowl", "designer-developer", "honesty", "transparency", "working for free"]
+[params]
+  body_classes = "blog"
 ---
 
 For the last few years, I’ve been working with a great team of people on [our iPhone app](https://itunes.apple.com/app/bardowl/id492667930?ls=1&amp;mt=8), [Bardowl](http://bardowl.com), an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)

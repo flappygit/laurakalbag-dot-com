@@ -5,6 +5,8 @@ colours: ["#E84324", "#d53a1d", "#E8E5D4", "#3e3e3e", "#998F52", "#000000", "#d8
 date: 2010-07-12T16:29:43+00:00
 categories: ["Reviews"]
 tags: ["book review", "development", "HTML5"]
+[params]
+  body_classes = "blog"
 ---
 
 Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.

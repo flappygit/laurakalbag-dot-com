@@ -5,6 +5,8 @@ colours: ["#a4491e", "#581505", "#8e1406", "#311107", "#F0D8B4", "#1c0903", "#D5
 date: 2013-04-01T10:17:14+00:00
 categories: ["Design", "Events", "Podcasts"]
 tags: ["clients", "community", "crit", "criticism", "ego", "feedback", "freelancing", "mentor", "podcast"]
+[params]
+  body_classes = "blog"
 ---
 
 Last week I was guest co-host on [one of my most favourite podcasts](/why-i-love-unfinished-business/ "Why I love Unfinished Business"), [Unfinished Business](http://unfinished.bz/12). It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.

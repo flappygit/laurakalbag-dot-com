@@ -5,6 +5,8 @@ colours: ["#d81f26", "#8e1627", "#168aa4", "#681f2a", "#4bc1db", "#401b20", "#00
 date: 2012-12-04T08:45:27+00:00
 categories: ["Events"]
 tags: ["conference", "honesty", "integrity", "polarity", "politics", "sharing"]
+[params]
+  body_classes = "blog"
 ---
 
 Yesterday was [Insites: The Xmas Special](http://viewportindustries.com/events/insites-the-xmas-special/), a brilliant event put on by the lovely [Keir Whitaker](http://twitter.com/keirwhitaker) and [Elliot Jay Stocks](https://twitter.com/elliotjaystocks). After being well fed, everybody in the room gave a six minute(ish) talk about something they’ve learned in 2012.

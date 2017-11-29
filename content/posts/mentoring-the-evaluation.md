@@ -5,6 +5,8 @@ colours: ["#c62f8d", "#4f173a", "#bf369f", "#410638", "#a93d84", "#2e0533", "#7d
 date: 2013-06-25T11:11:11+00:00
 categories: ["Freelancing", "Learning"]
 tags: ["clients", "communication", "contract", "disciplines", "hybrid", "meetings", "mentoring", "roles", "team", "time"]
+[params]
+  body_classes = "blog"
 ---
 
 Previous posts on the mentoring project:

@@ -5,6 +5,8 @@ colours: ["#8e813e", "#a1944f", "#d5c87b", "#807b60", "#d9cd8c", "#000000", "#aa
 date: 2011-06-22T09:26:45+00:00
 categories: ["Design", "Events"]
 tags: ["ampersand conference", "comic sans", "conference", "content", "context", "CSS", "CSS3", "emotion", "event", "fonts", "modular scale", "process", "readability", "responsive web design", "systems", "user experience", "web fonts"]
+[params]
+  body_classes = "blog"
 ---
 
 I’ve tried to condense [my notes from Ampersand conference](/notes-from-ampersand-conf/) into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.

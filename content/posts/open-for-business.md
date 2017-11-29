@@ -5,6 +5,8 @@ colours: ["#cc7d33", "#6e6e6e", "#e0983e", "#4a4a4a", "#e3e3e3", "#212121", "#ff
 date: 2013-10-17T14:04:33+00:00
 categories: ["Design", "Freelancing"]
 tags: ["business", "client work", "openness", "transparency"]
+[params]
+  body_classes = "blog"
 ---
 
 [My second column for A List Apart, “Open for Business,” is now up](http://alistapart.com/column/open-for-business). I wrote Open for Business as a follow-up to my [Dare conference](http://2013.dareconf.com) talk about honesty. It’s not the same as the full talk (and has been edited into a far better shape by Rose Weisburd) but is the essence of why I feel that being open works for my business.

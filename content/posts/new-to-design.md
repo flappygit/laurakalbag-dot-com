@@ -5,6 +5,8 @@ colours: ["#d8ad00", "#c6870a", "#F7D200", "#434343", "#ffffff", "#000000", "#FF
 date: 2013-01-03T15:47:58+00:00
 categories: ["Design", "Learning"]
 tags: ["bookmarks", "design", "learning design", "resources", "Twitter"]
+[params]
+  body_classes = "blog"
 ---
 
 Following my [learning design post](/learning-design/ "Learning Design"), I’ve started a little project called “new to design.” At the moment it just consists of [a learn-design tag on my Pinboard bookmarks](https://pinboard.in/u:laurakalbag/t:learn-design/) and a [Twitter account @newtodesign ](http://twitter.com/newtodesign)so that I can share useful design resources (especially for those new to design.)

@@ -5,6 +5,8 @@ colours: ["#4F6E8D", "#0C6C52", "#557799", "#454545", "#FFFFFF", "#313131", "#AA
 date: 2013-05-09T09:13:01+00:00
 categories: ["Events"]
 tags: ["conference", "CSS", "online conference", "Sass", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 I’m speaking at [CSS Summit 2013](http://environmentsforhumans.com/2013/css-summit/) about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)

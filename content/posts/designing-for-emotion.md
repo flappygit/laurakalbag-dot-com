@@ -5,6 +5,8 @@ colours: ["#cf68cf", "#6C356C", "#e788d0", "#4b1b4b", "#a84da8", "#3e283e", "#b9
 date: 2011-11-15T09:43:18+00:00
 categories: ["Design", "Reviews"]
 tags: ["beyond usability", "book", "design", "emotional design", "usability", "user experience"]
+[params]
+  body_classes = "blog"
 ---
 
 I bought [Designing For Emotion](http://www.abookapart.com/products/designing-for-emotion "Designing For Emotion by Aarron Walter") as part of the [A Book Apart deal](http://www.abookapart.com/products/designing-for-emotion-mobile-first-bundle "Buy Designing For Emotion and Mobile First together from A Book Apart"), alongside Mobile First. After listening to [Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show](http://5by5.tv/bigwebshow/58 "The Big Web Show #58"), and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.

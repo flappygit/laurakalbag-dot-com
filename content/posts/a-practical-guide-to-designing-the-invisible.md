@@ -4,6 +4,8 @@ draft: true
 colours: ["#7ccef4", "#0186ad", "#62b7d0", "#10667e", "#6fc8e2", "#0f3b48", "#8edef6"]
 date: 2011-11-01T08:27:28+00:00
 categories: ["Design", "Reviews"]
+[params]
+  body_classes = "blog"
 ---
 
 After reading [Mark Boulton’s A Practical Guide to Designing For The Web](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web "Five Simple Steps - A Practical Guide to Designing For The Web") and [Andy Clarke’s Hardboiled Web Design](/hardboiled-web-design-and-transcending-css/ "Hardboiled Web Design and Transcending CSS"), I was keen to read another Five Simple Steps’ design book. [Robert Mills’ A Practical Guide to Designing the invisible](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible "Five Simple Steps - A Practical Guide to Designing the invisible") definitely didn’t disappoint.

@@ -5,6 +5,8 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2014-03-25T10:52:12+00:00
 categories: ["Freelancing", "Podcasts"]
 tags: ["client work", "conferences", "freelance", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 Last weekend I was a guest on the [Unfinished Business podcast](http://unfinished.bz/61) again. I had a lovely time chatting to Andy about speaking at conferences, working for free and I even managed to squeeze in a rant about accessibility.

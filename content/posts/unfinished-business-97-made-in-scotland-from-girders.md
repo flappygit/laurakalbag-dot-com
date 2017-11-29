@@ -5,6 +5,8 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2014-12-01T14:14:51+00:00
 categories: ["ind.ie", "Personal", "Podcasts"]
 tags: ["Christmas decorations", "food", "future", "podcasting"]
+[params]
+  body_classes = "blog"
 ---
 
 [This week’s episode of Unfinished Business](http://unfinished.bz/97) was great fun to record. Both Ashley Baxter and I were Andy’s guests, and we talked about unhealthy food, being a podcast guest, Christmas decorations, and everything that’s in store for the three of us over the next year.

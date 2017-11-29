@@ -5,6 +5,8 @@ colours: ["#513fae", "#0e67aa", "#C21D0F", "#d15600", "#FFD448", "#a83300", "#38
 date: 2012-10-25T16:37:48+00:00
 categories: ["Design"]
 tags: ["Adobe", "apps", "graphics", "Illustrator", "Photoshop", "tools"]
+[params]
+  body_classes = "blog"
 ---
 
 After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.

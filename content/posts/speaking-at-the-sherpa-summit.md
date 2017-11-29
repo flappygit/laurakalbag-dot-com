@@ -5,6 +5,8 @@ colours: ["#d06333", "#5c8990", "#ec6d30", "#3d585c", "#efe5d5", "#334a4e", "#d5
 date: 2015-04-02T10:57:51+00:00
 categories: ["Accessibility", "Events"]
 tags: ["accessibility", "online conference", "speaking"]
+[params]
+  body_classes = "blog"
 ---
 
 Last October, [Web Standards Sherpa](http://webstandardssherpa.com) published my [mini series on Getting Started With Sass](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-3/). It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.

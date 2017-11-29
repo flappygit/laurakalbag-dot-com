@@ -5,6 +5,8 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2014-08-19T18:57:57+00:00
 categories: ["Podcasts"]
 tags: ["business", "comfort zone", "freelancing", "myths", "photo manipulation", "social media", "speaking", "writing"]
+[params]
+  body_classes = "blog"
 ---
 
 I was so busy last week that I forgot to post about [Unfinished Business episode 81: Do you have a dinosaur onesie?](http://unfinished.bz/81) This week, Ashley and I recorded [episode 82: Love a good pep talk](http://unfinished.bz/82).

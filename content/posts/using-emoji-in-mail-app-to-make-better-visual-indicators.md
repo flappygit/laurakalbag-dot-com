@@ -5,6 +5,8 @@ colours: ["#1b77de", "#114269", "#297BBD", "#08313f", "#05C34A", "#052029", "#D8
 date: 2013-02-10T15:31:54+00:00
 categories: ["Snippets"]
 tags: ["emoji", "Mail.app", "productivity"]
+[params]
+  body_classes = "blog"
 ---
 
 After reading this brilliant [Mac App Storm post on Turning Mail.app Into the Best Mac Email App](http://mac.appstorm.net/how-to/internet-howto/turning-mail-app-into-the-best-mac-email-app/), I was inspired to follow a lot of the tips to make my emails easier to handle.

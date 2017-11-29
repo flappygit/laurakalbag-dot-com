@@ -5,6 +5,8 @@ colours: ["#149116", "#424242", "#22aa16", "#0b7709", "#058964", "#086613", "#0a
 date: 2015-07-30T10:19:04+00:00
 categories: ["Design Issues"]
 tags: ["analytics", "design ethics", "ethics", "forum", "Ind.ie"]
+[params]
+  body_classes = "blog"
 ---
 
 We have [Piwik analytics](https://forum.ind.ie/t/piwik-alternative-for-analytics/627) on the [Ind.ie site](https://ind.ie/), and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use [Ghostery](https://www.ghostery.com/en/) so I actually block analytics like this for my own use.

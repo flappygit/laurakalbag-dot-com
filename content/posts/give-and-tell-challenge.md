@@ -5,6 +5,8 @@ colours: ["#008188", "#565656", "#eb2954", "#444444", "#00c0ca", "#020202", "#e4
 date: 2014-08-26T14:42:01+00:00
 categories: ["Personal"]
 tags: ["charity", "equality"]
+[params]
+  body_classes = "blog"
 ---
 
 When [Andy Clarke challenged me to the “Give and Tell Challenge”](http://stuffandnonsense.co.uk/blog/about/give-and-tell-challenge), I was very happy to comply. [Dan James,](http://www.ceoblues.com/archive/2014/august/giveandtell) inspired by the [ALS Ice Bucket Challenge](https://en.wikipedia.org/wiki/Ice_Bucket_Challenge), came up with the challenge:

@@ -5,6 +5,8 @@ colours: ["#ff0078", "#4c4c4c", "#ff0078", "#424242", "#ffffff", "#272727", "#ff
 date: 2014-09-16T08:44:10+00:00
 categories: ["Design", "Design Issues", "Events"]
 tags: ["conference", "Ind.ie", "workshop"]
+[params]
+  body_classes = "blog"
 ---
 
 Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.

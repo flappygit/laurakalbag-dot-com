@@ -5,6 +5,8 @@ colours: ["#326c95", "#647887", "#658195", "#4E5860", "#738b9c", "#3a4750", "#ff
 date: 2013-03-12T20:41:36+00:00
 categories: ["Freelancing", "Personal"]
 tags: ["burnout", "freelancing", "health"]
+[params]
+  body_classes = "blog"
 ---
 
 Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you *want* to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.

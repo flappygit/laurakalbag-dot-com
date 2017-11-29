@@ -5,6 +5,8 @@ colours: ["#b53c2c", "#404d68", "#ce3622", "#912a1d", "#D5D1B4", "#5f1a11", "#ff
 date: 2013-10-21T18:59:45+00:00
 categories: ["Events"]
 tags: ["client work", "honesty", "openness", "talk"]
+[params]
+  body_classes = "blog"
 ---
 
 The lovely people at [Dare conference](http://2013.dareconf.com) have released [the video of my talk, My Secret is Honesty](http://2013.dareconf.com/videos/kalbag). It’s pretty much a longer, talk-version of [my latest column on A List Apart, “Open for Business.”](http://alistapart.com/column/open-for-business)

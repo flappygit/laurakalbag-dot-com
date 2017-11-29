@@ -5,6 +5,8 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-06-13T13:38:04+00:00
 categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "reviews", "support"]
+[params]
+  body_classes = "blog"
 ---
 
 Time rolls by and it’s about time I did another diary entry. I’m going to try to get Aral and me to write more frequently now what we’re working on ([Better](https://better.fyi)) is out in the open. (No more talk of the hush-hush project! ;-)

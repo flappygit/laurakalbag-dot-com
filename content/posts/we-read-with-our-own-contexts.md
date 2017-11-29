@@ -5,6 +5,8 @@ colours: ["#4186a8", "#464c8e", "#1fa5d6", "#333163", "#7ed3f2", "#22213c", "#81
 date: 2012-12-18T14:40:40+00:00
 categories: ["Learning"]
 tags: ["criticism", "ego", "feedback", "Twitter"]
+[params]
+  body_classes = "blog"
 ---
 
 Oh Twitter. Yesterday was another day where I accidentally incited another riot with a poorly-worded tweet. Nobody is perfect, but it’s starting to happen with alarming frequency, and I wanted to understand *why* I keep doing this.
