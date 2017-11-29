@@ -5,7 +5,7 @@ draft: true
 menu:
  main:
   weight: -20
-body_classes: "home"
+body_classes: "home colours-001"
 ---
 
 # Hi, friend.
