@@ -5,8 +5,7 @@ colours: ["#6f9933", "#3F5526", "#97C459", "#637A3D", "#EEEEEE", "#3F5526", "#63
 date: 2013-07-26T09:00:10+00:00
 categories: ["Design", "Development", "Events", "Learning"]
 tags: ["case study", "Codekit", "CSS", "Sass", "slides", "web talk dog walk"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Yesterday I gave a talk at the [fantastic online conference CSS Summit](http://environmentsforhumans.com/2013/css-summit/) on ‘Sass for designers’. It uses [my new site Web Talk Dog Walk](http://webtalkdogwalk.in/brighton/) as a case study, and explains the basics of Sass and how to get started using [CodeKit](http://incident57.com/codekit/).

@@ -5,8 +5,7 @@ colours: ["#D06A23", "#71523d", "#7F5F39", "#683731", "#CEBB99", "#320904", "#ff
 date: 2013-02-06T09:23:20+00:00
 categories: ["Design", "Events", "Freelancing", "Podcasts"]
 tags: ["conferences", "freelancing", "mentor", "podcast", "speaking", "The East Wing", "women"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Yesterday I was a guest on [Tim Smith](http://twitter.com/ttimsmith)‘s [The East Wing podcast](http://theeastwing.net/). It was a pre-recorded conversation and it was great fun. You can [listen to it on the East Wing website](http://theeastwing.net/episodes/laura-kalbag), and it’ll be up on iTunes soon.

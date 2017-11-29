@@ -5,8 +5,7 @@ colours: ["#2695ce", "#6f7a84", "#4d8ba9", "#417690", "#63b2d9", "#366277", "#63
 date: 2013-12-18T11:59:17+00:00
 categories: ["Design", "Tools"]
 tags: ["dreams", "hardware", "inspiration", "software"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 A few weeks ago [I answered some questions](http://workspiration.org/laura-kalbag) for [Workspiration](http://workspiration.org) on my hardware and software setup, inspiration and dreams.

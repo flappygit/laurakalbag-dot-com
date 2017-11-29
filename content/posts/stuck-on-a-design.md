@@ -5,8 +5,7 @@ colours: ["#D64371", "#535C66", "#669BB8", "#363F49", "#91bed6", "#2d343c", "#ef
 date: 2010-10-15T16:59:29+00:00
 categories: ["Design"]
 tags: ["clients", "community", "criticism", "designers", "feedback", "trends", "users"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 After [discussing Dribbble and Forrst](/dribbble-and-forrst-for-client-project-feedback/ "Using Dribbble and Forrst for feedback on a client project"), and [my latest post that looked at criticism in design](/good-old-designer-snobbery-is-live-and-kicking/ "Good old designer snobbery is alive and kicking"), I’ve been thinking a lot more about how feedback features in my design process.

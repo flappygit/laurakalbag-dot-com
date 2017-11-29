@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2017-04-10T12:58:22+00:00
 categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "slides", "speaking", "talks"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:

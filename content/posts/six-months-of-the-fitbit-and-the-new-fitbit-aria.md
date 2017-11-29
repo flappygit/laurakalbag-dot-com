@@ -5,8 +5,7 @@ colours: ["#99CC33", "#057E98", "#90bb3a", "#0d6577", "#36c4e2", "#21869c", "#38
 date: 2012-06-29T16:39:58+00:00
 categories: ["Freelancing", "Reviews"]
 tags: ["Fitbit", "Fitbit Aria", "gadget", "health", "mind"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [Skip to the main review!](#main-review)

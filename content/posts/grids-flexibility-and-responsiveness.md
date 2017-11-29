@@ -5,8 +5,7 @@ colours: ["#2ba6b6", "#118392", "#28aad2", "#115e7e", "#047E98", "#063e55", "#00
 date: 2012-10-12T21:39:30+00:00
 categories: ["Design"]
 tags: ["base units", "choosing typefaces", "columns", "content-first", "grids", "responsive web design"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 ## First steps: choosing a typeface

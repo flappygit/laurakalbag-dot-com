@@ -5,8 +5,7 @@ colours: ["#7de253", "#5AAE37", "#d8ee3f", "#3d8823", "#eafe5d", "#1c5e00", "#7b
 date: 2011-03-30T12:37:11+00:00
 categories: ["Design", "Reviews"]
 tags: ["ideas", "Leuchtturm1917", "Moleskine", "notebooks", "sketching", "stationery", "wireframes"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m a notebook and sketchbook-aholic. Actually I’m addicted to stationery of any kind. Pens, pencils, post-it notes. It’s incredibly easy to convince myself I need these items when I mostly don’t.

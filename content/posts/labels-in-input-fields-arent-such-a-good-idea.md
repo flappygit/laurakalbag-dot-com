@@ -5,8 +5,7 @@ colours: ["#2377a4", "#466e84", "#5A92B0", "#3a86ae", "#80afc9", "#235976", "#6a
 date: 2011-05-27T17:52:37+00:00
 categories: ["Design Issues", "Usability"]
 tags: ["accessibility", "form", "form fields", "HTML5", "interface", "label", "placeholder attribute", "usability", "users"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.

@@ -5,8 +5,7 @@ colours: ["#82B808", "#6e6e6e", "#82B808", "#6c9217", "#E2E2E2", "#4f6c0f", "#E9
 date: 2013-10-31T10:51:06+00:00
 categories: ["Freelancing", "Personal"]
 tags: ["business", "diversity", "inspiration", "interview"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [The Learning People have posted an interview they did with me](http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag) about women in the technology sector, working for myself, and what inspires me.

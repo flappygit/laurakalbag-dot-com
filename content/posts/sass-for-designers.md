@@ -5,8 +5,7 @@ colours: ["#b047b6", "#404040", "#bb1e88", "#783b7b", "#d39ed6", "#652a5e", "#ff
 date: 2012-12-28T17:51:04+00:00
 categories: ["Markup"]
 tags: ["CSS", "markup", "preprocessors", "Sass"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Despite saying that I wanted to avoid writing post about development, I wanted to write something about [Sass](http://sass-lang.com/).

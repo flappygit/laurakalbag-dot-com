@@ -5,8 +5,7 @@ colours: ["#df4220", "#3d90b8", "#2AAD39", "#2a7683", "#F4F641", "#136471", "#D9
 date: 2013-03-29T16:01:21+00:00
 categories: ["Events"]
 tags: ["speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Next month I’m speaking at [Breaking Borders](http://breakingborde.rs/). Breaking Borders is a brand new, totally free, bi-monthly event in Reading organised by my good friend, [Ben MacGowan](http://www.benmacgowan.co.uk/).

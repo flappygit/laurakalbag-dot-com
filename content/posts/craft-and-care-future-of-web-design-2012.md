@@ -5,8 +5,7 @@ colours: ["#DDA100", "#BE4868", "#ebb219", "#9D2A49", "#d67690", "#e26e8e", "#f7
 date: 2012-05-22T09:28:41+00:00
 categories: ["Design", "Events"]
 tags: ["digest", "future of web design", "Storify", "Twitter", "ubelly"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’ve written up [my digest of Future Of Web Design 2012 over at the ubelly blog](http://www.ubelly.com/2012/05/craft-and-care-future-of-web-design-london-2012/).

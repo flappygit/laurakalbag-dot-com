@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-07-17T17:56:41+00:00
 categories: ["ind.ie"]
 tags: ["Apple", "Europe", "Friday Roundup", "Google", "government surveillance", "Internet Of Things", "privacy", "surveillance", "UK"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This week the Ind.ie roundup returns with a big one. Great news on the UK surveillance legislation front, and lots of corporation news. Read the [Ind.ie roundup: Tethered Beings](https://ind.ie/blog/tethered-beings/).

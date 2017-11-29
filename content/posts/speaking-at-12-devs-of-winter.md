@@ -5,8 +5,7 @@ colours: ["#393939", "#41576b", "#2a7bda", "#174983", "#ffffff", "#10335b", "#e1
 date: 2014-01-06T21:17:32+00:00
 categories: ["Events"]
 tags: ["business", "freelancing", "meetup", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m speaking at [12 Devs of Winter on the 22nd January in Shoreditch](http://12devs.co.uk/events/12-devs-of-winter-2014/). Because I’ve clearly lost my mind, I’m going to be doing another new talk. This time on ‘Freelancing for the reluctant businessperson.’ I’m that reluctant businessperson, and I’m hoping to share some silly stories about all the daft things I’ve done and some of the things that have worked out just fine.

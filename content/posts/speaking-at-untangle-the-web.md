@@ -5,8 +5,7 @@ colours: ["#d7ba28", "#b35600", "#d7ba28", "#8a2f00", "#ffffff", "#6b1e00", "#00
 date: 2013-06-10T11:09:40+00:00
 categories: ["Design", "Events"]
 tags: ["design theory", "meetup", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Nothing quite like a last-minute post… Tonight I’m speaking at [Untangle the Web](http://www.meetup.com/Untangling-the-Web-London/events/119203762/) at Google Campus in London. I’m doing a talk on Design Theory for the Web where I do a whistle-stop tour through designing with typography, grids and colour on the web.

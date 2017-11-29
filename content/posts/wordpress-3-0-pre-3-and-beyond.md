@@ -5,8 +5,7 @@ colours: ["#dc7a1e", "#216F94", "#F7F7F7", "#D54E21", "#D7D7D7", "#B4411B", "#52
 date: 2010-07-16T21:49:42+00:00
 categories: ["WordPress"]
 tags: ["custom taxonomies", "featured images", "post thumbnails", "wordpress", "wordpress 2.8", "wordpress 2.9", "wordpress 3.0"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This post has three parts. This is part one. Visit the other parts below:

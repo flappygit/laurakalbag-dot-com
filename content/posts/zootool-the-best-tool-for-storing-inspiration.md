@@ -5,8 +5,7 @@ colours: ["#7FAB39", "#4e4e4e", "#afe659", "#48331E", "#ffffff", "#231b12", "#8E
 date: 2010-06-10T21:39:32+00:00
 categories: ["Reviews"]
 tags: ["image capture", "inspiration", "zootool"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Since I started using [Zootool](http://zootool.com/ "Zootool") in March I’ve been totally addicted.

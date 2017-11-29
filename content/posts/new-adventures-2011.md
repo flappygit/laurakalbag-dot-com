@@ -5,8 +5,7 @@ colours: ["#A73511", "#BB6320", "#E8DBC7", "#1E1710", "#C5AB8B", "#000000", "#D3
 date: 2011-02-04T00:21:27+00:00
 categories: ["Events"]
 tags: ["communication", "conferences", "content", "education", "freelance", "New Adventures in Web Design", "Twitter", "user experience", "visual design", "working process"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 ## Conferences are my social life

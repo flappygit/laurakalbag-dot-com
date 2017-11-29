@@ -6,8 +6,7 @@ colours: ["#646464", "#b65b41", "#c84e26", "#383838", "#e67252", "#0a0a0a", "#ff
 date: 2014-05-08T10:52:20+00:00
 categories: ["Design"]
 tags: ["logo design", "notebook", "sketchbook", "sketches"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my sketchbook pages on his site. Ian wanted to emphasise the rough, imperfect nature of the way we plan logo designs, and show real work done by real people.

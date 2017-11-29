@@ -5,8 +5,7 @@ colours: ["#3c6a90", "#354F38", "#84a739", "#49712d", "#C4DEF5", "#213413", "#E2
 date: 2013-06-27T09:29:04+00:00
 categories: ["Events"]
 tags: ["Brighton", "dog walk", "meetup"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 The last web talk dog walk was a success, with three of us (plus three dogs) taking in the slightly damp wilds of Sheepcote Valley. Now for the next one!

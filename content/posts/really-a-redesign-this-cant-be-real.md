@@ -5,8 +5,7 @@ colours: ["#db1a54", "#a93d89", "#ff547d", "#7c3b91", "#995ddd", "#44284d", "#f1
 date: 2012-10-09T07:00:43+00:00
 categories: ["Design", "Milestones"]
 tags: ["justification", "redesign"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 ## It’s about time…

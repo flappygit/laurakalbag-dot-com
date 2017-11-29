@@ -5,8 +5,7 @@ colours: ["#696969", "#2e704f", "#4ca97b", "#18432e", "#7FC6A3", "#112c1f", "#ff
 date: 2013-07-02T09:00:11+00:00
 categories: ["Design", "Freelancing"]
 tags: []
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Last week Allan McAvoy posted up [the interview he did with me](http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag "An interview with Laura Kalbag") as part of his [Freelancers series](http://allanmcavoy.co.uk/blog/category/freelancers). Some of the questions are fairly standard, but there’s also some unusual ones like “favourite colour for design” and “typical day in the life…”

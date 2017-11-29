@@ -5,8 +5,7 @@ colours: ["#c92c68", "#812855", "#d62980", "#630d2c", "#81283b", "#420525", "#b8
 date: 2013-06-11T14:41:59+00:00
 categories: ["Design", "Design Issues", "Pet Hates"]
 tags: ["aesthetic", "design", "designer", "flat", "trend"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m about to apply a mute filter to the word “flat” on Twitter. That or start unfollowing *a lot* of people.

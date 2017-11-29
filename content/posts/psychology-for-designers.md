@@ -5,8 +5,7 @@ colours: ["#a79739", "#69665d", "#D9C864", "#494946", "#D9C864", "#212023", "#D9
 date: 2013-04-15T08:55:45+00:00
 categories: ["Reviews"]
 tags: ["book", "cognitive psychology", "Five Simple Steps", "pocket guides", "psychology", "social psychology"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This week I went all out and bought all the currently-released [Five Simple Steps](http://www.fivesimplesteps.com) [Pocket Guide digital books](http://www.fivesimplesteps.com/products/pocket-guides-collection-one). I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.

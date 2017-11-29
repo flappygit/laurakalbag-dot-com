@@ -4,8 +4,7 @@ draft: true
 colours: ["#7b6d32", "#575757", "#968540", "#3b3b3b", "#AB9849", "#010101", "#ffffff"]
 date: 2013-10-24T09:03:51+00:00
 categories: ["Design", "Events"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Last November at Build conference 2012, I had fun talking to some of the folks from Typecast about building, web design, responsive design and type. They recorded these videos (along with a load of lovely, smart and cool people!) and [made a nice collection that you can watch on their website](http://typecast.com/build).

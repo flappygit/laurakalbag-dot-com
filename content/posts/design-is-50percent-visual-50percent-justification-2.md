@@ -5,8 +5,7 @@ colours: ["#41be7a", "#178047", "#44bb53", "#18513f", "#59ebbc", "#0d4738", "#57
 date: 2010-11-23T16:31:50+00:00
 categories: ["Design"]
 tags: ["clients", "decisions", "design", "justification", "school", "value", "work", "writing"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 After I finished my last post about [Design Tips for Developers](/design-tips-for-developers/), it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.

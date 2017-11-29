@@ -6,8 +6,7 @@ colours: ["#2a4d9d", "#703967", "#24478b", "#2c2c62", "#509fe1", "#1b144a", "#ff
 date: 2014-05-02T13:10:30+00:00
 categories: ["Design", "Development", "Milestones"]
 tags: ["case studies", "CSS", "portfolio", "realign", "redesign", "Sass", "typography", "update"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Things are looking a bit different around here. It’s not a redesign so much as a [realign](http://alistapart.com/article/redesignrealign). I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)

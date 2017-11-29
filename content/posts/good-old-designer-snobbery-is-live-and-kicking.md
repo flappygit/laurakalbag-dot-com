@@ -5,8 +5,7 @@ colours: ["#26404f", "#4B6594", "#6286cb", "#355467", "#87a6e0", "#1f323d", "#8f
 date: 2010-10-06T10:38:28+00:00
 categories: ["Design"]
 tags: ["critiques", "design", "designers", "Dribbble", "logo design"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”

@@ -5,8 +5,7 @@ colours: ["#AD1D1D", "#0D0C06", "#570D0D", "#DF000F", "#00A7DE", "#000000", "#FF
 date: 2011-05-23T15:05:51+00:00
 categories: ["Design Issues", "Events"]
 tags: ["communication", "conference", "copywriting", "creativity", "IE9", "mobile apps", "mobile web", "responsive web design", "self-promotion", "summary", "touch interfaces", "tweets", "Twitter", "user interfaces"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 # Day Two

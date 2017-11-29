@@ -5,8 +5,7 @@ colours: ["#a4491e", "#581505", "#8e1406", "#311107", "#F0D8B4", "#1c0903", "#D5
 date: 2013-02-25T17:48:24+00:00
 categories: ["Freelancing", "Podcasts", "Reviews"]
 tags: ["business", "freelancing", "podcast", "Unfinished Business"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I know, this is a funny topic on which to base a blog post but I love the [Unfinished Business podcast](http://unfinished.bz/), and I’d like to elaborate why in something more than a few [fawning tweets](https://twitter.com/laurakalbag/status/306038603950198785).

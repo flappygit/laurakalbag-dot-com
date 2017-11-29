@@ -5,8 +5,7 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-02T12:27:28+00:00
 categories: ["Learning"]
 tags: ["photography"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’ve had a DSLR for nearly a year now. And I still only ever use it on the Auto modes. I studied photography (with film cameras) during my Art Foundation course ~10 years ago, but I think any decent photos were mostly luck, and I can’t remember much of it. So when Ashley set up her [Girl With A Camera Course](http://girlwithacamera.co.uk/courses/), “For the beginner photographer who wants to pick up their camera more,” I was instantly sold!

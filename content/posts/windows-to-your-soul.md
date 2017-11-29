@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-07-31T17:40:09+00:00
 categories: ["ind.ie"]
 tags: ["corporate surveillance", "Facebook", "Friday Roundup", "Google", "surveillance", "Uber", "Windows 10"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 In [this week’s Ind.ie roundup](https://ind.ie/blog/windows-to-your-soul/), I wrote about privacy, politics, tracking, Timelines, and a little thing called “corporate nullification.”

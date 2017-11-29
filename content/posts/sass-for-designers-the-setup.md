@@ -5,8 +5,7 @@ colours: ["#b047b6", "#404040", "#bb1e88", "#783b7b", "#d39ed6", "#652a5e", "#d7
 date: 2012-12-28T17:51:36+00:00
 categories: ["Markup"]
 tags: ["Codekit", "CSS", "preprocessors", "Sass"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 As an accompaniment to my post on [Sass for Designers](/sass-for-designers/ "Sass for Designers") (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.

@@ -5,8 +5,7 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-09T07:53:33+00:00
 categories: ["Learning"]
 tags: ["photography"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 On my last day in Berlin, I took a lot more photos. Last night I started post-processing them, following Ashley’s email and video tutorials. Post-processing is an area where I have more experience, I’ve done a lot of Photoshopping in the past, but now I’m trying to achieve new effects using Lightroom, which is a very different animal!

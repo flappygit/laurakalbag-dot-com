@@ -5,8 +5,7 @@ colours: ["#c27388", "#9e2e62", "#c43678", "#974166", "#c2b753", "#712935", "#e7
 date: 2016-02-17T10:30:00+00:00
 categories: ["Design", "Design Issues"]
 tags: ["aspiring", "design", "ethical design", "impact"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I was just asked, amongst a couple of other questions, what advice I would give to aspiring designers or typographers.

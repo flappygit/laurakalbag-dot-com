@@ -5,8 +5,7 @@ colours: ["#777777", "#565656", "#946d16", "#333333", "#ffffff", "#0a0a0a", "#ff
 date: 2014-06-05T08:28:36+00:00
 categories: ["Freelancing", "Personal"]
 tags: ["client work", "collaboration", "Indie Phone", "The Pastry Box"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Following on from [my post yesterday about working with Indie Phone for 50% of my time](/indie-phone/ "Becoming part of Indie Phone"), [my thought on the Pastry Box today is about how I accidentally became a control freak](https://the-pastry-box-project.net/laura-kalbag/2014-June-5). It’s hard to admit the flaws you find in yourself, but I’m so determined to do a good job that I think it’s better to find those flaws and try to fix them!

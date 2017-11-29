@@ -5,8 +5,7 @@ colours: ["#B57C37", "#976b3c", "#D6AF78", "#4E4741", "#BE9464", "#2d2b2a", "#43
 date: 2010-07-05T19:23:32+00:00
 categories: ["Design"]
 tags: ["@font-face", "font-family", "fonts", "header", "mac", "paragraph", "sans-serif", "serif", "typekit", "windows"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This little post is an extension of my post on Web Fonts.

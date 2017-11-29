@@ -5,8 +5,7 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2013-11-12T18:22:41+00:00
 categories: ["Podcasts"]
 tags: ["business", "client work", "freelancing", "podcast", "Unfinished Business", "workshops"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [Last week I was on Unfinished Business again](http://unfinished.bz/44)! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…

@@ -5,8 +5,7 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-11T16:33:49+00:00
 categories: ["Learning"]
 tags: ["Oskar", "photography"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 When I started doing this course, I knew I’d probably end up with a lot of dog walking photos. Oskar and I are out every day, and so there’s lots of photo opportunities.

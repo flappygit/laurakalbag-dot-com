@@ -5,8 +5,7 @@ colours: ["#1168c9", "#565656", "#2189f2", "#353535", "#9b9b9b", "#0a0a0a", "#47
 date: 2015-01-14T14:59:26+00:00
 categories: ["Accessibility"]
 tags: ["keyboard navigation", "skip links"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.

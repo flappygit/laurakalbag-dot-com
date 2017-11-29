@@ -5,8 +5,7 @@ colours: ["#3babb5", "#127982", "#4aa8b0", "#0d5c73", "#ffffff", "#154756", "#63
 date: 2013-03-26T14:15:22+00:00
 categories: ["Events", "Personal"]
 tags: ["speaking", "writing"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 A while ago, [Jeremy Keith](http://adactio.com) introduced me to [ladiesintech.com](http://ladiesintech.com/), suggesting that it might be something that’d interest me. After having a chat with the lovely [Jenn Lukas](https://twitter.com/jennlukas) over email, I had a story that I wanted to share about my adventures in speaking, and Jenn has now helped me [share it on the site](http://ladiesintech.com/asking-for-help/).

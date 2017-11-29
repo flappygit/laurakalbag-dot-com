@@ -5,8 +5,7 @@ colours: ["#ec9b0e", "#cc5e00", "#ec7713", "#9f3a09", "#ffbf0f", "#711f09", "#ff
 date: 2013-02-01T15:59:34+00:00
 categories: ["Design", "Freelancing", "Learning"]
 tags: ["clients", "mentor", "project"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This post is an update on [my mentoring project idea](/mentoring-a-project-the-idea/ "Mentoring a project: The idea").

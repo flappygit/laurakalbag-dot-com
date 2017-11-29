@@ -5,8 +5,7 @@ colours: ["#855436", "#6B4A37", "#a28b5d", "#5b331a", "#E3DACB", "#382519", "#C4
 date: 2013-06-02T09:32:12+00:00
 categories: ["Events"]
 tags: ["happy"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Last Friday, this happened. I really didn’t expect it; I tripped over on the way up to the stage and mumbled through a thank you while the microphone was mostly switched off. Despite being clumsy and totally inarticulate, I was delighted. It didn’t just make my day, it made my year :)

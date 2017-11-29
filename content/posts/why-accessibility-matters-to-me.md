@@ -5,8 +5,7 @@ colours: ["#007bb8", "#005994", "#007092", "#00385e", "#fafafa", "#001c2f", "#1c
 date: 2014-05-15T10:14:06+00:00
 categories: ["Accessibility", "Design", "Usability"]
 tags: ["#GAAD", "accessibility", "learning"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an *essential* part of the nature of the web.

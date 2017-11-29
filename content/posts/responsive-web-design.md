@@ -5,8 +5,7 @@ colours: ["#b98716", "#8a5f00", "#FBC242", "#525049", "#ffffff", "#3f3d39", "#f9
 date: 2011-07-05T19:05:02+00:00
 categories: ["Reviews"]
 tags: ["browsers", "CSS", "CSS3", "flexible", "fluid layouts", "HTML", "mobile", "mobile first", "process", "progressive enhancement", "responsive web design"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.

@@ -5,8 +5,7 @@ colours: ["#737373", "#762829", "#cf1313", "#ab0f0f", "#ffffff", "#640707", "#ff
 date: 2014-11-28T13:09:28+00:00
 categories: ["Design", "Freelancing", "ind.ie"]
 tags: ["criticism", "crowdfunding", "feedback", "flexibility", "freelancing", "Ind.ie", "learning"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.

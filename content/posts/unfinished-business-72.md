@@ -5,8 +5,7 @@ colours: ["#98421a", "#581505", "#8e1406", "#311107", "#f0d8b4", "#1c0903", "#d5
 date: 2014-06-09T16:02:49+00:00
 categories: ["Podcasts"]
 tags: ["books", "publishing", "writing"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [This week’s episode of Unfinished Business](http://unfinished.bz/72) was great fun to record. After [my recent move to working on Indie Phone](/indie-phone/ "Becoming part of Indie Phone"), alongside my boyfriend Aral Balkan, I was curious to know how Andy and Sue have worked so well together since the beginning of Stuff and Nonsense.

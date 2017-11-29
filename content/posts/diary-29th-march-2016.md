@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-03-29T14:55:34+00:00
 categories: ["Design", "ind.ie"]
 tags: ["icons", "labs", "logo design", "style language"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)

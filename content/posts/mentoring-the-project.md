@@ -5,8 +5,7 @@ colours: ["#c6372f", "#721d28", "#d4253d", "#5f0727", "#d32f27", "#330517", "#d2
 date: 2013-03-04T11:38:43+00:00
 categories: ["Freelancing", "Learning"]
 tags: ["clients", "freelancing", "meeting", "mentee", "mentor", "money", "project"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Previous posts on the mentoring project:

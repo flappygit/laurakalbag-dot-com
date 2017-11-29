@@ -5,8 +5,7 @@ colours: ["#3481c3", "#6b6b6b", "#2455c3", "#383838", "#ffffff", "#0a0a0a", "#ff
 date: 2014-04-03T12:56:33+00:00
 categories: ["Design", "Freelancing"]
 tags: ["A List Apart", "client work", "design", "ego"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Today [my column on Me and My Big Fat Ego](http://alistapart.com/column/me-and-my-big-fat-ego) was published on A List Apart. It’s not that I’d say I have a huge ego, but it’s definitely something that’s easily bruised when I feel like things aren’t going my way.

@@ -5,8 +5,7 @@ colours: ["#AB3F1B", "#206D92", "#CD4B20", "#298CBA", "#DADADA", "#0e5d81", "#F7
 date: 2013-02-02T13:09:26+00:00
 categories: ["Design", "Events"]
 tags: ["icons", "slides", "talk", "video", "wordpress", "WordPress admin icons"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 A while ago I wrote[ a post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live](/speaking-at-the-wordpress-london-january-meetup/ "Speaking at the WordPress London January meetup"). Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!

@@ -5,8 +5,7 @@ colours: ["#d36622", "#684e36", "#e57c15", "#59351c", "#e56015", "#2c1f17", "#e5
 date: 2013-11-04T10:14:44+00:00
 categories: ["Freelancing"]
 tags: ["clients", "contract", "freelancing"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 At Dare conference in September, I saw [a great talk by Kevin Hoffman on “How To Rebuild Amidst Crisis.”](http://2013.dareconf.com/videos/hoffman) I loved this talk, there was so much in it, but one thing struck me as something I could carry over into my work: Kevin said he included “ask any question and I’ll answer it” in his contract.

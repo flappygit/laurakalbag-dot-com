@@ -5,8 +5,7 @@ colours: ["#0d7abd", "#6b6b6b", "#2455c3", "#383838", "#ffffff", "#0a0a0a", "#f0
 date: 2014-08-15T07:20:40+00:00
 categories: ["Personal", "Tools"]
 tags: ["work", "workplace", "workspace"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This morning Martin Wolf published an interesting [blog post with photos of the “workplaces of web professionals”](http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/). I always wonder if people really are *that* tidy, or if they spent a while clearing up before they took the photo.

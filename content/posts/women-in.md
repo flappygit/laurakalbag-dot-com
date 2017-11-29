@@ -5,8 +5,7 @@ colours: ["#FF82C7", "#b04370", "#f842a6", "#c01473", "#7fc2ee", "#8c014d", "#46
 date: 2011-03-02T13:57:05+00:00
 categories: ["Events", "Pet Hates"]
 tags: ["business", "conferences", "equality", "gender", "tech"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 ## I’ve changed my mind about this subject!

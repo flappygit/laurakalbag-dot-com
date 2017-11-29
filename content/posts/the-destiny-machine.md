@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-05-25T08:54:43+00:00
 categories: ["ind.ie"]
 tags: ["corporate surveillance", "Europe", "Facebook", "Friday Roundup", "Google", "independence", "Internet.org", "privacy", "trolling", "Twitter", "women"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [Last Friday’s roundup](https://ind.ie/blog/the-destiny-machine/) was back to business as usual, after a couple of weeks of re:publica-related work. We’ve got the latest in the world of [Spyware 2.0](https://ind.ie/you-are-the-product), and some fun ways that people are challenging the system.

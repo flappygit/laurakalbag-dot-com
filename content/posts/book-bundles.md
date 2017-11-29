@@ -5,8 +5,7 @@ colours: ["#3e5584", "#898989", "#113784", "#595959", "#3a3a3a", "#232323", "#00
 date: 2015-06-26T00:00:04+00:00
 categories: ["Personal"]
 tags: ["books", "selling"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 *3rd July: NEW BOOKS ADDED!*

@@ -5,8 +5,7 @@ colours: ["#843e92", "#482e61", "#524489", "#432761", "#735093", "#29193a", "#8f
 date: 2015-04-02T17:24:04+00:00
 categories: ["Design", "Milestones"]
 tags: ["accessibility", "colour", "design"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Almost a year after [last year’s realign](/a-little-realign/ "A little realign"), I’ve made some more tweaks to my site. There were a few reasons behind it:

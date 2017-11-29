@@ -5,8 +5,7 @@ colours: ["#c81477", "#565656", "#df1685", "#333333", "#56c2b4", "#020202", "#56
 date: 2014-08-01T13:16:04+00:00
 categories: ["Design", "Design Issues"]
 tags: ["Digital Arts magazine", "future", "web design"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!

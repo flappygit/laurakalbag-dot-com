@@ -5,8 +5,7 @@ colours: ["#ec610e", "#72271d", "#ec3713", "#5f070a", "#ff6c0f", "#330509", "#ff
 date: 2013-02-11T10:54:24+00:00
 categories: ["Design", "Freelancing", "Learning"]
 tags: ["clients", "mentee", "mentor", "project"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 We’ve got a project! I’ll elaborate on the details of the project in a future post, but the importance of having a project was that it’s allowed me to choose the designers/developers who could get something out of being [mentees](http://en.wikipedia.org/wiki/Mentee). I didn’t want to do this before securing the right project as I needed to know what I was looking for in a mentee.

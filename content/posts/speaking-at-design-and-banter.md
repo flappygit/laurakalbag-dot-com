@@ -5,8 +5,7 @@ colours: ["#0876ba", "#16957b", "#19a68a", "#13806b", "#19a68a", "#0f6252", "#19
 date: 2014-02-26T12:07:11+00:00
 categories: ["Events"]
 tags: ["design", "meetup", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m speaking at [Design + Banter](http://designandbanter.com) on Monday in London. It’s already sold out, but there’s a waiting list available for the free tickets.

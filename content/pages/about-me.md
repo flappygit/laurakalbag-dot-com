@@ -6,8 +6,7 @@ draft: true
 menu:
  main:
   weight: 10
-[params]
-  body_classes = "about-me"
+body_classes: "about-me"
 ---
 
 ## Basics

@@ -5,8 +5,7 @@ colours: ["#44a8ce", "#3f3f3f", "#f9454e", "#2d3e4f", "#93cde2", "#000000", "#f6
 date: 2015-04-07T09:26:27+00:00
 categories: ["Events"]
 tags: ["conference", "meetup", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m speaking at the very first [418:conf web meetup](http://418conf.co.uk) on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.

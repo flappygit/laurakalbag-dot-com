@@ -5,8 +5,7 @@ colours: ["#5373AE", "#28315E", "#E3CD45", "#425D92", "#4B62AE", "#232732", "#42
 date: 2010-11-04T16:26:24+00:00
 categories: ["Design"]
 tags: ["'design eye'", "bathcamp", "colour", "contrast", "CSS", "design", "fonts", "gradients", "grids", "icons", "imagery", "layout", "light", "noise", "shadows", "talk", "textures"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This little post is based around the talk I gave at Bathcamp. [Rich Quick](http://twitter.com/richquick) came up with the great idea that, whilst [Bathcamp](http://bathcamp.org) attendees are mostly developers, a talk on design for developers was probably appropriate.

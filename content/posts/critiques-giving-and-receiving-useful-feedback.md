@@ -5,8 +5,7 @@ colours: ["#f04293", "#584f92", "#E16CAF", "#cd3c76", "#8a68ca", "#6547b3", "#70
 date: 2012-05-14T09:09:10+00:00
 categories: ["Design", "Design Issues"]
 tags: ["crit", "critiques", "education", "feedback"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Funnily enough, a couple of days before [Mark Boulton said](http://twitter.com/markboulton/status/200509667384885250 "&quot;Theory: Web designers lack the ability (through practice and traditional schooling) to critique design effectively.&quot; says Mark Boulton on Twitter") and [wrote his piece on design critiques](http://www.markboulton.co.uk/journal/comments/its-not-working-for-me-crit "It’s Not Working For Me by Mark Boulton"), I’d been thinking about that same topic. I’ve been struggling through an iPhone app icon design, and [had asked Twitter for help.](https://twitter.com/#!/laurakalbag/status/199846580407377921 "&quot;2) I've got an app icon design that needs some criticism as I've lost sight of it. Anyone free to give me some time via email today?&quot; by Laura Kalbag on Twitter") Knowing that the 160 character limit wasn’t going to help me much, I emailed everyone who offered me assistance and sat back waiting for the criticism.

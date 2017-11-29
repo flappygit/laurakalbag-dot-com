@@ -5,8 +5,7 @@ colours: ["#c42779", "#64486a", "#bd2876", "#842447", "#cf4a7c", "#783054", "#ac
 date: 2013-02-04T21:39:47+00:00
 categories: ["Events", "Personal"]
 tags: ["conferences", "events", "speaking", "women"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I used to not understand the fuss around women at conferences, I thought that we should all just carry on with what we were doing well already and not get caught up in needless controversy. I even [wrote a blog post saying exactly that a couple of years ago](/women-in/ "Women in…"). I’d never experienced (to my knowledge) any difficulties because I was a woman.

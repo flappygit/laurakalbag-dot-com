@@ -5,8 +5,7 @@ colours: ["#724D8E", "#6b3f8d", "#724D8E", "#4A1E6A", "#65586f", "#34174a", "#7f
 date: 2013-03-30T20:09:49+00:00
 categories: ["Design", "Tools"]
 tags: ["OSX", "procrastinating", "theme", "tools"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Today I finally got around to playing with [Alfred v2](http://www.alfredapp.com/). This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.

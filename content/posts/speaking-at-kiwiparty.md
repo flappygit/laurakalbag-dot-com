@@ -5,8 +5,7 @@ colours: ["#709215", "#495f0e", "#ec135a", "#37480b", "#a4ba25", "#253107", "#ff
 date: 2014-03-27T07:50:21+00:00
 categories: ["Events"]
 tags: ["accessibility", "conference", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 On the 13th of June, I’m speaking at [KiwiParty in Strasbourg](http://kiwiparty.fr). I’ll be speaking about web accessibility.

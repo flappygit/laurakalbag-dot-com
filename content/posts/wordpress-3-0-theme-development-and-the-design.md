@@ -5,8 +5,7 @@ colours: ["#dc7a1e", "#216F94", "#F7F7F7", "#D54E21", "#D7D7D7", "#B4411B", "#52
 date: 2010-07-16T21:50:57+00:00
 categories: ["WordPress"]
 tags: ["accessibility", "custom backgrounds", "custom headers", "menus", "theme development", "twentyten", "usability", "wordpress", "wordpress 3.0", "wordpress admin"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 This post has three parts. This is part three. Visit the other parts below:

@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-08-07T21:19:23+00:00
 categories: ["ind.ie"]
 tags: ["corporate surveillance", "diversity", "Facebook", "Google", "Netzpolitick", "right to be forgotten", "Victor Papanek", "White Hat Magazine"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 [This week’s roundup](https://ind.ie/blog/the-sticky-pocked-underbelly-of-the-web/) covers Swiss Cheese Internet vs The Database Of Ruin, The Right To Be Forgotten, and Diversity. Lots of variety!

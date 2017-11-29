@@ -5,8 +5,7 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-09T17:01:56+00:00
 categories: ["Learning"]
 tags: ["levitation", "photography"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Another photo post so soon? Yes! It’s the weekend, and Ashley gave us a really cool new exercise to try levitation, so I thought I had to try it.

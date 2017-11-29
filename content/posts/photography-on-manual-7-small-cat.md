@@ -5,8 +5,7 @@ colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#de
 date: 2015-05-13T16:19:03+00:00
 categories: ["Learning"]
 tags: ["cat", "photography"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.

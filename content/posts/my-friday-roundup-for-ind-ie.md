@@ -5,8 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-04-03T15:46:14+00:00
 categories: ["ind.ie"]
 tags: ["bullying", "capitalism", "culture", "economy", "feminism", "Friday Roundup", "independence", "names", "privacy", "security"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Every Friday I write a roundup of great links we at [Ind.ie](https://ind.ie) have seen over the last week. I’m not going to lie, it’s a lot of fun. I finally have an excuse to sit and properly read articles that are related to independence, privacy, human rights, democracy, diversity and more. I feel more well-informed as a result!

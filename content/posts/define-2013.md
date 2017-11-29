@@ -5,8 +5,7 @@ colours: ["#518551", "#4D3A6E", "#6D0AAB", "#480772", "#ffffff", "#2C0445", "#51
 date: 2013-06-07T11:24:22+00:00
 categories: ["Events"]
 tags: ["diversity", "freelance", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.

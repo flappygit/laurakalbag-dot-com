@@ -5,8 +5,7 @@ colours: ["#EF561F", "#AB1A0C", "#ff8030", "#7d170d", "#537B92", "#792c11", "#ff
 date: 2011-03-02T15:36:25+00:00
 categories: ["Events"]
 tags: ["conference", "mobile", "thebigm", "Twitter"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, [The Big M](http://thebigm.mobi "The Big M website").

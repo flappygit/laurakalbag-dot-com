@@ -5,8 +5,7 @@ colours: ["#86B83B", "#2f7001", "#cbd70f", "#6B932E", "#C1150D", "#39691c", "#ff
 date: 2012-10-20T13:11:08+00:00
 categories: ["Learning"]
 tags: ["code", "javascript", "learning", "programming", "workshop"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 ## Programming block

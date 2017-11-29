@@ -5,8 +5,7 @@ colours: ["#FF82C7", "#b04370", "#f842a6", "#c01473", "#7fc2ee", "#8c014d", "#46
 date: 2010-08-04T10:32:18+00:00
 categories: ["Design Issues"]
 tags: ["advertising", "images", "perception", "post production"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I don’t like to say it, but I think the Girlguides UK campaign ([#](http://twitter.com/#search?q=%23gukforrealimages "hashtag search on Twitter")[gukforrealimages](http://twitter.com/#search?q=%23gukforrealimages "hashtag search on Twitter")) call for labelling all airbrushed images of women is unrealistic.

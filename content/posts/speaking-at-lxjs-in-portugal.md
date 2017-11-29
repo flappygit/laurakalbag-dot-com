@@ -5,8 +5,7 @@ colours: ["#105784", "#0a68a3", "#008de6", "#0C486D", "#D9EAF4", "#153d56", "#C2
 date: 2013-06-08T09:10:59+00:00
 categories: ["Events"]
 tags: ["code of conduct", "conference", "diversity", "javascript", "speaking"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 I’m really looking forward to October, where I get to return to Portugal to speak at [LXJS in Lisbon](http://2013.lxjs.org/).

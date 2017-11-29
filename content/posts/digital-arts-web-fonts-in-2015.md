@@ -5,8 +5,7 @@ colours: ["#c81477", "#565656", "#df1685", "#333333", "#56c2b4", "#020202", "#56
 date: 2015-02-20T16:34:52+00:00
 categories: ["Design"]
 tags: ["Digital Arts magazine", "font services", "typography", "web fonts"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 Another fab and in-depth article from Craig Grannell on Digital Arts, this time on [Web fonts: what designers need to know in 2015](http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/). Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.

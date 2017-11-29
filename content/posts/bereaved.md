@@ -5,8 +5,7 @@ colours: ["#7c3351", "#353535", "#3a3a3a", "#262626", "#722960", "#383838", "#24
 date: 2016-10-03T12:44:47+00:00
 categories: ["Personal"]
 tags: ["Geek Mental Help Week"]
-[params]
-  body_classes = "blog"
+body_classes: "blog"
 ---
 
 *Last night I had a dream, or maybe a nightmare. I was in a ballet class in a church hall, learning all kinds of complicated and not-really-ballet dance sequences. The class was busy, we were all in clumsy rows. We were a diverse group of dancers in our everyday clothes. It was the same church hall I did most of my ballet classes in when I was younger, with lots of wood panelling, and stacked plastic chairs in place of a barre. The left side of the hall was a folding wall painted pale green. One of the folds was open into the side room, to allow latecomers and visitors in and out of the room. Lots of people were coming and going through the door.*
