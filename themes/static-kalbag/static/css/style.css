@@ -210,25 +210,25 @@ pre code {
   color: #c9ffee;
 }
 .navigation-menu ul {
-  background: rgba(41,107,210,0.1);
+  background: rgba(84,138,222,0.1);
 }
 .navigation-menu ul li:nth-of-type(1) a {
-  background: rgba(41,107,210,0.4);
+  background: rgba(84,138,222,0.9);
 }
 .navigation-menu ul li:nth-of-type(2) a {
-  background: rgba(41,107,210,0.35);
+  background: rgba(84,138,222,0.75);
 }
 .navigation-menu ul li:nth-of-type(3) a {
-  background: rgba(41,107,210,0.3);
+  background: rgba(84,138,222,0.6);
 }
 .navigation-menu ul li:nth-of-type(4) a {
-  background: rgba(41,107,210,0.25);
+  background: rgba(84,138,222,0.45);
 }
 .navigation-menu ul li:nth-of-type(5) a {
-  background: rgba(41,107,210,0.2);
+  background: rgba(84,138,222,0.3);
 }
 .navigation-menu ul li:nth-of-type(6) a {
-  background: rgba(41,107,210,0.15);
+  background: rgba(84,138,222,0.15);
 }
 body {
   margin: 0;
