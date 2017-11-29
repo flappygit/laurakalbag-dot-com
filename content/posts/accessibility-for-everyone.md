@@ -1,7 +1,7 @@
 ---
 title: "Accessibility For Everyone"
 draft: true
-colours: ["#00953a", "#006d2a", "#00953a", "#00722c", "#00953a", "#005c32", "#00953a"]
+colours: ["#FFFEC9", "#FBFAA5", "#25612C", "#02842A", "#005c32", "#00953a"]
 date: 2017-08-18T13:44:22+00:00
 categories: ["Accessibility", "Writing"]
 tags: ["Accessibility For Everyone", "book"]
