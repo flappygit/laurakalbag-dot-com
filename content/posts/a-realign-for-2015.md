@@ -7,7 +7,7 @@ categories: ["Design", "Milestones"]
 tags: ["accessibility", "colour", "design"]
 ---
 
-Almost a year after [last year’s realign](http://laurakalbag.wpengine.com/a-little-realign/ "A little realign"), I’ve made some more tweaks to my site. There were a few reasons behind it:
+Almost a year after [last year’s realign](/a-little-realign/ "A little realign"), I’ve made some more tweaks to my site. There were a few reasons behind it:
 
 * I’m not freelance anymore, so I don’t need the focus on my portfolio
 * As I’m now working with Ind.ie, I needed to update my about page
@@ -24,7 +24,7 @@ My blog has been fairly quiet, but actually that’s because I’ve been writing
 
 ## Less about me…
 
-The site previously had loads of “about” content. There was a ordinary about page, then my skills, who I work with, what I do, and separate pages detailing my main areas of work. These are all now streamlined and redirected into a properly up-to-date [about page](http://laurakalbag.wpengine.com/about-me/ "About Me").
+The site previously had loads of “about” content. There was a ordinary about page, then my skills, who I work with, what I do, and separate pages detailing my main areas of work. These are all now streamlined and redirected into a properly up-to-date [about page](/about-me/ "About Me").
 
 ## Navigation accessibility
 
@@ -45,7 +45,7 @@ I love my brightly coloured site, and the custom colours for different pages, po
 
 [{{<figure class="wp-caption alignleft size-large wp-image-4634" src="/images/2015/04/Screen-Shot-2015-04-02-at-17.55.30-479x1024.png" alt="Screenshot of four colour picking areas" width="479" height="1024" caption="The colour picker in the WordPress post editor">}}](/images/2015/04/Screen-Shot-2015-04-02-at-17.55.30.png)
 
-In the previous design of the site, I used brightly coloured backgrounds with white text. However, this was getting a little bit dicey with readability. While I made sure the colour combinations had a contrast that was *technically* accessible, I’d often go back to a post a few days later and shudder at my appalling colour choices. I needed to ease off the colour and go a little bit cleaner. However, I had picked a colour palette for every page, post and project on my site *ever* when I’d [redesigned in 2012](http://laurakalbag.wpengine.com/really-a-redesign-this-cant-be-real/ "Really, a redesign? This can’t be real…"). It’d be a shame to waste all that effort. I decided to just switch some of the colour palette choices around, so the background was a simpler easy-on-the-eyes grey, and the text would take on the colour. Suddenly the site felt a lot less oppressive!
+In the previous design of the site, I used brightly coloured backgrounds with white text. However, this was getting a little bit dicey with readability. While I made sure the colour combinations had a contrast that was *technically* accessible, I’d often go back to a post a few days later and shudder at my appalling colour choices. I needed to ease off the colour and go a little bit cleaner. However, I had picked a colour palette for every page, post and project on my site *ever* when I’d [redesigned in 2012](/really-a-redesign-this-cant-be-real/ "Really, a redesign? This can’t be real…"). It’d be a shame to waste all that effort. I decided to just switch some of the colour palette choices around, so the background was a simpler easy-on-the-eyes grey, and the text would take on the colour. Suddenly the site felt a lot less oppressive!
 
 I learned a lesson in semantic naming that day. Unfortunately, if you rename a field in Advanced Custom Fields, it wipes out the entries in the database for that field, so I’m stuck with my original palette names such as “header colour” for the colour of the text. Hopefully the colours match up fairly well, as the contrast hasn’t changed much, but please let me know if you find a page that’s hard to read.
 

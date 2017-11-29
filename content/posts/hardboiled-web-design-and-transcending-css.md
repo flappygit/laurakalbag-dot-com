@@ -61,7 +61,7 @@ Again, the biggest issue for me was the absence of an index. With a book so full
 
 ### Absolutely, without a doubt, yes.
 
-Alongside [HTML5 For Web Designers](http://laurakalbag.wpengine.com/html5-for-web-designers/ "Review of HTML5 For Web Designers"), I think that Hardboiled Web Design would go a very long way to prepare a web designer (designer-developer) for all these amazing new technologies.
+Alongside [HTML5 For Web Designers](/html5-for-web-designers/ "Review of HTML5 For Web Designers"), I think that Hardboiled Web Design would go a very long way to prepare a web designer (designer-developer) for all these amazing new technologies.
 
 Not only do you get the low-down on how to use it, you get the most important arguments of **why** and **when** that seem to be holding so many designers back.
 

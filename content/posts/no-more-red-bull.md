@@ -11,7 +11,7 @@ Using a Fitbit over the last year and a half has taught me that making your habi
 
 <b>It sounds ridiculous, but I have a problem</b>
 
-Fortunately I’ve not got to the point where my teeth have dropped out or I have heart palpitations, but Red Bull has been my “one last thing” for the last couple of years. I used to have a terrible diet, and barely exercised, which I wrote about a little in [my Fitbit review post](http://laurakalbag.wpengine.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/).
+Fortunately I’ve not got to the point where my teeth have dropped out or I have heart palpitations, but Red Bull has been my “one last thing” for the last couple of years. I used to have a terrible diet, and barely exercised, which I wrote about a little in [my Fitbit review post](/six-months-of-the-fitbit-and-the-new-fitbit-aria/).
 
 I’m past that now, I do a lot of exercise and eat healthily but not to the point of obsession. But I’ve still been drinking a lot of Red Bull. Last week I fooled myself thinking that if I swapped Red Bull for organic energy drinks, then it’d be ok. Yesterday I realised that I was just attempting to justify the bad habit. Most people just laugh when I tell them I drink a lot of Red Bull, but you know it’s bad when I tell you that I have Red Bull after breakfast.
 

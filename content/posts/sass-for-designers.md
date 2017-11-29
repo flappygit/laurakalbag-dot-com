@@ -11,7 +11,7 @@ Despite saying that I wanted to avoid writing post about development, I wanted t
 
 ### Excuse me, what is Sass?
 
-Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of [short-hand](http://en.wikipedia.org/wiki/Short_Hand) that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try [my post on Sass for Designers — The Setup](http://laurakalbag.wpengine.com/sass-for-designers-the-setup/ "Sass for Designers — The Setup").
+Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of [short-hand](http://en.wikipedia.org/wiki/Short_Hand) that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try [my post on Sass for Designers — The Setup](/sass-for-designers-the-setup/ "Sass for Designers — The Setup").
 
 ### Why am I writing this?
 
@@ -227,7 +227,7 @@ But let’s face it, that’s getting really nit-picky about the neatness of you
 
 Where nesting becomes incredibly useful is with media queries.
 
-If you follow [SMACSS](http://laurakalbag.wpengine.com/smacss-scalable-and-modular-architecture-for-css/ "SMACSS – Scalable and Modular Architecture for CSS") or any other school of thinking where you’re trying to base your media queries around the optimum display of your content, rather than the viewport width of various popular devices, then chances are your stylesheets are filled with different media queries trying to keep your site looking tidy at every possible width.
+If you follow [SMACSS](/smacss-scalable-and-modular-architecture-for-css/ "SMACSS – Scalable and Modular Architecture for CSS") or any other school of thinking where you’re trying to base your media queries around the optimum display of your content, rather than the viewport width of various popular devices, then chances are your stylesheets are filled with different media queries trying to keep your site looking tidy at every possible width.
 
 Nesting media queries can help with this. Where previous you may have felt like you needed to keep all your media queries in separate files (one for 320px and up, one for 768px and up and so on…) Group all selectors using the same media query width together or list all your media queries relevant to a selector one after the other. Sass allows you to nest your media queries within the selector so you can easily spot where those breaking points are and where they need to be changed.
 

@@ -88,7 +88,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ## No Wifi!
 
-For the conference day of The Big M there was no wifi and very little 3G or Edge signal (O2 isn’t much good in Bath!) This is the second conference I’ve been to this year without wifi (the other being [New Adventures](http://laurakalbag.wpengine.com/new-adventures-2011/ "My blog post on the New Adventures in Web Design conference")) and I think it’s a great choice that more conference organisers should make.
+For the conference day of The Big M there was no wifi and very little 3G or Edge signal (O2 isn’t much good in Bath!) This is the second conference I’ve been to this year without wifi (the other being [New Adventures](/new-adventures-2011/ "My blog post on the New Adventures in Web Design conference")) and I think it’s a great choice that more conference organisers should make.
 
 [Mike](http://twitter.com/m1ke_ellis) quite rightly pointed out that even when organisers pay for expensive wifi, it usually gets overloaded, and is an additional cost that the attendees pay in their ticket price. I couldn’t agree more. Having so little signal meant people were talking to each other rather than being stuck to laptop screens. There was just about enough signal for the occasional tweet about the event but not enough for any anti-social so-and-sos to sit and work!
 

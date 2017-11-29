@@ -18,7 +18,7 @@ I lived in fear that someone might look closely at my CSS. My last redesign came
 
 The previous version was also a peculiar Sass/plain CSS hybrid as I’d started learning Sass a few months into the redesign. As Sass is so easy to integrate into ordinary CSS, it wasn’t too problematic, but I knew I could lessen repetition and make the structure of my CSS much easier to maintain if I moved it all into a consistent format.
 
-Now I’ve rewritten all the CSS from scratch using Sass, and added in a few new techniques, such as flexbox, for some of the form elements. If you’re interested in how badly I write Sass, I’ve uploaded those files (in the spirit of Dan Eden’s max CSS) into a /sass folder and you can find the file references in the main file, [style.scss](http://laurakalbag.wpengine.com/wp-content/themes/laurakalbag-2014/sass/style.scss).
+Now I’ve rewritten all the CSS from scratch using Sass, and added in a few new techniques, such as flexbox, for some of the form elements. If you’re interested in how badly I write Sass, I’ve uploaded those files (in the spirit of Dan Eden’s max CSS) into a /sass folder and you can find the file references in the main file, [style.scss](/wp-content/themes/laurakalbag-2014/sass/style.scss).
 
 ## Reboot the typography
 
@@ -60,7 +60,7 @@ After hearing [Andy Clarke chat with Dan Cederholm on Unfinished Business](http:
 
 ## There’s probably more to do…
 
-As ever, there’s always more testing to be done. I don’t expect this site to be perfect, but I thought it was about time I hurried up and pushed it live. If you spot anything wonky, please let me know in the comments, [on Twitter](http://twitter.com/laurakalbag) or [send me an email](http://laurakalbag.wpengine.com/contact-me/ "Contact Me"). I’ll be very grateful!
+As ever, there’s always more testing to be done. I don’t expect this site to be perfect, but I thought it was about time I hurried up and pushed it live. If you spot anything wonky, please let me know in the comments, [on Twitter](http://twitter.com/laurakalbag) or [send me an email](/contact-me/ "Contact Me"). I’ll be very grateful!
 
 
 ## 2 comments

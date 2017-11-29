@@ -15,6 +15,6 @@ I’m a massive fan of Unfinished Business and listen to every episode so it was
 
 ## Oh, and one more thing: Slide + Stage
 
-One of the sponsors this week was [Slide + Stage](http://thelink.is/unfinishedbusiness), a full-day intensive masterclass with [Aral Balkan](http://aralbalkan.com). It’s going to be brilliant and I’m going to be there. I’ve already [written a post about how much I’ve learnt from Aral](http://laurakalbag.wpengine.com/learning-to-speak/ "Learning to speak"), and if you want to speak at events, or even just become better at presenting your work to clients, I really recommend you come along.
+One of the sponsors this week was [Slide + Stage](http://thelink.is/unfinishedbusiness), a full-day intensive masterclass with [Aral Balkan](http://aralbalkan.com). It’s going to be brilliant and I’m going to be there. I’ve already [written a post about how much I’ve learnt from Aral](/learning-to-speak/ "Learning to speak"), and if you want to speak at events, or even just become better at presenting your work to clients, I really recommend you come along.
 
 <p style="text-align: center;">[{{< figure class="aligncenter  wp-image-3297" alt="Slide + Stage" src="/images/2013/05/slideandstage.png" width="138" height="138" >}}](http://thelink.is/unfinishedbusiness)</p>

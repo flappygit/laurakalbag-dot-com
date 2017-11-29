@@ -9,9 +9,9 @@ tags: ["clients", "freelancing", "meeting", "mentee", "mentor", "money", "projec
 
 Previous posts on the mentoring project:
 
-* [<span style="line-height: 13px;">Mentoring a project: the idea</span>](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
-* [Mentoring a project: the right project](http://laurakalbag.wpengine.com/mentoring-a-project-the-right-project/" target="_blank "Mentoring a project: the right project")
-* [Mentoring a project: finding the right people](http://laurakalbag.wpengine.com/mentoring-a-project-finding-the-right-people/" target="_blank "Mentoring a project: finding the right people")
+* [<span style="line-height: 13px;">Mentoring a project: the idea</span>](/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
+* [Mentoring a project: the right project](/mentoring-a-project-the-right-project/" target="_blank "Mentoring a project: the right project")
+* [Mentoring a project: finding the right people](/mentoring-a-project-finding-the-right-people/" target="_blank "Mentoring a project: finding the right people")
 
 ---
 

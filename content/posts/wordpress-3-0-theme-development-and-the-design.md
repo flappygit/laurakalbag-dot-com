@@ -9,8 +9,8 @@ tags: ["accessibility", "custom backgrounds", "custom headers", "menus", "theme 
 
 This post has three parts. This is part three. Visit the other parts below:
 
-* Part 1: [WordPress 3.0—Pre 3.0 and Beyond](http://laurakalbag.wpengine.com/wordpress-3-0-pre-3-and-beyond)
-* Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
+* Part 1: [WordPress 3.0—Pre 3.0 and Beyond](/wordpress-3-0-pre-3-and-beyond)
+* Part 2: [WordPress 3.0—Really WordPress 3.0](/wordpress-3-0-really-wordpress-3)
 
 ---
 
@@ -100,8 +100,8 @@ To be fair these changes haven’t made the admin unusable. I am being picky. It
 
 This post has three parts. This is part three. Visit the other parts below:
 
-* Part 1: [WordPress 3.0—Pre 3.0 and Beyond](http://laurakalbag.wpengine.com/wordpress-3-0-pre-3-and-beyond)
-* Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
+* Part 1: [WordPress 3.0—Pre 3.0 and Beyond](/wordpress-3-0-pre-3-and-beyond)
+* Part 2: [WordPress 3.0—Really WordPress 3.0](/wordpress-3-0-really-wordpress-3)
 
 ## One comment
 

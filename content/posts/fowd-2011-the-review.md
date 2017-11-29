@@ -17,7 +17,7 @@ I think the price is actually a shame. Whilst there is no doubt that the FOWD an
 
 ## The Talks
 
-It was disappointing that there were talks that I’d seen versions of before. No doubt speakers vary and evolve their talks from one event to another, but I had seen a few of them at [New Adventures back in January](http://laurakalbag.wpengine.com/new-adventures-2011/ "my post on New Adventures in Web Design conference") and the titles of their talks seemed similar so I ended up giving them a miss. I guess that’s the issue with living in a small country where speakers don’t have so far to tour!
+It was disappointing that there were talks that I’d seen versions of before. No doubt speakers vary and evolve their talks from one event to another, but I had seen a few of them at [New Adventures back in January](/new-adventures-2011/ "my post on New Adventures in Web Design conference") and the titles of their talks seemed similar so I ended up giving them a miss. I guess that’s the issue with living in a small country where speakers don’t have so far to tour!
 
 Fortunately, the benefit of Future Of Web Design is the fantastic Track Two. Track Two features up-and-coming speakers who aren’t necessarily experienced at conferences but always bring fresh faces and ideas. It was on this Track Two that I first saw [Aral Balkan](http://aralbalkan.com/) speak last year (and it’s no surprise he was on the main track this year, he’s got presenting skills like nobody else.) This year I saw some great speakers including Ian Stewart, Ian Hamilton, Femi T Adesina and John McGarvey.
 

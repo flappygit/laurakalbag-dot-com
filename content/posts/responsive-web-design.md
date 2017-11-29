@@ -7,13 +7,13 @@ categories: ["Reviews"]
 tags: ["browsers", "CSS", "CSS3", "flexible", "fluid layouts", "HTML", "mobile", "mobile first", "process", "progressive enhancement", "responsive web design"]
 ---
 
-I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](http://laurakalbag.wpengine.com/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.
+I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.
 
 {{< figure class="attachment_474 wp-caption aligncenter size-large wp-image-474 " title="Responsive Web Design by Ethan Marcotte" src="/images/2011/07/web-716x960.jpg" alt="Responsive Web Design by Ethan Marcotte" width="512" height="686" caption="My copy of Responsive Web Design, already featuring a &#39;much used&#39; cover curl..." >}}
 
 **Responsive web design** is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences. This might be low levels of detail for mobile devices, big readable layouts for massive projector screens or dumbed-down CSS for old-fashioned browsers. I’m so sure that Responsive Web Design will be our bible for flexible web design for years to come.
 
-The reason why I say ‘*for years to come*‘ is that Responsive Web Design doesn’t just furnish you with markup examples but *actual reasons* to do it. Much like its predecessor, [HTML5 For Web Designers](http://laurakalbag.wpengine.com/html5-for-web-designers/ "HTML5 For Web Designers") by Jeremy Keith, Ethan Marcotte walks you through how to think responsively, integrating flexibility into the design and development processes, and what might trip you up on the way.
+The reason why I say ‘*for years to come*‘ is that Responsive Web Design doesn’t just furnish you with markup examples but *actual reasons* to do it. Much like its predecessor, [HTML5 For Web Designers](/html5-for-web-designers/ "HTML5 For Web Designers") by Jeremy Keith, Ethan Marcotte walks you through how to think responsively, integrating flexibility into the design and development processes, and what might trip you up on the way.
 
 The book is split into five easily-digested chapters:
 

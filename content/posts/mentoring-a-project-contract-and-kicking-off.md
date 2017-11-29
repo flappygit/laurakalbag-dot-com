@@ -9,10 +9,10 @@ tags: ["clients", "contract", "freelancing", "mentee", "mentor", "process", "pro
 
 Previous posts on the mentoring project:
 
-* [Mentoring a project: the idea](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
-* [Mentoring a project: the right project](http://laurakalbag.wpengine.com/mentoring-a-project-the-right-project/" target="_blank "Mentoring a project: the right project")
-* [Mentoring a project: finding the right people](http://laurakalbag.wpengine.com/mentoring-a-project-finding-the-right-people/" target="_blank "Mentoring a project: finding the right people")
-* [Mentoring a project: the project](http://laurakalbag.wpengine.com/mentoring-the-project/ "Mentoring a project: the project")
+* [Mentoring a project: the idea](/mentoring-a-project-the-idea/" target="_blank "Mentoring a project: the idea")
+* [Mentoring a project: the right project](/mentoring-a-project-the-right-project/" target="_blank "Mentoring a project: the right project")
+* [Mentoring a project: finding the right people](/mentoring-a-project-finding-the-right-people/" target="_blank "Mentoring a project: finding the right people")
+* [Mentoring a project: the project](/mentoring-the-project/ "Mentoring a project: the project")
 
 ---
 

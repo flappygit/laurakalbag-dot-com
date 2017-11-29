@@ -9,7 +9,7 @@ tags: ["business", "conferences", "equality", "gender", "tech"]
 
 ## I’ve changed my mind about this subject!
 
-To read about why and how I don’t believe this anymore, [please read Women and conferences](http://laurakalbag.wpengine.com/women-and-conferences/ "Women and conferences").
+To read about why and how I don’t believe this anymore, [please read Women and conferences](/women-and-conferences/ "Women and conferences").
 
 ---
 

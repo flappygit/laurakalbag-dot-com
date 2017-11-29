@@ -9,8 +9,8 @@ tags: ["custom taxonomies", "featured images", "post thumbnails", "wordpress", "
 
 This post has three parts. This is part one. Visit the other parts below:
 
-* Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
-* Part 3: [WordPress 3.0—Theme Development and the Design](http://laurakalbag.wpengine.com/wordpress-3-0-theme-development-and-the-design)
+* Part 2: [WordPress 3.0—Really WordPress 3.0](/wordpress-3-0-really-wordpress-3)
+* Part 3: [WordPress 3.0—Theme Development and the Design](/wordpress-3-0-theme-development-and-the-design)
 
 ---
 
@@ -86,8 +86,8 @@ These are a bit trickier to implement than post thumbnails. Not much, but there�
 
 This post has three parts. This is part one. Visit the other parts below:
 
-* Part 2: [WordPress 3.0—Really WordPress 3.0](http://laurakalbag.wpengine.com/wordpress-3-0-really-wordpress-3)
-* Part 3: [WordPress 3.0—Theme Development and the Design](http://laurakalbag.wpengine.com/wordpress-3-0-theme-development-and-the-design)
+* Part 2: [WordPress 3.0—Really WordPress 3.0](/wordpress-3-0-really-wordpress-3)
+* Part 3: [WordPress 3.0—Theme Development and the Design](/wordpress-3-0-theme-development-and-the-design)
 
 ## 2 comments
 

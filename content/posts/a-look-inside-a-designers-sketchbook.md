@@ -10,7 +10,7 @@ tags: ["logo design", "notebook", "sketchbook", "sketches"]
 
 A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my sketchbook pages on his site. Ian wanted to emphasise the rough, imperfect nature of the way we plan logo designs, and show real work done by real people.
 
-Last week, Ian added some pages from my sketchbook to [his post, “A look inside a designers sketchbook”](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook). He included some of my sketches from the [Indie Phone](http://laurakalbag.wpengine.com/project/indiephone-logo/ "IndiePhone logo") and [Turbine](http://laurakalbag.wpengine.com/project/turbine-logo/ "Turbine logo") projects. As he didn’t include all of them, I thought I’d share them all below.
+Last week, Ian added some pages from my sketchbook to [his post, “A look inside a designers sketchbook”](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook). He included some of my sketches from the [Indie Phone](/project/indiephone-logo/ "IndiePhone logo") and [Turbine](/project/turbine-logo/ "Turbine logo") projects. As he didn’t include all of them, I thought I’d share them all below.
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4470" src="/images/2014/05/Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" width="650" height="520" caption="Ian’s post">}}](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook)
 

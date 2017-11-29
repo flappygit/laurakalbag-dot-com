@@ -7,7 +7,7 @@ categories: ["Design", "Freelancing", "Learning"]
 tags: ["clients", "mentor", "project"]
 ---
 
-This post is an update on [my mentoring project idea](http://laurakalbag.wpengine.com/mentoring-a-project-the-idea/ "Mentoring a project: The idea").
+This post is an update on [my mentoring project idea](/mentoring-a-project-the-idea/ "Mentoring a project: The idea").
 
 ---
 
@@ -29,7 +29,7 @@ I’m trying to think about what would make the ideal project in this kind of si
 
 ### Do you have a project that we could use?
 
-This means I’m now looking for a more suitable project. If you’re in need of a small(ish) website, and don’t have the budget for a fulltime professional web designer or developer, please [get in touch with me](http://laurakalbag.wpengine.com/contact-me/ "Contact Me").
+This means I’m now looking for a more suitable project. If you’re in need of a small(ish) website, and don’t have the budget for a fulltime professional web designer or developer, please [get in touch with me](/contact-me/ "Contact Me").
 
 ## 2 comments
 

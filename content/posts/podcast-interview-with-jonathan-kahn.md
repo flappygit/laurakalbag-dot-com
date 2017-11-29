@@ -7,7 +7,7 @@ categories: ["Events", "Freelancing", "Learning", "Podcasts"]
 tags: ["honesty", "mentoring", "podcast", "speaking"]
 ---
 
-Ahead of [speaking at Dare conference](http://laurakalbag.wpengine.com/speaking-at-dare-conference/ "Speaking at Dare conference") this September, [I was interviewed by Jonathan Kahn](http://lucidplot.com/2013/08/05/kalbag-podcast/), one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.
+Ahead of [speaking at Dare conference](/speaking-at-dare-conference/ "Speaking at Dare conference") this September, [I was interviewed by Jonathan Kahn](http://lucidplot.com/2013/08/05/kalbag-podcast/), one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.
 
 It was lovely chatting to Jonathan, and his [podcast also has a proper transcript](http://lucidplot.com/2013/08/05/kalbag-podcast/) if you’re more of a reading person than a listening person :)
 

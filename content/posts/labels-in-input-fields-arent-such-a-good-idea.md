@@ -77,7 +77,7 @@ HTML5 has a fantastic new form input attribute for adding placeholder informatio
 
 {{< figure class="aligncenter size-full wp-image-434" title="HTML5 form snippet" alt="HTML5 form snippet" src="/images/2011/05/Screen-shot-2011-05-27-at-17.38.39.png" width="527" height="142" >}}
 
-**Edit:** “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks [Mike](http://laurakalbag.wpengine.com/labels-in-input-fields-arent-such-a-good-idea/#comment-2794), for the heads up)
+**Edit:** “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks [Mike](/labels-in-input-fields-arent-such-a-good-idea/#comment-2794), for the heads up)
 
 {{< figure class="size-full wp-image-435 aligncenter" title="HTML5 form preview" alt="HTML5 form preview" src="/images/2011/05/Screen-shot-2011-05-27-at-17.39.00.png" width="215" height="101" caption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
 

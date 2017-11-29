@@ -11,7 +11,7 @@ Yesterday I gave a talk at the [fantastic online conference CSS Summit](http://e
 
 Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:
 
-[See the Sass for designers slides on my Conferences page](http://laurakalbag.wpengine.com/conferences/#post-3873).
+[See the Sass for designers slides on my Conferences page](/conferences/#post-3873).
 
 I’ve also made [most of the site code (the stuff not covered by other people’s licenses!) available on GitHub](https://github.com/laurakalbag/webtalkdogwalk). I’ve tried to make the commits fit in with the slides as much as possible.
 

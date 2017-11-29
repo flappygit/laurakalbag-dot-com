@@ -7,7 +7,7 @@ categories: ["Design", "Learning"]
 tags: [".net magazine", "mentoring"]
 ---
 
-After [finishing the mentoring project last week](http://laurakalbag.wpengine.com/mentoring-the-evaluation/ "Mentoring: the evaluation"), I had a chat with Craig Grannell about mentoring which he published on the .net website: “[Laura Kalbag: web designers should mentor newcomers](http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847 "Laura Kalbag: web designers should mentor newcomers on .net magazine").”
+After [finishing the mentoring project last week](/mentoring-the-evaluation/ "Mentoring: the evaluation"), I had a chat with Craig Grannell about mentoring which he published on the .net website: “[Laura Kalbag: web designers should mentor newcomers](http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847 "Laura Kalbag: web designers should mentor newcomers on .net magazine").”
 
 It’s a good summary of the mentoring project and has extracts from a couple of testimonials by Sibylle and Phil.
 

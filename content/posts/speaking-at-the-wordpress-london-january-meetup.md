@@ -13,7 +13,7 @@ I’ve been using WordPress for years, for my own site and for client sites, and
 
 ## A mad idea
 
-Thinking about the different things I do that are related to WordPress, I decided to go very niche. [WordPress admin icons](http://laurakalbag.wpengine.com/project/wordpress-admin-icons/ "WordPress Admin Icons") are something I’ve been doing a lot of lately, and they combine the skills of icon design with the skills of fitting icons in with an existing set. My talk is going to be:
+Thinking about the different things I do that are related to WordPress, I decided to go very niche. [WordPress admin icons](/project/wordpress-admin-icons/ "WordPress Admin Icons") are something I’ve been doing a lot of lately, and they combine the skills of icon design with the skills of fitting icons in with an existing set. My talk is going to be:
 
 > ### Designing WordPress Admin Icons
 

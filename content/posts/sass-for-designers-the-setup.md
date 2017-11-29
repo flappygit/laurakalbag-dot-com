@@ -7,7 +7,7 @@ categories: ["Markup"]
 tags: ["Codekit", "CSS", "preprocessors", "Sass"]
 ---
 
-As an accompaniment to my post on [Sass for Designers](http://laurakalbag.wpengine.com/sass-for-designers/ "Sass for Designers") (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+As an accompaniment to my post on [Sass for Designers](/sass-for-designers/ "Sass for Designers") (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
 
 Of course, all of this can be done with the command line and other terrifying tools. I’m very impressed by those who can remember all the commands and quickly get everything working silently in the background. I don’t find this very easy, and prefer to use apps to help me out.
 

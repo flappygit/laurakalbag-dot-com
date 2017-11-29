@@ -17,7 +17,7 @@ For someone who starts every project, post and sketch in a notebook, this pen me
 
 ---
 
-*And if you’re curious, my notebook is a Leuchtturm1917 squared notebook. [I wrote about that a few years ago…](http://laurakalbag.wpengine.com/notebooks-and-getting-over-moleskine/ "Notebooks and Getting Over Moleskine")*
+*And if you’re curious, my notebook is a Leuchtturm1917 squared notebook. [I wrote about that a few years ago…](/notebooks-and-getting-over-moleskine/ "Notebooks and Getting Over Moleskine")*
 
 ## 5 comments
 

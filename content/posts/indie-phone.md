@@ -49,9 +49,9 @@ I’m going to put my money where my mouth is. I want to work on indie tech proj
 
 #### What can I offer an indie tech project?
 
-* [**Design**](http://laurakalbag.wpengine.com/web-app-and-mobile-design/ "Web, App and Mobile Design"). I’m an all-round designer. With design-led projects, the majority of indie tech projects probably have a designer in place already, but I’m here for support and strategy.
-* [**Branding**](http://laurakalbag.wpengine.com/graphic-design/ "Graphic Design"). From logos to typography to icons for your avatars, I can create your brand and show you how to use it effectively.
-* [**Web design**](http://laurakalbag.wpengine.com/web-app-and-mobile-design/ "Web, App and Mobile Design"). I love the web. If it’s working out the experience for your app, I can help you with design and front-end development. With marketing sites, I can promote your product with an end-to-end solution (copy to content management system, I can do all of that.)
+* [**Design**](/web-app-and-mobile-design/ "Web, App and Mobile Design"). I’m an all-round designer. With design-led projects, the majority of indie tech projects probably have a designer in place already, but I’m here for support and strategy.
+* [**Branding**](/graphic-design/ "Graphic Design"). From logos to typography to icons for your avatars, I can create your brand and show you how to use it effectively.
+* [**Web design**](/web-app-and-mobile-design/ "Web, App and Mobile Design"). I love the web. If it’s working out the experience for your app, I can help you with design and front-end development. With marketing sites, I can promote your product with an end-to-end solution (copy to content management system, I can do all of that.)
 
 If you’re interested in my 20% discount, please [send me an email at me@laurakalbag.com](mailto:me@laurakalbag.com?subject=Indie%20Tech Project).
 

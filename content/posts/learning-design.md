@@ -67,7 +67,7 @@ I’m always disappointed that there aren’t more design theory books with a fo
 
 #### [A Practical Guide to Designing the Invisible by Robert Mills](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible)
 
-Understanding design as a language, and how design is more than just the visual decoration. [I’ve reviewed Rob’s book in more depth](http://laurakalbag.wpengine.com/a-practical-guide-to-designing-the-invisible/ "A Practical Guide to Designing the invisible").
+Understanding design as a language, and how design is more than just the visual decoration. [I’ve reviewed Rob’s book in more depth](/a-practical-guide-to-designing-the-invisible/ "A Practical Guide to Designing the invisible").
 
 #### [A Practical Guide to Designing for the Web by Mark Boulton](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web)
 
@@ -83,7 +83,7 @@ An oldie but a goodie. These founding principles really molded the way I view de
 
 #### [Designing for Emotion by Aarron Walter](http://www.abookapart.com/products/designing-for-emotion)
 
-Considering not just the user experience, but the user emotions. A quick but brilliant read which [I’ve reviewed in more depth](http://laurakalbag.wpengine.com/designing-for-emotion/ "Designing For Emotion").
+Considering not just the user experience, but the user emotions. A quick but brilliant read which [I’ve reviewed in more depth](/designing-for-emotion/ "Designing For Emotion").
 
 #### [Edit: How could I forget this first time round?!] [Elements of Typographic Style by Robert Bringhurst](http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 

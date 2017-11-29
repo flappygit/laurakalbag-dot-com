@@ -15,19 +15,19 @@ I was trying to do this with [Little Snapper](http://www.realmacsoftware.com/lit
 
 Zootool captured me from the beginning with the mac-like, slick and incredibly useful interface. The lovely woodiness doesn’t look tacky, all the buttons and form elements work exactly as you expect. And it is unbelievably quick to capture an image, video, page or document using the bookmarklets provided and then get back to what you’re doing.
 
-[{{< figure class="aligncenter size-large wp-image-19" title="my Zootool Zoo" src="http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" width="640" height="378" >}}](http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png)
+[{{< figure class="aligncenter size-large wp-image-19" title="my Zootool Zoo" src="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" width="640" height="378" >}}](/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png)
 
 And once you’ve got a cool collection of images in your cutely named ‘Zoo’, you can browse by category, tag or just search to find them again. All in an interface that feels like a desktop app but in-browser.
 
 It’s not really restricted to scrapbook-style use either. I was surprised to find that other people use it for just saving funny videos (my tunnel vision just saw how perfect it was for saving lovely pictures and thought everyone would use it for that) and you can import all your Delicious bookmarks to use it as a visual bookmark browser.
 
-[{{< figure class="aligncenter size-large wp-image-19" title="my Zootool Zoo" src="http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" width="640" height="378" >}}](http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png)
+[{{< figure class="aligncenter size-large wp-image-19" title="my Zootool Zoo" src="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" width="640" height="378" >}}](/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png)
 
 The amount of tags can feel restrictive, as it’s only ten per item, but then again I’m a taxonomy addict. I’ve started using a tag of @origin (@dribbble, @ffffound, @twitter) as well to make sure I remember where I found the image or site in the first place in case I need to give proper attribution.
 
 Zootool also has special versions for iPhone and iPad (though for some reason I can’t scroll on the iPad version,) where native mac-ness of the design is really clear, there’s a Flickr-style badge that’s perfect for a blog (see below!) and you can even also use Fluid app to pretend it’s a real desktop app whenever you’re connected to the internet. I use Fluid with the MobileMe Olive theme that looks lovely against the Zootool design.
 
-[{{< figure class="aligncenter size-large wp-image-20" title="my Zootool Zoo in Fluid app with the MobileMe Olive theme" src="http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18-960x584.png" alt="my Zootool Zoo in Fluid app with the MobileMe Olive theme" width="640" height="389" >}}](http://laurakalbag.wpengine.com/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18.png)These are just a few of the numerous tools available that you can use with Zootool, and all for free. In case you couldn’t guess by the gushingness of this post, I really *really* thoroughly recommend it to anybody wanting to keep a collection of inspirational images.
+[{{< figure class="aligncenter size-large wp-image-20" title="my Zootool Zoo in Fluid app with the MobileMe Olive theme" src="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18-960x584.png" alt="my Zootool Zoo in Fluid app with the MobileMe Olive theme" width="640" height="389" >}}](/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18.png)These are just a few of the numerous tools available that you can use with Zootool, and all for free. In case you couldn’t guess by the gushingness of this post, I really *really* thoroughly recommend it to anybody wanting to keep a collection of inspirational images.
 
 ---
 

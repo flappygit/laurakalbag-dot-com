@@ -28,7 +28,7 @@ I want to help “de-mystify” these elements of freelancing. I wouldn’t call
 It strikes me that the transition from student to freelancer is particularly hard, and so I’m looking for students/graduates/new freelancers to work on this project. Here’s the tweet that I sent out:
 
 [Tweet](https://twitter.com/laurakalbag/status/296305016954834944)
-I’ve already had more than twenty replies, my next goal is to make sure I find one or two people who can gain as much as possible from this project. If you’re interested, please [email me](http://laurakalbag.wpengine.com/contact-me/ "Contact Me"). I’ll hopefully be sending out an email to everyone who’s interested later on today.
+I’ve already had more than twenty replies, my next goal is to make sure I find one or two people who can gain as much as possible from this project. If you’re interested, please [email me](/contact-me/ "Contact Me"). I’ll hopefully be sending out an email to everyone who’s interested later on today.
 
 I’m hoping to blog the process as much as possible, so other people can share in our experience. My next post will cover how I’m going to try to find a good match to work on the project.
 
