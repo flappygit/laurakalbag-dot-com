@@ -7,7 +7,6 @@
 
 .navigation-menu
 	ul
-		background rgba(0,0,0,0.2)
 		display flex
 		flex-direction row
 		flex-wrap wrap
@@ -20,26 +19,8 @@
 		
 		a
 			display block
-			padding ($layout-unit/2)
+			padding ($layout-unit/2) ($layout-unit)
 			text-decoration none
 			
 			@media screen and (min-width: 35em)
-				padding 0.25em ($layout-unit/1.35)
-				
-		li:nth-of-type(1) a
-			background rgba(0,0,0,0.5)
-			
-		li:nth-of-type(2) a
-			background rgba(0,0,0,0.45)
-			
-		li:nth-of-type(3) a
-			background rgba(0,0,0,0.4)
-			
-		li:nth-of-type(4) a
-			background rgba(0,0,0,0.35)
-			
-		li:nth-of-type(5) a
-			background rgba(0,0,0,0.3)
-		
-		li:nth-of-type(6) a
-			background rgba(0,0,0,0.25)
+				padding ($layout-unit/2) ($layout-unit)

@@ -1,9 +1,9 @@
 <style type="text/css">
-	#content, body {
+	#content {
 		{{$colourone := index (.Params.colours) 0 }}
 		background: {{$colourone}};
 	}
-	.site-header, .site-footer {
+	.site-header, .site-footer, body {
 		{{$colourtwo := index (.Params.colours) 1 }}
 		background: {{$colourtwo}};
 	}

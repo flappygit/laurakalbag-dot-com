@@ -177,39 +177,44 @@ figcaption,
   text-transform: uppercase;
 }
 body {
-  background: rgba(0,0,0,0.1);
-  color: #262626;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #000;
-}
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
-  color: #000;
+  background: #adf1dc;
+  color: #28508f;
 }
 a,
 a:hover,
 a:visited,
 a:active {
-  color: off-black;
+  color: #28508f;
 }
 .site-header {
-  background: rgba(0,0,0,0.2);
+  background: #adf1dc;
 }
 #content {
-  background: rgba(0,0,0,0.1);
+  background: #c9ffee;
 }
 .site-footer {
-  background: rgba(0,0,0,0.2);
+  background: #adf1dc;
+}
+.navigation-menu ul {
+  background: rgba(41,107,210,0.1);
+}
+.navigation-menu ul li:nth-of-type(1) a {
+  background: rgba(41,107,210,0.4);
+}
+.navigation-menu ul li:nth-of-type(2) a {
+  background: rgba(41,107,210,0.35);
+}
+.navigation-menu ul li:nth-of-type(3) a {
+  background: rgba(41,107,210,0.3);
+}
+.navigation-menu ul li:nth-of-type(4) a {
+  background: rgba(41,107,210,0.25);
+}
+.navigation-menu ul li:nth-of-type(5) a {
+  background: rgba(41,107,210,0.2);
+}
+.navigation-menu ul li:nth-of-type(6) a {
+  background: rgba(41,107,210,0.15);
 }
 body {
   margin: 0;
@@ -257,7 +262,6 @@ figcaption p {
   top: -10em;
 }
 .navigation-menu ul {
-  background: rgba(0,0,0,0.2);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -270,31 +274,13 @@ figcaption p {
 }
 .navigation-menu ul a {
   display: block;
-  padding: 0.5rem;
+  padding: 0.5rem 1rem;
   text-decoration: none;
 }
 @media screen and (min-width: 35em) {
   .navigation-menu ul a {
-    padding: 0.25em 0.740740740740741rem;
+    padding: 0.5rem 1rem;
   }
-}
-.navigation-menu ul li:nth-of-type(1) a {
-  background: rgba(0,0,0,0.5);
-}
-.navigation-menu ul li:nth-of-type(2) a {
-  background: rgba(0,0,0,0.45);
-}
-.navigation-menu ul li:nth-of-type(3) a {
-  background: rgba(0,0,0,0.4);
-}
-.navigation-menu ul li:nth-of-type(4) a {
-  background: rgba(0,0,0,0.35);
-}
-.navigation-menu ul li:nth-of-type(5) a {
-  background: rgba(0,0,0,0.3);
-}
-.navigation-menu ul li:nth-of-type(6) a {
-  background: rgba(0,0,0,0.25);
 }
 .posts-list {
   margin: 0;
