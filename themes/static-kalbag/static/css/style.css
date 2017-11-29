@@ -195,6 +195,10 @@ a:active {
 .site-footer {
   background: #adf1dc;
 }
+hr {
+  border: #296bd2 dashed 0.1em;
+  margin: 2em 0;
+}
 .navigation-menu ul {
   background: rgba(41,107,210,0.1);
 }

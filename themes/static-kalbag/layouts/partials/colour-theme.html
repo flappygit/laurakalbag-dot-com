@@ -7,8 +7,12 @@
 		{{$colourtwo := index (.Params.colours) 1 }}
 		background: {{$colourtwo}};
 	}
-	body, h1, h2, h3, h4, h5, h6, a, a:hover, a:visited {
+	body, a, a:hover, a:visited {
 		{{$colourthree := index (.Params.colours) 2 }}
 		color: {{$colourthree}};
+	}
+	hr {
+		{{$colourfour := index (.Params.colours) 3 }}
+		border-color: {{$colourfour}};
 	}
 </style>
