@@ -172,6 +172,10 @@ figcaption,
 .note {
   font-size: 0.9em;
 }
+.site-title {
+  font-style: italic;
+  text-transform: uppercase;
+}
 body {
   color: #262626;
 }
