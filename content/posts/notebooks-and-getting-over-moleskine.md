@@ -1,6 +1,6 @@
 ---
 title: "Notebooks and Getting Over Moleskine"
-draft: true
+draft: false
 colours: ["#7de253", "#5AAE37", "#d8ee3f", "#3d8823", "#eafe5d", "#1c5e00", "#7bd157"]
 date: 2011-03-30T12:37:11+00:00
 categories: ["Design", "Reviews"]

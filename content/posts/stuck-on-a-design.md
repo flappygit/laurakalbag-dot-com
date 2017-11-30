@@ -1,6 +1,6 @@
 ---
 title: "Stuck on a design"
-draft: true
+draft: false
 colours: ["#D64371", "#535C66", "#669BB8", "#363F49", "#91bed6", "#2d343c", "#ef80a3"]
 date: 2010-10-15T16:59:29+00:00
 categories: ["Design"]

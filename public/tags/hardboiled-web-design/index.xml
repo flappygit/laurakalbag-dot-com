@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardboiled Web Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/hardboiled-web-design/</link>
+    <description>Recent content in Hardboiled Web Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 18 Jan 2011 16:28:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/hardboiled-web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardboiled Web Design and Transcending CSS</title>
+      <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
+      <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
+      <description>My history with Transcending CSS In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading Web Standards Solutions.
+I was already well on my way to being a standards fiend, but Transcending CSS by Andy Clarke did, literally, transcend the standards and made me utterly mad about pushing the boundaries of CSS.</description>
+    </item>
+    
+  </channel>
+</rss>

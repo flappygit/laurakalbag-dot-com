@@ -1,6 +1,6 @@
 ---
 title: "Speaking at WXG 2014 in Guildford"
-draft: true
+draft: false
 colours: ["#5e5e5e", "#4f4f4f", "#a39803", "#262626", "#fcec04", "#0a0a0a", "#fcec04"]
 date: 2014-03-10T10:52:16+00:00
 categories: ["Design", "Events"]

@@ -1,6 +1,6 @@
 ---
 title: "For Sale: Mid 2013 MacBook Air"
-draft: true
+draft: false
 colours: ["#004ebc", "#7a7a7a", "#146ece", "#494949", "#8f8d8e", "#081934", "#8f8d8e"]
 date: 2015-02-12T16:30:33+00:00
 categories: ["Personal"]

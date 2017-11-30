@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decisions on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/decisions/</link>
+    <description>Recent content in Decisions on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 23 Nov 2010 16:31:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/decisions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design work is 50% visual, 50% justification</title>
+      <link>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</link>
+      <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
+      <description>After I finished my last post about Design Tips for Developers, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.
+When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’.</description>
+    </item>
+    
+  </channel>
+</rss>

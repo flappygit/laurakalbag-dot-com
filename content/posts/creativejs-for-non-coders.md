@@ -1,6 +1,6 @@
 ---
 title: "CreativeJS for non-coders workshop with Seb Lee-Delisle"
-draft: true
+draft: false
 colours: ["#86B83B", "#2f7001", "#cbd70f", "#6B932E", "#C1150D", "#39691c", "#ffffff"]
 date: 2012-10-20T13:11:08+00:00
 categories: ["Learning"]

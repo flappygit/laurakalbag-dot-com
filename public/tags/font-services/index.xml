@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Font Services on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/font-services/</link>
+    <description>Recent content in Font Services on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 20 Feb 2015 16:34:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/font-services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Arts: Web fonts: what designers need to know in 2015</title>
+      <link>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</link>
+      <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</guid>
+      <description>Another fab and in-depth article from Craig Grannell on Digital Arts, this time on Web fonts: what designers need to know in 2015. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.
+ 
+My full answers to Craig’s original questions are below:
+What do you consider the current best options for working with web fonts? I’m forever changing my mind, but I tend to prefer to host fonts on the site itself.</description>
+    </item>
+    
+  </channel>
+</rss>

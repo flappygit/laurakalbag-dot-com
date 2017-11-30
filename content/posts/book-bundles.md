@@ -1,6 +1,6 @@
 ---
 title: "Book Bundles for Sale"
-draft: true
+draft: false
 colours: ["#3e5584", "#898989", "#113784", "#595959", "#3a3a3a", "#232323", "#0074e8"]
 date: 2015-06-26T00:00:04+00:00
 categories: ["Personal"]

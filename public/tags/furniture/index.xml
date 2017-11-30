@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Furniture on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/furniture/</link>
+    <description>Recent content in Furniture on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 02 Feb 2016 15:51:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/furniture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Office Furniture (and other nice things) for sale</title>
+      <link>https://laurakalbag.com/office-furniture-for-sale/</link>
+      <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/office-furniture-for-sale/</guid>
+      <description>So we’re finally moving to Sweden at the end of the month. You might remember that we sold a lot of our stuff last summer when we left Brighton. We kept a lot of good stuff, thinking we’d relocate it with us.
+But now we’re moving to a small apartment in Malmö, and a beautiful furnished office in Media Evolution City, so we are only taking the essentials. (Yes, that includes Oskar.</description>
+    </item>
+    
+  </channel>
+</rss>

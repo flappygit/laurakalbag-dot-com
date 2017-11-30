@@ -1,6 +1,6 @@
 ---
 title: "We read with our own contexts"
-draft: true
+draft: false
 colours: ["#4186a8", "#464c8e", "#1fa5d6", "#333163", "#7ed3f2", "#22213c", "#8196e6"]
 date: 2012-12-18T14:40:40+00:00
 categories: ["Learning"]

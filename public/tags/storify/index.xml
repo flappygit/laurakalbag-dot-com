@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storify on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/storify/</link>
+    <description>Recent content in Storify on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 22 May 2012 09:28:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/storify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Craft and Care: Future Of Web Design 2012</title>
+      <link>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</link>
+      <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</guid>
+      <description>I’ve written up my digest of Future Of Web Design 2012 over at the ubelly blog.
+For those who want more of a blow-by-blow account of the day, I’ve compiled all of my live tweets (and retweets) from the day in a Storify feed.
+http://storify.com/laurakalbag/laura-kalbag-s-fowd-tweets</description>
+    </item>
+    
+  </channel>
+</rss>

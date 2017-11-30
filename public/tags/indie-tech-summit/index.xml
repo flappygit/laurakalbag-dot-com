@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie Tech Summit on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/indie-tech-summit/</link>
+    <description>Recent content in Indie Tech Summit on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 26 Aug 2014 11:59:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/indie-tech-summit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indie Tech Summit videos and my talk on Universal Design</title>
+      <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
+      <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
+      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+    </item>
+    
+  </channel>
+</rss>

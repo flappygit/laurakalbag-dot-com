@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsible Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/responsible-design/</link>
+    <description>Recent content in Responsible Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 03 Apr 2015 14:31:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/responsible-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Illusion Of Free on A List Apart</title>
+      <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
+      <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
+      <description>Last week, my column on The Illusion Of Free was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around Ind.ie. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.</description>
+    </item>
+    
+  </channel>
+</rss>

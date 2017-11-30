@@ -1,6 +1,6 @@
 ---
 title: "Will understanding the mainstream affect me as a designer?"
-draft: true
+draft: false
 colours: ["#e8262d", "#e1194e", "#ee2f2c", "#d50b2e", "#a18ed7", "#91001b", "#234182"]
 date: 2012-06-01T21:51:38+00:00
 categories: ["Design", "Design Issues", "Usability"]

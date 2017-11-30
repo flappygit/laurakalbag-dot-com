@@ -1,6 +1,6 @@
 ---
 title: "And I accidentally became a control freak…"
-draft: true
+draft: false
 colours: ["#777777", "#565656", "#946d16", "#333333", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2014-06-05T08:28:36+00:00
 categories: ["Freelancing", "Personal"]

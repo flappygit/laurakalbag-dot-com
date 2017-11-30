@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/snippets/</link>
+    <description>Recent content in Snippets on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 10 Feb 2013 15:31:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/snippets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using emoji in Mail.app to make better visual indicators</title>
+      <link>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</link>
+      <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</guid>
+      <description>After reading this brilliant Mac App Storm post on Turning Mail.app Into the Best Mac Email App, I was inspired to follow a lot of the tips to make my emails easier to handle.
+I made three Smart Mailboxes, following the tips I chose:
+ ‘Follow Up’ which contains emails flagged with a green flag, using the shortcut of ⌘⇧g ‘Needs Reply’ which contains emails flagged with a blue flag, using the shortcut of ⌘⇧b ‘Needs Attention’ which contains emails flagged with a red flag, using the shortcut of ⌘⇧r  The benefit of using the red flag for ‘Needs Attention’ as a way of noting emails which need organising into either of the other smart mailboxes is that Mail.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "Design theory for the web, a workshop"
-draft: true
+draft: false
 colours: ["#a98c4c", "#925a4f", "#ab5a44", "#333333", "#EBDFB8", "#000000", "#BD7461"]
 date: 2013-08-12T10:18:43+00:00
 categories: ["Design", "Events", "Learning"]

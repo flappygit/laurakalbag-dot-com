@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/accessibility/</link>
+    <description>Recent content in Accessibility on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 26 Oct 2015 13:11:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flexboxing the Universal Video Player</title>
+      <link>https://laurakalbag.com/flexbox-video-player/</link>
+      <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flexbox-video-player/</guid>
+      <description>I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote a blog post on Ind.ie Labs about using flexbox with progressive enhancement.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/12-days-of-podcasts-day-3/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/accessibility-by-design/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-by-design/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>What do web experts think of BBC Taster?</title>
+      <link>https://laurakalbag.com/bbc-taster/</link>
+      <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bbc-taster/</guid>
+      <description>In the spirit of catching up on slightly older news, in January I was part of a panel commenting on BBC Taster on Creative Bloq.
+Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.</description>
+    </item>
+    
+    <item>
+      <title>A realign for 2015</title>
+      <link>https://laurakalbag.com/a-realign-for-2015/</link>
+      <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
+      <description>Almost a year after last year’s realign, I’ve made some more tweaks to my site. There were a few reasons behind it:
+ I’m not freelance anymore, so I don’t need the focus on my portfolio As I’m now working with Ind.ie, I needed to update my about page The navigation needed some accessibility work The colours were beginning to grate on me  Less portfolio, more… My blog has been fairly quiet, but actually that’s because I’ve been writing a lot elsewhere.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at the Sherpa Summit</title>
+      <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
+      <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
+      <description>Last October, Web Standards Sherpa published my mini series on Getting Started With Sass. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Web Day at Bath Digital Festival</title>
+      <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
+      <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
+      <description>I’m speaking at Web Day at Bath Digital Festival on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. Tickets are a very reasonable £15, and it looks like it’ll be a very interesting day.</description>
+    </item>
+    
+    <item>
+      <title>Indie Tech Summit videos and my talk on Universal Design</title>
+      <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
+      <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
+      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility en France</title>
+      <link>https://laurakalbag.com/accessibility-en-france/</link>
+      <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-en-france/</guid>
+      <description>Yesterday I gave a talk at KiwiParty in Strasbourg. KiwiParty is a lovely conference, but all of the speakers spoke in French, to the French audience. Except me. I speak a little bit of (A-Level) French, but I certainly couldn’t give a talk in French.
+Designing for accessibility My talk was about Designing for accessibility. I wouldn’t be setting a very good example if I was to give a talk about accessibility which was hard to understand for 99% of the audience.</description>
+    </item>
+    
+    <item>
+      <title>Why accessibility matters to me #GAAD</title>
+      <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
+      <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
+      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
+How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at KiwiParty in Strasbourg</title>
+      <link>https://laurakalbag.com/speaking-at-kiwiparty/</link>
+      <pubDate>Thu, 27 Mar 2014 07:50:21 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-kiwiparty/</guid>
+      <description>On the 13th of June, I’m speaking at KiwiParty in Strasbourg. I’ll be speaking about web accessibility.
+It’ll be my first conference in France and I’ll be trying to remember my French from AS Level ten years ago! I won’t be giving my talk in my terrible French, but if you’re coming along, please find me and test my conversational French. Especially if you want a good laugh!</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Interview with Heart Internet</title>
+      <link>https://laurakalbag.com/interview-with-heart-internet/</link>
+      <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
+      <description>Yesterday, Heart Internet posted an interview with me on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)</description>
+    </item>
+    
+    <item>
+      <title>Why Bother With Accessibility? on 24ways</title>
+      <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
+      <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
+      <description> My article for this year’s 24ways has been published today. I wrote “Why Bother With Accessibility?” after giving my Designing For Accessibility talks, and still coming up against the same excuses. I wanted to write something that could be a go-to for people trying to understand why designing for accessibility was worthwhile. Fingers crossed that this helps, because we can’t talk about accessibility enough!
+ 
+3 comments  </description>
+    </item>
+    
+    <item>
+      <title>Speaking at MobX Conference in Berlin</title>
+      <link>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</link>
+      <pubDate>Thu, 05 Sep 2013 17:05:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</guid>
+      <description>Next Friday I’m speaking at MobX Conference in Berlin about designing for accessibility, covering problems that affect many different types of screens and devices. It will be my first time in Germany, so I’m very excited!
+ 
+One comment ### Anna  at 10:34am
+ Hello there, I very much enjoyed your talk about accessibility at the mobXconference last friday. Is there any chance you can put your slides online?</description>
+    </item>
+    
+    <item>
+      <title>Nothing to display podcast</title>
+      <link>https://laurakalbag.com/nothing-to-display-podcast/</link>
+      <pubDate>Sat, 02 Mar 2013 17:43:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/nothing-to-display-podcast/</guid>
+      <description>Last week I had a lovely chat with El for her Nothing To Display podcast. We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.</description>
+    </item>
+    
+    <item>
+      <title>Upfront Podcast</title>
+      <link>https://laurakalbag.com/upfront-podcast/</link>
+      <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/upfront-podcast/</guid>
+      <description>I was a guest on the Upfront podcast with the lovely Jack Franklin and Ben Howdle. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can listen on their website, or listen and subscribe on iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Grid Frameworks and why I’m not keen on them…</title>
+      <link>https://laurakalbag.com/grid-frameworks/</link>
+      <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grid-frameworks/</guid>
+      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
+After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
+I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+    </item>
+    
+    <item>
+      <title>Labels in input fields aren’t such a good idea</title>
+      <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
+      <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
+      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
+Example:
+ a form field where the label is shown inside the text input field   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
+      <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
+      <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
+      <description>A few people have recommended that I post all the tweets summarising the great talks at Future Of Web Design in a blog post. So here it is!
+Day One Aarron Walter –; Transforming Ideas into Interfaces I arrived late for Aarron’s talk so it took me a while to engage properly.
+Tweet
+Tweet Mike Kus –; Designing for Humans Tweet Tweet Tweet Tweet Tweet
+Tweet Ian Stewart –; Power Your Design With WordPress Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
+      <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
+      <description>This post has three parts. This is part three. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 2: WordPress 3.0—Really WordPress 3.0  Easier for theme developers to make it easy for users The following WordPress 3.0 features really make it easier for the big-time theme developers who create highly customisable themes.
+Menus This is brilliant. Before the menus feature, we had to bodge any extra links we wanted on to the end of the wp_list_pages (that just lists pages!</description>
+    </item>
+    
+  </channel>
+</rss>

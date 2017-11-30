@@ -1,6 +1,6 @@
 ---
 title: "How the iPad is saving my sanity"
-draft: true
+draft: false
 colours: ["#51749d", "#304E75", "#A6C7E5", "#253c56", "#486C92", "#1d2d3f", "#2666DA"]
 date: 2010-08-01T18:54:56+00:00
 categories: ["Reviews"]

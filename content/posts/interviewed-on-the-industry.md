@@ -1,6 +1,6 @@
 ---
 title: "Interviewed on The Industry"
-draft: true
+draft: false
 colours: ["#666D79", "#5d636f", "#5e6f8d", "#3C4047", "#EBEEEF", "#24282d", "#A4A9AF"]
 date: 2013-03-14T07:36:06+00:00
 categories: ["Design", "Freelancing"]

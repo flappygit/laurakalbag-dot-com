@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Choosing Typefaces on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/choosing-typefaces/</link>
+    <description>Recent content in Choosing Typefaces on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 12 Oct 2012 21:39:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/choosing-typefaces/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grids, flexibility and responsiveness</title>
+      <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
+      <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
+      <description>First steps: choosing a typeface The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?</description>
+    </item>
+    
+    <item>
+      <title>Typography and the web at Ampersand Conference</title>
+      <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
+      <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
+      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
+This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
+Typography and the web at Ampersand conference</description>
+    </item>
+    
+  </channel>
+</rss>

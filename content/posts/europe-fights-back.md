@@ -1,6 +1,6 @@
 ---
 title: "Europe fights back"
-draft: true
+draft: false
 colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2015-04-13T09:18:46+00:00
 categories: ["ind.ie"]

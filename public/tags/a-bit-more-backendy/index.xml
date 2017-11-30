@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Bit More Backendy on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/a-bit-more-backendy/</link>
+    <description>Recent content in A Bit More Backendy on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 07 Mar 2014 12:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/a-bit-more-backendy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guest on A Bit More Backendy podcast</title>
+      <link>https://laurakalbag.com/a-bit-more-backendy/</link>
+      <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
+      <description>Yesterday the fourth episode of the Backendy podcast was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.</description>
+    </item>
+    
+  </channel>
+</rss>

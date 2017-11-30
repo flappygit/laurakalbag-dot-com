@@ -1,6 +1,6 @@
 ---
 title: "Speaking at the Sherpa Summit"
-draft: true
+draft: false
 colours: ["#d06333", "#5c8990", "#ec6d30", "#3d585c", "#efe5d5", "#334a4e", "#d5c8b6"]
 date: 2015-04-02T10:57:51+00:00
 categories: ["Accessibility", "Events"]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opentype on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/opentype/</link>
+    <description>Recent content in Opentype on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 25 Feb 2014 11:17:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/opentype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview about web fonts on Type Quest</title>
+      <link>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</link>
+      <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</guid>
+      <description>A few months ago Tyler Sanguinette sent me some questions about design and web typography as part of his thesis on web fonts.
+Recently I found that he’d published the interview, and interviews with a load of very smart people, on the Type Quest website. Type Quest also has some really useful information on the OpenType features of web fonts, so it’s well-worth a look.
+ 
+One comment ### Andy Warburton  at 17:40pm</description>
+    </item>
+    
+    <item>
+      <title>Typography and the web at Ampersand Conference</title>
+      <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
+      <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
+      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
+This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
+Typography and the web at Ampersand conference</description>
+    </item>
+    
+  </channel>
+</rss>

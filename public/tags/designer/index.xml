@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designer on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/designer/</link>
+    <description>Recent content in Designer on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 11 Jun 2013 14:41:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/designer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fl&amp;#42;t design trend</title>
+      <link>https://laurakalbag.com/flat-design-trend/</link>
+      <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flat-design-trend/</guid>
+      <description>I’m about to apply a mute filter to the word “flat” on Twitter. That or start unfollowing a lot of people.
+What’s flat? There’s an aesthetic “trend” that’s been around for a while. It involves fewer gradients and textures and has thus been described as “flat” design. It’s often described as the opposite of “skeuomorphism,” (which is an equally irritating word when used in this way.) It was popularised by Windows Metro&amp;nbsp;and, being an aesthetic associated with fewer images, and thus better performance and more flexibility in the development of interfaces, has been a feature of many designs in both apps and on the web.</description>
+    </item>
+    
+  </channel>
+</rss>

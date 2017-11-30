@@ -1,6 +1,6 @@
 ---
 title: "Fonts.com mockup fonts"
-draft: true
+draft: false
 colours: ["#c53434", "#4d221f", "#9C261C", "#38130f", "#9C261C", "#250b08", "#ffffff"]
 date: 2013-07-02T09:53:48+00:00
 categories: ["Design", "Design Issues", "Tools"]

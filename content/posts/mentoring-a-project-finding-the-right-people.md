@@ -1,6 +1,6 @@
 ---
 title: "Mentoring a project: finding the right people"
-draft: true
+draft: false
 colours: ["#ec610e", "#72271d", "#ec3713", "#5f070a", "#ff6c0f", "#330509", "#ff7105"]
 date: 2013-02-11T10:54:24+00:00
 categories: ["Design", "Freelancing", "Learning"]

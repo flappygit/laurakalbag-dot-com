@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/visual-design/</link>
+    <description>Recent content in Visual Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 04 Feb 2011 00:21:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Adventures 2011</title>
+      <link>https://laurakalbag.com/new-adventures-2011/</link>
+      <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/new-adventures-2011/</guid>
+      <description>Conferences are my social life As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.
+Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "How to get started with public speaking"
-draft: true
+draft: false
 colours: ["#007fa9", "#5b5b5b", "#c54f00", "#303030", "#c4e2ea", "#020202", "#e4bfb8"]
 date: 2014-05-21T14:59:31+00:00
 categories: ["Events"]

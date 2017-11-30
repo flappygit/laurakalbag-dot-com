@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/links/</link>
+    <description>Recent content in Links on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 16 Jun 2010 14:40:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+  </channel>
+</rss>

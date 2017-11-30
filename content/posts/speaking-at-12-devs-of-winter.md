@@ -1,6 +1,6 @@
 ---
 title: "Speaking at 12 Devs of Winter"
-draft: true
+draft: false
 colours: ["#393939", "#41576b", "#2a7bda", "#174983", "#ffffff", "#10335b", "#e1e1e1"]
 date: 2014-01-06T21:17:32+00:00
 categories: ["Events"]

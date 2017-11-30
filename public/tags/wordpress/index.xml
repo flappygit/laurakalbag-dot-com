@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 02 Feb 2013 13:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live-designing WordPress Admin Icons</title>
+      <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
+      <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
+      <description>A while ago I wrotea post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
+  The final calendar icons (as designed quickly in 30 minutes or so)   The WordPress London guys kindly filmed my talk and I’ve included it below.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at the WordPress London January meetup</title>
+      <link>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</link>
+      <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</guid>
+      <description>I’m speaking at the WordPress London January meetup on the 17th of January 2013.
+I’ve been using WordPress for years, for my own site and for client sites, and I really love it. I had absolutely no idea what to talk about though. I tend to create custom themes for clients, but these are very different from themes designed for use by many different sites, and so I wasn’t sure whether my experience would be relevant to many people.</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
+      <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
+      <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
+      <description>A few people have recommended that I post all the tweets summarising the great talks at Future Of Web Design in a blog post. So here it is!
+Day One Aarron Walter –; Transforming Ideas into Interfaces I arrived late for Aarron’s talk so it took me a while to engage properly.
+Tweet
+Tweet Mike Kus –; Designing for Humans Tweet Tweet Tweet Tweet Tweet
+Tweet Ian Stewart –; Power Your Design With WordPress Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet</description>
+    </item>
+    
+    <item>
+      <title>How the iPad is saving my sanity</title>
+      <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
+      <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
+      <description>Fan girl I’ve had an iPad since the day it was released in the UK. I bought it because I’m a fan girl. I admit it. I could pretend that I wanted it to take to conferences or use for testing or when I didn’t need a laptop when I went to visit clients. In truth, I only go to one or two conferences per year, I’ve not yet made a site that needed an iPad-specific site and when I go to visit clients I always need my laptop.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
+      <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
+      <description>This post has three parts. This is part three. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 2: WordPress 3.0—Really WordPress 3.0  Easier for theme developers to make it easy for users The following WordPress 3.0 features really make it easier for the big-time theme developers who create highly customisable themes.
+Menus This is brilliant. Before the menus feature, we had to bodge any extra links we wanted on to the end of the wp_list_pages (that just lists pages!</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 2—Really WordPress 3.0</title>
+      <link>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</guid>
+      <description>This post has three parts. This is part two. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 3: WordPress 3.0—Theme Development and the Design  Really WordPress 3.0 Custom Post Types Custom Post Types are my new best friends. I have used new post types on every client project since the beta of WordPress 3.0. That’s how valuable I think they are.
+For any content that you need to act like a post, but not actually be a post, custom post types are there for you.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 1—Pre 3.0 and Beyond</title>
+      <link>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</link>
+      <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</guid>
+      <description>This post has three parts. This is part one. Visit the other parts below:
+ Part 2: WordPress 3.0—Really WordPress 3.0 Part 3: WordPress 3.0—Theme Development and the Design  I’m a big fat WordPress fan. I love the people behind it, I love the ethicsand I love how it makes it easy for me to make cool sites that my clients can update themselves.
+Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients.</description>
+    </item>
+    
+  </channel>
+</rss>

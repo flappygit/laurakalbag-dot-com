@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Laura Kalbag</title>
+    <link>https://laurakalbag.com/posts/</link>
+    <description>Recent content in Posts on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility For Everyone</title>
+      <link>https://laurakalbag.com/accessibility-for-everyone/</link>
+      <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
+      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
+ 
+In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+    </item>
+    
+    <item>
+      <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
+      <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
+      <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
+      <description>This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
+ 
+Performance! Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.</description>
+    </item>
+    
+    <item>
+      <title>Site adjustments</title>
+      <link>https://laurakalbag.com/site-adjustments/</link>
+      <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/site-adjustments/</guid>
+      <description>My site is looking a little different, I’m now using the lovely Recia for the type. Fontdeck recently retired, and while they gave loads of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.
+  My site with web-safe backup fonts, Georgia and Helvetica   
+I have a redesign in the works. But I’ve no idea when it’ll be finished.</description>
+    </item>
+    
+    <item>
+      <title>Bereaved</title>
+      <link>https://laurakalbag.com/bereaved/</link>
+      <pubDate>Mon, 03 Oct 2016 12:44:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bereaved/</guid>
+      <description>Last night I had a dream, or maybe a nightmare. I was in a ballet class in a church hall, learning all kinds of complicated and not-really-ballet dance sequences. The class was busy, we were all in clumsy rows. We were a diverse group of dancers in our everyday clothes. It was the same church hall I did most of my ballet classes in when I was younger, with lots of wood panelling, and stacked plastic chairs in place of a barre.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 29th June 2016</title>
+      <link>https://laurakalbag.com/diary-29th-june-2016/</link>
+      <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-29th-june-2016/</guid>
+      <description>It’s not even been a week since 51.9% UK citizens voted to leave the EU, and it’s already a mess for any business operating from, or with, British Pounds. I’ve spent today working through our finances to see how best for us to proceed in terms of currencies and bank accounts. Despite living in Sweden, we’re still tied to the UK, not least because I’m a British citizen… * shakes fist at the idiots who voted to Leave *</description>
+    </item>
+    
+    <item>
+      <title>Diary, 13th June 2016</title>
+      <link>https://laurakalbag.com/diary-13th-june-2016/</link>
+      <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
+      <description>Time rolls by and it’s about time I did another diary entry. I’m going to try to get Aral and me to write more frequently now what we’re working on (Better) is out in the open. (No more talk of the hush-hush project! ;-)
+Since the launch of Better, we’ve been keeping development going, whilst making improvements to the Better app and Better.fyi, as well as responding to emails, tweets, feedback and questions.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 22nd April 2016</title>
+      <link>https://laurakalbag.com/diary-22nd-april-2016/</link>
+      <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-22nd-april-2016/</guid>
+      <description>Always busy here! Aral and I have been doing a good job of getting out to events in our new home city of Malmö. Last week we went to see A Good American at DocLounge, and this week we’ve been to a few events right here in Media Evolution City. We’re really lucky to have an amazing venue that hosts so many events around us.
+I’ve been knuckling down on the financial/admin side of things now we’ve moved to Malmö.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 29th March 2016</title>
+      <link>https://laurakalbag.com/diary-29th-march-2016/</link>
+      <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-29th-march-2016/</guid>
+      <description>Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)
+Friday and today, I’ve been getting our Labs and source.ind.ie in tip-top shape. Now with our own logo in the corner, it feels more like home, and Aral has added single sign-on so you can sign up with your GitHub account, as well as adding some new copy on the source homepage to explain a little more about what is housed on source.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 21st March 2016</title>
+      <link>https://laurakalbag.com/diary-21st-march-2016/</link>
+      <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
+      <description>It’s been a busy few weeks.
+Ethical Design Manifesto refresh Last week we launched a refresh of the Ethical Design Manifesto, along with a video. As it was a short-ish video, I felt like I had no excuse but to do the captioning for it too. I couldn’t get Subtitle Horse (my usual favourite web software) working with the video, so I ended up using Jubler instead.
+It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 1st March 2016</title>
+      <link>https://laurakalbag.com/diary-1st-march-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 10:14:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-1st-march-2016/</guid>
+      <description>Well… we’re here! In Malmö, sitting in our new office at Media Evolution City.
+It’s been a busy and exhausting week. Oskar and I made our 800 mile trip in one day, thanks to the wonderful “courier” and took another day to recover. Then it was straight into the office.
+The last week has been meeting new friends, relocation admin, and arranging a few events for the year. All the while Aral has been coding.</description>
+    </item>
+    
+    <item>
+      <title>What advice do you give to aspiring designers or typographers?</title>
+      <link>https://laurakalbag.com/advice-for-aspiring-designers/</link>
+      <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/advice-for-aspiring-designers/</guid>
+      <description>I was just asked, amongst a couple of other questions, what advice I would give to aspiring designers or typographers.
+With my mind focused on the aspiration part, I started writing an answer based on finding your own way of working through studying others, not copying… And then I realised it was a bit superficial. What’s the biggest problem with young designers today? They’re coin-operated*. So I wrote what I hope is slightly better advice:</description>
+    </item>
+    
+    <item>
+      <title>Diary, 16th February 2016</title>
+      <link>https://laurakalbag.com/diary-16th-february-2016/</link>
+      <pubDate>Tue, 16 Feb 2016 09:26:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-16th-february-2016/</guid>
+      <description>It’s nearly time! We’re moving to Sweden next Tuesday, and it’s currently at equal parts exciting and stressful.
+The storage locker in Brighton is almost empty, and we’ve stashed all our sentimental stuff—the things you want to keep, but probably aren’t worth putting in a suitcase to a foreign land—at my family’s house. We’re only taking a couple of suitcases of clothes, our work equipment, and of course Oskar. If we can squeeze Aral’s fancy Anglepoise lamp and a few nice bits of artwork into the pet transportation van, then we’ll have those along too.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 5th February 2016</title>
+      <link>https://laurakalbag.com/diary-2016-02-05/</link>
+      <pubDate>Fri, 05 Feb 2016 11:29:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-2016-02-05/</guid>
+      <description>Note: I’ve been writing diary entries on the Ind.ie forum for a while now. I’ve decided to start sharing these on my site now too, as I’ve not been posting much else! (They have bonus dog photos.)
+I’ve been meaning to write a diary entry for ages, and 8am on a Friday morning is the first opportunity I’ve had to get to it (and I’ve already been working for an hour…)</description>
+    </item>
+    
+    <item>
+      <title>Office Furniture (and other nice things) for sale</title>
+      <link>https://laurakalbag.com/office-furniture-for-sale/</link>
+      <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/office-furniture-for-sale/</guid>
+      <description>So we’re finally moving to Sweden at the end of the month. You might remember that we sold a lot of our stuff last summer when we left Brighton. We kept a lot of good stuff, thinking we’d relocate it with us.
+But now we’re moving to a small apartment in Malmö, and a beautiful furnished office in Media Evolution City, so we are only taking the essentials. (Yes, that includes Oskar.</description>
+    </item>
+    
+    <item>
+      <title>My 2015</title>
+      <link>https://laurakalbag.com/my-2015/</link>
+      <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2015/</guid>
+      <description>I’m not even sure how to write about 2015… 2015 can die in a fire, go away and never come back.
+My mother died in August, three months after her mother, my grandmother, died in April. Missing them both has really done me over. Grieving is not what I expected, it just makes everything exhausting. Oddly, knitting helped.
+In July, we moved from Brighton to Reigate to stay with my family.</description>
+    </item>
+    
+    <item>
+      <title>Flexboxing the Universal Video Player</title>
+      <link>https://laurakalbag.com/flexbox-video-player/</link>
+      <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flexbox-video-player/</guid>
+      <description>I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote a blog post on Ind.ie Labs about using flexbox with progressive enhancement.</description>
+    </item>
+    
+    <item>
+      <title>The Sticky, Pocked Underbelly Of The Web</title>
+      <link>https://laurakalbag.com/the-sticky-pocked-underbelly-of-the-web/</link>
+      <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-sticky-pocked-underbelly-of-the-web/</guid>
+      <description>This week’s roundup covers Swiss Cheese Internet vs The Database Of Ruin, The Right To Be Forgotten, and Diversity. Lots of variety!</description>
+    </item>
+    
+    <item>
+      <title>Windows To Your Soul</title>
+      <link>https://laurakalbag.com/windows-to-your-soul/</link>
+      <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/windows-to-your-soul/</guid>
+      <description>In this week’s Ind.ie roundup, I wrote about privacy, politics, tracking, Timelines, and a little thing called “corporate nullification.”</description>
+    </item>
+    
+    <item>
+      <title>Is there potential for “ethical analytics”?</title>
+      <link>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</link>
+      <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
+      <description>We have Piwik analytics on the Ind.ie site, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use Ghostery so I actually block analytics like this for my own use.
+As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:
+ Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc) Browser/browser size/operating system (required to know how to optimise for visitors) Language spoken (required to work out how to best optimise for different languages) Referring links (to track who is saying what about your site)  BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:</description>
+    </item>
+    
+    <item>
+      <title>The Social Web: A Glorious Dystopia</title>
+      <link>https://laurakalbag.com/the-social-web-a-glorious-dystopia/</link>
+      <pubDate>Fri, 24 Jul 2015 18:00:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-social-web-a-glorious-dystopia/</guid>
+      <description>Lots of good quotes and a book recommendation in this week’s Ind.ie roundup.</description>
+    </item>
+    
+    <item>
+      <title>Tethered Beings</title>
+      <link>https://laurakalbag.com/tethered-beings/</link>
+      <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/tethered-beings/</guid>
+      <description>This week the Ind.ie roundup returns with a big one. Great news on the UK surveillance legislation front, and lots of corporation news. Read the Ind.ie roundup: Tethered Beings.</description>
+    </item>
+    
+    <item>
+      <title>Farewell Caspar</title>
+      <link>https://laurakalbag.com/farewell-caspar/</link>
+      <pubDate>Mon, 13 Jul 2015 10:46:13 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/farewell-caspar/</guid>
+      <description>We didn’t have an Ind.ie roundup the previous week because we were moving, though Aral wrote a quick update on what’s happening with our move. Last week we were roundup-less again, as we heard the sad news that Caspar Bowden had died. We decided that, instead of the usual roundup, we’d take a look at Caspar’s privacy advocacy in tribute to his work.</description>
+    </item>
+    
+    <item>
+      <title>Book Bundles for Sale</title>
+      <link>https://laurakalbag.com/book-bundles/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/book-bundles/</guid>
+      <description>3rd July: NEW BOOKS ADDED!
+We’re moving. And because we’re moving abroad, we’re getting rid of all of our stuff.
+Just take me to the books already
+Aral and I have a lot of books between us. We’re sad to lose them. Many have been gifts from friends, written by people we know, and helped us do what we do.
+Selling books one by one is a time-consuming (and not cost-effective) exercise.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 11 –; Overlay</title>
+      <link>https://laurakalbag.com/photography-on-manual-11-overlay/</link>
+      <pubDate>Thu, 28 May 2015 17:38:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-11-overlay/</guid>
+      <description>A weird experiment that almost works…
+  **Sleeping in Spring.** Mucking about with overlaying a couple of photos. It’s a bit more editing than multiple exposures, but a similar style. I was just flicking through the layer blending modes and found something that looked a bit different. Here I’ve layered a couple of blending modes and erased some areas to bring Oskar’s face out</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 10 –; Miscellaneous</title>
+      <link>https://laurakalbag.com/photography-on-manual-10-miscellaneous/</link>
+      <pubDate>Thu, 28 May 2015 11:39:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-10-miscellaneous/</guid>
+      <description>The last few days have brought a very miscellaneous collection of photos.
+  **Rama on the beach.** I was out trying to get the sea and the pier, but the weather was grim, and I found this little figure instead. I think it might be Rama, but I might be wrong…   
+The next photo is part of our overlaying exercise set by Ashley. I did it in post-processing, before I discovered that my camera has a multiple exposure setting.</description>
+    </item>
+    
+    <item>
+      <title>The Destiny Machine</title>
+      <link>https://laurakalbag.com/the-destiny-machine/</link>
+      <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-destiny-machine/</guid>
+      <description>Last Friday’s roundup was back to business as usual, after a couple of weeks of re:publica-related work. We’ve got the latest in the world of Spyware 2.0, and some fun ways that people are challenging the system.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 9 –; Oskar in the grey</title>
+      <link>https://laurakalbag.com/photography-on-manual-9-oskar-in-the-grey/</link>
+      <pubDate>Sun, 24 May 2015 15:20:03 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-9-oskar-in-the-grey/</guid>
+      <description>This week we’ve been looking more at natural light, and portraits with foreground detail. I took my trusty (actually incredibly unreliable) model, Oskar, out for a walk and hounded him with the camera. It was a very grey day, but with a lot of light.
+  **Oskar in the cow parsley.** It’s much easier to get a shot in focus when the model is sitting still! I’m pleased with the depth from the different layers of cow parsley.</description>
+    </item>
+    
+    <item>
+      <title>Interview on the Subjective podcast</title>
+      <link>https://laurakalbag.com/subjective-podcast/</link>
+      <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/subjective-podcast/</guid>
+      <description>At the beginning of the week, I had fun talking to Victor Johnson on Episode 9 of the Subjective podcast, ‘Free As In Liberty.’ I ranted a lot, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.
+Subjective is also a great podcast in its infancy, with Victor at the helm, it’s definitely one to watch (or listen!)</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/12-days-of-podcasts-day-3/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/accessibility-by-design/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-by-design/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 8 –; Traffic and Jess</title>
+      <link>https://laurakalbag.com/photography-on-manual-8-traffic-and-jess/</link>
+      <pubDate>Mon, 18 May 2015 08:39:23 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-8-traffic-and-jess/</guid>
+      <description>Our most recent exercise was to take a long exposure shot.
+  **Seafront traffic.** I wandered around for a while, trying to find a good angle from a height, but the traffic was too quiet! The main sea front road was much better, though it was pretty windy last night, so it’s slightly blurrier that I’d like on the static objects.   
+Before that, Ashley gave us a great tutorial on using natural light.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 7 –; Small Cat</title>
+      <link>https://laurakalbag.com/photography-on-manual-7-small-cat/</link>
+      <pubDate>Wed, 13 May 2015 16:19:03 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-7-small-cat/</guid>
+      <description>My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.
+  **Small Cat.** I edited out the wonky lamp in the background because it was distracting. I also muted the grass and plants so her scary green eyes would be more noticeable.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 6 –; Walk</title>
+      <link>https://laurakalbag.com/photography-on-manual-6-walk/</link>
+      <pubDate>Mon, 11 May 2015 16:33:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-6-walk/</guid>
+      <description>When I started doing this course, I knew I’d probably end up with a lot of dog walking photos. Oskar and I are out every day, and so there’s lots of photo opportunities.
+After exploring the self-timer in my last photo, I thought I’d try it again. Dog photos are obviously great, but I wanted something to show how we exist as a pair. Also outdoors.
+  **East Brighton rest.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 5 –; Levitation</title>
+      <link>https://laurakalbag.com/photography-on-manual-5-levitation/</link>
+      <pubDate>Sat, 09 May 2015 17:01:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-5-levitation/</guid>
+      <description>Another photo post so soon? Yes! It’s the weekend, and Ashley gave us a really cool new exercise to try levitation, so I thought I had to try it.
+  **Levitation.** This took SO MANY tries. The light changed while I was setting up, so it was a bit tricky to edit the two originals together. I tried to crop out the most distracting elements of the shot, and desaturate the rest.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 4 –; Post-processing</title>
+      <link>https://laurakalbag.com/photography-on-manual-4-post-processing/</link>
+      <pubDate>Sat, 09 May 2015 07:53:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-4-post-processing/</guid>
+      <description>On my last day in Berlin, I took a lot more photos. Last night I started post-processing them, following Ashley’s email and video tutorials. Post-processing is an area where I have more experience, I’ve done a lot of Photoshopping in the past, but now I’m trying to achieve new effects using Lightroom, which is a very different animal!
+  **Me in a hotel room, original.** Travelling in Berlin, and being a bit slow to set up shots, I found my only (mostly) willing model was me.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 3 –; Day One at re:publica</title>
+      <link>https://laurakalbag.com/photography-on-manual-3-republica-day-one/</link>
+      <pubDate>Tue, 05 May 2015 14:58:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-3-republica-day-one/</guid>
+      <description>This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!
+  re:publica in Berlin   
+  **Projection.** A very abstract photo.   
+  **STG-1 (Stage 1) at re:publica.** A fairly dark location, lit very strongly at one end. I managed to get a blurry walking man against it all.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 2 –; Splash</title>
+      <link>https://laurakalbag.com/photography-splash/</link>
+      <pubDate>Sun, 03 May 2015 19:37:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-splash/</guid>
+      <description>The first exercise we’ve been given is to capture a splash in a cup…
+  **First splash.** My kitchen is in a basement, so it’s a little bit dark. Even with the ISO jacked all the way up, this was the lightest I could get with the fastest possible shutter speed.   
+  **Second splash.** So I went outside! Unfortunately my burst caught the splash a bit late.</description>
+    </item>
+    
+    <item>
+      <title>Photography on manual: 1</title>
+      <link>https://laurakalbag.com/photography-on-manual-1/</link>
+      <pubDate>Sat, 02 May 2015 12:27:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/photography-on-manual-1/</guid>
+      <description>I’ve had a DSLR for nearly a year now. And I still only ever use it on the Auto modes. I studied photography (with film cameras) during my Art Foundation course ~10 years ago, but I think any decent photos were mostly luck, and I can’t remember much of it. So when Ashley set up her Girl With A Camera Course, “For the beginner photographer who wants to pick up their camera more,” I was instantly sold!</description>
+    </item>
+    
+    <item>
+      <title>What do web experts think of BBC Taster?</title>
+      <link>https://laurakalbag.com/bbc-taster/</link>
+      <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bbc-taster/</guid>
+      <description>In the spirit of catching up on slightly older news, in January I was part of a panel commenting on BBC Taster on Creative Bloq.
+Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.</description>
+    </item>
+    
+    <item>
+      <title>Europe fights back</title>
+      <link>https://laurakalbag.com/europe-fights-back/</link>
+      <pubDate>Mon, 13 Apr 2015 09:18:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/europe-fights-back/</guid>
+      <description>Last Friday’s Ind.ie roundup had more on corporate surveillance, a couple of great videos with Edward Snowden, and Europe fighting back against Google and Facebook.
+It took me a long time to pull it all together. I’m going to have to start writing my Friday roundups on Thursday! If you know of any interesting or relevant links, please let me know :)</description>
+    </item>
+    
+    <item>
+      <title>130 words on getting creative in Offscreen Magazine</title>
+      <link>https://laurakalbag.com/130-words-in-offscreen-mag/</link>
+      <pubDate>Thu, 09 Apr 2015 13:03:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/130-words-in-offscreen-mag/</guid>
+      <description>I’m slightly behind on my posts, but I wanted to share my contribution in the latest edition of Offscreen Magazine. Offscreen is a beautiful, printed, independent magazine about the “People behind Bits and Pixels.” I contributed 130 words to Issue 10 on getting into a creative mindset.
+You can buy a copy, or get a subscription to Offscreen by visiting their website.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at 418:conf web meetup</title>
+      <link>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</link>
+      <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</guid>
+      <description>I’m speaking at the very first 418:conf web meetup on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.
+If you’re local, you should get your ticket now. They’re free!</description>
+    </item>
+    
+    <item>
+      <title>My Friday Roundup for Ind.ie</title>
+      <link>https://laurakalbag.com/my-friday-roundup-for-ind-ie/</link>
+      <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-friday-roundup-for-ind-ie/</guid>
+      <description>Every Friday I write a roundup of great links we at Ind.ie have seen over the last week. I’m not going to lie, it’s a lot of fun. I finally have an excuse to sit and properly read articles that are related to independence, privacy, human rights, democracy, diversity and more. I feel more well-informed as a result!
+The roundups started out as just lists of links, but have now evolved into a little article each week where I collect the best reads together under common themes and occasionally a bit of analysis.</description>
+    </item>
+    
+    <item>
+      <title>The Illusion Of Free on A List Apart</title>
+      <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
+      <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
+      <description>Last week, my column on The Illusion Of Free was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around Ind.ie. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.</description>
+    </item>
+    
+    <item>
+      <title>A realign for 2015</title>
+      <link>https://laurakalbag.com/a-realign-for-2015/</link>
+      <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
+      <description>Almost a year after last year’s realign, I’ve made some more tweaks to my site. There were a few reasons behind it:
+ I’m not freelance anymore, so I don’t need the focus on my portfolio As I’m now working with Ind.ie, I needed to update my about page The navigation needed some accessibility work The colours were beginning to grate on me  Less portfolio, more… My blog has been fairly quiet, but actually that’s because I’ve been writing a lot elsewhere.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at the Sherpa Summit</title>
+      <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
+      <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
+      <description>Last October, Web Standards Sherpa published my mini series on Getting Started With Sass. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.</description>
+    </item>
+    
+    <item>
+      <title>Digital Arts: Web fonts: what designers need to know in 2015</title>
+      <link>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</link>
+      <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</guid>
+      <description>Another fab and in-depth article from Craig Grannell on Digital Arts, this time on Web fonts: what designers need to know in 2015. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.
+ 
+My full answers to Craig’s original questions are below:
+What do you consider the current best options for working with web fonts? I’m forever changing my mind, but I tend to prefer to host fonts on the site itself.</description>
+    </item>
+    
+    <item>
+      <title>For Sale: Mid 2013 MacBook Air</title>
+      <link>https://laurakalbag.com/for-sale-mid-2013-macbook-air/</link>
+      <pubDate>Thu, 12 Feb 2015 16:30:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/for-sale-mid-2013-macbook-air/</guid>
+      <description>In October, I found myself doing a lot more in Terminal than I’d done before, and I needed a computer with a faster processor, so I upgraded to a MacBook Pro. This means that my pimped-out Mid 2013 MacBook Air that I bought in December 2013 is now for sale. It’s in nearly-new condition, as it’s been kept in a shell case for almost all its (short) life. I used it for around 8 months.</description>
+    </item>
+    
+    <item>
+      <title>Do your skip links work with keyboard navigation?</title>
+      <link>https://laurakalbag.com/skip-links/</link>
+      <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/skip-links/</guid>
+      <description>Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.
+This afternoon I was testing a new feature I want to add to Ind.ie’s accessible video player, and started moving down our style guide (work in progress!</description>
+    </item>
+    
+    <item>
+      <title>My 2014</title>
+      <link>https://laurakalbag.com/my-2014/</link>
+      <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2014/</guid>
+      <description>Well, things didn’t slow down in 2014! So much so that I didn’t manage to write this post yesterday. In 2014 I spoke at 8 events in 4 countries, and worked with 11 clients on 15 projects before starting work full time with Ind.ie in August.
+I wrote a lot more, with regular slots onA List Apart and The Pastry Box, and a series on Getting Started With Sass on Web Standards Sherpa.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 97: Made in Scotland from girders</title>
+      <link>https://laurakalbag.com/unfinished-business-97-made-in-scotland-from-girders/</link>
+      <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-97-made-in-scotland-from-girders/</guid>
+      <description>This week’s episode of Unfinished Business was great fun to record. Both Ashley Baxter and I were Andy’s guests, and we talked about unhealthy food, being a podcast guest, Christmas decorations, and everything that’s in store for the three of us over the next year.
+[  ](http://unfinished.bz/97)</description>
+    </item>
+    
+    <item>
+      <title>What I’m doing now and why</title>
+      <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
+      <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
+      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 89: Burger in donut</title>
+      <link>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</link>
+      <pubDate>Mon, 13 Oct 2014 11:14:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</guid>
+      <description>Last week’s episode of Unfinished Business was a very different discussion from the usual. Andy and I talked about his fantastic idea for Geek Mental Help week (October 27th onwards) and how so many people in our industry are affected by mental health issues. I’ll definitely be writing a post for Geek Mental Help Week, and I hope you will too! I’m sure you’ll be able to find out the latest about Geek Mental Help Week from the Twitter account @geekmentalhelp.</description>
+    </item>
+    
+    <item>
+      <title>Breaking Stuff on A List Apart</title>
+      <link>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</link>
+      <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
+      <description>Last week my latest column, Breaking Stuff, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at ind.ie, so I think I’ll be writing more about situations like these as time goes on.
+I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)</description>
+    </item>
+    
+    <item>
+      <title>ind.ie Project Stratosphere announcement</title>
+      <link>https://laurakalbag.com/indie-project-stratosphere/</link>
+      <pubDate>Thu, 02 Oct 2014 14:16:15 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-project-stratosphere/</guid>
+      <description>After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal some big stuff about ind.ie.
+We’re not just designing a phone. A crowdfunding campaign for a phone that you’ll get in two years is not a risk worth taking. We need to build a network and ecosystem around that phone. We need a fantastic and mature platform that the phone to give the phone the ultimate experience on its release.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Web Day at Bath Digital Festival</title>
+      <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
+      <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
+      <description>I’m speaking at Web Day at Bath Digital Festival on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. Tickets are a very reasonable £15, and it looks like it’ll be a very interesting day.</description>
+    </item>
+    
+    <item>
+      <title>5 reasons why you should get an office dog</title>
+      <link>https://laurakalbag.com/5-reasons-why-you-should-get-an-office-dog/</link>
+      <pubDate>Wed, 17 Sep 2014 09:16:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/5-reasons-why-you-should-get-an-office-dog/</guid>
+      <description>Last week I wrote my Pastry Box thought on 5 reasons why you should get an office dog. It’s not just silly photos of Oskar, but actually five reasons why having Oskar for company has helped keep me sane. Through living and working by myself, to living and working with other people, he’s still incredibly valuable as a companion.
+And if you do happen to like dog photos, you might want to follow @gigapup on Twitter or app.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at border:none</title>
+      <link>https://laurakalbag.com/speaking-at-border-none/</link>
+      <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
+      <description>Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.
+It’s also an all-new topic for me to share with other people, so I can’t wait!</description>
+    </item>
+    
+    <item>
+      <title>dConstruct 2014</title>
+      <link>https://laurakalbag.com/dconstruct-2014/</link>
+      <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dconstruct-2014/</guid>
+      <description>Jeremy Keith is a master curator of brilliant talks from wonderful speakers, and Friday’s dConstruct was a great event. Gone are the days where I write long connected writeups on conference themes. I wish I had the time, and venues like the Brighton Dome are far too dark to take notes. However, I really wanted to record and share some of the thoughts I got out of dConstruct, as I think the themes are very important.</description>
+    </item>
+    
+    <item>
+      <title>Building a diverse speaker lineup</title>
+      <link>https://laurakalbag.com/building-a-diverse-speaker-lineup/</link>
+      <pubDate>Tue, 02 Sep 2014 08:53:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/building-a-diverse-speaker-lineup/</guid>
+      <description>This post is so good, and so incredibly valuable, that it’s deserving of more than just a passing tweet. Julie Pagano has written about ‘Building a Diverse Speaker Lineup.’ This should be the go-to post for conference organisers, and it should be read as soon as you’re even thinking about organising an event.
+Julie’s post doesn’t just explain why you want a diverse lineup (also worth reading on this topic: Aral’s post, On design and diversity), but also how.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 83: Slightly sticky bottoms</title>
+      <link>https://laurakalbag.com/unfinished-business-83-slightly-sticky-bottoms/</link>
+      <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-83-slightly-sticky-bottoms/</guid>
+      <description>Andy is back this week and so we did a handover episode of Unfinished Business. This week we talked about our different approaches to the podcast and what’s relevant to “business”. Andy found an interesting article on the BBC website about smartphone stress, so we talked about how we handle disconnecting when we go on holiday, and in our downtime at home.
+[  ](http://unfinished.bz/83)</description>
+    </item>
+    
+    <item>
+      <title>Give and Tell Challenge</title>
+      <link>https://laurakalbag.com/give-and-tell-challenge/</link>
+      <pubDate>Tue, 26 Aug 2014 14:42:01 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/give-and-tell-challenge/</guid>
+      <description>When Andy Clarke challenged me to the “Give and Tell Challenge”, I was very happy to comply. Dan James, inspired by the ALS Ice Bucket Challenge, came up with the challenge:
+ You donate to a cause, or causes, that have meaning to you and you say why. You then challenge 3 other people to do the same thing.
+ All Out I have just donated to All Out. All Out campaigns for a world where no person will have to sacrifice their family or freedom, safety or dignity, because of who they are or who they love.</description>
+    </item>
+    
+    <item>
+      <title>Indie Tech Summit videos and my talk on Universal Design</title>
+      <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
+      <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
+      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 81 and 82</title>
+      <link>https://laurakalbag.com/unfinished-business-81-and-82/</link>
+      <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-81-and-82/</guid>
+      <description>I was so busy last week that I forgot to post about Unfinished Business episode 81: Do you have a dinosaur onesie? This week, Ashley and I recorded episode 82: Love a good pep talk.
+It’s been a fun few weeks. It’s been interesting how a lot of people have said that Ashley and I focused more on business-related topics than Andy’s recent episodes. That may well be the case, but it wasn’t really intentional, or because we think the podcast should be more business-focused.</description>
+    </item>
+    
+    <item>
+      <title>Workplaces of Web Professionals</title>
+      <link>https://laurakalbag.com/workplaces-of-web-professionals/</link>
+      <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
+      <description>This morning Martin Wolf published an interesting blog post with photos of the “workplaces of web professionals”. I always wonder if people really are that tidy, or if they spent a while clearing up before they took the photo.
+The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.</description>
+    </item>
+    
+    <item>
+      <title>Digital Arts: Designing for the unknown</title>
+      <link>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</link>
+      <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
+      <description>Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called Designing for the unknown: how to design templates and frameworks, and has contributions from some really smart people.
+The title image is from my writeup of the Default Perch Theme project I did with Perch.</description>
+    </item>
+    
+    <item>
+      <title>Desert.fm Playlist</title>
+      <link>https://laurakalbag.com/desert-fm-playlist/</link>
+      <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/desert-fm-playlist/</guid>
+      <description>A few weeks ago I was asked to create a playlist of ten songs for Desert.fm. Nate, Bobby and Jamie sent me an email with the premise:
+ Our idea is to to add value to digital playlists through personal stories and inspirational music. We’re totally genre agnostic and we don’t judge (honest!), we can find inspiration in the most unlikely of places sometimes, so we encourage our curators not to hold back.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 80: I wonder why he trusts us?</title>
+      <link>https://laurakalbag.com/unfinished-business-80/</link>
+      <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-80/</guid>
+      <description>Andy Clarke is on holiday for three weeks and has handed over the Unfinished Business reins to Ashley Baxter and I. This week’s episode is all about business insurance for freelancers and small businesses. We talked about public liability, professional indemnity, business contents and copyright infringement. It was great because I got to ask Ashley loads of questions I forgot to ask when she was helping me get insured!
+I’m not sure if the audio quality is as good as it usually is on Unfinished Business, as my editing skills are rather rusty… But this episode does feature a little bit of Oskar!</description>
+    </item>
+    
+    <item>
+      <title>Digital Arts: The future of web design</title>
+      <link>https://laurakalbag.com/digital-arts-the-future-of-web-design/</link>
+      <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
+      <description>Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!
+In April, I spoke to Neil Bennett about the future of web design, and the challenges we face. There were some good questions, and it’s interesting to see the answers of difference people from different areas side-by-side.</description>
+    </item>
+    
+    <item>
+      <title>I Don’t Like It on A List Apart</title>
+      <link>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</link>
+      <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</guid>
+      <description>Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, my most recent column, I Don’t Like It, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the Clients From Hell attitude that poor communication is a client’s fault, when it’s more often a designer’s fault.</description>
+    </item>
+    
+    <item>
+      <title>Discount code for WXG 2014 in Guildford</title>
+      <link>https://laurakalbag.com/discount-code-for-wxg-2014/</link>
+      <pubDate>Tue, 29 Jul 2014 10:25:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/discount-code-for-wxg-2014/</guid>
+      <description>You might have seen that I’m speaking at WXG in Guildford in September. If you didn’t already get a ticket, you might want to use my discount code of kalbagWXG to get £10 off the (already very affordable £99) ticket price.
+There’s some great speakers in the lineup, and it’s sure to be a fun day!</description>
+    </item>
+    
+    <item>
+      <title>Accessibility en France</title>
+      <link>https://laurakalbag.com/accessibility-en-france/</link>
+      <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-en-france/</guid>
+      <description>Yesterday I gave a talk at KiwiParty in Strasbourg. KiwiParty is a lovely conference, but all of the speakers spoke in French, to the French audience. Except me. I speak a little bit of (A-Level) French, but I certainly couldn’t give a talk in French.
+Designing for accessibility My talk was about Designing for accessibility. I wouldn’t be setting a very good example if I was to give a talk about accessibility which was hard to understand for 99% of the audience.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business 72: Big Bad Boy Breakfast Bap</title>
+      <link>https://laurakalbag.com/unfinished-business-72/</link>
+      <pubDate>Mon, 09 Jun 2014 16:02:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-72/</guid>
+      <description>This week’s episode of Unfinished Business was great fun to record. After my recent move to working on Indie Phone, alongside my boyfriend Aral Balkan, I was curious to know how Andy and Sue have worked so well together since the beginning of Stuff and Nonsense.
+I sent Sue some questions, which she answered and sent back to me, without Andy seeing the answers. During the show, I asked Andy about his thoughts and read Sue’s answers.</description>
+    </item>
+    
+    <item>
+      <title>And I accidentally became a control freak…</title>
+      <link>https://laurakalbag.com/junes-pastry-box-thought-on-being-a-control-freak/</link>
+      <pubDate>Thu, 05 Jun 2014 08:28:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/junes-pastry-box-thought-on-being-a-control-freak/</guid>
+      <description>Following on from my post yesterday about working with Indie Phone for 50% of my time, my thought on the Pastry Box today is about how I accidentally became a control freak. It’s hard to admit the flaws you find in yourself, but I’m so determined to do a good job that I think it’s better to find those flaws and try to fix them!</description>
+    </item>
+    
+    <item>
+      <title>Becoming part of Indie Phone</title>
+      <link>https://laurakalbag.com/indie-phone/</link>
+      <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-phone/</guid>
+      <description>There’s some big changes around here. As of Monday, I am now working with Indie Phone for 50% of my working time.
+What is Indie Phone? Indie Phone is a huge, and very ambitious, project. We’re building a smart phone that allows you to own your own data. The majority of companies on the web have a simple, and potentially dangerous, business model. These companies give you services for free, and sell your data on to third parties to make their money (think Google, Facebook, Twitter).</description>
+    </item>
+    
+    <item>
+      <title>How to get started with public speaking</title>
+      <link>https://laurakalbag.com/how-to-get-started-with-public-speaking/</link>
+      <pubDate>Wed, 21 May 2014 14:59:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/how-to-get-started-with-public-speaking/</guid>
+      <description>Last week, the wonderful Ashley Baxter asked me about how I got into public speaking. Ashley asked a few cool people, and published their public speaking stories on the Insurance By Jack blog.
+By the way, if you want business insurance, you really should get a quote from Insurance By Jack.</description>
+    </item>
+    
+    <item>
+      <title>Why accessibility matters to me #GAAD</title>
+      <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
+      <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
+      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
+How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+    </item>
+    
+    <item>
+      <title>A look inside a designer’s sketchbook</title>
+      <link>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</link>
+      <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</guid>
+      <description>A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my sketchbook pages on his site. Ian wanted to emphasise the rough, imperfect nature of the way we plan logo designs, and show real work done by real people.
+Last week, Ian added some pages from my sketchbook to his post, “A look inside a designers sketchbook”. He included some of my sketches from the Indie Phone and Turbine projects.</description>
+    </item>
+    
+    <item>
+      <title>April’s Pastry Box thought on writing</title>
+      <link>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</link>
+      <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</guid>
+      <description>I was slow to post aboutmy April Pastry Box post as my realign got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.
+[  ](https://the-pastry-box-project.net/laura-kalbag/2014-april-19)</description>
+    </item>
+    
+    <item>
+      <title>A little realign</title>
+      <link>https://laurakalbag.com/a-little-realign/</link>
+      <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-little-realign/</guid>
+      <description>Things are looking a bit different around here. It’s not a redesign so much as a realign. I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)
+There were a few particular goals for this redesign:
+Rewrite the CSS I lived in fear that someone might look closely at my CSS. My last redesign came about when responsive web design was still young, and I was incredibly foolish.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business #64</title>
+      <link>https://laurakalbag.com/unfinished-business-64/</link>
+      <pubDate>Tue, 15 Apr 2014 14:58:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-64/</guid>
+      <description>On Friday I was a guest on the Unfinished Business podcast again. It was a special episode as Rachel Andrew was also a guest (yeah, I designed her site!) I don’t like to go on about stuff like this too often, but if you’d told 21 year old me (7 years ago) that I’d be appearing on a podcast with Andy Clarke and Rachel Andrew, it would’ve blown my mind. They’re two very lovely people whose writing helped me learn about, and become so excited about, the web.</description>
+    </item>
+    
+    <item>
+      <title>Me and My Big Fat Ego on A List Apart</title>
+      <link>https://laurakalbag.com/me-and-my-big-fat-ego-on-a-list-apart/</link>
+      <pubDate>Thu, 03 Apr 2014 12:56:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/me-and-my-big-fat-ego-on-a-list-apart/</guid>
+      <description>Today my column on Me and My Big Fat Ego was published on A List Apart. It’s not that I’d say I have a huge ego, but it’s definitely something that’s easily bruised when I feel like things aren’t going my way.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at KiwiParty in Strasbourg</title>
+      <link>https://laurakalbag.com/speaking-at-kiwiparty/</link>
+      <pubDate>Thu, 27 Mar 2014 07:50:21 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-kiwiparty/</guid>
+      <description>On the 13th of June, I’m speaking at KiwiParty in Strasbourg. I’ll be speaking about web accessibility.
+It’ll be my first conference in France and I’ll be trying to remember my French from AS Level ten years ago! I won’t be giving my talk in my terrible French, but if you’re coming along, please find me and test my conversational French. Especially if you want a good laugh!</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business #61</title>
+      <link>https://laurakalbag.com/unfinished-business-61/</link>
+      <pubDate>Tue, 25 Mar 2014 10:52:12 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-61/</guid>
+      <description>Last weekend I was a guest on the Unfinished Business podcast again. I had a lovely time chatting to Andy about speaking at conferences, working for free and I even managed to squeeze in a rant about accessibility.</description>
+    </item>
+    
+    <item>
+      <title>Inspiration on A List Apart</title>
+      <link>https://laurakalbag.com/inspiration-on-a-list-apart/</link>
+      <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/inspiration-on-a-list-apart/</guid>
+      <description>Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as the talk I gave at Design + Banter a few weeks ago.</description>
+    </item>
+    
+    <item>
+      <title>Video interview for Interlink conference</title>
+      <link>https://laurakalbag.com/video-interview-for-interlink-conference/</link>
+      <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/video-interview-for-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ Last week I had a chat with my friend Steve Fisher about my upcoming talk and workshop at Interlink conference and all things Canadian. It was a fun way to end the day, and is complete with me doing a really terrible Canadian accent.</description>
+    </item>
+    
+    <item>
+      <title>March’s Pastry Box thought on purpose</title>
+      <link>https://laurakalbag.com/pastry-box-march/</link>
+      <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/pastry-box-march/</guid>
+      <description>Today my thought for March was posted on The Pastry Box. It was inspired by First Things First 2014, talks by Cole Peters and Nicklas de León Persson at Design and Banter, and Fictive Kin‘s slashpurpose.org.
+I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at WXG 2014 in Guildford</title>
+      <link>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</link>
+      <pubDate>Mon, 10 Mar 2014 10:52:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</guid>
+      <description>I’m speaking at WXG 2014 in Guildford in September. This is exciting for me because I attended the first ever WXG a couple of years ago, and it’s about as local as a conference is going to get to my hometown, Reigate.
+The tickets are a bargain at just £69 for early birds, and there’s already a great lineup with still more to be announced…
+I’m going to talk about how we design the web.</description>
+    </item>
+    
+    <item>
+      <title>Guest on A Bit More Backendy podcast</title>
+      <link>https://laurakalbag.com/a-bit-more-backendy/</link>
+      <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
+      <description>Yesterday the fourth episode of the Backendy podcast was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Delivery Logistics on A List Apart</title>
+      <link>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</link>
+      <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</guid>
+      <description>There’s nothing wrong with sending a client a rough sketch if that’s all that’s needed to communicate your idea. In my latest column on A List Apart, I’ve written about deliverables and why what the client expects isn’t always the right thing to do…</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Design &#43; Banter</title>
+      <link>https://laurakalbag.com/speaking-at-design-and-banter/</link>
+      <pubDate>Wed, 26 Feb 2014 12:07:11 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-design-and-banter/</guid>
+      <description>I’m speaking at Design + Banter on Monday in London. It’s already sold out, but there’s a waiting list available for the free tickets.
+Nicklas Persson and Cole Peters are also speaking so I’m really chuffed to be part of a great lineup!</description>
+    </item>
+    
+    <item>
+      <title>Interview about web fonts on Type Quest</title>
+      <link>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</link>
+      <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</guid>
+      <description>A few months ago Tyler Sanguinette sent me some questions about design and web typography as part of his thesis on web fonts.
+Recently I found that he’d published the interview, and interviews with a load of very smart people, on the Type Quest website. Type Quest also has some really useful information on the OpenType features of web fonts, so it’s well-worth a look.
+ 
+One comment ### Andy Warburton  at 17:40pm</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Interlink conference in Toronto</title>
+      <link>https://laurakalbag.com/speaking-at-interlink-conference-in-toronto/</link>
+      <pubDate>Mon, 03 Feb 2014 11:34:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-interlink-conference-in-toronto/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ This is very very exciting. In June, I’m going to speak at Interlink conference in Toronto, Canada. The line-up is incredible, and I can’t believe I’m a part of it.</description>
+    </item>
+    
+    <item>
+      <title>Sketch of the day</title>
+      <link>https://laurakalbag.com/sketch-of-the-day/</link>
+      <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sketch-of-the-day/</guid>
+      <description>A strange thing has happened in the last week. I’ve been a bit blue, but I’ve really got into my One Sketch A Day book. This was a lovely little book that Rachel Shillcock sent me.
+ 
+I started on the 12th December last year, with a quick sketch. I tried really hard and 9 days filled out with quick-ish sketches. The most detailed was the Fringe-style seahorse I drew the day after we finished watching the Fringe finale.</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business #54</title>
+      <link>https://laurakalbag.com/unfinished-business-54/</link>
+      <pubDate>Sun, 26 Jan 2014 18:59:34 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-54/</guid>
+      <description>The latest Unfinished Business podcast has just been published, and I’m on it again! I had a lovely time talking to Andy about scheduling projects, invoicing, rates and people who don’t understand copyright.
+A very big thank you to my friend Jo who let me take over her internet and bedroom for the recording, as our internet is still terrible!</description>
+    </item>
+    
+    <item>
+      <title>Industry mentoring on Creative Bloq</title>
+      <link>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</link>
+      <pubDate>Thu, 23 Jan 2014 14:06:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</guid>
+      <description>Craig Grannell has written a fantastic article on Creative Bloq about mentoring, looking at loads of different ways the web industry can do mentoring well. Including interviews with Clare Sutcliffe, Greg Hoy, Jeffery Zeldman, Andy Budd, Josh Emerson, Andy Budd, Anna Debenham and me!
+It’s well-worth a read if you want to mentor somebody, or would like to find a mentor yourself.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at DotYork</title>
+      <link>https://laurakalbag.com/speaking-at-dotyork/</link>
+      <pubDate>Mon, 20 Jan 2014 18:06:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-dotyork/</guid>
+      <description>I’m speaking at DotYork conference in York on the 1st of May. My friend Jonic is one of the organisers, and with the thought and love that they’re putting into the event, it’s got to be fantastic.
+It’ll be my first time in York, so I’m looking forward to seeing the sights and feeling incredibly Southern. You should join me! Early bird tickets are coming out soon, so why not go over to the DotYork website and sign up to be the first to hear when tickets are available.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Heart Internet</title>
+      <link>https://laurakalbag.com/interview-with-heart-internet/</link>
+      <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
+      <description>Yesterday, Heart Internet posted an interview with me on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)</description>
+    </item>
+    
+    <item>
+      <title>Writing on The Pastry Box and my first post on ethics</title>
+      <link>https://laurakalbag.com/writing-on-the-pastry-box/</link>
+      <pubDate>Sat, 11 Jan 2014 11:06:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/writing-on-the-pastry-box/</guid>
+      <description>Today is the day my first “thought” of the year is published on The Pastry Box. When Alex asked me if I wanted to be a part of The Pastry Box project, I leapt at the chance. There are some fantastic people who have contributed such interesting thoughts and ideas over there in the last couple of years, and looking at the lineup for this year, I’m sure that won’t be changing anytime soon.</description>
+    </item>
+    
+    <item>
+      <title>I love this pen</title>
+      <link>https://laurakalbag.com/i-love-this-pen/</link>
+      <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/i-love-this-pen/</guid>
+      <description>It’s a J Herbin metal pen. It’s a rollerball but it takes any standard ink cartridge. I use it with the J Herbin ink cartridges as they come in loads of different colours and packaged in cute little tins.
+It’s taken me years to find my ideal pen. I have small hands so I need something that isn’t too chunky or heavy. The J Herbin pen has a quality weight but doesn’t hurt if I’ve been writing for a while.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at 12 Devs of Winter</title>
+      <link>https://laurakalbag.com/speaking-at-12-devs-of-winter/</link>
+      <pubDate>Mon, 06 Jan 2014 21:17:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-12-devs-of-winter/</guid>
+      <description>I’m speaking at 12 Devs of Winter on the 22nd January in Shoreditch. Because I’ve clearly lost my mind, I’m going to be doing another new talk. This time on ‘Freelancing for the reluctant businessperson.’ I’m that reluctant businessperson, and I’m hoping to share some silly stories about all the daft things I’ve done and some of the things that have worked out just fine.
+For once, I’m ahead of the schedule, and tickets will be released this Wednesday 8th January at 10am.</description>
+    </item>
+    
+    <item>
+      <title>My 2013</title>
+      <link>https://laurakalbag.com/my-2013/</link>
+      <pubDate>Tue, 31 Dec 2013 17:14:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2013/</guid>
+      <description>My 2013 has been another big year. Oskar and I moved down to Brighton to live with Aral, I spoke at 13 events in 3 countries and worked with 13 clients on 20 projects. 2013 was the year of the podcast and I was a guest on 12 podcasts, most frequently with the lovely Andy Clarke on Unfinished Business. I also started writing a lot more, and now have my own column on A List Apart.</description>
+    </item>
+    
+    <item>
+      <title>Interview on Workspiration</title>
+      <link>https://laurakalbag.com/interview-on-workspiration/</link>
+      <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
+      <description>A few weeks ago I answered some questions for Workspiration on my hardware and software setup, inspiration and dreams.
+Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!</description>
+    </item>
+    
+    <item>
+      <title>Why Bother With Accessibility? on 24ways</title>
+      <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
+      <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
+      <description> My article for this year’s 24ways has been published today. I wrote “Why Bother With Accessibility?” after giving my Designing For Accessibility talks, and still coming up against the same excuses. I wanted to write something that could be a go-to for people trying to understand why designing for accessibility was worthwhile. Fingers crossed that this helps, because we can’t talk about accessibility enough!
+ 
+3 comments  </description>
+    </item>
+    
+    <item>
+      <title>Guest on Beyond Ink podcast</title>
+      <link>https://laurakalbag.com/guest-on-beyond-ink-podcast/</link>
+      <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/guest-on-beyond-ink-podcast/</guid>
+      <description>Yesterday the first episode of the Beyond Ink podcast went live. This was a podcast that Rachel had in the works for a while, and we first recorded together a few months ago. Last week we re-recorded that episode, so everything was up-to-date, and I had a fancy new microphone so I didn’t sound as terrible as I did on the last Unfinished Business.
+Rachel and I chatted about process, the type of work we like to do and inspiration, amongst other things.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at MKGN this Thursday</title>
+      <link>https://laurakalbag.com/speaking-at-mkgn/</link>
+      <pubDate>Mon, 02 Dec 2013 10:57:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-mkgn/</guid>
+      <description>This Thursday I’m speaking at Milton Keynes Geek Night. Tickets sold out terrifyingly quickly, but I put that down to MKGN always being a great event.
+I’m going to talk about self-discipline, it’s a new talk and so that makes me even more nervous than usual &#34; /</description>
+    </item>
+    
+    <item>
+      <title>Unfinished Business #44</title>
+      <link>https://laurakalbag.com/unfinished-business-44/</link>
+      <pubDate>Tue, 12 Nov 2013 18:22:41 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-44/</guid>
+      <description>Last week I was on Unfinished Business again! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…
+I’m also going to be on Unfinished Business more regularly. I always have fun chatting to Andy, and it’s a great excuse to pick his more experienced brains about business stuff.</description>
+    </item>
+    
+    <item>
+      <title>Including “ask me anything” in my contract</title>
+      <link>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</link>
+      <pubDate>Mon, 04 Nov 2013 10:14:44 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</guid>
+      <description>At Dare conference in September, I saw a great talk by Kevin Hoffman on “How To Rebuild Amidst Crisis.” I loved this talk, there was so much in it, but one thing struck me as something I could carry over into my work: Kevin said he included “ask any question and I’ll answer it” in his contract.
+This might seem like stating the obvious at first, but really there’s nothing obvious to a client who is new to you, and your process.</description>
+    </item>
+    
+    <item>
+      <title>Interviewed by The Learning People</title>
+      <link>https://laurakalbag.com/interviewed-by-the-learning-people/</link>
+      <pubDate>Thu, 31 Oct 2013 10:51:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interviewed-by-the-learning-people/</guid>
+      <description>The Learning People have posted an interview they did with me about women in the technology sector, working for myself, and what inspires me.</description>
+    </item>
+    
+    <item>
+      <title>Talking about building with Typecast</title>
+      <link>https://laurakalbag.com/talking-about-building-with-typecast/</link>
+      <pubDate>Thu, 24 Oct 2013 09:03:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/talking-about-building-with-typecast/</guid>
+      <description>Last November at Build conference 2012, I had fun talking to some of the folks from Typecast about building, web design, responsive design and type. They recorded these videos (along with a load of lovely, smart and cool people!) and made a nice collection that you can watch on their website.
+Typecast are also giving away a ticket to Build conference 2013 and some Typecast subscriptions. The draw closes tomorrow, so you’d better be quick!</description>
+    </item>
+    
+    <item>
+      <title>My Secret is Honesty talk video</title>
+      <link>https://laurakalbag.com/my-secret-is-honesty-talk-video/</link>
+      <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-secret-is-honesty-talk-video/</guid>
+      <description>The lovely people at Dare conference have released the video of my talk, My Secret is Honesty. It’s pretty much a longer, talk-version of my latest column on A List Apart, “Open for Business.”
+I’m not going to embed it here, because I want you to go to the website to watch it. The reason is that there’s loads of great talks on there, and in order to help support Dare conference for next year, they’re taking donations.</description>
+    </item>
+    
+    <item>
+      <title>Open for Business on A List Apart</title>
+      <link>https://laurakalbag.com/open-for-business/</link>
+      <pubDate>Thu, 17 Oct 2013 14:04:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-for-business/</guid>
+      <description>My second column for A List Apart, “Open for Business,” is now up. I wrote Open for Business as a follow-up to my Dare conference talk about honesty. It’s not the same as the full talk (and has been edited into a far better shape by Rose Weisburd) but is the essence of why I feel that being open works for my business.
+ 
+One comment ### Daniel Dogeanu  at 18:16pm</description>
+    </item>
+    
+    <item>
+      <title>I also pledge to be better</title>
+      <link>https://laurakalbag.com/i-also-pledge-to-be-better/</link>
+      <pubDate>Thu, 17 Oct 2013 07:28:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/i-also-pledge-to-be-better/</guid>
+      <description>This post was inspired by Faruk’s great post “I Pledge To Be Better (And I Hope You Do Too)” where he speaks about the continuing problems with discrimination and lack of diversity in tech, and how more people should speak up about these issues. Faruk rightly says we all have the power and responsibility to make things better. I believe that when we don’t speak out about discrimination, we’re almost causing as much damage as condoning discrimination.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at MobX Conference in Berlin</title>
+      <link>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</link>
+      <pubDate>Thu, 05 Sep 2013 17:05:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</guid>
+      <description>Next Friday I’m speaking at MobX Conference in Berlin about designing for accessibility, covering problems that affect many different types of screens and devices. It will be my first time in Germany, so I’m very excited!
+ 
+One comment ### Anna  at 10:34am
+ Hello there, I very much enjoyed your talk about accessibility at the mobXconference last friday. Is there any chance you can put your slides online?</description>
+    </item>
+    
+    <item>
+      <title>A List Apart column and first post on Good Designers, Good Clients</title>
+      <link>https://laurakalbag.com/a-list-apart-column/</link>
+      <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-list-apart-column/</guid>
+      <description>This week the first post was published on my A List Apart column. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.
+It’s good fun and a proper challenge having an editor working with me. I’ve already learned a lot, and I hope to be slightly less hopeless at writing clearly as the months go by…</description>
+    </item>
+    
+    <item>
+      <title>No more Red Bull</title>
+      <link>https://laurakalbag.com/no-more-red-bull/</link>
+      <pubDate>Tue, 27 Aug 2013 09:00:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/no-more-red-bull/</guid>
+      <description>Using a Fitbit over the last year and a half has taught me that making your habits more visible in public makes you more likely to work harder. When you’re giving up a bad habit, often there’s not much stopping us from slipping back into the bad habits. So I am writing here, on Tuesday 27th August 2013 that I am giving up Red Bull.
+It sounds ridiculous, but I have a problem</description>
+    </item>
+    
+    <item>
+      <title>Guest on Happy Monday Podcast</title>
+      <link>https://laurakalbag.com/guest-on-happy-monday-podcast/</link>
+      <pubDate>Mon, 19 Aug 2013 08:26:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/guest-on-happy-monday-podcast/</guid>
+      <description>Last Friday I was a guest for today’s Happy Monday podcast. It was great fun chatting with Josh and Sarah about design, client work and inspiration.</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web, a workshop</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop/</link>
+      <pubDate>Mon, 12 Aug 2013 10:18:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop/</guid>
+      <description>Here’s a slightly scary thing: I’m doing my first solo workshop on the 11th October 2013 in Barnsley.
+I often get asked about the best way to “learn design”, and I usually say that you learn by doing and you learn by watching how others do it. In this workshop, I want to give new designers, developers, and anybody else wanting to learn how to design for the web, a good foundation with five primers, a bit of doing and a bit of watching.</description>
+    </item>
+    
+    <item>
+      <title>Podcast interview with Jonathan Kahn</title>
+      <link>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</link>
+      <pubDate>Fri, 09 Aug 2013 08:52:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</guid>
+      <description>Ahead of speaking at Dare conference this September, I was interviewed by Jonathan Kahn, one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.
+It was lovely chatting to Jonathan, and his podcast also has a proper transcript if you’re more of a reading person than a listening person :)</description>
+    </item>
+    
+    <item>
+      <title>Browser windows and responsive language</title>
+      <link>https://laurakalbag.com/browser-windows/</link>
+      <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/browser-windows/</guid>
+      <description>In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.
+“Devices” It started out with talking about devices. “This design will use X on a mobile phone, Y on a tablet and Z on a desktop computer.” Then it seemed that, as a web community, we realised that the lines between these devices were fairly blurry.</description>
+    </item>
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+    <item>
+      <title>Web talk dog walk, the site</title>
+      <link>https://laurakalbag.com/web-talk-dog-walk-the-site/</link>
+      <pubDate>Thu, 25 Jul 2013 17:56:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-talk-dog-walk-the-site/</guid>
+      <description>I’ve finally made a site for the web talk dog walks! It may be a small site, and is probably very broken in places, but it was a fun mini project and worked well as a case study for my Sass for designers talk.
+It also makes use of Perch, that wonderful little content management system. I really would recommend it.
+ 
+One comment ### Richelle Cortis  at 16:10pm</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Dare conference</title>
+      <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
+      <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
+      <description>I’m speaking as a ‘Breakout’ speaker at Dare conference in September. As soon as I saw the rumblings of this conference, I knew it was an event I wanted to attend. It’s focusing on risk, vulnerability, communication and trying to make the world a better place.
+Then I realised that I actually had an idea for a talk that could work for this event. I’d wanted to talk about my openness and honesty online, and how it affects my business.</description>
+    </item>
+    
+    <item>
+      <title>Fonts.com mockup fonts</title>
+      <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
+      <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
+      <description>I do like the way that fonts.com do web fonts. (I also like all of the web font services for different reasons and different projects.)
+Mockup fonts Fonts.com have this new system that really works. It involves an app called SkyFonts. This allows you to try out different fonts in your desktop mockups as rentals. Great for static mockups of web designs. You choose the fonts you want on the fonts.</description>
+    </item>
+    
+    <item>
+      <title>Interview in Allan McAvoy’s Freelancers series</title>
+      <link>https://laurakalbag.com/interview-in-freelancers-series/</link>
+      <pubDate>Tue, 02 Jul 2013 09:00:11 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-in-freelancers-series/</guid>
+      <description>Last week Allan McAvoy posted up the interview he did with me as part of his Freelancers series. Some of the questions are fairly standard, but there’s also some unusual ones like “favourite colour for design” and “typical day in the life…”
+ 
+## One comment  ### David Griffiths  at 23:44pm
+ “transparentize” –; I love you –; thought I was stuck with rgba too! And if only I lived on the South Coast my 2 labs would love a walk in your park.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring Q and A on .net magazine</title>
+      <link>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</link>
+      <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</guid>
+      <description>After finishing the mentoring project last week, I had a chat with Craig Grannell about mentoring which he published on the .net website: “Laura Kalbag: web designers should mentor newcomers.”
+It’s a good summary of the mentoring project and has extracts from a couple of testimonials by Sibylle and Phil.</description>
+    </item>
+    
+    <item>
+      <title>Web talk dog walk II</title>
+      <link>https://laurakalbag.com/web-talk-dog-walk-2/</link>
+      <pubDate>Thu, 27 Jun 2013 09:29:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-talk-dog-walk-2/</guid>
+      <description>The last web talk dog walk was a success, with three of us (plus three dogs) taking in the slightly damp wilds of Sheepcote Valley. Now for the next one!
+I was originally planning on making them fortnightly but have already failed as I wasn’t organised enough to sort one out this week. This means the next Web talk dog walk will be:
+9am on Wednesday 3rd July 2013 Meeting at the same spot on the corner of Wilson Avenue and Roedean Road planning to walk for an hour or so (maybe slightly longer if I continue navigating badly) in East Brighton Park/Sheepcote valley.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring: the evaluation</title>
+      <link>https://laurakalbag.com/mentoring-the-evaluation/</link>
+      <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-the-evaluation/</guid>
+      <description>Previous posts on the mentoring project:
+ Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people Mentoring a project: the project Mentoring a project: contract and kicking off  It’s been four months since we started the mentoring project and now it’s drawing to a close.
+It’s been very different from what I expected, I didn’t realise I’d learn so much just through explaining to Sibylle, Yago and Phil what I do and why I do it.</description>
+    </item>
+    
+    <item>
+      <title>The Critters 2013</title>
+      <link>https://laurakalbag.com/the-critters-2013/</link>
+      <pubDate>Fri, 14 Jun 2013 19:25:35 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-critters-2013/</guid>
+      <description>After winning the .net award two weeks ago, I really wasn’t expecting to win another award. Last night at a fun black tie, storybook-themed ubelly Critters awards, I won Next Big Thing.
+ 
+Like before, I really wasn’t expecting it and made another bad speech, swore a little (I’m sorry!) and almost walked off without having my photo taken. I think you can tell I’m not used to this kind of thing…</description>
+    </item>
+    
+    <item>
+      <title>Fl&amp;#42;t design trend</title>
+      <link>https://laurakalbag.com/flat-design-trend/</link>
+      <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flat-design-trend/</guid>
+      <description>I’m about to apply a mute filter to the word “flat” on Twitter. That or start unfollowing a lot of people.
+What’s flat? There’s an aesthetic “trend” that’s been around for a while. It involves fewer gradients and textures and has thus been described as “flat” design. It’s often described as the opposite of “skeuomorphism,” (which is an equally irritating word when used in this way.) It was popularised by Windows Metro&amp;nbsp;and, being an aesthetic associated with fewer images, and thus better performance and more flexibility in the development of interfaces, has been a feature of many designs in both apps and on the web.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Untangle the Web</title>
+      <link>https://laurakalbag.com/speaking-at-untangle-the-web/</link>
+      <pubDate>Mon, 10 Jun 2013 11:09:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-untangle-the-web/</guid>
+      <description>Nothing quite like a last-minute post… Tonight I’m speaking at Untangle the Web at Google Campus in London. I’m doing a talk on Design Theory for the Web where I do a whistle-stop tour through designing with typography, grids and colour on the web.
+I also have a stinking cold so I’m going to be taking industrial quantities of Red Bull and a quarantine zone with me.</description>
+    </item>
+    
+    <item>
+      <title>Web talk dog walk</title>
+      <link>https://laurakalbag.com/web-talk-dog-walk/</link>
+      <pubDate>Sun, 09 Jun 2013 16:13:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-talk-dog-walk/</guid>
+      <description>I walk my dog Oskar every day, no matter what the weather. And usually it’s just him and me. So I’ve got this idea. A “web talk dog walk” where a group of us from the Brighton area can meet on a regular basis (probably fortnightly, maybe monthly) to walk dogs and chat about the web. Do you want to join us?
+The first walk is 9am this Wednesday 12th June 2013 The best place to walk in the area (and conveniently near to where we live is East Brighton Park/Sheepcote valley.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at LXJS in Portugal</title>
+      <link>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</link>
+      <pubDate>Sat, 08 Jun 2013 09:10:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</guid>
+      <description>I’m really looking forward to October, where I get to return to Portugal to speak at LXJS in Lisbon.
+One of the reasons I jumped at the chance to speak at LXJS was their fantastic Code of Conduct. After hearing some horror stories from other women speakers, I wish more conferences had this sort of approach. It’s friendly, not strict, and lets everybody know where they stand.
+The tickets are incredibly reasonable for a two-day event, and it looks like Lisbon is well-worth a holiday so a conference there is a bonus!</description>
+    </item>
+    
+    <item>
+      <title>#define 2013</title>
+      <link>https://laurakalbag.com/define-2013/</link>
+      <pubDate>Fri, 07 Jun 2013 11:24:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/define-2013/</guid>
+      <description>Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.
+It’s an event aimed at improving diversity in computing and I’m really proud to be speaking. I’m going to talk about a day in the life of a web designer/developer in the hope that I can share the variety involved in this kind of work and how rewarding and fun this job can be.</description>
+    </item>
+    
+    <item>
+      <title>.net awards 2013</title>
+      <link>https://laurakalbag.com/netmag-awards-2013/</link>
+      <pubDate>Sun, 02 Jun 2013 09:32:12 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/netmag-awards-2013/</guid>
+      <description>Last Friday, this happened. I really didn’t expect it; I tripped over on the way up to the stage and mumbled through a thank you while the microphone was mostly switched off. Despite being clumsy and totally inarticulate, I was delighted. It didn’t just make my day, it made my year :)
+ 
+3 comments ### Lucas  at 01:20am
+ Congratulations, Laura! You deserved it!   ### enrico  at 12:01pm</description>
+    </item>
+    
+    <item>
+      <title>Guest co-host on Unfinished Business II</title>
+      <link>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</link>
+      <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</guid>
+      <description>Last Friday I was a guest co-host on Unfinished Business again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.
+I’m a massive fan of Unfinished Business and listen to every episode so it was a real treat to go back again. Thank you for inviting me, Andy!
+ 
+Oh, and one more thing: Slide + Stage One of the sponsors this week was Slide + Stage, a full-day intensive masterclass with Aral Balkan.</description>
+    </item>
+    
+    <item>
+      <title>Sass For Designers at CSS Summit 2013</title>
+      <link>https://laurakalbag.com/css-summit-2013/</link>
+      <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/css-summit-2013/</guid>
+      <description>I’m speaking at CSS Summit 2013 about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)
+There’s a huge amount of expert speakers across three days, with a day each dedicated to CSS3 Training, Advanced CSS and Preprocessors. I’m on the third day, covering the basics of Sass with ‘Sass for Designers’. The other talks on that day will cover Sass in more depth, with case studies and more advanced techniques, so I’m hoping to provide a useful introduction for those of us who are less familiar with programming.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring a project: contract and kicking off</title>
+      <link>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</link>
+      <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</guid>
+      <description>Previous posts on the mentoring project:
+ Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people Mentoring a project: the project  It’s been far too long since I wrote about the mentoring project. I’ve been incredibly busy and really needed to dedicate more time to make it a success (more about that in another post!)
+Last time I wrote about the project, we had just started to get the contract sorted.</description>
+    </item>
+    
+    <item>
+      <title>Psychology for designers</title>
+      <link>https://laurakalbag.com/psychology-for-designers/</link>
+      <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/psychology-for-designers/</guid>
+      <description>This week I went all out and bought all the currently-released Five Simple Steps Pocket Guide digital books. I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
+ 
+I started reading with Psychology for designers by Joe Leech first.</description>
+    </item>
+    
+    <item>
+      <title>Learning to speak</title>
+      <link>https://laurakalbag.com/learning-to-speak/</link>
+      <pubDate>Thu, 11 Apr 2013 17:46:03 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/learning-to-speak/</guid>
+      <description>Just over a year ago, I was in a country I’d never visited, about to give two talks I’d never given before to two large, paying audiences in the space of three days at Future Insights Live. I had only given a couple of talks to small audiences before. It was one of the scariest things I’d ever done.
+A helping hand I’d seen Aral Balkan speak a few times before.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Day Out</title>
+      <link>https://laurakalbag.com/responsive-day-out/</link>
+      <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-day-out/</guid>
+      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
+After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+    </item>
+    
+    <item>
+      <title>Guest co-host on Unfinished Business</title>
+      <link>https://laurakalbag.com/guest-co-host-on-unfinished-business/</link>
+      <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
+      <description>Last week I was guest co-host on one of my most favourite podcasts, Unfinished Business. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
+We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.</description>
+    </item>
+    
+    <item>
+      <title>Alfred App v2 theme</title>
+      <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
+      <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
+      <description>Today I finally got around to playing with Alfred v2. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
+I was playing around with the appearance and made a really minimal theme.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Breaking Borders</title>
+      <link>https://laurakalbag.com/speaking-at-breaking-borders/</link>
+      <pubDate>Fri, 29 Mar 2013 16:01:21 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-breaking-borders/</guid>
+      <description>Next month I’m speaking at Breaking Borders. Breaking Borders is a brand new, totally free, bi-monthly event in Reading organised by my good friend, Ben MacGowan.
+The inaugural Breaking Borders event will have the lovely Steve Workman speaking about Front-end web architectures that won’t bite you (in the ass) and me speaking about design systems.
+If you’re in the area, I really recommend you join us. If Ben’s events are anything like his front-end development skills, it’s going to be great!</description>
+    </item>
+    
+    <item>
+      <title>Ladies In Tech</title>
+      <link>https://laurakalbag.com/ladies-in-tech/</link>
+      <pubDate>Tue, 26 Mar 2013 14:15:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/ladies-in-tech/</guid>
+      <description>A while ago, Jeremy Keith introduced me to ladiesintech.com, suggesting that it might be something that’d interest me. After having a chat with the lovely Jenn Lukas over email, I had a story that I wanted to share about my adventures in speaking, and Jenn has now helped me share it on the site.
+This was the first time I’ve ever had anybody edit my writing. I’ve had other people proof-read and check my writing for mistakes, but never changing that much (despite often needing it!</description>
+    </item>
+    
+    <item>
+      <title>Interviewed on The Industry</title>
+      <link>https://laurakalbag.com/interviewed-on-the-industry/</link>
+      <pubDate>Thu, 14 Mar 2013 07:36:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interviewed-on-the-industry/</guid>
+      <description>Last week I had a chat with the lovely Conor O’Driscoll and last night he published the interview on The Industry. We talking about design work, education and what I define as success, among other things.
+ </description>
+    </item>
+    
+    <item>
+      <title>Burnout</title>
+      <link>https://laurakalbag.com/burnout/</link>
+      <pubDate>Tue, 12 Mar 2013 20:41:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/burnout/</guid>
+      <description>Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you want to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.
+I’m burned out. The last couple of months have really taken their toll.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring a project: the project</title>
+      <link>https://laurakalbag.com/mentoring-the-project/</link>
+      <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-the-project/</guid>
+      <description>Previous posts on the mentoring project:
+ Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people  In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.</description>
+    </item>
+    
+    <item>
+      <title>Nothing to display podcast</title>
+      <link>https://laurakalbag.com/nothing-to-display-podcast/</link>
+      <pubDate>Sat, 02 Mar 2013 17:43:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/nothing-to-display-podcast/</guid>
+      <description>Last week I had a lovely chat with El for her Nothing To Display podcast. We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.</description>
+    </item>
+    
+    <item>
+      <title>Why I love Unfinished Business</title>
+      <link>https://laurakalbag.com/why-i-love-unfinished-business/</link>
+      <pubDate>Mon, 25 Feb 2013 17:48:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-i-love-unfinished-business/</guid>
+      <description>I know, this is a funny topic on which to base a blog post but I love the Unfinished Business podcast, and I’d like to elaborate why in something more than a few fawning tweets.
+Business, but not suits Business doesn’t feel like the right word to describe what I do. It’s a hobby that makes me enough money to support myself. The word ‘business’ conjures up images of suits, handshakes and networking.</description>
+    </item>
+    
+    <item>
+      <title>Upfront Podcast</title>
+      <link>https://laurakalbag.com/upfront-podcast/</link>
+      <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/upfront-podcast/</guid>
+      <description>I was a guest on the Upfront podcast with the lovely Jack Franklin and Ben Howdle. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can listen on their website, or listen and subscribe on iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Design Feast Designer’s Quest(ionnaire)</title>
+      <link>https://laurakalbag.com/design-feast-designers-questionnaire/</link>
+      <pubDate>Thu, 14 Feb 2013 08:51:34 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-feast-designers-questionnaire/</guid>
+      <description>Design Feast have my answers to their Designer’s Quest(ionnaire) on their site.
+Scroll past the scarily large photo of me quickly… their questions prompted me to think about some interesting points, especially challenges for designers:
+ What are some of the challenges you encounter as a designer and how do you deal with them?
+I think the greatest challenge a designer comes across is their own ego. It’s in our nature, as those that deal in creativity, we have egos that allow us to consider our work good enough to share, and good enough for clients to pay us.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring a project: finding the right people</title>
+      <link>https://laurakalbag.com/mentoring-a-project-finding-the-right-people/</link>
+      <pubDate>Mon, 11 Feb 2013 10:54:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-a-project-finding-the-right-people/</guid>
+      <description>We’ve got a project! I’ll elaborate on the details of the project in a future post, but the importance of having a project was that it’s allowed me to choose the designers/developers who could get something out of being mentees. I didn’t want to do this before securing the right project as I needed to know what I was looking for in a mentee.
+Finding the right mentee for the job This has been one of the hardest decisions I’ve ever had to make.</description>
+    </item>
+    
+    <item>
+      <title>Using emoji in Mail.app to make better visual indicators</title>
+      <link>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</link>
+      <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</guid>
+      <description>After reading this brilliant Mac App Storm post on Turning Mail.app Into the Best Mac Email App, I was inspired to follow a lot of the tips to make my emails easier to handle.
+I made three Smart Mailboxes, following the tips I chose:
+ ‘Follow Up’ which contains emails flagged with a green flag, using the shortcut of ⌘⇧g ‘Needs Reply’ which contains emails flagged with a blue flag, using the shortcut of ⌘⇧b ‘Needs Attention’ which contains emails flagged with a red flag, using the shortcut of ⌘⇧r  The benefit of using the red flag for ‘Needs Attention’ as a way of noting emails which need organising into either of the other smart mailboxes is that Mail.</description>
+    </item>
+    
+    <item>
+      <title>The East Wing podcast</title>
+      <link>https://laurakalbag.com/the-east-wing-podcast/</link>
+      <pubDate>Wed, 06 Feb 2013 09:23:20 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-east-wing-podcast/</guid>
+      <description>Yesterday I was a guest on Tim Smith‘s The East Wing podcast. It was a pre-recorded conversation and it was great fun. You can listen to it on the East Wing website, and it’ll be up on iTunes soon.
+We discussed how I got started in the industry (really sorry traditional Graphic Design people, I may have generalised a bit…), speaking at conferences, women in the industry and mentoring.
+As I said last night on Twitter, Tim Smith is such a great guy.</description>
+    </item>
+    
+    <item>
+      <title>Women and conferences</title>
+      <link>https://laurakalbag.com/women-and-conferences/</link>
+      <pubDate>Mon, 04 Feb 2013 21:39:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/women-and-conferences/</guid>
+      <description>I used to not understand the fuss around women at conferences, I thought that we should all just carry on with what we were doing well already and not get caught up in needless controversy. I even wrote a blog post saying exactly that a couple of years ago. I’d never experienced (to my knowledge) any difficulties because I was a woman.
+A bit uncomfortable But then I started hearing more about/was exposed to women who did have bad experiences.</description>
+    </item>
+    
+    <item>
+      <title>Live-designing WordPress Admin Icons</title>
+      <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
+      <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
+      <description>A while ago I wrotea post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
+  The final calendar icons (as designed quickly in 30 minutes or so)   The WordPress London guys kindly filmed my talk and I’ve included it below.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring a project: the right project</title>
+      <link>https://laurakalbag.com/mentoring-a-project-the-right-project/</link>
+      <pubDate>Fri, 01 Feb 2013 15:59:34 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-a-project-the-right-project/</guid>
+      <description>This post is an update on my mentoring project idea.
+Finding the right project If you follow me on Twitter, you might have seen that I’m now looking for a different project to work on. Whilst the previous project I had in mind would have been great fun, the client had a very tight deadline. I didn’t want to push that pressure on to students and freelancers who are likely to have other work they need to do in order to pass their studies or pay the bills.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring a project: the idea</title>
+      <link>https://laurakalbag.com/mentoring-a-project-the-idea/</link>
+      <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
+      <description>A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.
+Me and freelancing I’m lucky, I get offered a lot of projects, and usually I don’t have any availability for a few months. Little projects like this generally can’t pay the bills for me. It’s a lot of time (particularly admin) for a fairly small return.</description>
+    </item>
+    
+    <item>
+      <title>The Sharers on The Branch</title>
+      <link>https://laurakalbag.com/the-sharers-on-the-branch/</link>
+      <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-sharers-on-the-branch/</guid>
+      <description>I’ve written a post over on The Branch.
+ James Dinsdale emailed me about a new project he was starting out, called The Branch, a site collecting posts about what inspires people. I love these kinds of posts, so I was really keen to be involved.
+As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘inspiration’ is often described as particular styles of design and the work of individual designers.</description>
+    </item>
+    
+    <item>
+      <title>A loveletter</title>
+      <link>https://laurakalbag.com/a-loveletter/</link>
+      <pubDate>Tue, 15 Jan 2013 12:04:03 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-loveletter/</guid>
+      <description>Note: I wrote this a while ago when I was thinking about the things that made me want to work on the web. Of course, it’s not exclusively women that inspire me, but as a girl who continually questions the value she is bringing to a project, I often find the women of the web had the greatest effect on my self assurance. I wrote this in my notebook in a fit of fury&amp;nbsp;after witnessing some upsetting trolling towards a couple of women on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>New To Design</title>
+      <link>https://laurakalbag.com/new-to-design/</link>
+      <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/new-to-design/</guid>
+      <description>Following my learning design post, I’ve started a little project called “new to design.” At the moment it just consists of a learn-design tag on my Pinboard bookmarks and a Twitter account @newtodesign so that I can share useful design resources (especially for those new to design.)
+In the future, I hope it can be useful in other ways. Any suggestions or anything you want to see? You know how to get in touch…  </description>
+    </item>
+    
+    <item>
+      <title>Grid Frameworks and why I’m not keen on them…</title>
+      <link>https://laurakalbag.com/grid-frameworks/</link>
+      <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grid-frameworks/</guid>
+      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
+After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
+I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+    </item>
+    
+    <item>
+      <title>My 2012</title>
+      <link>https://laurakalbag.com/my-2012/</link>
+      <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2012/</guid>
+      <description>2012 has been a massive year for me. It was a year of saying yes to things that scared me. It was the first time I spoke at a conference (and I went on to speak at a further seven events.) I found the first house I’ve lived in by myself. I travelled to as many countries in one year as I had done in my whole life so far.</description>
+    </item>
+    
+    <item>
+      <title>Learning Design</title>
+      <link>https://laurakalbag.com/learning-design/</link>
+      <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/learning-design/</guid>
+      <description>Every now and again someone will email me asking how they should go about learning design. After reading Aral Balkan’s fantastic post on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
+First off, read Aral’s post.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers — The Setup</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
+      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+Of course, all of this can be done with the command line and other terrifying tools.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers</title>
+      <link>https://laurakalbag.com/sass-for-designers/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers/</guid>
+      <description>Despite saying that I wanted to avoid writing post about development, I wanted to write something about Sass.
+Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of short-hand that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try my post on Sass for Designers — The Setup.</description>
+    </item>
+    
+    <item>
+      <title>We read with our own contexts</title>
+      <link>https://laurakalbag.com/we-read-with-our-own-contexts/</link>
+      <pubDate>Tue, 18 Dec 2012 14:40:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/we-read-with-our-own-contexts/</guid>
+      <description>Oh Twitter. Yesterday was another day where I accidentally incited another riot with a poorly-worded tweet. Nobody is perfect, but it’s starting to happen with alarming frequency, and I wanted to understand why I keep doing this.
+The ever-present ego We read everything through our own ego filter. It’s how we apply new knowledge to our own situations. Whenever we read a tweet, blog post, article, book, watch a TV show, a film, a play, we take in what we’re reading and hearing and apply it to ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at the WordPress London January meetup</title>
+      <link>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</link>
+      <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</guid>
+      <description>I’m speaking at the WordPress London January meetup on the 17th of January 2013.
+I’ve been using WordPress for years, for my own site and for client sites, and I really love it. I had absolutely no idea what to talk about though. I tend to create custom themes for clients, but these are very different from themes designed for use by many different sites, and so I wasn’t sure whether my experience would be relevant to many people.</description>
+    </item>
+    
+    <item>
+      <title>24 Ways: Design Systems</title>
+      <link>https://laurakalbag.com/24-ways-design-systems/</link>
+      <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
+      <description>I’ve been thinking a lot about the design in ‘responsive’ design lately. My post on 24ways is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.</description>
+    </item>
+    
+    <item>
+      <title>Bardowl: The Big One</title>
+      <link>https://laurakalbag.com/bardowl-the-big-one/</link>
+      <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
+      <description>For the last few years, I’ve been working with a great team of people on our iPhone app, Bardowl, an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)
+It’s not been a quick and easy. Getting publishers to come round to the idea, and securing good audiobooks, has been a lengthy process but we’ve been lucky to have people who really know what they’re talking about behind the scenes.</description>
+    </item>
+    
+    <item>
+      <title>Reinvention and Building Ourselves — Build 2012</title>
+      <link>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</link>
+      <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</guid>
+      <description>I’ve posted a writeup of Build conference 2012 on ubelly.
+Oddly, I’ve not found any other writeups from Build, which may be because (as I mention in my post) the talks weren’t those sound-bite talks that give quick take away tips. If anyone does come across any, please point me in the right direction as I’d love to see how other people approached the wide-ranging stories!</description>
+    </item>
+    
+    <item>
+      <title>Insites Xmas Special—Integrity and Polarity</title>
+      <link>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</link>
+      <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</guid>
+      <description>Yesterday was Insites: The Xmas Special, a brilliant event put on by the lovely Keir Whitaker and Elliot Jay Stocks. After being well fed, everybody in the room gave a six minute(ish) talk about something they’ve learned in 2012.
+It was a personal, open and incredibly meaningful set of talks. There were no slides, and nobody in the room was sat behind a laptop or Twitter. The conversations that ensued afterwards were greater than anything you’d get at any big conference.</description>
+    </item>
+    
+    <item>
+      <title>display: none;</title>
+      <link>https://laurakalbag.com/display-none/</link>
+      <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/display-none/</guid>
+      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
+display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+    </item>
+    
+    <item>
+      <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
+      <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
+      <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
+      <description>I bought Jonathan Snook’s Scalable and Modular Architecture for CSS five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
+ SMACSS book cover   Last month I was lucky enough to see Jonathan speak about State-Based Design (a concept which he covers in SMACSS) at theFromTheFront conference and it reminded me to put the book at the top of my to-read pile.</description>
+    </item>
+    
+    <item>
+      <title>My favourite apps—fit for purpose</title>
+      <link>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</link>
+      <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</guid>
+      <description>After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.
+Tweet A few people asked what I thought the alternatives are, so I thought it might be time to write a post about it.
+Photoshop and Illustrator, why not? I’ve been suffering Adobe software for a long time. Since Adobe Photoshop was introduced to me as ‘the industry standard’ when I was at college learning basic photo manipulation, it’s been in my life.</description>
+    </item>
+    
+    <item>
+      <title>CreativeJS for non-coders workshop with Seb Lee-Delisle</title>
+      <link>https://laurakalbag.com/creativejs-for-non-coders/</link>
+      <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
+      <description>Programming block I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be really really good at HTML first, and then CSS and then JavaScript, but I somehow always stopped short of actually learning JavaScript properly.</description>
+    </item>
+    
+    <item>
+      <title>Grids, flexibility and responsiveness</title>
+      <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
+      <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
+      <description>First steps: choosing a typeface The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?</description>
+    </item>
+    
+    <item>
+      <title>Really, a redesign? This can’t be real…</title>
+      <link>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</link>
+      <pubDate>Tue, 09 Oct 2012 07:00:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</guid>
+      <description>It’s about time… So finally I’ve redesigned my website. It’s been about three and a half years since the last version of laurakalbag.wpengine.com (still around at http://2009.laurakalbag.wpengine.com) and that’s a site I designed before I finished university, before I even started freelancing full time. To be fair, it took a while for me to hate it (not that usual kind of as-soon-as-it’s-launched-I-hate-it problem us designers often have) but that’s far too long for a portfolio site to be hanging around.</description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Designing with Data</title>
+      <link>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</link>
+      <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
+      <description>Another ubelly post from me, this time a review. Much like my other reviews of books on this blog, just in another location!
+A Practical Guide to Designing with Data</description>
+    </item>
+    
+    <item>
+      <title>Six months of the Fitbit (and the new Fitbit Aria)</title>
+      <link>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</link>
+      <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</guid>
+      <description>Skip to the main review!
+The backstory I’m a fit and healthy person. Probably not your typical work-from-home desk-based screen-faced designer. I go to the gym 4 to 6 times a week, walk my dog every day, I eat fairly healthily and I’m a good weight.
+I wasn’t always though. I’m not pretending I was massively fat, but after leaving university three years ago, I’d got some really bad habits (two cans of Relentless a day, anyone?</description>
+    </item>
+    
+    <item>
+      <title>Typography and the web at Ampersand Conference</title>
+      <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
+      <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
+      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
+This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
+Typography and the web at Ampersand conference</description>
+    </item>
+    
+    <item>
+      <title>Don’t let the technical processes of web development stifle your imagination</title>
+      <link>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</link>
+      <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
+      <description>A new post from me, this time at .net magazine. Keep it creative! There’s some pretty cool comments over there too.</description>
+    </item>
+    
+    <item>
+      <title>Will understanding the mainstream affect me as a designer?</title>
+      <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
+      <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
+      <description>I’ve been contemplating how designers can identify better with more mainstream users.
+I had a thought last week. What if, by rejecting Facebook, I’m actually missing out on design patterns that are so influential on the mainstream user that it affects their perception on the rest of the web?
+And the same goes for Google Chrome. I’ve been going through a rebellious anti-Google phase, but now Chrome has taken over as the world’s most popular browser, am I making life harder for myself by developing sites in Safari first?</description>
+    </item>
+    
+    <item>
+      <title>Craft and Care: Future Of Web Design 2012</title>
+      <link>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</link>
+      <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</guid>
+      <description>I’ve written up my digest of Future Of Web Design 2012 over at the ubelly blog.
+For those who want more of a blow-by-blow account of the day, I’ve compiled all of my live tweets (and retweets) from the day in a Storify feed.
+http://storify.com/laurakalbag/laura-kalbag-s-fowd-tweets</description>
+    </item>
+    
+    <item>
+      <title>Critiques, giving and receiving useful feedback</title>
+      <link>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</link>
+      <pubDate>Mon, 14 May 2012 09:09:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</guid>
+      <description>Funnily enough, a couple of days before Mark Boulton said to critique design effectively.&amp;quot; says Mark Boulton on Twitter&amp;rdquo;) and wrote his piece on design critiques, I’d been thinking about that same topic. I’ve been struggling through an iPhone app icon design, and had asked Twitter for help. I&amp;rsquo;ve got an app icon design that needs some criticism as I&amp;rsquo;ve lost sight of it. Anyone free to give me some time via email today?</description>
+    </item>
+    
+    <item>
+      <title>Solving problems with naïvety</title>
+      <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
+      <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
+      <description>Last week I was at the wonderful Future Insights Live conference in Las Vegas. Annoyingly as I was speaking twice (that bit wasn’t annoying, it was fun!) I missed a load of talks, but had some fantastic discussions around some particularly interesting topics.
+The topic of naïvety in user experience first came up in Aral Balkan’s brilliant opening keynote, but using it as an approach it was an ongoing theme through the week, summed up by Josh Clark:</description>
+    </item>
+    
+    <item>
+      <title>New Adventures in Web Design 2012</title>
+      <link>https://laurakalbag.com/new-adventures-in-web-design-2012/</link>
+      <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/new-adventures-in-web-design-2012/</guid>
+      <description>My digest post about New Adventures in Web Design conference –; The Job, The Process and Creativity –; NAConf 2012 is now up on uBelly.
+I’m now on board with uBelly to cover conferences and other webby stuff. This post is very much the same style as my previous digest posts, but on a different site.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First</title>
+      <link>https://laurakalbag.com/mobile-first/</link>
+      <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mobile-first/</guid>
+      <description>Continuing on with my chapter-a-day, last week I finished reading the brilliant Mobile First by Luke Wroblewski.
+ Mobile First by Luke Wroblewski   Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!</description>
+    </item>
+    
+    <item>
+      <title>Designing For Emotion</title>
+      <link>https://laurakalbag.com/designing-for-emotion/</link>
+      <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/designing-for-emotion/</guid>
+      <description>I bought Designing For Emotion as part of the A Book Apart deal, alongside Mobile First. After listening to Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.</description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Designing the invisible</title>
+      <link>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</link>
+      <pubDate>Tue, 01 Nov 2011 08:27:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</guid>
+      <description>After reading Mark Boulton’s A Practical Guide to Designing For The Web and Andy Clarke’s Hardboiled Web Design, I was keen to read another Five Simple Steps’ design book. Robert Mills’ A Practical Guide to Designing the invisible definitely didn’t disappoint.
+ A Practical Guide to Designing the invisible by Robert Mills   It took me a few reads to start getting into it. I haven’t been dedicating enough time to reading lately, so when I did it was stop-start and not concentrating properly, so I’ve decided to read a chapter a day.</description>
+    </item>
+    
+    <item>
+      <title>dConstruct 2011 — My Digest</title>
+      <link>https://laurakalbag.com/dconstruct-2011-my-digest/</link>
+      <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
+      <description>It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.
+The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.</description>
+    </item>
+    
+    <item>
+      <title>Insites Tour Brighton</title>
+      <link>https://laurakalbag.com/insites-tour-brighton/</link>
+      <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
+      <description>Insites is a mini tour of four cities in the UK where Keir Whitaker and Elliot Jay Stocks present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where Aral Balkan, Sarah Parmenter and Jeremy Keith were the guests.
+The Format The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design</title>
+      <link>https://laurakalbag.com/responsive-web-design/</link>
+      <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-web-design/</guid>
+      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
+ Responsive Web Design by Ethan Marcotte  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+    </item>
+    
+    <item>
+      <title>Notes from Ampersand conference — My Digest</title>
+      <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
+      <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
+      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
+And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+    </item>
+    
+    <item>
+      <title>Notes from Ampersand conference — Actual Notes</title>
+      <link>https://laurakalbag.com/notes-from-ampersand-conf/</link>
+      <pubDate>Wed, 22 Jun 2011 09:26:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/notes-from-ampersand-conf/</guid>
+      <description>For those who wanted my notes in an undigested, scatterbrained form, here’s images from my notebook. (My digest is available too.)
+I’m a mind-mapping fiend, so I try to link with arrows where I can. Where new points were begun I just moved to another space on the page, so forgive the random appearance! There’s not much point apologising for my bad handwriting, I can’t really help that (all caps is a pretty dodgy habit) but there are some points, notably during Jonathan Hoefler’s talk, where the lights were low so it’s particularly illegible there&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Labels in input fields aren’t such a good idea</title>
+      <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
+      <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
+      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
+Example:
+ a form field where the label is shown inside the text input field   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
+      <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
+      <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
+      <description>Day Two Ethan Marcotte –; Responsive Web Design Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet
+Tweet Femi T Adesina –; Enhancing your Creativity I mis-hastagged the first tweet!
+Tweet Tweet Tweet Tweet Tweet Tweet
+Tweet Josh Clark –; Buttons Are a Hack: The New Rules of Designing for Touch Tweet Tweet Tweet Tweet
+My thoughts at this point: Tweet Tweet Tweet Tweet
+Josh Clark –; Buttons Are a Hack: The New Rules of Designing for Touch continued&amp;#8230; Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
+      <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
+      <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
+      <description>A few people have recommended that I post all the tweets summarising the great talks at Future Of Web Design in a blog post. So here it is!
+Day One Aarron Walter –; Transforming Ideas into Interfaces I arrived late for Aarron’s talk so it took me a while to engage properly.
+Tweet
+Tweet Mike Kus –; Designing for Humans Tweet Tweet Tweet Tweet Tweet
+Tweet Ian Stewart –; Power Your Design With WordPress Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Review</title>
+      <link>https://laurakalbag.com/fowd-2011-the-review/</link>
+      <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-the-review/</guid>
+      <description>Another great event from Carsonified, I really enjoyed Future Of Web Design this year.
+The Cost I was actually really lucky to get a ticket. I seriously couldn’t afford the £714 2-day conference pass, even at the super early bird rate (that was about £200 less, I can’t remember exactly.) My lovely friend Scott Coello had done the amazing motion graphics for the conference and very kindly gave me his spare ticket.</description>
+    </item>
+    
+    <item>
+      <title>Yeah, so what if I live-tweet at conferences?</title>
+      <link>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</link>
+      <pubDate>Wed, 18 May 2011 18:55:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</guid>
+      <description>I’ve been at Future Of Web Design The last two days were long, but fantastic, experiences at Future Of Web Design. The talks were high quality, loads of cool people were there and I learnt a lot.
+Problem is, (from some people’s point of view) I tweeted a lot. I’m not going to stop, but I thought I should explain why live tweeting isn’t just “trying to make yourself look clever by tweeting everything you hear.</description>
+    </item>
+    
+    <item>
+      <title>Notebooks and Getting Over Moleskine</title>
+      <link>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</link>
+      <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</guid>
+      <description>I’m a notebook and sketchbook-aholic. Actually I’m addicted to stationery of any kind. Pens, pencils, post-it notes. It’s incredibly easy to convince myself I need these items when I mostly don’t.
+Notebooks and sketchbooks (and maybe some nice accompanying pens), however, are an absolutely vital part of my working life.
+Why bother with physical notebooks? Evernote isn’t the same as writing by hand. Neither is any other note-making software. Balsamiq isn’t the same as wireframing by hand, or Photoshop for sketching.</description>
+    </item>
+    
+    <item>
+      <title>The Big M</title>
+      <link>https://laurakalbag.com/the-big-m/</link>
+      <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-big-m/</guid>
+      <description>Big M badge   First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work everywhere) so this is really going to be the most biased event review you’ve ever read!</description>
+    </item>
+    
+    <item>
+      <title>Who wants a ticket for The Big M?</title>
+      <link>https://laurakalbag.com/win-a-ticket-for-the-big-m/</link>
+      <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
+      <description>I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, The Big M.
+ The Big M website   
+As a result, I have 3 conference tickets worth £233.83 to give away to lovely people who want to learn more about mobile (covering topics such as innovation, usability, development, apps and mobile web.)
+My 3 tickets are for the first day, the conference part of The Big M, which is on 21st March 2011 at Komedia in Bath (UK.</description>
+    </item>
+    
+    <item>
+      <title>Women in…</title>
+      <link>https://laurakalbag.com/women-in/</link>
+      <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/women-in/</guid>
+      <description>I’ve changed my mind about this subject! To read about why and how I don’t believe this anymore, please read Women and conferences.
+Business…Tech…Conferences… Every time I hear these dreaded phrases, “*Women in business*”, “*Women in tech*”, “*Women at conferences*” I just groan. It’s really boring.
+Examples. “*There’s only x% of women at this conference*” or “There’s no female speakers at this conference.” Not just as observations (there’s nothing wrong in stating the obvious,) but saying it’s a negative point.</description>
+    </item>
+    
+    <item>
+      <title>New Adventures 2011</title>
+      <link>https://laurakalbag.com/new-adventures-2011/</link>
+      <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/new-adventures-2011/</guid>
+      <description>Conferences are my social life As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.
+Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with.</description>
+    </item>
+    
+    <item>
+      <title>Hardboiled Web Design and Transcending CSS</title>
+      <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
+      <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
+      <description>My history with Transcending CSS In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading Web Standards Solutions.
+I was already well on my way to being a standards fiend, but Transcending CSS by Andy Clarke did, literally, transcend the standards and made me utterly mad about pushing the boundaries of CSS.</description>
+    </item>
+    
+    <item>
+      <title>Design work is 50% visual, 50% justification</title>
+      <link>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</link>
+      <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
+      <description>After I finished my last post about Design Tips for Developers, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.
+When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’.</description>
+    </item>
+    
+    <item>
+      <title>Design Tips For Developers</title>
+      <link>https://laurakalbag.com/design-tips-for-developers/</link>
+      <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
+      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
+And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+    </item>
+    
+    <item>
+      <title>Bathcamp plea for bad designs by developers</title>
+      <link>https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/</link>
+      <pubDate>Mon, 25 Oct 2010 19:21:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/</guid>
+      <description>I’ve got a talk for Bathcamp 2010 in the works! Thanks to the ever-helpful Rich Quick for the idea, I’m going to do a talk on Design Tips for Developers.
+However, alongside a bit of time, effort and available slot on the day, this is subject to some help from a kind developer. I’m looking for a bad design created by a developer to use as a case study.</description>
+    </item>
+    
+    <item>
+      <title>Stuck on a design</title>
+      <link>https://laurakalbag.com/stuck-on-a-design/</link>
+      <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
+      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
+Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+    </item>
+    
+    <item>
+      <title>Good old designer snobbery is alive and kicking</title>
+      <link>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</link>
+      <pubDate>Wed, 06 Oct 2010 10:38:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</guid>
+      <description>There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”
+These are comments I’m 100% guilty of saying, but I think the problem is the outlet. If it’s a quick chatter between friends then there’s not much lost except making yourself look like a bit of an arse, but start broadcasting these harsh judgements to the world and you’ll rapidly give the impression of a big ego, huge mouth and tiny brain.</description>
+    </item>
+    
+    <item>
+      <title>Using Dribbble and Forrst for feedback on a client project</title>
+      <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
+      <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
+      <description>A couple of weeks ago I created a quickie logo for Andy Warburton’s mobile stock photography service Stockyoo. Andy was really keen on the idea of using Forrst and Dribbble for posting the progress of the project to get the opinions of potential users of a stock photography service and do some early promo for Stockyoo itself.
+Dribbble and Forrst Dribbble and Forrst are part of a new wave of sites aimed at (mostly web) designers and developers.</description>
+    </item>
+    
+    <item>
+      <title>dConstruct 2010</title>
+      <link>https://laurakalbag.com/dconstruct-2010/</link>
+      <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dconstruct-2010/</guid>
+      <description>I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.
+I went with a notebook and an open mind. I didn’t want to go all reverse-snob on the pretentious (something I’m generally pretty guilty of being) and be ignorant of learning when I’d paid ££s for the pleasure.</description>
+    </item>
+    
+    <item>
+      <title>Me vs We</title>
+      <link>https://laurakalbag.com/me-vs-we/</link>
+      <pubDate>Thu, 02 Sep 2010 10:42:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/me-vs-we/</guid>
+      <description>There’s something that’s been niggling at me for ages. The way people act as if they’re a multi-person company when they’re really just one individual. This whole ‘we’ syndrome.
+ We have a great new client now working with us at Just Little Old Me Ltd.
+ Sometimes it makes me giggle when I know somebody is an individual ‘me’ and they’re saying ‘we’ as if they’re some kind of medieval queen.</description>
+    </item>
+    
+    <item>
+      <title>Year One</title>
+      <link>https://laurakalbag.com/year-1/</link>
+      <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/year-1/</guid>
+      <description>It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.
+Getting Started I felt pretty ready for freelancing full-time, I’d had a lot of experience on projects whilst I was at university.</description>
+    </item>
+    
+    <item>
+      <title>Girlguides UK Anti-airbrushing Campaign</title>
+      <link>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</link>
+      <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</guid>
+      <description>I don’t like to say it, but I think the Girlguides UK campaign (#gukforrealimages) call for labelling all airbrushed images of women is unrealistic.
+ Our girls and young women are demanding action from the Prime Minister to introduce compulsory labelling to distinguish between airbrushed and natural imagesin order to ‘shape a generation of self-confident girls and young women.
+(Tell us the truth –; Girls call for honesty over airbrushing.</description>
+    </item>
+    
+    <item>
+      <title>How the iPad is saving my sanity</title>
+      <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
+      <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
+      <description>Fan girl I’ve had an iPad since the day it was released in the UK. I bought it because I’m a fan girl. I admit it. I could pretend that I wanted it to take to conferences or use for testing or when I didn’t need a laptop when I went to visit clients. In truth, I only go to one or two conferences per year, I’ve not yet made a site that needed an iPad-specific site and when I go to visit clients I always need my laptop.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
+      <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
+      <description>This post has three parts. This is part three. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 2: WordPress 3.0—Really WordPress 3.0  Easier for theme developers to make it easy for users The following WordPress 3.0 features really make it easier for the big-time theme developers who create highly customisable themes.
+Menus This is brilliant. Before the menus feature, we had to bodge any extra links we wanted on to the end of the wp_list_pages (that just lists pages!</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 2—Really WordPress 3.0</title>
+      <link>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</guid>
+      <description>This post has three parts. This is part two. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 3: WordPress 3.0—Theme Development and the Design  Really WordPress 3.0 Custom Post Types Custom Post Types are my new best friends. I have used new post types on every client project since the beta of WordPress 3.0. That’s how valuable I think they are.
+For any content that you need to act like a post, but not actually be a post, custom post types are there for you.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 1—Pre 3.0 and Beyond</title>
+      <link>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</link>
+      <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</guid>
+      <description>This post has three parts. This is part one. Visit the other parts below:
+ Part 2: WordPress 3.0—Really WordPress 3.0 Part 3: WordPress 3.0—Theme Development and the Design  I’m a big fat WordPress fan. I love the people behind it, I love the ethicsand I love how it makes it easy for me to make cool sites that my clients can update themselves.
+Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 For Web Designers</title>
+      <link>https://laurakalbag.com/html5-for-web-designers/</link>
+      <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
+      <description>Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.
+ my copy of HTML5 For Web Designers   
+HTML5 For Web Designers by Jeremy Keith is the first offering from A Book Apart. It’s a very easy read, not an endless reference, which took me a couple of hours to fully digest whilst I was enjoying the sun.</description>
+    </item>
+    
+    <item>
+      <title>Picking Fonts</title>
+      <link>https://laurakalbag.com/picking-fonts/</link>
+      <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/picking-fonts/</guid>
+      <description>This little post is an extension of my post on Web Fonts.
+Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
+I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+    </item>
+    
+    <item>
+      <title>Web Fonts</title>
+      <link>https://laurakalbag.com/web-fonts/</link>
+      <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-fonts/</guid>
+      <description>I’ve got a new infatuation; web fonts. Since the second I heard about Typekit (and Fontdeck) last year I’ve been giddy with excitement about being able to use more fonts on the web. Georgia just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.</description>
+    </item>
+    
+    <item>
+      <title>Autodesk SketchBook Pro</title>
+      <link>https://laurakalbag.com/autodesk-sketchbook-pro/</link>
+      <pubDate>Sat, 19 Jun 2010 13:19:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/autodesk-sketchbook-pro/</guid>
+      <description>I’ve always been a kind-of arty person. I took Art at school, did an Art Foundation and a Graphics degree. I totally loved art when I was small, but as I’ve got older, and more technology and web-obsessed, a lot of the old media went a bit out of the window.
+Though I was still loving wireframing and taking notes by hand, I just threw all the paints out in frustration at how slow and difficult they were.</description>
+    </item>
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+    <item>
+      <title>Zootool — The best and most beautiful tool for storing inspiration</title>
+      <link>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</link>
+      <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</guid>
+      <description>Since I started using Zootool in March I’ve been totally addicted.
+I’d been looking for a scrapbook-style app, to stash all the inspiration I find, for a while. On cool sites like Dribbble, Drawar, FFFFound and all over the web, I’m always finding pretty things I’d like to keep and use when I’m designing later on.
+I was trying to do this with Little Snapper but found, whilst it’s great for posh and annotated screenshots, it wasn’t quick enough to capture and file the images and sites that I’d found.</description>
+    </item>
+    
+    <item>
+      <title>Promises</title>
+      <link>https://laurakalbag.com/promises/</link>
+      <pubDate>Thu, 10 Jun 2010 12:09:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/promises/</guid>
+      <description>Well, I’ve got a blog.
+This is not a promise, but I will attempt to post some stuff focussing on quality over quantity. I’m thinking some of the more useful resources I come across; probably lots on WordPress, maybe a bit on mobile design, I’ve got a rant about HTML brewing somewhere too.
+I apologise in advance for my embarrassing command of the English language and grammar.
+I’m actively not going to bother designing it as nothing will ever happen if I do.</description>
+    </item>
+    
+  </channel>
+</rss>

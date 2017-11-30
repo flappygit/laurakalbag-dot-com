@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/web/</link>
+    <description>Recent content in Web on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 23 Jan 2013 09:44:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Sharers on The Branch</title>
+      <link>https://laurakalbag.com/the-sharers-on-the-branch/</link>
+      <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-sharers-on-the-branch/</guid>
+      <description>I’ve written a post over on The Branch.
+ James Dinsdale emailed me about a new project he was starting out, called The Branch, a site collecting posts about what inspires people. I love these kinds of posts, so I was really keen to be involved.
+As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘inspiration’ is often described as particular styles of design and the work of individual designers.</description>
+    </item>
+    
+    <item>
+      <title>Solving problems with naïvety</title>
+      <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
+      <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
+      <description>Last week I was at the wonderful Future Insights Live conference in Las Vegas. Annoyingly as I was speaking twice (that bit wasn’t annoying, it was fun!) I missed a load of talks, but had some fantastic discussions around some particularly interesting topics.
+The topic of naïvety in user experience first came up in Aral Balkan’s brilliant opening keynote, but using it as an approach it was an ongoing theme through the week, summed up by Josh Clark:</description>
+    </item>
+    
+  </channel>
+</rss>

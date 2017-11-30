@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ind.ie on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/ind.ie/</link>
+    <description>Recent content in Ind.ie on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Apr 2017 12:58:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/ind.ie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
+      <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
+      <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
+      <description>This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
+ 
+Performance! Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 29th June 2016</title>
+      <link>https://laurakalbag.com/diary-29th-june-2016/</link>
+      <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-29th-june-2016/</guid>
+      <description>It’s not even been a week since 51.9% UK citizens voted to leave the EU, and it’s already a mess for any business operating from, or with, British Pounds. I’ve spent today working through our finances to see how best for us to proceed in terms of currencies and bank accounts. Despite living in Sweden, we’re still tied to the UK, not least because I’m a British citizen… * shakes fist at the idiots who voted to Leave *</description>
+    </item>
+    
+    <item>
+      <title>Diary, 13th June 2016</title>
+      <link>https://laurakalbag.com/diary-13th-june-2016/</link>
+      <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
+      <description>Time rolls by and it’s about time I did another diary entry. I’m going to try to get Aral and me to write more frequently now what we’re working on (Better) is out in the open. (No more talk of the hush-hush project! ;-)
+Since the launch of Better, we’ve been keeping development going, whilst making improvements to the Better app and Better.fyi, as well as responding to emails, tweets, feedback and questions.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 22nd April 2016</title>
+      <link>https://laurakalbag.com/diary-22nd-april-2016/</link>
+      <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-22nd-april-2016/</guid>
+      <description>Always busy here! Aral and I have been doing a good job of getting out to events in our new home city of Malmö. Last week we went to see A Good American at DocLounge, and this week we’ve been to a few events right here in Media Evolution City. We’re really lucky to have an amazing venue that hosts so many events around us.
+I’ve been knuckling down on the financial/admin side of things now we’ve moved to Malmö.</description>
+    </item>
+    
+    <item>
+      <title>My 2015</title>
+      <link>https://laurakalbag.com/my-2015/</link>
+      <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2015/</guid>
+      <description>I’m not even sure how to write about 2015… 2015 can die in a fire, go away and never come back.
+My mother died in August, three months after her mother, my grandmother, died in April. Missing them both has really done me over. Grieving is not what I expected, it just makes everything exhausting. Oddly, knitting helped.
+In July, we moved from Brighton to Reigate to stay with my family.</description>
+    </item>
+    
+    <item>
+      <title>Flexboxing the Universal Video Player</title>
+      <link>https://laurakalbag.com/flexbox-video-player/</link>
+      <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flexbox-video-player/</guid>
+      <description>I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote a blog post on Ind.ie Labs about using flexbox with progressive enhancement.</description>
+    </item>
+    
+    <item>
+      <title>Is there potential for “ethical analytics”?</title>
+      <link>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</link>
+      <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
+      <description>We have Piwik analytics on the Ind.ie site, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use Ghostery so I actually block analytics like this for my own use.
+As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:
+ Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc) Browser/browser size/operating system (required to know how to optimise for visitors) Language spoken (required to work out how to best optimise for different languages) Referring links (to track who is saying what about your site)  BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:</description>
+    </item>
+    
+    <item>
+      <title>Interview on the Subjective podcast</title>
+      <link>https://laurakalbag.com/subjective-podcast/</link>
+      <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/subjective-podcast/</guid>
+      <description>At the beginning of the week, I had fun talking to Victor Johnson on Episode 9 of the Subjective podcast, ‘Free As In Liberty.’ I ranted a lot, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.
+Subjective is also a great podcast in its infancy, with Victor at the helm, it’s definitely one to watch (or listen!)</description>
+    </item>
+    
+    <item>
+      <title>The Illusion Of Free on A List Apart</title>
+      <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
+      <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
+      <description>Last week, my column on The Illusion Of Free was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around Ind.ie. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.</description>
+    </item>
+    
+    <item>
+      <title>My 2014</title>
+      <link>https://laurakalbag.com/my-2014/</link>
+      <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2014/</guid>
+      <description>Well, things didn’t slow down in 2014! So much so that I didn’t manage to write this post yesterday. In 2014 I spoke at 8 events in 4 countries, and worked with 11 clients on 15 projects before starting work full time with Ind.ie in August.
+I wrote a lot more, with regular slots onA List Apart and The Pastry Box, and a series on Getting Started With Sass on Web Standards Sherpa.</description>
+    </item>
+    
+    <item>
+      <title>What I’m doing now and why</title>
+      <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
+      <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
+      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+    </item>
+    
+    <item>
+      <title>ind.ie Project Stratosphere announcement</title>
+      <link>https://laurakalbag.com/indie-project-stratosphere/</link>
+      <pubDate>Thu, 02 Oct 2014 14:16:15 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-project-stratosphere/</guid>
+      <description>After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal some big stuff about ind.ie.
+We’re not just designing a phone. A crowdfunding campaign for a phone that you’ll get in two years is not a risk worth taking. We need to build a network and ecosystem around that phone. We need a fantastic and mature platform that the phone to give the phone the ultimate experience on its release.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at border:none</title>
+      <link>https://laurakalbag.com/speaking-at-border-none/</link>
+      <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
+      <description>Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.
+It’s also an all-new topic for me to share with other people, so I can’t wait!</description>
+    </item>
+    
+    <item>
+      <title>Indie Tech Summit videos and my talk on Universal Design</title>
+      <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
+      <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
+      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+    </item>
+    
+  </channel>
+</rss>

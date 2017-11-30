@@ -1,6 +1,6 @@
 ---
 title: "Office Furniture (and other nice things) for sale"
-draft: true
+draft: false
 colours: ["#2cb9e0", "#016199", "#138dd8", "#0a4a72", "#00addd", "#083b5b", "#3acaea"]
 date: 2016-02-02T15:51:26+00:00
 categories: ["Personal"]

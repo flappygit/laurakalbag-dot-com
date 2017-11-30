@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/labs/</link>
+    <description>Recent content in Labs on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 29 Mar 2016 14:55:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diary, 29th March 2016</title>
+      <link>https://laurakalbag.com/diary-29th-march-2016/</link>
+      <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-29th-march-2016/</guid>
+      <description>Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)
+Friday and today, I’ve been getting our Labs and source.ind.ie in tip-top shape. Now with our own logo in the corner, it feels more like home, and Aral has added single sign-on so you can sign up with your GitHub account, as well as adding some new copy on the source homepage to explain a little more about what is housed on source.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 
 title: "A little realign"
-draft: true
+draft: false
 colours: ["#2a4d9d", "#703967", "#24478b", "#2c2c62", "#509fe1", "#1b144a", "#ffffff"]
 date: 2014-05-02T13:10:30+00:00
 categories: ["Design", "Development", "Milestones"]

@@ -1,7 +1,7 @@
 ---
 
 title: "5 reasons why you should get an office dog"
-draft: true
+draft: false
 colours: ["#777777", "#565656", "#946d16", "#333333", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2014-09-17T09:16:30+00:00
 categories: ["Personal"]

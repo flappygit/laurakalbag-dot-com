@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/programming/</link>
+    <description>Recent content in Programming on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 20 Oct 2012 13:11:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CreativeJS for non-coders workshop with Seb Lee-Delisle</title>
+      <link>https://laurakalbag.com/creativejs-for-non-coders/</link>
+      <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
+      <description>Programming block I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be really really good at HTML first, and then CSS and then JavaScript, but I somehow always stopped short of actually learning JavaScript properly.</description>
+    </item>
+    
+  </channel>
+</rss>

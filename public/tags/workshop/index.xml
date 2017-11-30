@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/workshop/</link>
+    <description>Recent content in Workshop on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 16 Sep 2014 08:44:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking at border:none</title>
+      <link>https://laurakalbag.com/speaking-at-border-none/</link>
+      <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
+      <description>Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.
+It’s also an all-new topic for me to share with other people, so I can’t wait!</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web, a workshop</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop/</link>
+      <pubDate>Mon, 12 Aug 2013 10:18:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop/</guid>
+      <description>Here’s a slightly scary thing: I’m doing my first solo workshop on the 11th October 2013 in Barnsley.
+I often get asked about the best way to “learn design”, and I usually say that you learn by doing and you learn by watching how others do it. In this workshop, I want to give new designers, developers, and anybody else wanting to learn how to design for the web, a good foundation with five primers, a bit of doing and a bit of watching.</description>
+    </item>
+    
+    <item>
+      <title>CreativeJS for non-coders workshop with Seb Lee-Delisle</title>
+      <link>https://laurakalbag.com/creativejs-for-non-coders/</link>
+      <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
+      <description>Programming block I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be really really good at HTML first, and then CSS and then JavaScript, but I somehow always stopped short of actually learning JavaScript properly.</description>
+    </item>
+    
+  </channel>
+</rss>

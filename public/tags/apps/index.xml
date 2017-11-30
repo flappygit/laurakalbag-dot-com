@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/apps/</link>
+    <description>Recent content in Apps on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Dec 2012 21:23:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bardowl: The Big One</title>
+      <link>https://laurakalbag.com/bardowl-the-big-one/</link>
+      <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
+      <description>For the last few years, I’ve been working with a great team of people on our iPhone app, Bardowl, an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)
+It’s not been a quick and easy. Getting publishers to come round to the idea, and securing good audiobooks, has been a lengthy process but we’ve been lucky to have people who really know what they’re talking about behind the scenes.</description>
+    </item>
+    
+    <item>
+      <title>My favourite apps—fit for purpose</title>
+      <link>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</link>
+      <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</guid>
+      <description>After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.
+Tweet A few people asked what I thought the alternatives are, so I thought it might be time to write a post about it.
+Photoshop and Illustrator, why not? I’ve been suffering Adobe software for a long time. Since Adobe Photoshop was introduced to me as ‘the industry standard’ when I was at college learning basic photo manipulation, it’s been in my life.</description>
+    </item>
+    
+  </channel>
+</rss>

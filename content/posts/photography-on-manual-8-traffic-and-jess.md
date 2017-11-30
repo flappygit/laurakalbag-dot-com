@@ -1,6 +1,6 @@
 ---
 title: "Photography on manual: 8 –; Traffic and Jess"
-draft: true
+draft: false
 colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#dedede"]
 date: 2015-05-18T08:39:23+00:00
 categories: ["Learning"]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/interview/</link>
+    <description>Recent content in Interview on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 25 Feb 2014 11:17:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview about web fonts on Type Quest</title>
+      <link>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</link>
+      <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</guid>
+      <description>A few months ago Tyler Sanguinette sent me some questions about design and web typography as part of his thesis on web fonts.
+Recently I found that he’d published the interview, and interviews with a load of very smart people, on the Type Quest website. Type Quest also has some really useful information on the OpenType features of web fonts, so it’s well-worth a look.
+ 
+One comment ### Andy Warburton  at 17:40pm</description>
+    </item>
+    
+    <item>
+      <title>Industry mentoring on Creative Bloq</title>
+      <link>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</link>
+      <pubDate>Thu, 23 Jan 2014 14:06:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</guid>
+      <description>Craig Grannell has written a fantastic article on Creative Bloq about mentoring, looking at loads of different ways the web industry can do mentoring well. Including interviews with Clare Sutcliffe, Greg Hoy, Jeffery Zeldman, Andy Budd, Josh Emerson, Andy Budd, Anna Debenham and me!
+It’s well-worth a read if you want to mentor somebody, or would like to find a mentor yourself.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Heart Internet</title>
+      <link>https://laurakalbag.com/interview-with-heart-internet/</link>
+      <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
+      <description>Yesterday, Heart Internet posted an interview with me on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)</description>
+    </item>
+    
+    <item>
+      <title>Interviewed by The Learning People</title>
+      <link>https://laurakalbag.com/interviewed-by-the-learning-people/</link>
+      <pubDate>Thu, 31 Oct 2013 10:51:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interviewed-by-the-learning-people/</guid>
+      <description>The Learning People have posted an interview they did with me about women in the technology sector, working for myself, and what inspires me.</description>
+    </item>
+    
+  </channel>
+</rss>

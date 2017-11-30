@@ -1,6 +1,6 @@
 ---
 title: "Yeah, so what if I live-tweet at conferences?"
-draft: true
+draft: false
 colours: ["#00A7DE", "#005e7d", "#00d0de", "#098495", "#61d6fd", "#0f5166", "#00dedc"]
 date: 2011-05-18T18:55:28+00:00
 categories: ["Events"]

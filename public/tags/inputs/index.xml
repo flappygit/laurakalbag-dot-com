@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inputs on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/inputs/</link>
+    <description>Recent content in Inputs on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 01 Apr 2013 22:52:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/inputs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Responsive Day Out</title>
+      <link>https://laurakalbag.com/responsive-day-out/</link>
+      <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-day-out/</guid>
+      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
+After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+    </item>
+    
+  </channel>
+</rss>

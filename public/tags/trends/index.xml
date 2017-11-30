@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trends on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/trends/</link>
+    <description>Recent content in Trends on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 15 Oct 2010 16:59:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/trends/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuck on a design</title>
+      <link>https://laurakalbag.com/stuck-on-a-design/</link>
+      <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
+      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
+Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+    </item>
+    
+  </channel>
+</rss>

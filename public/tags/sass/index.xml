@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sass on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/sass/</link>
+    <description>Recent content in Sass on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 02 May 2014 13:10:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A little realign</title>
+      <link>https://laurakalbag.com/a-little-realign/</link>
+      <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-little-realign/</guid>
+      <description>Things are looking a bit different around here. It’s not a redesign so much as a realign. I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)
+There were a few particular goals for this redesign:
+Rewrite the CSS I lived in fear that someone might look closely at my CSS. My last redesign came about when responsive web design was still young, and I was incredibly foolish.</description>
+    </item>
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+    <item>
+      <title>Web talk dog walk, the site</title>
+      <link>https://laurakalbag.com/web-talk-dog-walk-the-site/</link>
+      <pubDate>Thu, 25 Jul 2013 17:56:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-talk-dog-walk-the-site/</guid>
+      <description>I’ve finally made a site for the web talk dog walks! It may be a small site, and is probably very broken in places, but it was a fun mini project and worked well as a case study for my Sass for designers talk.
+It also makes use of Perch, that wonderful little content management system. I really would recommend it.
+ 
+One comment ### Richelle Cortis  at 16:10pm</description>
+    </item>
+    
+    <item>
+      <title>Sass For Designers at CSS Summit 2013</title>
+      <link>https://laurakalbag.com/css-summit-2013/</link>
+      <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/css-summit-2013/</guid>
+      <description>I’m speaking at CSS Summit 2013 about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)
+There’s a huge amount of expert speakers across three days, with a day each dedicated to CSS3 Training, Advanced CSS and Preprocessors. I’m on the third day, covering the basics of Sass with ‘Sass for Designers’. The other talks on that day will cover Sass in more depth, with case studies and more advanced techniques, so I’m hoping to provide a useful introduction for those of us who are less familiar with programming.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers — The Setup</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
+      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+Of course, all of this can be done with the command line and other terrifying tools.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers</title>
+      <link>https://laurakalbag.com/sass-for-designers/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers/</guid>
+      <description>Despite saying that I wanted to avoid writing post about development, I wanted to write something about Sass.
+Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of short-hand that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try my post on Sass for Designers — The Setup.</description>
+    </item>
+    
+    <item>
+      <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
+      <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
+      <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
+      <description>I bought Jonathan Snook’s Scalable and Modular Architecture for CSS five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
+ SMACSS book cover   Last month I was lucky enough to see Jonathan speak about State-Based Design (a concept which he covers in SMACSS) at theFromTheFront conference and it reminded me to put the book at the top of my to-read pile.</description>
+    </item>
+    
+  </channel>
+</rss>

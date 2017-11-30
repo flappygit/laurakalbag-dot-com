@@ -1,6 +1,6 @@
 ---
 title: "What advice do you give to aspiring designers or typographers?"
-draft: true
+draft: false
 colours: ["#c27388", "#9e2e62", "#c43678", "#974166", "#c2b753", "#712935", "#e7df9d"]
 date: 2016-02-17T10:30:00+00:00
 categories: ["Design", "Design Issues"]

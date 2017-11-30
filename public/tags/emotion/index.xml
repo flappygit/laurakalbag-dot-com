@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/emotion/</link>
+    <description>Recent content in Emotion on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Sep 2011 10:56:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dConstruct 2011 — My Digest</title>
+      <link>https://laurakalbag.com/dconstruct-2011-my-digest/</link>
+      <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
+      <description>It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.
+The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.</description>
+    </item>
+    
+    <item>
+      <title>Notes from Ampersand conference — My Digest</title>
+      <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
+      <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
+      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
+And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+    </item>
+    
+  </channel>
+</rss>

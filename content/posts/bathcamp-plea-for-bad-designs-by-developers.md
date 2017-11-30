@@ -1,6 +1,6 @@
 ---
 title: "Bathcamp plea for bad designs by developers"
-draft: true
+draft: false
 colours: ["#15A4D6", "#117699", "#5cc9ef", "#0e6685", "#ffffff", "#0c607e", "#ffffff"]
 date: 2010-10-25T19:21:06+00:00
 categories: ["Events"]

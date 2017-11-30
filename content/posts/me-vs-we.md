@@ -1,6 +1,6 @@
 ---
 title: "Me vs We"
-draft: true
+draft: false
 colours: ["#47518a", "#235592", "#4f8ad2", "#3e466f", "#a4c6ef", "#30354f", "#bb87e3"]
 date: 2010-09-02T10:42:49+00:00
 categories: ["Freelancing"]

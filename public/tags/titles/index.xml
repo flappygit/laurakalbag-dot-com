@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titles on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/titles/</link>
+    <description>Recent content in Titles on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 20 Jul 2011 11:56:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/titles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insites Tour Brighton</title>
+      <link>https://laurakalbag.com/insites-tour-brighton/</link>
+      <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
+      <description>Insites is a mini tour of four cities in the UK where Keir Whitaker and Elliot Jay Stocks present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where Aral Balkan, Sarah Parmenter and Jeremy Keith were the guests.
+The Format The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience.</description>
+    </item>
+    
+  </channel>
+</rss>

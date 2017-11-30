@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relationships on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/relationships/</link>
+    <description>Recent content in Relationships on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 25 Jun 2012 12:06:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Typography and the web at Ampersand Conference</title>
+      <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
+      <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
+      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
+This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
+Typography and the web at Ampersand conference</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/windows/</link>
+    <description>Recent content in Windows on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 05 Jul 2010 19:23:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Picking Fonts</title>
+      <link>https://laurakalbag.com/picking-fonts/</link>
+      <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/picking-fonts/</guid>
+      <description>This little post is an extension of my post on Web Fonts.
+Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
+I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+    </item>
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+  </channel>
+</rss>

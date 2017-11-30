@@ -1,7 +1,7 @@
 ---
 
 title: "24 Ways: Design Systems"
-draft: true
+draft: false
 colours: ["#672e47", "#9E3C55", "#6d798e", "#516687", "#DDDFE4", "#273750", "#AC4C63"]
 date: 2012-12-12T10:45:08+00:00
 categories: ["Design", "Design Issues"]

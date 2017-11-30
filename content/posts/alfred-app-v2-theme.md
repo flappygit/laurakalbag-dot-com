@@ -1,6 +1,6 @@
 ---
 title: "Alfred App v2 theme"
-draft: true
+draft: false
 colours: ["#724D8E", "#6b3f8d", "#724D8E", "#4A1E6A", "#65586f", "#34174a", "#7f6e8c"]
 date: 2013-03-30T20:09:49+00:00
 categories: ["Design", "Tools"]

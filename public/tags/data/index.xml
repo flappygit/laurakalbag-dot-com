@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/data/</link>
+    <description>Recent content in Data on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 04 Jun 2014 08:36:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Becoming part of Indie Phone</title>
+      <link>https://laurakalbag.com/indie-phone/</link>
+      <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-phone/</guid>
+      <description>There’s some big changes around here. As of Monday, I am now working with Indie Phone for 50% of my working time.
+What is Indie Phone? Indie Phone is a huge, and very ambitious, project. We’re building a smart phone that allows you to own your own data. The majority of companies on the web have a simple, and potentially dangerous, business model. These companies give you services for free, and sell your data on to third parties to make their money (think Google, Facebook, Twitter).</description>
+    </item>
+    
+  </channel>
+</rss>

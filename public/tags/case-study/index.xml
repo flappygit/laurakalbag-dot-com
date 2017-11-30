@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Study on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/case-study/</link>
+    <description>Recent content in Case Study on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 26 Jul 2013 09:00:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+  </channel>
+</rss>

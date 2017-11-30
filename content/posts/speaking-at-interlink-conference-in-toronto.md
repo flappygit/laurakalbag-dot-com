@@ -1,6 +1,6 @@
 ---
 title: "Speaking at Interlink conference in Toronto"
-draft: true
+draft: false
 colours: ["#019dd6", "#0189bb", "#00a3dc", "#2b2b2b", "#16c1f3", "#0a0a0a", "#86807f"]
 date: 2014-02-03T11:34:14+00:00
 categories: ["Events"]

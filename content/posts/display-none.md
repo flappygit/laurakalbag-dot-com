@@ -1,6 +1,6 @@
 ---
 title: "display: none;"
-draft: true
+draft: false
 colours: ["#c03893", "#68569c", "#8457a8", "#3a3e83", "#ea48b4", "#222662", "#a66dd5"]
 date: 2012-11-06T08:45:02+00:00
 categories: ["Design Issues", "Markup"]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/theme/</link>
+    <description>Recent content in Theme on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 30 Mar 2013 20:09:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alfred App v2 theme</title>
+      <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
+      <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
+      <description>Today I finally got around to playing with Alfred v2. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
+I was playing around with the appearance and made a really minimal theme.</description>
+    </item>
+    
+  </channel>
+</rss>

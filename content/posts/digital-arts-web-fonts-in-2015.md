@@ -1,6 +1,6 @@
 ---
 title: "Digital Arts: Web fonts: what designers need to know in 2015"
-draft: true
+draft: false
 colours: ["#c81477", "#565656", "#df1685", "#333333", "#56c2b4", "#020202", "#56c2b4"]
 date: 2015-02-20T16:34:52+00:00
 categories: ["Design"]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/better/</link>
+    <description>Recent content in Better on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Apr 2017 12:58:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/better/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
+      <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
+      <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
+      <description>This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
+ 
+Performance! Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 29th June 2016</title>
+      <link>https://laurakalbag.com/diary-29th-june-2016/</link>
+      <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-29th-june-2016/</guid>
+      <description>It’s not even been a week since 51.9% UK citizens voted to leave the EU, and it’s already a mess for any business operating from, or with, British Pounds. I’ve spent today working through our finances to see how best for us to proceed in terms of currencies and bank accounts. Despite living in Sweden, we’re still tied to the UK, not least because I’m a British citizen… * shakes fist at the idiots who voted to Leave *</description>
+    </item>
+    
+    <item>
+      <title>Diary, 13th June 2016</title>
+      <link>https://laurakalbag.com/diary-13th-june-2016/</link>
+      <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
+      <description>Time rolls by and it’s about time I did another diary entry. I’m going to try to get Aral and me to write more frequently now what we’re working on (Better) is out in the open. (No more talk of the hush-hush project! ;-)
+Since the launch of Better, we’ve been keeping development going, whilst making improvements to the Better app and Better.fyi, as well as responding to emails, tweets, feedback and questions.</description>
+    </item>
+    
+  </channel>
+</rss>

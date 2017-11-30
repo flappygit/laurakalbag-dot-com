@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/usability/</link>
+    <description>Recent content in Usability on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 10 Dec 2013 09:45:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Bother With Accessibility? on 24ways</title>
+      <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
+      <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
+      <description> My article for this year’s 24ways has been published today. I wrote “Why Bother With Accessibility?” after giving my Designing For Accessibility talks, and still coming up against the same excuses. I wanted to write something that could be a go-to for people trying to understand why designing for accessibility was worthwhile. Fingers crossed that this helps, because we can’t talk about accessibility enough!
+ 
+3 comments  </description>
+    </item>
+    
+    <item>
+      <title>Designing For Emotion</title>
+      <link>https://laurakalbag.com/designing-for-emotion/</link>
+      <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/designing-for-emotion/</guid>
+      <description>I bought Designing For Emotion as part of the A Book Apart deal, alongside Mobile First. After listening to Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.</description>
+    </item>
+    
+    <item>
+      <title>Labels in input fields aren’t such a good idea</title>
+      <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
+      <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
+      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
+Example:
+ a form field where the label is shown inside the text input field   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
+      <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
+      <description>This post has three parts. This is part three. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 2: WordPress 3.0—Really WordPress 3.0  Easier for theme developers to make it easy for users The following WordPress 3.0 features really make it easier for the big-time theme developers who create highly customisable themes.
+Menus This is brilliant. Before the menus feature, we had to bodge any extra links we wanted on to the end of the wp_list_pages (that just lists pages!</description>
+    </item>
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+  </channel>
+</rss>

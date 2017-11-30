@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/community/</link>
+    <description>Recent content in Community on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 01 Apr 2013 10:17:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guest co-host on Unfinished Business</title>
+      <link>https://laurakalbag.com/guest-co-host-on-unfinished-business/</link>
+      <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
+      <description>Last week I was guest co-host on one of my most favourite podcasts, Unfinished Business. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
+We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.</description>
+    </item>
+    
+    <item>
+      <title>Stuck on a design</title>
+      <link>https://laurakalbag.com/stuck-on-a-design/</link>
+      <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
+      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
+Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+    </item>
+    
+  </channel>
+</rss>

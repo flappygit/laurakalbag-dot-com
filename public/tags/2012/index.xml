@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/2012/</link>
+    <description>Recent content in 2012 on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 31 Dec 2012 23:12:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My 2012</title>
+      <link>https://laurakalbag.com/my-2012/</link>
+      <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-2012/</guid>
+      <description>2012 has been a massive year for me. It was a year of saying yes to things that scared me. It was the first time I spoke at a conference (and I went on to speak at a further seven events.) I found the first house I’ve lived in by myself. I travelled to as many countries in one year as I had done in my whole life so far.</description>
+    </item>
+    
+  </channel>
+</rss>

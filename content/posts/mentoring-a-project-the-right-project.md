@@ -1,6 +1,6 @@
 ---
 title: "Mentoring a project: the right project"
-draft: true
+draft: false
 colours: ["#ec9b0e", "#cc5e00", "#ec7713", "#9f3a09", "#ffbf0f", "#711f09", "#ffd905"]
 date: 2013-02-01T15:59:34+00:00
 categories: ["Design", "Freelancing", "Learning"]

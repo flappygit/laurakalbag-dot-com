@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Chrome on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/google-chrome/</link>
+    <description>Recent content in Google Chrome on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 01 Jun 2012 21:51:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/google-chrome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Will understanding the mainstream affect me as a designer?</title>
+      <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
+      <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
+      <description>I’ve been contemplating how designers can identify better with more mainstream users.
+I had a thought last week. What if, by rejecting Facebook, I’m actually missing out on design patterns that are so influential on the mainstream user that it affects their perception on the rest of the web?
+And the same goes for Google Chrome. I’ve been going through a rebellious anti-Google phase, but now Chrome has taken over as the world’s most popular browser, am I making life harder for myself by developing sites in Safari first?</description>
+    </item>
+    
+  </channel>
+</rss>

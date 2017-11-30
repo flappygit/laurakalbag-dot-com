@@ -1,6 +1,6 @@
 ---
 title: "Girlguides UK Anti-airbrushing Campaign"
-draft: true
+draft: false
 colours: ["#FF82C7", "#b04370", "#f842a6", "#c01473", "#7fc2ee", "#8c014d", "#4698ce"]
 date: 2010-08-04T10:32:18+00:00
 categories: ["Design Issues"]

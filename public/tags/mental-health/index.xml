@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental Health on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/mental-health/</link>
+    <description>Recent content in Mental Health on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 13 Oct 2014 11:14:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unfinished Business 89: Burger in donut</title>
+      <link>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</link>
+      <pubDate>Mon, 13 Oct 2014 11:14:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</guid>
+      <description>Last week’s episode of Unfinished Business was a very different discussion from the usual. Andy and I talked about his fantastic idea for Geek Mental Help week (October 27th onwards) and how so many people in our industry are affected by mental health issues. I’ll definitely be writing a post for Geek Mental Help Week, and I hope you will too! I’m sure you’ll be able to find out the latest about Geek Mental Help Week from the Twitter account @geekmentalhelp.</description>
+    </item>
+    
+  </channel>
+</rss>

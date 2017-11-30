@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/usability/</link>
+    <description>Recent content in Usability on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 15 May 2014 10:14:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why accessibility matters to me #GAAD</title>
+      <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
+      <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
+      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
+How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+    </item>
+    
+    <item>
+      <title>Will understanding the mainstream affect me as a designer?</title>
+      <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
+      <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
+      <description>I’ve been contemplating how designers can identify better with more mainstream users.
+I had a thought last week. What if, by rejecting Facebook, I’m actually missing out on design patterns that are so influential on the mainstream user that it affects their perception on the rest of the web?
+And the same goes for Google Chrome. I’ve been going through a rebellious anti-Google phase, but now Chrome has taken over as the world’s most popular browser, am I making life harder for myself by developing sites in Safari first?</description>
+    </item>
+    
+    <item>
+      <title>Solving problems with naïvety</title>
+      <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
+      <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
+      <description>Last week I was at the wonderful Future Insights Live conference in Las Vegas. Annoyingly as I was speaking twice (that bit wasn’t annoying, it was fun!) I missed a load of talks, but had some fantastic discussions around some particularly interesting topics.
+The topic of naïvety in user experience first came up in Aral Balkan’s brilliant opening keynote, but using it as an approach it was an ongoing theme through the week, summed up by Josh Clark:</description>
+    </item>
+    
+    <item>
+      <title>Labels in input fields aren’t such a good idea</title>
+      <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
+      <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
+      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
+Example:
+ a form field where the label is shown inside the text input field   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+    </item>
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+  </channel>
+</rss>

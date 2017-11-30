@@ -1,6 +1,6 @@
 ---
 title: "Six months of the Fitbit (and the new Fitbit Aria)"
-draft: true
+draft: false
 colours: ["#99CC33", "#057E98", "#90bb3a", "#0d6577", "#36c4e2", "#21869c", "#3895a8"]
 date: 2012-06-29T16:39:58+00:00
 categories: ["Freelancing", "Reviews"]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Role on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/role/</link>
+    <description>Recent content in Role on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 23 Jan 2012 10:47:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/role/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Adventures in Web Design 2012</title>
+      <link>https://laurakalbag.com/new-adventures-in-web-design-2012/</link>
+      <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/new-adventures-in-web-design-2012/</guid>
+      <description>My digest post about New Adventures in Web Design conference –; The Job, The Process and Creativity –; NAConf 2012 is now up on uBelly.
+I’m now on board with uBelly to cover conferences and other webby stuff. This post is very much the same style as my previous digest posts, but on a different site.</description>
+    </item>
+    
+  </channel>
+</rss>

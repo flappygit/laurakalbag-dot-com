@@ -1,6 +1,6 @@
 ---
 title: "Building a diverse speaker lineup"
-draft: true
+draft: false
 colours: ["#324c88", "#4a7d7d", "#6a1916", "#2d606e", "#9dd0d0", "#26515d", "#9dd0d0"]
 date: 2014-09-02T08:53:56+00:00
 categories: ["Events"]

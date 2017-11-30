@@ -1,6 +1,6 @@
 ---
 title: "Including “ask me anything” in my contract"
-draft: true
+draft: false
 colours: ["#d36622", "#684e36", "#e57c15", "#59351c", "#e56015", "#2c1f17", "#e5a915"]
 date: 2013-11-04T10:14:44+00:00
 categories: ["Freelancing"]

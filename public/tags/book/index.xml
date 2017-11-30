@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/book/</link>
+    <description>Recent content in Book on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility For Everyone</title>
+      <link>https://laurakalbag.com/accessibility-for-everyone/</link>
+      <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
+      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
+ 
+In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+    </item>
+    
+    <item>
+      <title>Psychology for designers</title>
+      <link>https://laurakalbag.com/psychology-for-designers/</link>
+      <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/psychology-for-designers/</guid>
+      <description>This week I went all out and bought all the currently-released Five Simple Steps Pocket Guide digital books. I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
+ 
+I started reading with Psychology for designers by Joe Leech first.</description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Designing with Data</title>
+      <link>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</link>
+      <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
+      <description>Another ubelly post from me, this time a review. Much like my other reviews of books on this blog, just in another location!
+A Practical Guide to Designing with Data</description>
+    </item>
+    
+    <item>
+      <title>Designing For Emotion</title>
+      <link>https://laurakalbag.com/designing-for-emotion/</link>
+      <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/designing-for-emotion/</guid>
+      <description>I bought Designing For Emotion as part of the A Book Apart deal, alongside Mobile First. After listening to Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.</description>
+    </item>
+    
+  </channel>
+</rss>

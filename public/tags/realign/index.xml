@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realign on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/realign/</link>
+    <description>Recent content in Realign on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Apr 2017 10:18:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/realign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site adjustments</title>
+      <link>https://laurakalbag.com/site-adjustments/</link>
+      <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/site-adjustments/</guid>
+      <description>My site is looking a little different, I’m now using the lovely Recia for the type. Fontdeck recently retired, and while they gave loads of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.
+  My site with web-safe backup fonts, Georgia and Helvetica   
+I have a redesign in the works. But I’ve no idea when it’ll be finished.</description>
+    </item>
+    
+    <item>
+      <title>A little realign</title>
+      <link>https://laurakalbag.com/a-little-realign/</link>
+      <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-little-realign/</guid>
+      <description>Things are looking a bit different around here. It’s not a redesign so much as a realign. I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)
+There were a few particular goals for this redesign:
+Rewrite the CSS I lived in fear that someone might look closely at my CSS. My last redesign came about when responsive web design was still young, and I was incredibly foolish.</description>
+    </item>
+    
+  </channel>
+</rss>

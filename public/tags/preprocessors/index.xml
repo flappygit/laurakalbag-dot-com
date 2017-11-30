@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprocessors on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/preprocessors/</link>
+    <description>Recent content in Preprocessors on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 28 Dec 2012 17:51:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/preprocessors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sass for Designers — The Setup</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
+      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+Of course, all of this can be done with the command line and other terrifying tools.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers</title>
+      <link>https://laurakalbag.com/sass-for-designers/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers/</guid>
+      <description>Despite saying that I wanted to avoid writing post about development, I wanted to write something about Sass.
+Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of short-hand that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try my post on Sass for Designers — The Setup.</description>
+    </item>
+    
+    <item>
+      <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
+      <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
+      <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
+      <description>I bought Jonathan Snook’s Scalable and Modular Architecture for CSS five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
+ SMACSS book cover   Last month I was lucky enough to see Jonathan speak about State-Based Design (a concept which he covers in SMACSS) at theFromTheFront conference and it reminded me to put the book at the top of my to-read pile.</description>
+    </item>
+    
+  </channel>
+</rss>

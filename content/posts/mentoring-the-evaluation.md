@@ -1,6 +1,6 @@
 ---
 title: "Mentoring: the evaluation"
-draft: true
+draft: false
 colours: ["#c62f8d", "#4f173a", "#bf369f", "#410638", "#a93d84", "#2e0533", "#7d2c6d"]
 date: 2013-06-25T11:11:11+00:00
 categories: ["Freelancing", "Learning"]

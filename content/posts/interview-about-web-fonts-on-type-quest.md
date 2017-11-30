@@ -1,6 +1,6 @@
 ---
 title: "Interview about web fonts on Type Quest"
-draft: true
+draft: false
 colours: ["#499e46", "#5a5a5a", "#52af4e", "#3d3d3d", "#6ce867", "#1e1e1e", "#ffffff"]
 date: 2014-02-25T11:17:40+00:00
 categories: ["Design"]

@@ -1,6 +1,6 @@
 ---
 title: "Guest on Beyond Ink podcast"
-draft: true
+draft: false
 colours: ["#b42a32", "#7c4058", "#7d4b5d", "#820b2f", "", "#530c24", "#e9e6e7"]
 date: 2013-12-03T09:06:12+00:00
 categories: ["Design", "Events", "Podcasts"]

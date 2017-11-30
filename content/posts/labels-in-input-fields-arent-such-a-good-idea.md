@@ -1,6 +1,6 @@
 ---
 title: "Labels in input fields aren’t such a good idea"
-draft: true
+draft: false
 colours: ["#2377a4", "#466e84", "#5A92B0", "#3a86ae", "#80afc9", "#235976", "#6ab1d7"]
 date: 2011-05-27T17:52:37+00:00
 categories: ["Design Issues", "Usability"]

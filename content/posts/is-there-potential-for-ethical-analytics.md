@@ -1,6 +1,6 @@
 ---
 title: "Is there potential for “ethical analytics”?"
-draft: true
+draft: false
 colours: ["#149116", "#424242", "#22aa16", "#0b7709", "#058964", "#086613", "#0a9994"]
 date: 2015-07-30T10:19:04+00:00
 categories: ["Design Issues"]

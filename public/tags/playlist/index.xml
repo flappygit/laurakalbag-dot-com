@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlist on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/playlist/</link>
+    <description>Recent content in Playlist on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 05 Aug 2014 09:30:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/playlist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desert.fm Playlist</title>
+      <link>https://laurakalbag.com/desert-fm-playlist/</link>
+      <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/desert-fm-playlist/</guid>
+      <description>A few weeks ago I was asked to create a playlist of ten songs for Desert.fm. Nate, Bobby and Jamie sent me an email with the premise:
+ Our idea is to to add value to digital playlists through personal stories and inspirational music. We’re totally genre agnostic and we don’t judge (honest!), we can find inspiration in the most unlikely of places sometimes, so we encourage our curators not to hold back.</description>
+    </item>
+    
+  </channel>
+</rss>

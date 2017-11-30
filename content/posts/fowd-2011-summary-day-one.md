@@ -1,6 +1,6 @@
 ---
 title: "Future Of Web Design 2011 –; The Summary –; Day One"
-draft: true
+draft: false
 colours: ["#AD1D1D", "#0D0C06", "#570D0D", "#DF000F", "#00A7DE", "#000000", "#FFFEEA"]
 date: 2011-05-23T15:05:31+00:00
 categories: ["Design Issues", "Events"]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beyond Usability on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/beyond-usability/</link>
+    <description>Recent content in Beyond Usability on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 15 Nov 2011 09:43:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/beyond-usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing For Emotion</title>
+      <link>https://laurakalbag.com/designing-for-emotion/</link>
+      <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/designing-for-emotion/</guid>
+      <description>I bought Designing For Emotion as part of the A Book Apart deal, alongside Mobile First. After listening to Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "Speaking at Dare conference"
-draft: true
+draft: false
 colours: ["#b53c2c", "#65614e", "#ce3622", "#912a1d", "#D5D1B4", "#5f1a11", "#ffffff"]
 date: 2013-07-03T16:49:56+00:00
 categories: ["Events", "Personal"]

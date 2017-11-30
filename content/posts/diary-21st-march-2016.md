@@ -1,6 +1,6 @@
 ---
 title: "Diary, 21st March 2016"
-draft: true
+draft: false
 colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2016-03-21T16:24:55+00:00
 categories: ["Accessibility", "ind.ie", "Personal"]

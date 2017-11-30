@@ -1,6 +1,6 @@
 ---
 title: "Burnout"
-draft: true
+draft: false
 colours: ["#326c95", "#647887", "#658195", "#4E5860", "#738b9c", "#3a4750", "#ff6205"]
 date: 2013-03-12T20:41:36+00:00
 categories: ["Freelancing", "Personal"]

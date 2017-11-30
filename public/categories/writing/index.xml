@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/writing/</link>
+    <description>Recent content in Writing on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility For Everyone</title>
+      <link>https://laurakalbag.com/accessibility-for-everyone/</link>
+      <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
+      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
+ 
+In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+    </item>
+    
+    <item>
+      <title>April’s Pastry Box thought on writing</title>
+      <link>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</link>
+      <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</guid>
+      <description>I was slow to post aboutmy April Pastry Box post as my realign got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.
+[  ](https://the-pastry-box-project.net/laura-kalbag/2014-april-19)</description>
+    </item>
+    
+  </channel>
+</rss>

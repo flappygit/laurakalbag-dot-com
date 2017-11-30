@@ -1,6 +1,6 @@
 ---
 title: "Talking about building with Typecast"
-draft: true
+draft: false
 colours: ["#7b6d32", "#575757", "#968540", "#3b3b3b", "#AB9849", "#010101", "#ffffff"]
 date: 2013-10-24T09:03:51+00:00
 categories: ["Design", "Events"]

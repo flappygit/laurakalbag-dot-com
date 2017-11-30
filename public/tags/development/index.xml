@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/development/</link>
+    <description>Recent content in Development on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 07 Oct 2014 13:57:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breaking Stuff on A List Apart</title>
+      <link>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</link>
+      <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
+      <description>Last week my latest column, Breaking Stuff, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at ind.ie, so I think I’ll be writing more about situations like these as time goes on.
+I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)</description>
+    </item>
+    
+    <item>
+      <title>Grid Frameworks and why I’m not keen on them…</title>
+      <link>https://laurakalbag.com/grid-frameworks/</link>
+      <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grid-frameworks/</guid>
+      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
+After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
+I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 For Web Designers</title>
+      <link>https://laurakalbag.com/html5-for-web-designers/</link>
+      <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
+      <description>Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.
+ my copy of HTML5 For Web Designers   
+HTML5 For Web Designers by Jeremy Keith is the first offering from A Book Apart. It’s a very easy read, not an endless reference, which took me a couple of hours to fully digest whilst I was enjoying the sun.</description>
+    </item>
+    
+  </channel>
+</rss>

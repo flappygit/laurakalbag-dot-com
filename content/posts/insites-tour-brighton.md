@@ -1,6 +1,6 @@
 ---
 title: "Insites Tour Brighton"
-draft: true
+draft: false
 colours: ["#4b4a44", "#5d5d4b", "#ffe91c", "#696759", "#ffe91c", "#3b3b35", "#fab81e"]
 date: 2011-07-20T11:56:25+00:00
 categories: ["Events"]

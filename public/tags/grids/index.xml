@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grids on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/grids/</link>
+    <description>Recent content in Grids on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 03 Mar 2014 18:42:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/grids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Grid Frameworks and why I’m not keen on them…</title>
+      <link>https://laurakalbag.com/grid-frameworks/</link>
+      <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grid-frameworks/</guid>
+      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
+After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
+I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+    </item>
+    
+    <item>
+      <title>Learning Design</title>
+      <link>https://laurakalbag.com/learning-design/</link>
+      <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/learning-design/</guid>
+      <description>Every now and again someone will email me asking how they should go about learning design. After reading Aral Balkan’s fantastic post on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
+First off, read Aral’s post.</description>
+    </item>
+    
+    <item>
+      <title>Grids, flexibility and responsiveness</title>
+      <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
+      <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
+      <description>First steps: choosing a typeface The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?</description>
+    </item>
+    
+    <item>
+      <title>Design Tips For Developers</title>
+      <link>https://laurakalbag.com/design-tips-for-developers/</link>
+      <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
+      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
+And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+    </item>
+    
+  </channel>
+</rss>

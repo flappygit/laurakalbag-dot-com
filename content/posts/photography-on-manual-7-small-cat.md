@@ -1,6 +1,6 @@
 ---
 title: "Photography on manual: 7 –; Small Cat"
-draft: true
+draft: false
 colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#dedede"]
 date: 2015-05-13T16:19:03+00:00
 categories: ["Learning"]

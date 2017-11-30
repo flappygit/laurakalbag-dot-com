@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive Web Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/responsive-web-design/</link>
+    <description>Recent content in Responsive Web Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 03 Mar 2014 18:42:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/responsive-web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Responsive Day Out</title>
+      <link>https://laurakalbag.com/responsive-day-out/</link>
+      <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-day-out/</guid>
+      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
+After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+    </item>
+    
+    <item>
+      <title>24 Ways: Design Systems</title>
+      <link>https://laurakalbag.com/24-ways-design-systems/</link>
+      <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
+      <description>I’ve been thinking a lot about the design in ‘responsive’ design lately. My post on 24ways is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.</description>
+    </item>
+    
+    <item>
+      <title>display: none;</title>
+      <link>https://laurakalbag.com/display-none/</link>
+      <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/display-none/</guid>
+      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
+display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+    </item>
+    
+    <item>
+      <title>Grids, flexibility and responsiveness</title>
+      <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
+      <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
+      <description>First steps: choosing a typeface The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design</title>
+      <link>https://laurakalbag.com/responsive-web-design/</link>
+      <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-web-design/</guid>
+      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
+ Responsive Web Design by Ethan Marcotte  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+    </item>
+    
+    <item>
+      <title>Notes from Ampersand conference — My Digest</title>
+      <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
+      <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
+      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
+And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+    </item>
+    
+    <item>
+      <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
+      <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
+      <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
+      <description>Day Two Ethan Marcotte –; Responsive Web Design Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet
+Tweet Femi T Adesina –; Enhancing your Creativity I mis-hastagged the first tweet!
+Tweet Tweet Tweet Tweet Tweet Tweet
+Tweet Josh Clark –; Buttons Are a Hack: The New Rules of Designing for Touch Tweet Tweet Tweet Tweet
+My thoughts at this point: Tweet Tweet Tweet Tweet
+Josh Clark –; Buttons Are a Hack: The New Rules of Designing for Touch continued&amp;#8230; Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet Tweet</description>
+    </item>
+    
+  </channel>
+</rss>

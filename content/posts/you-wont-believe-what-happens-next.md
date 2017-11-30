@@ -1,6 +1,6 @@
 ---
 title: "Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next"
-draft: true
+draft: false
 colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2017-04-10T12:58:22+00:00
 categories: ["ind.ie"]

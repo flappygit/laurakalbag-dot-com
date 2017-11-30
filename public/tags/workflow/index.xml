@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/workflow/</link>
+    <description>Recent content in Workflow on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 10 Jun 2012 18:17:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don’t let the technical processes of web development stifle your imagination</title>
+      <link>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</link>
+      <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
+      <description>A new post from me, this time at .net magazine. Keep it creative! There’s some pretty cool comments over there too.</description>
+    </item>
+    
+  </channel>
+</rss>

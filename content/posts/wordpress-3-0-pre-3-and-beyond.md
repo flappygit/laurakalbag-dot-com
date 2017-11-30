@@ -1,6 +1,6 @@
 ---
 title: "WordPress 3.0 Part 1—Pre 3.0 and Beyond"
-draft: true
+draft: false
 colours: ["#dc7a1e", "#216F94", "#F7F7F7", "#D54E21", "#D7D7D7", "#B4411B", "#525252"]
 date: 2010-07-16T21:49:42+00:00
 categories: ["WordPress"]

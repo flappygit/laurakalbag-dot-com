@@ -1,6 +1,6 @@
 ---
 title: "Sass for designers — the talk and the case study"
-draft: true
+draft: false
 colours: ["#6f9933", "#3F5526", "#97C459", "#637A3D", "#EEEEEE", "#3F5526", "#637A3D"]
 date: 2013-07-26T09:00:10+00:00
 categories: ["Design", "Development", "Events", "Learning"]

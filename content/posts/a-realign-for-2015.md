@@ -1,6 +1,6 @@
 ---
 title: "A realign for 2015"
-draft: true
+draft: false
 colours: ["#843e92", "#482e61", "#524489", "#432761", "#735093", "#29193a", "#8f6093"]
 date: 2015-04-02T17:24:04+00:00
 categories: ["Design", "Milestones"]

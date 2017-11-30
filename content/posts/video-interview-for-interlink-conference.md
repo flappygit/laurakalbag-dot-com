@@ -1,6 +1,6 @@
 ---
 title: "Video interview for Interlink conference"
-draft: true
+draft: false
 colours: ["#019dd6", "#0189bb", "#00a3dc", "#2b2b2b", "#16c1f3", "#0a0a0a", "#bd0020"]
 date: 2014-03-13T17:47:43+00:00
 categories: ["Design", "Events"]

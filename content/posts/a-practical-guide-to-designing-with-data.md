@@ -1,6 +1,6 @@
 ---
 title: "A Practical Guide to Designing with Data"
-draft: true
+draft: false
 colours: ["#FF3366", "#e74404", "#e13d66", "#d21e4b", "#ff8238", "#b21533", "#eb5114"]
 date: 2012-07-02T10:51:29+00:00
 categories: ["Design", "Reviews"]

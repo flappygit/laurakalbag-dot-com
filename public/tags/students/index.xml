@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/students/</link>
+    <description>Recent content in Students on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 30 Jan 2013 09:31:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mentoring a project: the idea</title>
+      <link>https://laurakalbag.com/mentoring-a-project-the-idea/</link>
+      <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
+      <description>A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.
+Me and freelancing I’m lucky, I get offered a lot of projects, and usually I don’t have any availability for a few months. Little projects like this generally can’t pay the bills for me. It’s a lot of time (particularly admin) for a fairly small return.</description>
+    </item>
+    
+  </channel>
+</rss>

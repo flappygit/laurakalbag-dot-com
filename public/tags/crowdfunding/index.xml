@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowdfunding on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/crowdfunding/</link>
+    <description>Recent content in Crowdfunding on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/crowdfunding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What I’m doing now and why</title>
+      <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
+      <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
+      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+    </item>
+    
+  </channel>
+</rss>

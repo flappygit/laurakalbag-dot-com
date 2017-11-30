@@ -1,6 +1,6 @@
 ---
 title: "Psychology for designers"
-draft: true
+draft: false
 colours: ["#a79739", "#69665d", "#D9C864", "#494946", "#D9C864", "#212023", "#D9C864"]
 date: 2013-04-15T08:55:45+00:00
 categories: ["Reviews"]

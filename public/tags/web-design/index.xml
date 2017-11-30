@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/web-design/</link>
+    <description>Recent content in Web Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 14 Aug 2014 15:47:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Arts: Designing for the unknown</title>
+      <link>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</link>
+      <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
+      <description>Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called Designing for the unknown: how to design templates and frameworks, and has contributions from some really smart people.
+The title image is from my writeup of the Default Perch Theme project I did with Perch.</description>
+    </item>
+    
+    <item>
+      <title>Digital Arts: The future of web design</title>
+      <link>https://laurakalbag.com/digital-arts-the-future-of-web-design/</link>
+      <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
+      <description>Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!
+In April, I spoke to Neil Bennett about the future of web design, and the challenges we face. There were some good questions, and it’s interesting to see the answers of difference people from different areas side-by-side.</description>
+    </item>
+    
+  </channel>
+</rss>

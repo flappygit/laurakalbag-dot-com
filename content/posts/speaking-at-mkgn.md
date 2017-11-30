@@ -1,6 +1,6 @@
 ---
 title: "Speaking at MKGN this Thursday"
-draft: true
+draft: false
 colours: ["#8e264e", "#1f3c49", "#ff498c", "#c74375", "#e8edee", "#8f3054", "#ffffff"]
 date: 2013-12-02T10:57:42+00:00
 categories: ["Events"]

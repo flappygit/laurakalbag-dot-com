@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/slides/</link>
+    <description>Recent content in Slides on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Apr 2017 12:58:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
+      <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
+      <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
+      <description>This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
+ 
+Performance! Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.</description>
+    </item>
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+    <item>
+      <title>Live-designing WordPress Admin Icons</title>
+      <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
+      <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
+      <description>A while ago I wrotea post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
+  The final calendar icons (as designed quickly in 30 minutes or so)   The WordPress London guys kindly filmed my talk and I’ve included it below.</description>
+    </item>
+    
+  </channel>
+</rss>

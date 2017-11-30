@@ -1,6 +1,6 @@
 ---
 title: "Mentoring Q and A on .net magazine"
-draft: true
+draft: false
 colours: ["#000000", "#6A302F", "#4d4d4d", "#4a2626", "#F2F2F2", "#371b1b", "#FFFFFF"]
 date: 2013-07-01T21:19:05+00:00
 categories: ["Design", "Learning"]

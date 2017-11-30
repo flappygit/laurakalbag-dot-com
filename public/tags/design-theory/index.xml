@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Theory on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/design-theory/</link>
+    <description>Recent content in Design Theory on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 03 Mar 2014 18:42:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/design-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Untangle the Web</title>
+      <link>https://laurakalbag.com/speaking-at-untangle-the-web/</link>
+      <pubDate>Mon, 10 Jun 2013 11:09:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-untangle-the-web/</guid>
+      <description>Nothing quite like a last-minute post… Tonight I’m speaking at Untangle the Web at Google Campus in London. I’m doing a talk on Design Theory for the Web where I do a whistle-stop tour through designing with typography, grids and colour on the web.
+I also have a stinking cold so I’m going to be taking industrial quantities of Red Bull and a quarantine zone with me.</description>
+    </item>
+    
+    <item>
+      <title>Typography and the web at Ampersand Conference</title>
+      <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
+      <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
+      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
+This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
+Typography and the web at Ampersand conference</description>
+    </item>
+    
+  </channel>
+</rss>

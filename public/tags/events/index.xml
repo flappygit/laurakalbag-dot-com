@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/events/</link>
+    <description>Recent content in Events on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 04 Feb 2013 21:39:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women and conferences</title>
+      <link>https://laurakalbag.com/women-and-conferences/</link>
+      <pubDate>Mon, 04 Feb 2013 21:39:47 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/women-and-conferences/</guid>
+      <description>I used to not understand the fuss around women at conferences, I thought that we should all just carry on with what we were doing well already and not get caught up in needless controversy. I even wrote a blog post saying exactly that a couple of years ago. I’d never experienced (to my knowledge) any difficulties because I was a woman.
+A bit uncomfortable But then I started hearing more about/was exposed to women who did have bad experiences.</description>
+    </item>
+    
+  </channel>
+</rss>

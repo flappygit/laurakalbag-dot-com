@@ -1,6 +1,6 @@
 ---
 title: "#define 2013"
-draft: true
+draft: false
 colours: ["#518551", "#4D3A6E", "#6D0AAB", "#480772", "#ffffff", "#2C0445", "#51A451"]
 date: 2013-06-07T11:24:22+00:00
 categories: ["Events"]

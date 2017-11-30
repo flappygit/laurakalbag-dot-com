@@ -1,6 +1,6 @@
 ---
 title: "Speaking at KiwiParty in Strasbourg"
-draft: true
+draft: false
 colours: ["#709215", "#495f0e", "#ec135a", "#37480b", "#a4ba25", "#253107", "#ffcc00"]
 date: 2014-03-27T07:50:21+00:00
 categories: ["Events"]

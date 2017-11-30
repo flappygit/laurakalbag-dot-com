@@ -1,6 +1,6 @@
 ---
 title: "Flexboxing the Universal Video Player"
-draft: true
+draft: false
 colours: ["#274191", "#424242", "#293293", "#0c1c66", "#052f84", "#020544", "#0a4899"]
 date: 2015-10-26T13:11:45+00:00
 categories: ["Development"]

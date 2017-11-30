@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appearance on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/appearance/</link>
+    <description>Recent content in Appearance on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 02 Sep 2010 10:42:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/appearance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me vs We</title>
+      <link>https://laurakalbag.com/me-vs-we/</link>
+      <pubDate>Thu, 02 Sep 2010 10:42:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/me-vs-we/</guid>
+      <description>There’s something that’s been niggling at me for ages. The way people act as if they’re a multi-person company when they’re really just one individual. This whole ‘we’ syndrome.
+ We have a great new client now working with us at Just Little Old Me Ltd.
+ Sometimes it makes me giggle when I know somebody is an individual ‘me’ and they’re saying ‘we’ as if they’re some kind of medieval queen.</description>
+    </item>
+    
+  </channel>
+</rss>

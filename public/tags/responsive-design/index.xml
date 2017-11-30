@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive Design on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/responsive-design/</link>
+    <description>Recent content in Responsive Design on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 08 Aug 2013 18:59:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Browser windows and responsive language</title>
+      <link>https://laurakalbag.com/browser-windows/</link>
+      <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/browser-windows/</guid>
+      <description>In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.
+“Devices” It started out with talking about devices. “This design will use X on a mobile phone, Y on a tablet and Z on a desktop computer.” Then it seemed that, as a web community, we realised that the lines between these devices were fairly blurry.</description>
+    </item>
+    
+  </channel>
+</rss>

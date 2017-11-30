@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/development/</link>
+    <description>Recent content in Development on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 26 Oct 2015 13:11:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flexboxing the Universal Video Player</title>
+      <link>https://laurakalbag.com/flexbox-video-player/</link>
+      <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flexbox-video-player/</guid>
+      <description>I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote a blog post on Ind.ie Labs about using flexbox with progressive enhancement.</description>
+    </item>
+    
+    <item>
+      <title>A little realign</title>
+      <link>https://laurakalbag.com/a-little-realign/</link>
+      <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-little-realign/</guid>
+      <description>Things are looking a bit different around here. It’s not a redesign so much as a realign. I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)
+There were a few particular goals for this redesign:
+Rewrite the CSS I lived in fear that someone might look closely at my CSS. My last redesign came about when responsive web design was still young, and I was incredibly foolish.</description>
+    </item>
+    
+    <item>
+      <title>Guest on A Bit More Backendy podcast</title>
+      <link>https://laurakalbag.com/a-bit-more-backendy/</link>
+      <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
+      <description>Yesterday the fourth episode of the Backendy podcast was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.</description>
+    </item>
+    
+    <item>
+      <title>Browser windows and responsive language</title>
+      <link>https://laurakalbag.com/browser-windows/</link>
+      <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/browser-windows/</guid>
+      <description>In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.
+“Devices” It started out with talking about devices. “This design will use X on a mobile phone, Y on a tablet and Z on a desktop computer.” Then it seemed that, as a web community, we realised that the lines between these devices were fairly blurry.</description>
+    </item>
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+    <item>
+      <title>Responsive Day Out</title>
+      <link>https://laurakalbag.com/responsive-day-out/</link>
+      <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-day-out/</guid>
+      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
+After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+    </item>
+    
+    <item>
+      <title>Upfront Podcast</title>
+      <link>https://laurakalbag.com/upfront-podcast/</link>
+      <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/upfront-podcast/</guid>
+      <description>I was a guest on the Upfront podcast with the lovely Jack Franklin and Ben Howdle. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can listen on their website, or listen and subscribe on iTunes.</description>
+    </item>
+    
+  </channel>
+</rss>

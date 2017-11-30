@@ -1,6 +1,6 @@
 ---
 title: "Design work is 50% visual, 50% justification"
-draft: true
+draft: false
 colours: ["#41be7a", "#178047", "#44bb53", "#18513f", "#59ebbc", "#0d4738", "#57fff8"]
 date: 2010-11-23T16:31:50+00:00
 categories: ["Design"]

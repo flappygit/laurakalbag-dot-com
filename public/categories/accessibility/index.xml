@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/accessibility/</link>
+    <description>Recent content in Accessibility on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility For Everyone</title>
+      <link>https://laurakalbag.com/accessibility-for-everyone/</link>
+      <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
+      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
+ 
+In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+    </item>
+    
+    <item>
+      <title>Diary, 21st March 2016</title>
+      <link>https://laurakalbag.com/diary-21st-march-2016/</link>
+      <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
+      <description>It’s been a busy few weeks.
+Ethical Design Manifesto refresh Last week we launched a refresh of the Ethical Design Manifesto, along with a video. As it was a short-ish video, I felt like I had no excuse but to do the captioning for it too. I couldn’t get Subtitle Horse (my usual favourite web software) working with the video, so I ended up using Jubler instead.
+It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/12-days-of-podcasts-day-3/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility By Design</title>
+      <link>https://laurakalbag.com/accessibility-by-design/</link>
+      <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/accessibility-by-design/</guid>
+      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
+ 
+In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+    </item>
+    
+    <item>
+      <title>What do web experts think of BBC Taster?</title>
+      <link>https://laurakalbag.com/bbc-taster/</link>
+      <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/bbc-taster/</guid>
+      <description>In the spirit of catching up on slightly older news, in January I was part of a panel commenting on BBC Taster on Creative Bloq.
+Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at the Sherpa Summit</title>
+      <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
+      <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
+      <description>Last October, Web Standards Sherpa published my mini series on Getting Started With Sass. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.</description>
+    </item>
+    
+    <item>
+      <title>Do your skip links work with keyboard navigation?</title>
+      <link>https://laurakalbag.com/skip-links/</link>
+      <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/skip-links/</guid>
+      <description>Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.
+This afternoon I was testing a new feature I want to add to Ind.ie’s accessible video player, and started moving down our style guide (work in progress!</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Web Day at Bath Digital Festival</title>
+      <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
+      <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
+      <description>I’m speaking at Web Day at Bath Digital Festival on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. Tickets are a very reasonable £15, and it looks like it’ll be a very interesting day.</description>
+    </item>
+    
+    <item>
+      <title>Why accessibility matters to me #GAAD</title>
+      <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
+      <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
+      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
+How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "Interview in Allan McAvoy’s Freelancers series"
-draft: true
+draft: false
 colours: ["#696969", "#2e704f", "#4ca97b", "#18432e", "#7FC6A3", "#112c1f", "#ffffff"]
 date: 2013-07-02T09:00:11+00:00
 categories: ["Design", "Freelancing"]

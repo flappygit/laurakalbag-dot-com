@@ -1,6 +1,6 @@
 ---
 title: "Speaking at border:none"
-draft: true
+draft: false
 colours: ["#ff0078", "#4c4c4c", "#ff0078", "#424242", "#ffffff", "#272727", "#ffffff"]
 date: 2014-09-16T08:44:10+00:00
 categories: ["Design", "Design Issues", "Events"]

@@ -1,6 +1,6 @@
 ---
 title: "Diary, 13th June 2016"
-draft: true
+draft: false
 colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2016-06-13T13:38:04+00:00
 categories: ["ind.ie"]

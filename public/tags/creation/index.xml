@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creation on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/creation/</link>
+    <description>Recent content in Creation on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 05 Dec 2012 18:10:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/creation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reinvention and Building Ourselves — Build 2012</title>
+      <link>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</link>
+      <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</guid>
+      <description>I’ve posted a writeup of Build conference 2012 on ubelly.
+Oddly, I’ve not found any other writeups from Build, which may be because (as I mention in my post) the talks weren’t those sound-bite talks that give quick take away tips. If anyone does come across any, please point me in the right direction as I’d love to see how other people approached the wide-ranging stories!</description>
+    </item>
+    
+  </channel>
+</rss>

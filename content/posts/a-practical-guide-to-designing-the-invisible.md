@@ -1,6 +1,6 @@
 ---
 title: "A Practical Guide to Designing the invisible"
-draft: true
+draft: false
 colours: ["#7ccef4", "#0186ad", "#62b7d0", "#10667e", "#6fc8e2", "#0f3b48", "#8edef6"]
 date: 2011-11-01T08:27:28+00:00
 categories: ["Design", "Reviews"]

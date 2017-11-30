@@ -1,6 +1,6 @@
 ---
 title: "Design theory for the web workshop at Interlink conference"
-draft: true
+draft: false
 colours: ["#019dd6", "#0189bb", "#00a3dc", "#2b2b2b", "#16c1f3", "#0a0a0a", "#86807f"]
 date: 2014-03-03T18:42:46+00:00
 categories: ["Design", "Events"]

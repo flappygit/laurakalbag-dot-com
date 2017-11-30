@@ -1,6 +1,6 @@
 ---
 title: "Bereaved"
-draft: true
+draft: false
 colours: ["#7c3351", "#353535", "#3a3a3a", "#262626", "#722960", "#383838", "#245f8c"]
 date: 2016-10-03T12:44:47+00:00
 categories: ["Personal"]

@@ -1,6 +1,6 @@
 ---
 title: "Photography on manual: 11 –; Overlay"
-draft: true
+draft: false
 colours: ["#66823d", "#445a23", "#5f922b", "#366722", "#dcc52b", "#043205", "#f0de3b"]
 date: 2015-05-28T17:38:14+00:00
 categories: ["Learning"]

@@ -1,6 +1,6 @@
 ---
 title: "I also pledge to be better"
-draft: true
+draft: false
 colours: ["#485dad", "#344e8d", "#4f47ae", "#383276", "#7c76bc", "#2b266e", "#3862c7"]
 date: 2013-10-17T07:28:18+00:00
 categories: ["Events", "Personal"]

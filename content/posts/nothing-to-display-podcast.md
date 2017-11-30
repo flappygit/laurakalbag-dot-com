@@ -1,6 +1,6 @@
 ---
 title: "Nothing to display podcast"
-draft: true
+draft: false
 colours: ["#527b89", "#0c6f92", "#0DA4D9", "#124a5e", "#ffffff", "#25586a", "#e0e0e0"]
 date: 2013-03-02T17:43:55+00:00
 categories: ["Design", "Freelancing", "Learning", "Podcasts"]

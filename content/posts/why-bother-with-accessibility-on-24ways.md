@@ -1,6 +1,6 @@
 ---
 title: "Why Bother With Accessibility? on 24ways"
-draft: true
+draft: false
 colours: ["#ef003e", "#804e71", "#660050", "#6a3b4f", "#fdf7fd", "#330028", "#fdf7fd"]
 date: 2013-12-10T09:45:22+00:00
 categories: ["Design"]

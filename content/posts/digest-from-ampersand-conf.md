@@ -1,6 +1,6 @@
 ---
 title: "Notes from Ampersand conference — My Digest"
-draft: true
+draft: false
 colours: ["#8e813e", "#a1944f", "#d5c87b", "#807b60", "#d9cd8c", "#000000", "#aaa588"]
 date: 2011-06-22T09:26:45+00:00
 categories: ["Design", "Events"]

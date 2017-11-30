@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Conference on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/online-conference/</link>
+    <description>Recent content in Online Conference on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 02 Apr 2015 10:57:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/online-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking at the Sherpa Summit</title>
+      <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
+      <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
+      <description>Last October, Web Standards Sherpa published my mini series on Getting Started With Sass. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.</description>
+    </item>
+    
+    <item>
+      <title>Sass For Designers at CSS Summit 2013</title>
+      <link>https://laurakalbag.com/css-summit-2013/</link>
+      <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/css-summit-2013/</guid>
+      <description>I’m speaking at CSS Summit 2013 about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)
+There’s a huge amount of expert speakers across three days, with a day each dedicated to CSS3 Training, Advanced CSS and Preprocessors. I’m on the third day, covering the basics of Sass with ‘Sass for Designers’. The other talks on that day will cover Sass in more depth, with case studies and more advanced techniques, so I’m hoping to provide a useful introduction for those of us who are less familiar with programming.</description>
+    </item>
+    
+  </channel>
+</rss>

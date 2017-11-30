@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/meeting/</link>
+    <description>Recent content in Meeting on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 04 Mar 2013 11:38:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/meeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mentoring a project: the project</title>
+      <link>https://laurakalbag.com/mentoring-the-project/</link>
+      <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mentoring-the-project/</guid>
+      <description>Previous posts on the mentoring project:
+ Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people  In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.</description>
+    </item>
+    
+  </channel>
+</rss>

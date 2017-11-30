@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/tools/</link>
+    <description>Recent content in Tools on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 15 Aug 2014 07:20:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workplaces of Web Professionals</title>
+      <link>https://laurakalbag.com/workplaces-of-web-professionals/</link>
+      <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
+      <description>This morning Martin Wolf published an interesting blog post with photos of the “workplaces of web professionals”. I always wonder if people really are that tidy, or if they spent a while clearing up before they took the photo.
+The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.</description>
+    </item>
+    
+    <item>
+      <title>Interview on Workspiration</title>
+      <link>https://laurakalbag.com/interview-on-workspiration/</link>
+      <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
+      <description>A few weeks ago I answered some questions for Workspiration on my hardware and software setup, inspiration and dreams.
+Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!</description>
+    </item>
+    
+    <item>
+      <title>Fonts.com mockup fonts</title>
+      <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
+      <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
+      <description>I do like the way that fonts.com do web fonts. (I also like all of the web font services for different reasons and different projects.)
+Mockup fonts Fonts.com have this new system that really works. It involves an app called SkyFonts. This allows you to try out different fonts in your desktop mockups as rentals. Great for static mockups of web designs. You choose the fonts you want on the fonts.</description>
+    </item>
+    
+    <item>
+      <title>Alfred App v2 theme</title>
+      <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
+      <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
+      <description>Today I finally got around to playing with Alfred v2. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
+I was playing around with the appearance and made a really minimal theme.</description>
+    </item>
+    
+  </channel>
+</rss>

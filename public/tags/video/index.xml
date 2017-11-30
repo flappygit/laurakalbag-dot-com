@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/video/</link>
+    <description>Recent content in Video on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 21 Mar 2016 16:24:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diary, 21st March 2016</title>
+      <link>https://laurakalbag.com/diary-21st-march-2016/</link>
+      <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
+      <description>It’s been a busy few weeks.
+Ethical Design Manifesto refresh Last week we launched a refresh of the Ethical Design Manifesto, along with a video. As it was a short-ish video, I felt like I had no excuse but to do the captioning for it too. I couldn’t get Subtitle Horse (my usual favourite web software) working with the video, so I ended up using Jubler instead.
+It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.</description>
+    </item>
+    
+    <item>
+      <title>Flexboxing the Universal Video Player</title>
+      <link>https://laurakalbag.com/flexbox-video-player/</link>
+      <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/flexbox-video-player/</guid>
+      <description>I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote a blog post on Ind.ie Labs about using flexbox with progressive enhancement.</description>
+    </item>
+    
+    <item>
+      <title>Indie Tech Summit videos and my talk on Universal Design</title>
+      <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
+      <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
+      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+    </item>
+    
+    <item>
+      <title>Video interview for Interlink conference</title>
+      <link>https://laurakalbag.com/video-interview-for-interlink-conference/</link>
+      <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/video-interview-for-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ Last week I had a chat with my friend Steve Fisher about my upcoming talk and workshop at Interlink conference and all things Canadian. It was a fun way to end the day, and is complete with me doing a really terrible Canadian accent.</description>
+    </item>
+    
+    <item>
+      <title>Live-designing WordPress Admin Icons</title>
+      <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
+      <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
+      <description>A while ago I wrotea post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
+  The final calendar icons (as designed quickly in 30 minutes or so)   The WordPress London guys kindly filmed my talk and I’ve included it below.</description>
+    </item>
+    
+  </channel>
+</rss>

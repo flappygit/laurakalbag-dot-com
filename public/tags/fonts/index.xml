@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fonts on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/fonts/</link>
+    <description>Recent content in Fonts on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 10 Apr 2017 10:18:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site adjustments</title>
+      <link>https://laurakalbag.com/site-adjustments/</link>
+      <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/site-adjustments/</guid>
+      <description>My site is looking a little different, I’m now using the lovely Recia for the type. Fontdeck recently retired, and while they gave loads of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.
+  My site with web-safe backup fonts, Georgia and Helvetica   
+I have a redesign in the works. But I’ve no idea when it’ll be finished.</description>
+    </item>
+    
+    <item>
+      <title>Notes from Ampersand conference — My Digest</title>
+      <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
+      <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
+      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
+And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+    </item>
+    
+    <item>
+      <title>Design Tips For Developers</title>
+      <link>https://laurakalbag.com/design-tips-for-developers/</link>
+      <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
+      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
+And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+    </item>
+    
+    <item>
+      <title>Picking Fonts</title>
+      <link>https://laurakalbag.com/picking-fonts/</link>
+      <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/picking-fonts/</guid>
+      <description>This little post is an extension of my post on Web Fonts.
+Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
+I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+    </item>
+    
+    <item>
+      <title>Web Fonts</title>
+      <link>https://laurakalbag.com/web-fonts/</link>
+      <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/web-fonts/</guid>
+      <description>I’ve got a new infatuation; web fonts. Since the second I heard about Typekit (and Fontdeck) last year I’ve been giddy with excitement about being able to use more fonts on the web. Georgia just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.</description>
+    </item>
+    
+  </channel>
+</rss>

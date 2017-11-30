@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rss on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/rss/</link>
+    <description>Recent content in Rss on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 01 Aug 2010 18:54:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How the iPad is saving my sanity</title>
+      <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
+      <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
+      <description>Fan girl I’ve had an iPad since the day it was released in the UK. I bought it because I’m a fan girl. I admit it. I could pretend that I wanted it to take to conferences or use for testing or when I didn’t need a laptop when I went to visit clients. In truth, I only go to one or two conferences per year, I’ve not yet made a site that needed an iPad-specific site and when I go to visit clients I always need my laptop.</description>
+    </item>
+    
+  </channel>
+</rss>

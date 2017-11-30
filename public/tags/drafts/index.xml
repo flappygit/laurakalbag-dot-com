@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/drafts/</link>
+    <description>Recent content in Drafts on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 14 Sep 2010 20:06:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/drafts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Dribbble and Forrst for feedback on a client project</title>
+      <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
+      <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
+      <description>A couple of weeks ago I created a quickie logo for Andy Warburton’s mobile stock photography service Stockyoo. Andy was really keen on the idea of using Forrst and Dribbble for posting the progress of the project to get the opinions of potential users of a stock photography service and do some early promo for Stockyoo itself.
+Dribbble and Forrst Dribbble and Forrst are part of a new wave of sites aimed at (mostly web) designers and developers.</description>
+    </item>
+    
+  </channel>
+</rss>

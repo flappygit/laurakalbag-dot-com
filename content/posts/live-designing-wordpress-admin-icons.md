@@ -1,6 +1,6 @@
 ---
 title: "Live-designing WordPress Admin Icons"
-draft: true
+draft: false
 colours: ["#AB3F1B", "#206D92", "#CD4B20", "#298CBA", "#DADADA", "#0e5d81", "#F7F7F7"]
 date: 2013-02-02T13:09:26+00:00
 categories: ["Design", "Events"]

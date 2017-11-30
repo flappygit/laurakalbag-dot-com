@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile First on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/mobile-first/</link>
+    <description>Recent content in Mobile First on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 06 Nov 2012 08:45:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/mobile-first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>display: none;</title>
+      <link>https://laurakalbag.com/display-none/</link>
+      <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/display-none/</guid>
+      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
+display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design</title>
+      <link>https://laurakalbag.com/responsive-web-design/</link>
+      <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-web-design/</guid>
+      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
+ Responsive Web Design by Ethan Marcotte  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small Screens on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/small-screens/</link>
+    <description>Recent content in Small Screens on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 06 Nov 2012 08:45:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/small-screens/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>display: none;</title>
+      <link>https://laurakalbag.com/display-none/</link>
+      <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/display-none/</guid>
+      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
+display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+    </item>
+    
+  </channel>
+</rss>

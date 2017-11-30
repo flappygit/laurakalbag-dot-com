@@ -1,6 +1,6 @@
 ---
 title: "Photography on manual: 2 –; Splash"
-draft: true
+draft: false
 colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#dedede"]
 date: 2015-05-03T19:37:04+00:00
 categories: ["Learning"]

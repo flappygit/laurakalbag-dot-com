@@ -1,6 +1,6 @@
 ---
 title: "Photography on manual: 6 –; Walk"
-draft: true
+draft: false
 colours: ["#454545", "#5e5e5e", "#5e5e5e", "#454545", "#dedede", "#232323", "#dedede"]
 date: 2015-05-11T16:33:49+00:00
 categories: ["Learning"]

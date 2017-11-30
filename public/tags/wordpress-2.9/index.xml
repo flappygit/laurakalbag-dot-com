@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress 2.9 on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/wordpress-2.9/</link>
+    <description>Recent content in Wordpress 2.9 on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 16 Jul 2010 21:49:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/wordpress-2.9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress 3.0 Part 1—Pre 3.0 and Beyond</title>
+      <link>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</link>
+      <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</guid>
+      <description>This post has three parts. This is part one. Visit the other parts below:
+ Part 2: WordPress 3.0—Really WordPress 3.0 Part 3: WordPress 3.0—Theme Development and the Design  I’m a big fat WordPress fan. I love the people behind it, I love the ethicsand I love how it makes it easy for me to make cool sites that my clients can update themselves.
+Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients.</description>
+    </item>
+    
+  </channel>
+</rss>

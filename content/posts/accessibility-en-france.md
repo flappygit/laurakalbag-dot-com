@@ -1,6 +1,6 @@
 ---
 title: "Accessibility en France"
-draft: true
+draft: false
 colours: ["#006594", "#005176", "#687b00", "#003751", "#a4ba25", "#001c2d", "#ed135a"]
 date: 2014-06-14T11:19:30+00:00
 categories: ["Uncategorized"]

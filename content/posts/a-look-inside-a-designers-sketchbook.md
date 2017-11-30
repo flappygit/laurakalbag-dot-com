@@ -1,7 +1,7 @@
 ---
 
 title: "A look inside a designer’s sketchbook"
-draft: true
+draft: false
 colours: ["#646464", "#b65b41", "#c84e26", "#383838", "#e67252", "#0a0a0a", "#ffffff"]
 date: 2014-05-08T10:52:20+00:00
 categories: ["Design"]

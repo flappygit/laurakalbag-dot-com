@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/mobile/</link>
+    <description>Recent content in Mobile on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Dec 2011 09:14:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile First</title>
+      <link>https://laurakalbag.com/mobile-first/</link>
+      <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/mobile-first/</guid>
+      <description>Continuing on with my chapter-a-day, last week I finished reading the brilliant Mobile First by Luke Wroblewski.
+ Mobile First by Luke Wroblewski   Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design</title>
+      <link>https://laurakalbag.com/responsive-web-design/</link>
+      <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-web-design/</guid>
+      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
+ Responsive Web Design by Ethan Marcotte  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+    </item>
+    
+    <item>
+      <title>The Big M</title>
+      <link>https://laurakalbag.com/the-big-m/</link>
+      <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/the-big-m/</guid>
+      <description>Big M badge   First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work everywhere) so this is really going to be the most biased event review you’ve ever read!</description>
+    </item>
+    
+    <item>
+      <title>Who wants a ticket for The Big M?</title>
+      <link>https://laurakalbag.com/win-a-ticket-for-the-big-m/</link>
+      <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
+      <description>I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, The Big M.
+ The Big M website   
+As a result, I have 3 conference tickets worth £233.83 to give away to lovely people who want to learn more about mobile (covering topics such as innovation, usability, development, apps and mobile web.)
+My 3 tickets are for the first day, the conference part of The Big M, which is on 21st March 2011 at Komedia in Bath (UK.</description>
+    </item>
+    
+  </channel>
+</rss>

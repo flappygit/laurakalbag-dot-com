@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketches on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/sketches/</link>
+    <description>Recent content in Sketches on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 08 May 2014 10:52:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/sketches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A look inside a designer’s sketchbook</title>
+      <link>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</link>
+      <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</guid>
+      <description>A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my sketchbook pages on his site. Ian wanted to emphasise the rough, imperfect nature of the way we plan logo designs, and show real work done by real people.
+Last week, Ian added some pages from my sketchbook to his post, “A look inside a designers sketchbook”. He included some of my sketches from the Indie Phone and Turbine projects.</description>
+    </item>
+    
+  </channel>
+</rss>

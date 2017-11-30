@@ -1,6 +1,6 @@
 ---
 title: "Designing For Emotion"
-draft: true
+draft: false
 colours: ["#cf68cf", "#6C356C", "#e788d0", "#4b1b4b", "#a84da8", "#3e283e", "#b93cb9"]
 date: 2011-11-15T09:43:18+00:00
 categories: ["Design", "Reviews"]

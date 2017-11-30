@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/tools/</link>
+    <description>Recent content in Tools on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 30 Mar 2013 20:09:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alfred App v2 theme</title>
+      <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
+      <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
+      <description>Today I finally got around to playing with Alfred v2. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
+I was playing around with the appearance and made a really minimal theme.</description>
+    </item>
+    
+    <item>
+      <title>My favourite apps—fit for purpose</title>
+      <link>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</link>
+      <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</guid>
+      <description>After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.
+Tweet A few people asked what I thought the alternatives are, so I thought it might be time to write a post about it.
+Photoshop and Illustrator, why not? I’ve been suffering Adobe software for a long time. Since Adobe Photoshop was introduced to me as ‘the industry standard’ when I was at college learning basic photo manipulation, it’s been in my life.</description>
+    </item>
+    
+  </channel>
+</rss>

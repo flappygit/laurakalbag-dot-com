@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skip Links on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/skip-links/</link>
+    <description>Recent content in Skip Links on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 14 Jan 2015 14:59:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/skip-links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Do your skip links work with keyboard navigation?</title>
+      <link>https://laurakalbag.com/skip-links/</link>
+      <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/skip-links/</guid>
+      <description>Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.
+This afternoon I was testing a new feature I want to add to Ind.ie’s accessible video player, and started moving down our style guide (work in progress!</description>
+    </item>
+    
+  </channel>
+</rss>

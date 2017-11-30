@@ -1,6 +1,6 @@
 ---
 title: "Grids, flexibility and responsiveness"
-draft: true
+draft: false
 colours: ["#2ba6b6", "#118392", "#28aad2", "#115e7e", "#047E98", "#063e55", "#00A464"]
 date: 2012-10-12T21:39:30+00:00
 categories: ["Design"]

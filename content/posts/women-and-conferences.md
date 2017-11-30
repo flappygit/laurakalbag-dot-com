@@ -1,6 +1,6 @@
 ---
 title: "Women and conferences"
-draft: true
+draft: false
 colours: ["#c42779", "#64486a", "#bd2876", "#842447", "#cf4a7c", "#783054", "#ac629a"]
 date: 2013-02-04T21:39:47+00:00
 categories: ["Events", "Personal"]

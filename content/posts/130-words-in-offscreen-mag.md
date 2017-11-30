@@ -1,6 +1,6 @@
 ---
 title: "130 words on getting creative in Offscreen Magazine"
-draft: true
+draft: false
 colours: ["#84535c", "#2e2d3c", "#666486", "#525066", "#a2645e", "#0a0a0a", "#a48964"]
 date: 2015-04-09T13:03:00+00:00
 categories: ["Design"]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colour on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/colour/</link>
+    <description>Recent content in Colour on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 02 Apr 2015 17:24:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/colour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A realign for 2015</title>
+      <link>https://laurakalbag.com/a-realign-for-2015/</link>
+      <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
+      <description>Almost a year after last year’s realign, I’ve made some more tweaks to my site. There were a few reasons behind it:
+ I’m not freelance anymore, so I don’t need the focus on my portfolio As I’m now working with Ind.ie, I needed to update my about page The navigation needed some accessibility work The colours were beginning to grate on me  Less portfolio, more… My blog has been fairly quiet, but actually that’s because I’ve been writing a lot elsewhere.</description>
+    </item>
+    
+    <item>
+      <title>Design theory for the web workshop at Interlink conference</title>
+      <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
+      <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
+      <description>Sadly, Interlink conference has been cancelled. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.
+ I’m running my ‘Design theory for the web’ workshop at Interlink conference in Canada on the 18th of June.
+ 
+It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:</description>
+    </item>
+    
+    <item>
+      <title>Design Tips For Developers</title>
+      <link>https://laurakalbag.com/design-tips-for-developers/</link>
+      <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
+      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
+And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+    </item>
+    
+  </channel>
+</rss>

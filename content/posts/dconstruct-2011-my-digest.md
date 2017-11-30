@@ -1,6 +1,6 @@
 ---
 title: "dConstruct 2011 — My Digest"
-draft: true
+draft: false
 colours: ["#87BA3C", "#343B34", "#aab1a0", "#757b6f", "#5e7c31", "#1c1c1c", "#74865b"]
 date: 2011-09-12T10:56:45+00:00
 categories: ["Events"]

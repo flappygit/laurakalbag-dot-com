@@ -1,6 +1,6 @@
 ---
 title: "Indie Tech Summit videos and my talk on Universal Design"
-draft: true
+draft: false
 colours: ["#832821", "#565656", "#b6372e", "#343434", "#ffffff", "#020202", "#ffffff"]
 date: 2014-08-26T11:59:37+00:00
 categories: ["Design", "Events"]

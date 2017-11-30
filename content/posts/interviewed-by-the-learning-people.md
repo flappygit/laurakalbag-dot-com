@@ -1,6 +1,6 @@
 ---
 title: "Interviewed by The Learning People"
-draft: true
+draft: false
 colours: ["#82B808", "#6e6e6e", "#82B808", "#6c9217", "#E2E2E2", "#4f6c0f", "#E92F30"]
 date: 2013-10-31T10:51:06+00:00
 categories: ["Freelancing", "Personal"]

@@ -1,6 +1,6 @@
 ---
 title: "Zootool — The best and most beautiful tool for storing inspiration"
-draft: true
+draft: false
 colours: ["#7FAB39", "#4e4e4e", "#afe659", "#48331E", "#ffffff", "#231b12", "#8E887B"]
 date: 2010-06-10T21:39:32+00:00
 categories: ["Reviews"]

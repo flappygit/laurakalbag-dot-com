@@ -1,6 +1,6 @@
 ---
 title: "Web talk dog walk II"
-draft: true
+draft: false
 colours: ["#3c6a90", "#354F38", "#84a739", "#49712d", "#C4DEF5", "#213413", "#E2C69E"]
 date: 2013-06-27T09:29:04+00:00
 categories: ["Events"]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/users/</link>
+    <description>Recent content in Users on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 01 Jun 2012 21:51:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/users/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Will understanding the mainstream affect me as a designer?</title>
+      <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
+      <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
+      <description>I’ve been contemplating how designers can identify better with more mainstream users.
+I had a thought last week. What if, by rejecting Facebook, I’m actually missing out on design patterns that are so influential on the mainstream user that it affects their perception on the rest of the web?
+And the same goes for Google Chrome. I’ve been going through a rebellious anti-Google phase, but now Chrome has taken over as the world’s most popular browser, am I making life harder for myself by developing sites in Safari first?</description>
+    </item>
+    
+    <item>
+      <title>Labels in input fields aren’t such a good idea</title>
+      <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
+      <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
+      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
+Example:
+ a form field where the label is shown inside the text input field   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+    </item>
+    
+    <item>
+      <title>Stuck on a design</title>
+      <link>https://laurakalbag.com/stuck-on-a-design/</link>
+      <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
+      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
+Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+    </item>
+    
+    <item>
+      <title>Open In A New Window</title>
+      <link>https://laurakalbag.com/open-in-a-new-window/</link>
+      <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
+      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
+I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+    </item>
+    
+  </channel>
+</rss>

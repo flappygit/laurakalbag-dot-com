@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexible on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/flexible/</link>
+    <description>Recent content in Flexible on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 12 Dec 2012 10:45:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/flexible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>24 Ways: Design Systems</title>
+      <link>https://laurakalbag.com/24-ways-design-systems/</link>
+      <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
+      <description>I’ve been thinking a lot about the design in ‘responsive’ design lately. My post on 24ways is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design</title>
+      <link>https://laurakalbag.com/responsive-web-design/</link>
+      <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/responsive-web-design/</guid>
+      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
+ Responsive Web Design by Ethan Marcotte  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+    </item>
+    
+  </channel>
+</rss>

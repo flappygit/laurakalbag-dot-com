@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom Backgrounds on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/custom-backgrounds/</link>
+    <description>Recent content in Custom Backgrounds on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 16 Jul 2010 21:50:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/custom-backgrounds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
+      <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
+      <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
+      <description>This post has three parts. This is part three. Visit the other parts below:
+ Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 2: WordPress 3.0—Really WordPress 3.0  Easier for theme developers to make it easy for users The following WordPress 3.0 features really make it easier for the big-time theme developers who create highly customisable themes.
+Menus This is brilliant. Before the menus feature, we had to bodge any extra links we wanted on to the end of the wp_list_pages (that just lists pages!</description>
+    </item>
+    
+  </channel>
+</rss>

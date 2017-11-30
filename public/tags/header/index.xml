@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Header on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/header/</link>
+    <description>Recent content in Header on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 05 Jul 2010 19:23:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/header/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Picking Fonts</title>
+      <link>https://laurakalbag.com/picking-fonts/</link>
+      <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/picking-fonts/</guid>
+      <description>This little post is an extension of my post on Web Fonts.
+Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
+I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+    </item>
+    
+  </channel>
+</rss>

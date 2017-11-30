@@ -1,6 +1,6 @@
 ---
 title: "Delivery Logistics on A List Apart"
-draft: true
+draft: false
 colours: ["#3481c3", "#6b6b6b", "#2455c3", "#383838", "#ffffff", "#0a0a0a", "#ffffff"]
 date: 2014-02-27T15:25:44+00:00
 categories: ["Design", "Freelancing"]

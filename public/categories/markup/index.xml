@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup on Laura Kalbag</title>
+    <link>https://laurakalbag.com/categories/markup/</link>
+    <description>Recent content in Markup on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 01 Jan 2013 19:01:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/categories/markup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grid Frameworks and why I’m not keen on them…</title>
+      <link>https://laurakalbag.com/grid-frameworks/</link>
+      <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/grid-frameworks/</guid>
+      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
+After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
+I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers — The Setup</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
+      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+Of course, all of this can be done with the command line and other terrifying tools.</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers</title>
+      <link>https://laurakalbag.com/sass-for-designers/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers/</guid>
+      <description>Despite saying that I wanted to avoid writing post about development, I wanted to write something about Sass.
+Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of short-hand that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try my post on Sass for Designers — The Setup.</description>
+    </item>
+    
+    <item>
+      <title>display: none;</title>
+      <link>https://laurakalbag.com/display-none/</link>
+      <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/display-none/</guid>
+      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
+display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+    </item>
+    
+  </channel>
+</rss>

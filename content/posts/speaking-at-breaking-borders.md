@@ -1,6 +1,6 @@
 ---
 title: "Speaking at Breaking Borders"
-draft: true
+draft: false
 colours: ["#df4220", "#3d90b8", "#2AAD39", "#2a7683", "#F4F641", "#136471", "#D96FD8"]
 date: 2013-03-29T16:01:21+00:00
 categories: ["Events"]

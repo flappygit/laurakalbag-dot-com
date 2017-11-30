@@ -1,6 +1,6 @@
 ---
 title: "Digital Arts: The future of web design"
-draft: true
+draft: false
 colours: ["#c81477", "#565656", "#df1685", "#333333", "#56c2b4", "#020202", "#56c2b4"]
 date: 2014-08-01T13:16:04+00:00
 categories: ["Design", "Design Issues"]

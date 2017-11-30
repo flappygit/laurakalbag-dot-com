@@ -1,6 +1,6 @@
 ---
 title: "Really, a redesign? This can’t be real…"
-draft: true
+draft: false
 colours: ["#db1a54", "#a93d89", "#ff547d", "#7c3b91", "#995ddd", "#44284d", "#f14681"]
 date: 2012-10-09T07:00:43+00:00
 categories: ["Design", "Milestones"]

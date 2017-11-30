@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desk Space on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/desk-space/</link>
+    <description>Recent content in Desk Space on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 31 Aug 2010 10:00:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/desk-space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Year One</title>
+      <link>https://laurakalbag.com/year-1/</link>
+      <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/year-1/</guid>
+      <description>It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.
+Getting Started I felt pretty ready for freelancing full-time, I’d had a lot of experience on projects whilst I was at university.</description>
+    </item>
+    
+  </channel>
+</rss>

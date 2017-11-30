@@ -1,6 +1,6 @@
 ---
 title: "Solving problems with naïvety"
-draft: true
+draft: false
 colours: ["#2cb1c9", "#4B7CA5", "#95d1e4", "#1694AB", "#5783a8", "#3e5970", "#a3d2dc"]
 date: 2012-05-07T14:46:30+00:00
 categories: ["Design", "Events", "Usability"]

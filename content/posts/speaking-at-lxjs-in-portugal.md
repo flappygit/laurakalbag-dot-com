@@ -1,6 +1,6 @@
 ---
 title: "Speaking at LXJS in Portugal"
-draft: true
+draft: false
 colours: ["#105784", "#0a68a3", "#008de6", "#0C486D", "#D9EAF4", "#153d56", "#C2D1DA"]
 date: 2013-06-08T09:10:59+00:00
 categories: ["Events"]

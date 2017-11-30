@@ -1,6 +1,6 @@
 ---
 title: "Digital Arts: Designing for the unknown"
-draft: true
+draft: false
 colours: ["#c81477", "#565656", "#df1685", "#333333", "#56c2b4", "#020202", "#56c2b4"]
 date: 2014-08-14T15:47:30+00:00
 categories: ["Design", "Design Issues"]

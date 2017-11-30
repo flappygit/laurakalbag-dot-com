@@ -1,6 +1,6 @@
 ---
 title: "What I’m doing now and why"
-draft: true
+draft: false
 colours: ["#737373", "#762829", "#cf1313", "#ab0f0f", "#ffffff", "#640707", "#ffffff"]
 date: 2014-11-28T13:09:28+00:00
 categories: ["Design", "Freelancing", "ind.ie"]

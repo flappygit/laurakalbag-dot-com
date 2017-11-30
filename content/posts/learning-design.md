@@ -1,6 +1,6 @@
 ---
 title: "Learning Design"
-draft: true
+draft: false
 colours: ["#37af9b", "#20794a", "#369dbb", "#2967a0", "#22bb5b", "#2e525e", "#3aacce"]
 date: 2012-12-31T14:57:05+00:00
 categories: ["Design", "Learning"]

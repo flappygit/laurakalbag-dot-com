@@ -1,6 +1,6 @@
 ---
 title: "Industry mentoring on Creative Bloq"
-draft: true
+draft: false
 colours: ["#a0b528", "#2f7d31", "#50b849", "#48514e", "#5e6965", "#111a17", "#b5d333"]
 date: 2014-01-23T14:06:16+00:00
 categories: ["Learning"]

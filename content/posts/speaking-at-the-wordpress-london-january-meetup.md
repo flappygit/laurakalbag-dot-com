@@ -1,6 +1,6 @@
 ---
 title: "Speaking at the WordPress London January meetup"
-draft: true
+draft: false
 colours: ["#299dd2", "#216F94", "#D54E21", "#7b7b7b", "#DCDCDC", "#444444", "#F7F7F7"]
 date: 2012-12-17T11:56:56+00:00
 categories: ["Design", "Events"]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bath on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/bath/</link>
+    <description>Recent content in Bath on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 25 Sep 2014 14:09:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/bath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking at Web Day at Bath Digital Festival</title>
+      <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
+      <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
+      <description>I’m speaking at Web Day at Bath Digital Festival on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. Tickets are a very reasonable £15, and it looks like it’ll be a very interesting day.</description>
+    </item>
+    
+  </channel>
+</rss>

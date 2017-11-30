@@ -1,6 +1,6 @@
 ---
 title: "Speaking at Untangle the Web"
-draft: true
+draft: false
 colours: ["#d7ba28", "#b35600", "#d7ba28", "#8a2f00", "#ffffff", "#6b1e00", "#000000"]
 date: 2013-06-10T11:09:40+00:00
 categories: ["Design", "Events"]

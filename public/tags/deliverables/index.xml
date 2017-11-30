@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deliverables on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/deliverables/</link>
+    <description>Recent content in Deliverables on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 27 Feb 2014 15:25:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/deliverables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Delivery Logistics on A List Apart</title>
+      <link>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</link>
+      <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</guid>
+      <description>There’s nothing wrong with sending a client a rough sketch if that’s all that’s needed to communicate your idea. In my latest column on A List Apart, I’ve written about deliverables and why what the client expects isn’t always the right thing to do…</description>
+    </item>
+    
+  </channel>
+</rss>

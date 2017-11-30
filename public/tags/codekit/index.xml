@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codekit on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/codekit/</link>
+    <description>Recent content in Codekit on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 26 Jul 2013 09:00:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/codekit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sass for designers — the talk and the case study</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
+      <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
+      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
+Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+    </item>
+    
+    <item>
+      <title>Sass for Designers — The Setup</title>
+      <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
+      <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
+      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
+Of course, all of this can be done with the command line and other terrifying tools.</description>
+    </item>
+    
+  </channel>
+</rss>

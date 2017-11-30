@@ -1,6 +1,6 @@
 ---
 title: "Good old designer snobbery is alive and kicking"
-draft: true
+draft: false
 colours: ["#26404f", "#4B6594", "#6286cb", "#355467", "#87a6e0", "#1f323d", "#8faadc"]
 date: 2010-10-06T10:38:28+00:00
 categories: ["Design"]

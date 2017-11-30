@@ -1,6 +1,6 @@
 ---
 title: "A loveletter"
-draft: true
+draft: false
 colours: ["#995c61", "#7b3d42", "#b82834", "#4b252a", "#c63945", "#270c0f", "#da2534"]
 date: 2013-01-15T12:04:03+00:00
 categories: ["Personal"]

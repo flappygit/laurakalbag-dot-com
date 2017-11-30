@@ -1,6 +1,6 @@
 ---
 title: "Becoming part of Indie Phone"
-draft: true
+draft: false
 colours: ["#ee0000", "#3f3f3f", "#b70000", "#232323", "#7a7a7a", "#020202", "#8e8e8e"]
 date: 2014-06-04T08:36:28+00:00
 categories: ["Design", "Freelancing", "Milestones", "Personal"]

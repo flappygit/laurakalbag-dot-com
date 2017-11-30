@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empowering Users on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/empowering-users/</link>
+    <description>Recent content in Empowering Users on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Sep 2011 10:56:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/empowering-users/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dConstruct 2011 — My Digest</title>
+      <link>https://laurakalbag.com/dconstruct-2011-my-digest/</link>
+      <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
+      
+      <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
+      <description>It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.
+The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.</description>
+    </item>
+    
+  </channel>
+</rss>

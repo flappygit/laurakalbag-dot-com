@@ -1,6 +1,6 @@
 ---
 title: "Using emoji in Mail.app to make better visual indicators"
-draft: true
+draft: false
 colours: ["#1b77de", "#114269", "#297BBD", "#08313f", "#05C34A", "#052029", "#D82827"]
 date: 2013-02-10T15:31:54+00:00
 categories: ["Snippets"]

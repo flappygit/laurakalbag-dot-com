@@ -1,6 +1,6 @@
 ---
 title: "My Secret is Honesty talk video"
-draft: true
+draft: false
 colours: ["#b53c2c", "#404d68", "#ce3622", "#912a1d", "#D5D1B4", "#5f1a11", "#ffffff"]
 date: 2013-10-21T18:59:45+00:00
 categories: ["Events"]
