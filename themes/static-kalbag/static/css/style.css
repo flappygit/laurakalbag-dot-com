@@ -237,6 +237,9 @@ body.colours-001 .navigation-menu {
 body.colours-001 .navigation-menu li.active a {
   background: rgba(201,255,238,0.5);
 }
+body.colours-001.blog .navigation-menu li a[href="/posts/"] {
+  background: rgba(201,255,238,0.5);
+}
 body.colours-001.home .navigation-menu a[href="/about-me/"],
 body.colours-001.about-me .navigation-menu a[href="/"],
 body.colours-001.about-me .navigation-menu a[href="/posts/"],
@@ -537,6 +540,9 @@ body.colours-002 .navigation-menu {
   background: rgba(233,207,252,0.1);
 }
 body.colours-002 .navigation-menu li.active a {
+  background: rgba(201,236,255,0.5);
+}
+body.colours-002.blog .navigation-menu li a[href="/posts/"] {
   background: rgba(201,236,255,0.5);
 }
 body.colours-002.home .navigation-menu a[href="/about-me/"],
@@ -841,6 +847,9 @@ body.colours-003 .navigation-menu {
 body.colours-003 .navigation-menu li.active a {
   background: rgba(236,230,255,0.5);
 }
+body.colours-003.blog .navigation-menu li a[href="/posts/"] {
+  background: rgba(236,230,255,0.5);
+}
 body.colours-003.home .navigation-menu a[href="/about-me/"],
 body.colours-003.about-me .navigation-menu a[href="/"],
 body.colours-003.about-me .navigation-menu a[href="/posts/"],
@@ -1143,6 +1152,9 @@ body.colours-004 .navigation-menu {
 body.colours-004 .navigation-menu li.active a {
   background: rgba(221,255,201,0.5);
 }
+body.colours-004.blog .navigation-menu li a[href="/posts/"] {
+  background: rgba(221,255,201,0.5);
+}
 body.colours-004.home .navigation-menu a[href="/about-me/"],
 body.colours-004.about-me .navigation-menu a[href="/"],
 body.colours-004.about-me .navigation-menu a[href="/posts/"],
@@ -1443,6 +1455,9 @@ body.colours-005 .navigation-menu {
   background: rgba(252,231,207,0.1);
 }
 body.colours-005 .navigation-menu li.active a {
+  background: rgba(255,231,246,0.5);
+}
+body.colours-005.blog .navigation-menu li a[href="/posts/"] {
   background: rgba(255,231,246,0.5);
 }
 body.colours-005.home .navigation-menu a[href="/about-me/"],

@@ -62,6 +62,11 @@ pre
 	// set active navigation link background colour
 	li.active a
 		background alpha($primary-bg, 0.5)
+
+&.blog
+	// set active navigation link background colour
+	.navigation-menu li a[href="/posts/"]
+		background alpha($primary-bg, 0.5)
 		
 // Mixin for colour highlighting and underlines for menu navigationcolor lightness($accent-brightened, 30%)
 highlight-and-underline-on-interaction()
