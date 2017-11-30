@@ -184,16 +184,22 @@ body.colours-001 {
   background: #adf1dc;
   color: #28508f;
 }
-body.colours-001 a,
-body.colours-001 a:visited {
+body.colours-001 a {
   color: #28508f;
-  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(110,163,247,0.8) 0.03em, rgba(110,163,247,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
-  text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-001 a:hover,
 body.colours-001 a:active {
   color: #0b5cda;
+}
+body.colours-001 p a,
+body.colours-001 p a:hover,
+body.colours-001 ul a,
+body.colours-001 ul a:hover,
+body.colours-001 ol a,
+body.colours-001 ol a:hover {
+  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(110,163,247,0.8) 0.03em, rgba(110,163,247,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
+  text-decoration: none;
+  transition: 0.2s;
 }
 body.colours-001 h1 a,
 body.colours-001 h2 a,
@@ -264,8 +270,37 @@ body.colours-001.past-projects .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/projects/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-001.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-001.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-001.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-001.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-001.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-001.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-001.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-001.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-001.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/posts/"],
 body.colours-001.about-me .navigation-menu a[href="/projects/"],
@@ -291,8 +326,31 @@ body.colours-001.blog .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.past-projects .navigation-menu a[href="/about-me/"]:active,
 body.colours-001.past-projects .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-001.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-001.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-001.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-001.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-001.blog .navigation-menu a[href="/"]:active:after,
+body.colours-001.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-001.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-001.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/projects/"],
 body.colours-001.about-me .navigation-menu a[href="/speaking/"],
@@ -312,8 +370,27 @@ body.colours-001.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.past-projects .navigation-menu a[href="/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/about-me/"]:active,
 body.colours-001.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-001.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-001.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-001.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-001.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-001.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-001.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/speaking/"],
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"],
@@ -330,8 +407,25 @@ body.colours-001.home .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/"]:active,
 body.colours-001.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-001.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-001.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-001.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"],
 body.colours-001.speaking .navigation-menu a[href="/"],
@@ -345,8 +439,23 @@ body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/"]:active,
 body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-001.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-001.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-001.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-001.contact-me .navigation-menu a[href="/"] {
   background: rgba(61,133,245,0.6);
@@ -354,23 +463,40 @@ body.colours-001.contact-me .navigation-menu a[href="/"] {
 }
 body.colours-001.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-001.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-001.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,163,247,0.8) solid;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002 {
   background: #badeff;
   color: #5e3b77;
 }
-body.colours-002 a,
-body.colours-002 a:visited {
+body.colours-002 a {
   color: #5e3b77;
-  background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(190,110,247,0.8) 0.03em, rgba(190,110,247,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
-  text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-002 a:hover,
 body.colours-002 a:active {
   color: #840bda;
+}
+body.colours-002 p a,
+body.colours-002 p a:hover,
+body.colours-002 ul a,
+body.colours-002 ul a:hover,
+body.colours-002 ol a,
+body.colours-002 ol a:hover {
+  background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(190,110,247,0.8) 0.03em, rgba(190,110,247,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
+  text-decoration: none;
+  transition: 0.2s;
 }
 body.colours-002 h1 a,
 body.colours-002 h2 a,
@@ -441,8 +567,37 @@ body.colours-002.past-projects .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/projects/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-002.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-002.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-002.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-002.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-002.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-002.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-002.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-002.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-002.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/posts/"],
 body.colours-002.about-me .navigation-menu a[href="/projects/"],
@@ -468,8 +623,31 @@ body.colours-002.blog .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.past-projects .navigation-menu a[href="/about-me/"]:active,
 body.colours-002.past-projects .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-002.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-002.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-002.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-002.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-002.blog .navigation-menu a[href="/"]:active:after,
+body.colours-002.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-002.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-002.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/projects/"],
 body.colours-002.about-me .navigation-menu a[href="/speaking/"],
@@ -489,8 +667,27 @@ body.colours-002.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.past-projects .navigation-menu a[href="/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/about-me/"]:active,
 body.colours-002.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-002.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-002.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-002.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-002.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-002.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-002.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/speaking/"],
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"],
@@ -507,8 +704,25 @@ body.colours-002.home .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/"]:active,
 body.colours-002.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-002.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-002.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-002.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/contact-me/"],
 body.colours-002.speaking .navigation-menu a[href="/"],
@@ -522,8 +736,23 @@ body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-002.home .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/"]:active,
 body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-002.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-002.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-002.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-002.contact-me .navigation-menu a[href="/"] {
   background: rgba(168,61,245,0.6);
@@ -531,23 +760,40 @@ body.colours-002.contact-me .navigation-menu a[href="/"] {
 }
 body.colours-002.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-002.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-002.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(190,110,247,0.8) solid;
+  border-bottom: 0.15em rgba(94,59,119,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003 {
   background: #e2d8ff;
   color: #822e40;
 }
-body.colours-003 a,
-body.colours-003 a:visited {
+body.colours-003 a {
   color: #822e40;
-  background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(247,110,139,0.8) 0.03em, rgba(247,110,139,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
-  text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-003 a:hover,
 body.colours-003 a:active {
   color: #da0b38;
+}
+body.colours-003 p a,
+body.colours-003 p a:hover,
+body.colours-003 ul a,
+body.colours-003 ul a:hover,
+body.colours-003 ol a,
+body.colours-003 ol a:hover {
+  background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(247,110,139,0.8) 0.03em, rgba(247,110,139,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
+  text-decoration: none;
+  transition: 0.2s;
 }
 body.colours-003 h1 a,
 body.colours-003 h2 a,
@@ -618,8 +864,37 @@ body.colours-003.past-projects .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/projects/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-003.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-003.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-003.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-003.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-003.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-003.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-003.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-003.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-003.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/posts/"],
 body.colours-003.about-me .navigation-menu a[href="/projects/"],
@@ -645,8 +920,31 @@ body.colours-003.blog .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.past-projects .navigation-menu a[href="/about-me/"]:active,
 body.colours-003.past-projects .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-003.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-003.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-003.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-003.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-003.blog .navigation-menu a[href="/"]:active:after,
+body.colours-003.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-003.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-003.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/projects/"],
 body.colours-003.about-me .navigation-menu a[href="/speaking/"],
@@ -666,8 +964,27 @@ body.colours-003.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.past-projects .navigation-menu a[href="/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/about-me/"]:active,
 body.colours-003.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-003.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-003.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-003.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-003.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-003.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-003.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/speaking/"],
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"],
@@ -684,8 +1001,25 @@ body.colours-003.home .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/"]:active,
 body.colours-003.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-003.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-003.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-003.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/contact-me/"],
 body.colours-003.speaking .navigation-menu a[href="/"],
@@ -699,8 +1033,23 @@ body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-003.home .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/"]:active,
 body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-003.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-003.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-003.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-003.contact-me .navigation-menu a[href="/"] {
   background: rgba(245,61,101,0.6);
@@ -708,23 +1057,40 @@ body.colours-003.contact-me .navigation-menu a[href="/"] {
 }
 body.colours-003.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-003.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-003.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,110,139,0.8) solid;
+  border-bottom: 0.15em rgba(130,46,64,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004 {
   background: #cdfcb8;
   color: #005b5c;
 }
-body.colours-004 a,
-body.colours-004 a:visited {
+body.colours-004 a {
   color: #005b5c;
-  background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(110,246,247,0.8) 0.03em, rgba(110,246,247,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
-  text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-004 a:hover,
 body.colours-004 a:active {
   color: #0bd8da;
+}
+body.colours-004 p a,
+body.colours-004 p a:hover,
+body.colours-004 ul a,
+body.colours-004 ul a:hover,
+body.colours-004 ol a,
+body.colours-004 ol a:hover {
+  background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(110,246,247,0.8) 0.03em, rgba(110,246,247,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
+  text-decoration: none;
+  transition: 0.2s;
 }
 body.colours-004 h1 a,
 body.colours-004 h2 a,
@@ -795,8 +1161,37 @@ body.colours-004.past-projects .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/projects/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-004.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-004.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-004.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-004.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-004.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-004.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-004.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-004.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-004.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/posts/"],
 body.colours-004.about-me .navigation-menu a[href="/projects/"],
@@ -822,8 +1217,31 @@ body.colours-004.blog .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.past-projects .navigation-menu a[href="/about-me/"]:active,
 body.colours-004.past-projects .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-004.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-004.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-004.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-004.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-004.blog .navigation-menu a[href="/"]:active:after,
+body.colours-004.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-004.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-004.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/projects/"],
 body.colours-004.about-me .navigation-menu a[href="/speaking/"],
@@ -843,8 +1261,27 @@ body.colours-004.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.past-projects .navigation-menu a[href="/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/about-me/"]:active,
 body.colours-004.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-004.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-004.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-004.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-004.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-004.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-004.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/speaking/"],
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"],
@@ -861,8 +1298,25 @@ body.colours-004.home .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/"]:active,
 body.colours-004.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-004.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-004.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-004.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/contact-me/"],
 body.colours-004.speaking .navigation-menu a[href="/"],
@@ -876,8 +1330,23 @@ body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-004.home .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/"]:active,
 body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-004.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-004.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-004.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-004.contact-me .navigation-menu a[href="/"] {
   background: rgba(61,243,245,0.6);
@@ -885,23 +1354,40 @@ body.colours-004.contact-me .navigation-menu a[href="/"] {
 }
 body.colours-004.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-004.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-004.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(110,246,247,0.8) solid;
+  border-bottom: 0.15em rgba(0,91,92,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005 {
   background: #ffd9f1;
   color: #6b451b;
 }
-body.colours-005 a,
-body.colours-005 a:visited {
+body.colours-005 a {
   color: #6b451b;
-  background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(247,182,110,0.8) 0.03em, rgba(247,182,110,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
-  text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-005 a:hover,
 body.colours-005 a:active {
   color: #da780b;
+}
+body.colours-005 p a,
+body.colours-005 p a:hover,
+body.colours-005 ul a,
+body.colours-005 ul a:hover,
+body.colours-005 ol a,
+body.colours-005 ol a:hover {
+  background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(247,182,110,0.8) 0.03em, rgba(247,182,110,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
+  text-decoration: none;
+  transition: 0.2s;
 }
 body.colours-005 h1 a,
 body.colours-005 h2 a,
@@ -972,8 +1458,37 @@ body.colours-005.past-projects .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/projects/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-005.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-005.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-005.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-005.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-005.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-005.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-005.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-005.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-005.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/posts/"],
 body.colours-005.about-me .navigation-menu a[href="/projects/"],
@@ -999,8 +1514,31 @@ body.colours-005.blog .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.past-projects .navigation-menu a[href="/about-me/"]:active,
 body.colours-005.past-projects .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-005.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-005.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-005.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-005.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-005.blog .navigation-menu a[href="/"]:active:after,
+body.colours-005.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-005.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-005.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/projects/"],
 body.colours-005.about-me .navigation-menu a[href="/speaking/"],
@@ -1020,8 +1558,27 @@ body.colours-005.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.past-projects .navigation-menu a[href="/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/about-me/"]:active,
 body.colours-005.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-005.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-005.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-005.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-005.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-005.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-005.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/speaking/"],
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"],
@@ -1038,8 +1595,25 @@ body.colours-005.home .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/"]:active,
 body.colours-005.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-005.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-005.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-005.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/contact-me/"],
 body.colours-005.speaking .navigation-menu a[href="/"],
@@ -1053,8 +1627,23 @@ body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-005.home .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/"]:active,
 body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-005.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-005.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-005.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body.colours-005.contact-me .navigation-menu a[href="/"] {
   background: rgba(245,158,61,0.6);
@@ -1062,8 +1651,19 @@ body.colours-005.contact-me .navigation-menu a[href="/"] {
 }
 body.colours-005.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-005.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-005.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.2em rgba(247,182,110,0.8) solid;
+  border-bottom: 0.15em rgba(107,69,27,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
 }
 body {
   margin: 0;
@@ -1160,6 +1760,7 @@ figure {
 }
 figure a {
   display: block;
+  text-decoration: none;
 }
 img {
   margin: 1em 0;

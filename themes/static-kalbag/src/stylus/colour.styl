@@ -11,14 +11,18 @@ $accent-brightened = lightness(saturation($accent, 90%),70%)
 	background $secondary-bg
 	color $text
 
-a, a:visited
+a
 	color $text
+	
+	&:hover, &:active
+		color lightness($accent-brightened, 45%)
+	
+p a, p a:hover,
+ul a, ul a:hover,
+ol a, ol a:hover
 	background-image linear-gradient(to top, alpha($primary-bg, 0) 0.02em, alpha($accent-brightened, 0.8) 0.03em, alpha($accent-brightened, 0.8) 0.13em, alpha($primary-bg, 0) 0.14em)
 	text-decoration none
 	transition 0.2s
-
-a:hover, a:active
-	color lightness($accent-brightened, 45%)
 
 h1 a, h2 a, h3 a
 	// remove gradient underline
@@ -63,8 +67,18 @@ pre
 		
 // Mixin for colour highlighting and underlines for menu navigationcolor lightness($accent-brightened, 30%)
 highlight-and-underline-on-interaction()
-	box-sizing border-box
-	border-bottom 0.2em alpha($accent-brightened, 0.8) solid
+	position relative
+	
+	&:after
+		box-sizing border-box
+		border-bottom 0.15em alpha($text, 0.5) solid
+		content ""
+		display block
+		height 0.15em
+		margin-top -0.2em
+		margin-bottom 0.05em
+		position relative
+		width auto
 			
 // links before and after active navigation (relies on order of navigation being reflected)
 // darken text accordingly
