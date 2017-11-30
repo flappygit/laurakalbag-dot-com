@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Laura Kalbag</title>
+    <title>Blog on Laura Kalbag</title>
     <link>https://laurakalbag.com/posts/</link>
-    <description>Recent content in Posts on Laura Kalbag</description>
+    <description>Recent content in Blog on Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2017 20:28:58 +0200</lastBuildDate>
     
 	<atom:link href="https://laurakalbag.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
