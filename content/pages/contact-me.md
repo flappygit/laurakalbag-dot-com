@@ -1,7 +1,7 @@
 ---
 title: "Contact Me"
 date: 2017-10-31T20:46:48+01:00
-draft: true
+draft: false
 menu:
  main: {}
 body_classes: "contact-me colours-005"
