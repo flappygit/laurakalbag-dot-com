@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laurakalbag.com/speaking/</loc>
+    <lastmod>2017-11-01T18:07:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/contact-me/</loc>
+    <lastmod>2017-10-31T20:46:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/about-me/</loc>
+    <lastmod>2017-10-26T20:28:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/</loc>
+    <lastmod>2017-10-26T20:28:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/projects/</loc>
+    <lastmod>2017-10-26T20:28:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laurakalbag.com/accessibility-for-everyone/</loc>
     <lastmod>2017-08-18T13:44:22+00:00</lastmod>
   </url>
@@ -2816,12 +2841,6 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/</loc>
-    <lastmod>2017-08-18T13:44:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurakalbag.com/tags/layout/</loc>
     <lastmod>2014-03-03T18:42:46+00:00</lastmod>
     <priority>0</priority>
@@ -3196,6 +3215,12 @@
   <url>
     <loc>https://laurakalbag.com/tags/osx/</loc>
     <lastmod>2013-03-30T20:09:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/pages/</loc>
+    <lastmod>2017-11-01T18:07:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   

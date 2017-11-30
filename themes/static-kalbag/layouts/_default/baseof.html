@@ -17,7 +17,7 @@
 		<meta name="robots" content="noindex, nofollow">
 		{{ end }}
 
-		<link href='{{ "css/style.css" | absURL }}' rel='stylesheet' type="text/css" />
+		<link href='{{ "css/style.css" | relURL }}' rel='stylesheet' type="text/css" />
 
 		{{ block "favicon" . }}
 			{{ partial "site-favicon.html" . }}

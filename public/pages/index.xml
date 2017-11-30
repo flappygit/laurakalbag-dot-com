@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Laura Kalbag</title>
+    <link>https://laurakalbag.com/pages/</link>
+    <description>Recent content in Pages on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 01 Nov 2017 18:07:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://laurakalbag.com/speaking/</link>
+      <pubDate>Wed, 01 Nov 2017 18:07:44 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/speaking/</guid>
+      <description>I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.
+In the last couple of years, I’ve been really lucky to be invited to speak at a few conferences. You can find my upcoming talks on the Ind.ie site. There’s videos of a few past talks on the Ind.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://laurakalbag.com/contact-me/</link>
+      <pubDate>Tue, 31 Oct 2017 20:46:48 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/contact-me/</guid>
+      <description>The Basics Email info@laurakalbag.com.
+Twitter laurakalbag
+Just Say Hi If you just want to say hi, it’s definitely best to contact me on Twitter. I’m also chatty on the Ind.ie forum.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://laurakalbag.com/about-me/</link>
+      <pubDate>Thu, 26 Oct 2017 20:28:58 +0200</pubDate>
+      
+      <guid>https://laurakalbag.com/about-me/</guid>
+      <description>Basics Hello, I’m a 31 year old designer from the UK, now living in Malmö, Sweden. I wrote a book about web accessibility called Accessibility For Everyone. You can buy it in paperback or ebook from A Book Apart.
+I’ve been a full time designer at Ind.ie since the summer of 2014. We’re a tiny social enterprise striving for social justice in the digital age. Our web privacy tool, Better, is available for iOS and macOS.</description>
+    </item>
+    
+  </channel>
+</rss>

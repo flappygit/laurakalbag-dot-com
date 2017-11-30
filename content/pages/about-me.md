@@ -2,7 +2,6 @@
 title: "About Me"
 date: 2017-10-26T20:28:58+02:00
 colours: ["#C9ECFF", "#BADEFF", "#5E3B77", "#95549D"]
-draft: false
 menu:
  main:
   weight: 10
