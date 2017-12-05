@@ -23,12 +23,11 @@ If this sounds like your kind of conference, then you’ll want this discount co
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-542">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">James</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-542"><time datetime="2013-05-12T16:07:47+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">James</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-542"><time datetime="2013-05-12T16:07:47+00:00" pubdate class="published">
 		 at <span class="hours">16:07pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hey Laura
 
@@ -37,12 +36,11 @@ Big fan of you in the industry. Small thing i just noticed on your comment form 
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-543">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/c82da2b0cc67398de24f4822007b7b35?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c82da2b0cc67398de24f4822007b7b35?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://big-andy.co.uk' rel='external nofollow' class='url'>Andrew</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-543"><time datetime="2013-05-21T12:09:54+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/c82da2b0cc67398de24f4822007b7b35?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c82da2b0cc67398de24f4822007b7b35?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://big-andy.co.uk' rel='external nofollow' class='url'>Andrew</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-543"><time datetime="2013-05-21T12:09:54+00:00" pubdate class="published">
 		 at <span class="hours">12:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		What’s the point of using a comment form if you don’t leave a comment? Hmmm?
 		</div>

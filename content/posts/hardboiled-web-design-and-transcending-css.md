@@ -75,36 +75,33 @@ Not only do you get the low-down on how to use it, you get the most important ar
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-167">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Jack Franklin</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-167"><time datetime="2011-01-18T16:32:30+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jack Franklin</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-167"><time datetime="2011-01-18T16:32:30+00:00" pubdate class="published">
 		 at <span class="hours">16:32pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		My copy has been sitting on my desk for 2 weeks now&#8230;whilst I have to revise for this bloody exam *mumbles*. And the poster is right on the wall just to remind me! I will have to find time for this, great review Laura.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-169">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">juliancheal</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-169"><time datetime="2011-01-18T16:34:44+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">juliancheal</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-169"><time datetime="2011-01-18T16:34:44+00:00" pubdate class="published">
 		 at <span class="hours">16:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Thinking you should read some Philip Marlowe books :)
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-168">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.lukejones.me/' rel='external nofollow' class='url'>Luke Jones</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-168"><time datetime="2011-01-18T16:38:33+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.lukejones.me/' rel='external nofollow' class='url'>Luke Jones</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-168"><time datetime="2011-01-18T16:38:33+00:00" pubdate class="published">
 		 at <span class="hours">16:38pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Definitely going to grab it once I’ve finished reading my pile of books. In fact, the only reason I haven’t is because my pile of books has grown over the past few months rather than shrunk. I still have A Practical Guide to Information Architecture waiting to be read from August.
 
@@ -113,12 +110,11 @@ Thanks for the nice little review Laura — I prefer reading things like this r
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-170">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.stevelacey.net' rel='external nofollow' class='url'>Steve Lacey</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-170"><time datetime="2011-01-18T17:34:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stevelacey.net' rel='external nofollow' class='url'>Steve Lacey</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-170"><time datetime="2011-01-18T17:34:34+00:00" pubdate class="published">
 		 at <span class="hours">17:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks for sharing this, I was considering purchasing a copy a few weeks ago, and you may have swayed me.
 
@@ -131,12 +127,11 @@ I guess what I’m trying to assess is how much <i>new</i> content I’m getting
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-171">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-171"><time datetime="2011-01-18T17:42:00+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-171"><time datetime="2011-01-18T17:42:00+00:00" pubdate class="published">
 		 at <span class="hours">17:42pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I agree that some developers will already know a lot about HTML5 and CSS3 and how to use them, there’s loads of generators and references out there. 
 
@@ -145,12 +140,11 @@ However I’d say the value is more in the inspiration of what you can do with t
 </li>
 	<li class="comment odd alt depth-2" id="li-comment-172">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.stevelacey.net' rel='external nofollow' class='url'>Steve Lacey</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-172"><time datetime="2011-01-18T17:47:35+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stevelacey.net' rel='external nofollow' class='url'>Steve Lacey</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-172"><time datetime="2011-01-18T17:47:35+00:00" pubdate class="published">
 		 at <span class="hours">17:47pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		A good point, well made.
 
@@ -161,12 +155,11 @@ I think I’ll be forking out for the book in the near future.
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-173">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.rarescosma.com' rel='external nofollow' class='url'>Rares</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-173"><time datetime="2011-01-18T20:55:53+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.rarescosma.com' rel='external nofollow' class='url'>Rares</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-173"><time datetime="2011-01-18T20:55:53+00:00" pubdate class="published">
 		 at <span class="hours">20:55pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>100 pages to go ;-)
 
@@ -174,24 +167,22 @@ Priceless information on microformats.</p>	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-174">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://miralize.com' rel='external nofollow' class='url'>Sean O'Grady</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-174"><time datetime="2011-01-18T20:56:37+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://miralize.com' rel='external nofollow' class='url'>Sean O'Grady</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-174"><time datetime="2011-01-18T20:56:37+00:00" pubdate class="published">
 		 at <span class="hours">20:56pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		You’ve written my exact sentiments towards Hardboiled Web Design. Its a great book so far, I think I may have to read it again as soon as I finish it.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-175">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://redeyedesigner.com' rel='external nofollow' class='url'>David B.</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-175"><time datetime="2011-01-18T22:00:58+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://redeyedesigner.com' rel='external nofollow' class='url'>David B.</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-175"><time datetime="2011-01-18T22:00:58+00:00" pubdate class="published">
 		 at <span class="hours">22:00pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It’s such a good book. I’ve only read the pdf and can’t wait to get my printed copy. I ordered it on day one and still nothing :(
 
@@ -200,12 +191,11 @@ Once I get it I’ll go through another read through and will probably have it o
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-176">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-176"><time datetime="2011-01-27T15:10:44+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-176"><time datetime="2011-01-27T15:10:44+00:00" pubdate class="published">
 		 at <span class="hours">15:10pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great write-up Laura. I’m currently reading through it now and finding it really enjoyable and “scary-in-a-good-way” too. It has really got me thinking how I can better my code semantically and design more creatively for advanced browsers and not worry about the latter. I really want a cool project come my way where I can put this new knowledge to use!
 	</div>

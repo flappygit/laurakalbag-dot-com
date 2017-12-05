@@ -93,12 +93,11 @@ This week we will have our first client meeting and get started on the project. 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-481">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://graphiceyedea.co.uk' rel='external nofollow' class='url'>Prisca</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-481"><time datetime="2013-02-11T11:06:51+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://graphiceyedea.co.uk' rel='external nofollow' class='url'>Prisca</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-481"><time datetime="2013-02-11T11:06:51+00:00" pubdate class="published">
 		 at <span class="hours">11:06am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Laura,
 
@@ -108,12 +107,11 @@ thanks for this write-up –; nice to read about how you made your decision, bet
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-482">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.lockedowndesign.com/blog' rel='external nofollow' class='url'>John J. Locke</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-482"><time datetime="2013-02-11T11:22:49+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.lockedowndesign.com/blog' rel='external nofollow' class='url'>John J. Locke</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-482"><time datetime="2013-02-11T11:22:49+00:00" pubdate class="published">
 		 at <span class="hours">11:22am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I think this is a really wonderful thing that you are doing, Laura. In order to make the future of the Web better, we need to start with the people. One of my goals for this year is to find a mentor as well. I realize that I have many areas that I need to improve, but I also believe I have a lot to offer to the right team somewhere. 
 
@@ -122,12 +120,11 @@ I look forward to seeing how your mentees progress over the coming weeks and mon
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-483">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d79515da471fd47145164f59f137b97c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d79515da471fd47145164f59f137b97c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.shaundunne.com' rel='external nofollow' class='url'>Shaun Dunne</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-483"><time datetime="2013-02-11T15:38:59+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d79515da471fd47145164f59f137b97c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d79515da471fd47145164f59f137b97c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.shaundunne.com' rel='external nofollow' class='url'>Shaun Dunne</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-483"><time datetime="2013-02-11T15:38:59+00:00" pubdate class="published">
 		 at <span class="hours">15:38pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura, 
 
@@ -136,12 +133,11 @@ This is such an inspiring thing to do, made me consider how I might go about men
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-484">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/40e5f43ea869f4943cae2b04e0b25d0d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/40e5f43ea869f4943cae2b04e0b25d0d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.andrewsmorris.co.uk' rel='external nofollow' class='url'>andy</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-484"><time datetime="2013-02-12T07:05:08+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/40e5f43ea869f4943cae2b04e0b25d0d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/40e5f43ea869f4943cae2b04e0b25d0d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.andrewsmorris.co.uk' rel='external nofollow' class='url'>andy</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-484"><time datetime="2013-02-12T07:05:08+00:00" pubdate class="published">
 		 at <span class="hours">07:05am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I was disappointed not to be picked for this, but I’d like to wish you the best of luck for the project! 
 

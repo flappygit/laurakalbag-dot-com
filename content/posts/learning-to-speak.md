@@ -41,12 +41,11 @@ A lot of people ask my advice on speaking, and honestly, I just pass on what Ara
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-532">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-532"><time datetime="2013-04-11T17:52:15+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-532"><time datetime="2013-04-11T17:52:15+00:00" pubdate class="published">
 		 at <span class="hours">17:52pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		“I &#8230; have a unique talent for making jokes really uncomfortable.”
 
@@ -55,60 +54,55 @@ Unique, you say? ;)
 </li>
 	<li class="comment byuser comment-author-laura bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-533">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-533"><time datetime="2013-04-11T17:52:56+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-533"><time datetime="2013-04-11T17:52:56+00:00" pubdate class="published">
 		 at <span class="hours">17:52pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Yeah, jokes, Jonic. Your unique talent is making *everything* awkward… ;)
 	</div>
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-534">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.100yen.co.uk/' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-534"><time datetime="2013-04-11T17:54:48+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.100yen.co.uk/' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-534"><time datetime="2013-04-11T17:54:48+00:00" pubdate class="published">
 		 at <span class="hours">17:54pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Well we all have to have a hobby.
 	</div>
 </li>
 	<li class="comment odd alt depth-2" id="li-comment-535">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Jeff Lau</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-535"><time datetime="2013-04-11T18:01:31+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jeff Lau</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-535"><time datetime="2013-04-11T18:01:31+00:00" pubdate class="published">
 		 at <span class="hours">18:01pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<i>That</i> made me lol.
 		</div>
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-536">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.thesambarnes.com' rel='external nofollow' class='url'>Sam Barnes</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-536"><time datetime="2013-04-18T22:32:35+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.thesambarnes.com' rel='external nofollow' class='url'>Sam Barnes</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-536"><time datetime="2013-04-18T22:32:35+00:00" pubdate class="published">
 		 at <span class="hours">22:32pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Ello, I just mailed Aral about this&#8230; very interested indeed.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-538">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/sulcalibur' rel='external nofollow' class='url'>Suleiman</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-538"><time datetime="2013-05-20T15:18:23+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/sulcalibur' rel='external nofollow' class='url'>Suleiman</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-538"><time datetime="2013-05-20T15:18:23+00:00" pubdate class="published">
 		 at <span class="hours">15:18pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I did my first mini speaking gig at Untangle the Web and even though I had a lot of very nice comments, me, myself thought it was a train wreck. I think the main problem was I wasn’t myself and probably came across more like a robot in some stages. It was a small talk about why people that are using CSS <b>should</b> use Sass and how easy it was to get started.
 

@@ -31,12 +31,11 @@ When I look at the list of upcoming Pocket Guide books, it makes me quite giddy.
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-539">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-539"><time datetime="2013-04-15T11:05:18+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-539"><time datetime="2013-04-15T11:05:18+00:00" pubdate class="published">
 		 at <span class="hours">11:05am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I really enjoyed the first series of these pocket guides. Like you, I’m much more interested in reading a shorter, more focused book. A lot of web books are too long and dry and boring –; it’s good to see Five Simple Steps and A Book Apart leading the way with this format, not to mention self-published books like Josh Long and Drew Wilson’s Execute.
 
@@ -47,12 +46,11 @@ Thanks for the review, anyway –; I always trust your opinion on these matters.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-540">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://laurakalbag.wpengine.com' rel='external nofollow' class='url'>Laura Kalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-540"><time datetime="2013-04-15T17:14:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://laurakalbag.wpengine.com' rel='external nofollow' class='url'>Laura Kalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-540"><time datetime="2013-04-15T17:14:34+00:00" pubdate class="published">
 		 at <span class="hours">17:14pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’m not sure I know enough on any one topic to do so… my writing is also not very book-ish. This blog is like a diary gone work-y.
 

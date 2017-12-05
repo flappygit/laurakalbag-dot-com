@@ -61,12 +61,11 @@ Before we kick off the project, the mentees are going to assemble a proposal/est
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-496">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://redheaded-geek.blogspot.com' rel='external nofollow' class='url'>John Wickee</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-496"><time datetime="2013-03-27T19:22:40+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://redheaded-geek.blogspot.com' rel='external nofollow' class='url'>John Wickee</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-496"><time datetime="2013-03-27T19:22:40+00:00" pubdate class="published">
 		 at <span class="hours">19:22pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I really love this project you’re doing. It’s a great idea and can provide some great experience for those you selected. It’s great of you to share and help them. Mentoring can be invaluable. 
 

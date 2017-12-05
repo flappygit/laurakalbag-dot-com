@@ -59,12 +59,11 @@ Those are the very basics you need when getting started with Sass. If anyone has
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-426">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Dave Rutter</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-426"><time datetime="2013-01-07T22:33:09+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Dave Rutter</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-426"><time datetime="2013-01-07T22:33:09+00:00" pubdate class="published">
 		 at <span class="hours">22:33pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hi Laura
 

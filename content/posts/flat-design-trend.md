@@ -40,12 +40,11 @@ And I’m sure that decisions made by 99.99% of designers will not have been “
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-548">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/6f7070f6c139c4323f3c96d743f9a1f7?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6f7070f6c139c4323f3c96d743f9a1f7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.dan-davies.co.uk' rel='external nofollow' class='url'>Dan Davies</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-548"><time datetime="2013-06-11T14:49:52+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/6f7070f6c139c4323f3c96d743f9a1f7?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6f7070f6c139c4323f3c96d743f9a1f7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.dan-davies.co.uk' rel='external nofollow' class='url'>Dan Davies</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-548"><time datetime="2013-06-11T14:49:52+00:00" pubdate class="published">
 		 at <span class="hours">14:49pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’ve found the whole debacle really funny.  Dribbble seems to house many designers that believe their opinion is higher than that of Apple themselves. Give it a few months and they’ll be knocking out icons just like Mr Ive whilst sipping on their skinny latte.
 
@@ -54,24 +53,22 @@ Bugger them all, I just plan to do stuff my way.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-549">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/ae76a5767f2b47318e90deea51aec04d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ae76a5767f2b47318e90deea51aec04d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.andrewhuntdesign.com' rel='external nofollow' class='url'>Andy Hunt</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-549"><time datetime="2013-06-11T14:59:12+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/ae76a5767f2b47318e90deea51aec04d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ae76a5767f2b47318e90deea51aec04d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.andrewhuntdesign.com' rel='external nofollow' class='url'>Andy Hunt</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-549"><time datetime="2013-06-11T14:59:12+00:00" pubdate class="published">
 		 at <span class="hours">14:59pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		My initial reaction is that I don’t like the icons or the colour palette. However, Im also aware I’m looking at the design ‘blind’ and that this direction has been taken due the UX and new features that have been put in.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-550">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/f9ad38063f9d406b91efb89ea055f75e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f9ad38063f9d406b91efb89ea055f75e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://mmandbstudio.co.uk' rel='external nofollow' class='url'>Simon Mason</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-550"><time datetime="2013-06-11T15:01:04+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/f9ad38063f9d406b91efb89ea055f75e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f9ad38063f9d406b91efb89ea055f75e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://mmandbstudio.co.uk' rel='external nofollow' class='url'>Simon Mason</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-550"><time datetime="2013-06-11T15:01:04+00:00" pubdate class="published">
 		 at <span class="hours">15:01pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I get more irritated by the fact Apple’s website still isn’t responsive, because, you know pinch and zoom is all you need &#8230;
 
@@ -84,12 +81,11 @@ Ho hum
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-551">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.markdixon.ca/design/blog/' rel='external nofollow' class='url'>Mark</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-551"><time datetime="2013-06-11T15:03:01+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.markdixon.ca/design/blog/' rel='external nofollow' class='url'>Mark</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-551"><time datetime="2013-06-11T15:03:01+00:00" pubdate class="published">
 		 at <span class="hours">15:03pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>It is nice to see designers putting things in context like you are doing here.
 
@@ -99,12 +95,11 @@ Careful, do not drink the Kool-Aid.</p>	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-552">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://cliffpro.com' rel='external nofollow' class='url'>Cliff Huizenga</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-552"><time datetime="2013-06-11T15:11:27+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://cliffpro.com' rel='external nofollow' class='url'>Cliff Huizenga</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-552"><time datetime="2013-06-11T15:11:27+00:00" pubdate class="published">
 		 at <span class="hours">15:11pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I guess the world that revolves around Dribbble has kind of spoiled me when it comes to design. I see all these great works — many of which do follow trends, but also great unique ones — so I expect something mind-blowing from Apple. While the fl*t design in the apps look nice, those home screen icons (mainly Safari and Mail) simply look rushed and condensed. Their design gives the impression that they were changing the look for the sake of “de-Forstall-ing” iOS and getting it ready in time for WWDC, not because it’s truly a better experience. 
 
@@ -113,12 +108,11 @@ Honestly (and I’ll probably be shunned for saying this), the new Weather app i
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-553">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/Niaccurshi' rel='external nofollow' class='url'>Lee Griffin</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-553"><time datetime="2013-06-11T15:13:55+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/Niaccurshi' rel='external nofollow' class='url'>Lee Griffin</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-553"><time datetime="2013-06-11T15:13:55+00:00" pubdate class="published">
 		 at <span class="hours">15:13pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It’s a tough one, Responsive Design is probably in the same sort of category, I’ve written in the past about how “responsive design” is made up of so many little micro design decisions that vary between implementations that it is ok to use the term even though it isn’t always used the way a purist may want it to be used (completely fluid layouts). In this light flat design has to be seen not as a comment on a design style but a set of design practices that culminate in an end product that resides in the aesthetic group we would call “flat design”.
 
@@ -133,12 +127,11 @@ The whole nonsense with iOS7 is quite funny in this respect because despite any 
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-559">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/cd134162a623773ac42743ed766d7c7c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/cd134162a623773ac42743ed766d7c7c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://logopond.com' rel='external nofollow' class='url'>David Blanchet</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-559"><time datetime="2013-07-11T04:08:50+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/cd134162a623773ac42743ed766d7c7c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/cd134162a623773ac42743ed766d7c7c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://logopond.com' rel='external nofollow' class='url'>David Blanchet</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-559"><time datetime="2013-07-11T04:08:50+00:00" pubdate class="published">
 		 at <span class="hours">04:08am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		But who wants to say minimalistic when fl*t is shorter and faster and will get you winks from the geeks on their tablets at st*rbucks :D
 
@@ -147,12 +140,11 @@ btw I 100% agree with you.
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-554">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/f6254feda428f3aadb82a3ddafed2100?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f6254feda428f3aadb82a3ddafed2100?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.laceytechsolutions.co.uk' rel='external nofollow' class='url'>Lacey Tech Solutions</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-554"><time datetime="2013-06-11T15:17:02+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/f6254feda428f3aadb82a3ddafed2100?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f6254feda428f3aadb82a3ddafed2100?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.laceytechsolutions.co.uk' rel='external nofollow' class='url'>Lacey Tech Solutions</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-554"><time datetime="2013-06-11T15:17:02+00:00" pubdate class="published">
 		 at <span class="hours">15:17pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Talking in very general terms, I prefer an uncluttered interface that uses design elements (gradients, drop-shadow, text-shadow) sparingly.
 
@@ -163,12 +155,11 @@ I’ve seen the iOS 7 interface and icons and whilst I like some aspects of the 
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-555">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1afdbe988a5cebfb1170503a9dc6ca8b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1afdbe988a5cebfb1170503a9dc6ca8b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Michael Hastrich</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-555"><time datetime="2013-06-11T15:21:43+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1afdbe988a5cebfb1170503a9dc6ca8b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1afdbe988a5cebfb1170503a9dc6ca8b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Michael Hastrich</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-555"><time datetime="2013-06-11T15:21:43+00:00" pubdate class="published">
 		 at <span class="hours">15:21pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Yes! You are totally right.
 
@@ -181,12 +172,11 @@ Like Aral wrote in his post, we can’t stress enough that design isn’t about 
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-556">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0a4ec04fdcc7714ee306e26198b574a0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0a4ec04fdcc7714ee306e26198b574a0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://iainspad.com' rel='external nofollow' class='url'>Iain</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-556"><time datetime="2013-06-11T19:05:33+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0a4ec04fdcc7714ee306e26198b574a0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0a4ec04fdcc7714ee306e26198b574a0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://iainspad.com' rel='external nofollow' class='url'>Iain</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-556"><time datetime="2013-06-11T19:05:33+00:00" pubdate class="published">
 		 at <span class="hours">19:05pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I think Flat is a bullshit term. It’s not a new thing, and I’m sick of it being seen as such. Metro is typography based, but inspired by the use of Type and Grids by the Swiss (if you’re a designer and have no idea on the Swiss Style, you REALLY need to be educated about this stuff), which was simple, and minimal. Flat is nothing more than that. The fact it has that word as if it’s a new thing really annoys me.
 
@@ -195,12 +185,11 @@ If you’re going <strike>flat</strike> **minimal**, at least do it well, and pu
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-557">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/ea2b2aef55fd5d08091e4c03b5adabce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ea2b2aef55fd5d08091e4c03b5adabce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://steveperrycreative.com' rel='external nofollow' class='url'>Steve Perry</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-557"><time datetime="2013-06-14T08:54:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/ea2b2aef55fd5d08091e4c03b5adabce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ea2b2aef55fd5d08091e4c03b5adabce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://steveperrycreative.com' rel='external nofollow' class='url'>Steve Perry</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-557"><time datetime="2013-06-14T08:54:34+00:00" pubdate class="published">
 		 at <span class="hours">08:54am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		A great post, Laura, and one that I have been considering myself, and for the same reasons.
 

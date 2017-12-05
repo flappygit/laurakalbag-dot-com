@@ -20,12 +20,11 @@ This is very very exciting. In June, I’m going to speak at [Interlink conferen
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-9408">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/6a80b609636cff718222ca6ee4f35c17?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6a80b609636cff718222ca6ee4f35c17?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://lndngeek.com' rel='external nofollow' class='url'>lndngeek</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-9408"><time datetime="2014-02-03T14:30:45+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/6a80b609636cff718222ca6ee4f35c17?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6a80b609636cff718222ca6ee4f35c17?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://lndngeek.com' rel='external nofollow' class='url'>lndngeek</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-9408"><time datetime="2014-02-03T14:30:45+00:00" pubdate class="published">
 		 at <span class="hours">14:30pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Congrats! You’ll love Toronto!
 	</div>

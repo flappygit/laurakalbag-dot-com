@@ -33,36 +33,33 @@ I think it’s great that the Girlguides are drawing attention to these issues b
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-36">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">richquick</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-36"><time datetime="2010-08-04T10:25:17+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">richquick</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-36"><time datetime="2010-08-04T10:25:17+00:00" pubdate class="published">
 		 at <span class="hours">10:25am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag as ever I agree with you. Please stand as an MP so I can vote for you!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-37">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">richquick</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-37"><time datetime="2010-08-04T10:25:47+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">richquick</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-37"><time datetime="2010-08-04T10:25:47+00:00" pubdate class="published">
 		 at <span class="hours">10:25am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag I do think Photoshopping out wrinkles in an anti-wrinkle cream ad was beyond the pale, though.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-35">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">AndyW</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-35"><time datetime="2010-08-04T11:27:08+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">AndyW</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-35"><time datetime="2010-08-04T11:27:08+00:00" pubdate class="published">
 		 at <span class="hours">11:27am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Don’t forget, Girl Guiders is a bunch of nut cases ;)
 
@@ -75,12 +72,11 @@ What would be cooler would be to encourage companies NOT to tart up their pics i
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/69e3906339fed4cd6d8790e0b2a42d6d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/69e3906339fed4cd6d8790e0b2a42d6d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Pearly</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-39"><time datetime="2010-12-19T22:47:30+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/69e3906339fed4cd6d8790e0b2a42d6d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/69e3906339fed4cd6d8790e0b2a42d6d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Pearly</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-39"><time datetime="2010-12-19T22:47:30+00:00" pubdate class="published">
 		 at <span class="hours">22:47pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@Andy W
 

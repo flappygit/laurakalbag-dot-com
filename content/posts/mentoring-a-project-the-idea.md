@@ -38,12 +38,11 @@ I’m hoping to blog the process as much as possible, so other people can share 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-453">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Oliver</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-453"><time datetime="2013-01-30T09:38:38+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Oliver</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-453"><time datetime="2013-01-30T09:38:38+00:00" pubdate class="published">
 		 at <span class="hours">09:38am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Great idea!
 
@@ -51,12 +50,11 @@ Best of luck to all the other candidates :)</p>	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-454">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://webeyedea.info' rel='external nofollow' class='url'>Prisca</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-454"><time datetime="2013-01-30T09:43:06+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://webeyedea.info' rel='external nofollow' class='url'>Prisca</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-454"><time datetime="2013-01-30T09:43:06+00:00" pubdate class="published">
 		 at <span class="hours">09:43am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Laura :)
 
@@ -70,24 +68,22 @@ Your idea of doing this is fabulous –; hope you will find a good match :) and 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-455">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Steve</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-455"><time datetime="2013-01-30T20:19:55+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Steve</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-455"><time datetime="2013-01-30T20:19:55+00:00" pubdate class="published">
 		 at <span class="hours">20:19pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		This is fantastic, Laura. If only more folks in more fields applied this kind of attitude. Imagine how awesome we would all be?
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-457">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://squarebracket.net' rel='external nofollow' class='url'>Dan Farrow</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-457"><time datetime="2013-02-01T16:11:22+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://squarebracket.net' rel='external nofollow' class='url'>Dan Farrow</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-457"><time datetime="2013-02-01T16:11:22+00:00" pubdate class="published">
 		 at <span class="hours">16:11pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		This is a great idea Laura. I’ve had a couple of <i>“those”</i> kind of job requests recently and this seems a much more constructive approach than taking on the job directly and potentially spoiling a friendship :) 
 
@@ -96,12 +92,11 @@ I tend to forget how hard-won my 10 years of accumulated web knowledge has been 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-458">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-458"><time datetime="2013-03-04T15:29:11+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-458"><time datetime="2013-03-04T15:29:11+00:00" pubdate class="published">
 		 at <span class="hours">15:29pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		This is such a great idea, don’t know of many others who’ve done something like this but it sounds like it’d be really helpful to someone trying to get experience.
 	</div>

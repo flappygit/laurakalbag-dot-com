@@ -58,24 +58,22 @@ If you fancy getting a bit creative on the iPad, [go download SketchBook Pro fro
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-2">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/43a227fd13ab170ac3b530731104264b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/43a227fd13ab170ac3b530731104264b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Tim Jinkerson</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-2"><time datetime="2010-06-21T10:53:54+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/43a227fd13ab170ac3b530731104264b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/43a227fd13ab170ac3b530731104264b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Tim Jinkerson</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-2"><time datetime="2010-06-21T10:53:54+00:00" pubdate class="published">
 		 at <span class="hours">10:53am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Wow –; I am always in awe of people that can produce pictures that look both detailed and pleasing. It’s a real gift. And to produce something that looks so like a drawing on a screen if amazing, you are so talented. I know a lot of artists shrug off what they do, but to a non-artist, this sort of thing seems like a mystical magic.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-3">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/7c7e0094e768ba1b837e1d05304fc37b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7c7e0094e768ba1b837e1d05304fc37b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">jenny</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-3"><time datetime="2012-03-12T13:01:13+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/7c7e0094e768ba1b837e1d05304fc37b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7c7e0094e768ba1b837e1d05304fc37b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">jenny</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-3"><time datetime="2012-03-12T13:01:13+00:00" pubdate class="published">
 		 at <span class="hours">13:01pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		What a lovely tutorial, i stumbled over this looking for help with fonts but i’m so glad I did.  Very well written and illustrated.  I also am an artist and recently got an iPad and you have inspired me so thank you.  I need to get back into my art and you have given me that push :)
 	</div>

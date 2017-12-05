@@ -314,12 +314,11 @@ So that was my talk. Some of these thoughts are more developed than others. If y
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-143879">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://lisalamagna.com' rel='external nofollow' class='url'>Lisa LaMagna</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-143879"><time datetime="2015-11-24T23:59:35+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://lisalamagna.com' rel='external nofollow' class='url'>Lisa LaMagna</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-143879"><time datetime="2015-11-24T23:59:35+00:00" pubdate class="published">
 		 at <span class="hours">23:59pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura, this is the second time I have randomly found one of your articles, gained a lot of insight, and realized “oh, it’s Laura Kalbag again.” Thank you.
 	</div>

@@ -38,12 +38,11 @@ We need to continually question what we’re doing and why we bother. I think I�
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-407">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/7c77bb634e33febe9e2e9a2745732ca3?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7c77bb634e33febe9e2e9a2745732ca3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/danblundell' rel='external nofollow' class='url'>Dan Blundell</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-407"><time datetime="2012-12-04T09:25:28+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/7c77bb634e33febe9e2e9a2745732ca3?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7c77bb634e33febe9e2e9a2745732ca3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/danblundell' rel='external nofollow' class='url'>Dan Blundell</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-407"><time datetime="2012-12-04T09:25:28+00:00" pubdate class="published">
 		 at <span class="hours">09:25am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		“We need to continually question what we’re doing and why we bother. I think I’m right in saying that most of what we do isn’t just “a job.” We do this because we care and we want to make better experiences for everyone.” –; This just nailed exactly why I’m feeling the way I am at the minute, good to know that there’s others that feel the same way! 
 

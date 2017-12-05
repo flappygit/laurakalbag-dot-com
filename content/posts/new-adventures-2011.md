@@ -55,60 +55,55 @@ If there’s a New Adventures next year, I’ll definitely try to be there.
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-179">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">alpower</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-179"><time datetime="2011-02-04T10:21:46+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">alpower</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-179"><time datetime="2011-02-04T10:21:46+00:00" pubdate class="published">
 		 at <span class="hours">10:21am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag great set of notes!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-178">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://beneverard.co.uk' rel='external nofollow' class='url'>Ben Everard</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-178"><time datetime="2011-02-04T10:26:05+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://beneverard.co.uk' rel='external nofollow' class='url'>Ben Everard</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-178"><time datetime="2011-02-04T10:26:05+00:00" pubdate class="published">
 		 at <span class="hours">10:26am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great write-up Laura, the conference notes are pretty damn cool, great for recapping the points made throughout the day!
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-180">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-180"><time datetime="2011-02-04T11:58:25+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-180"><time datetime="2011-02-04T11:58:25+00:00" pubdate class="published">
 		 at <span class="hours">11:58am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great synopsis and the conference notes image is very useful thanks!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-181">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">gicela</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-181"><time datetime="2011-02-04T11:58:37+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">gicela</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-181"><time datetime="2011-02-04T11:58:37+00:00" pubdate class="published">
 		 at <span class="hours">11:58am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag I love your notes on your new adventures post :)
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-182">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">johanbakken</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-182"><time datetime="2011-02-04T20:41:36+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">johanbakken</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-182"><time datetime="2011-02-04T20:41:36+00:00" pubdate class="published">
 		 at <span class="hours">20:41pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Your conference notes from #naconf and #deconstruct are supreme. So beautiful.
 	</div>

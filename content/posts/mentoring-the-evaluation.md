@@ -110,12 +110,11 @@ I’ve been so lucky to work with such passionate and hard-working people. I can
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-561">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/bf246b467b75482dc989bb255a48fe4a?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/bf246b467b75482dc989bb255a48fe4a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.daisywheelinteractive.com' rel='external nofollow' class='url'>Mallen Baker</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-561"><time datetime="2013-06-26T11:46:53+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/bf246b467b75482dc989bb255a48fe4a?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/bf246b467b75482dc989bb255a48fe4a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.daisywheelinteractive.com' rel='external nofollow' class='url'>Mallen Baker</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-561"><time datetime="2013-06-26T11:46:53+00:00" pubdate class="published">
 		 at <span class="hours">11:46am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Well done to you –; and to Phil, Jago and Sibylle, for the great job they did on the site. It was a pleasure working with you all, and I could not be more pleased with the end result.
 	</div>

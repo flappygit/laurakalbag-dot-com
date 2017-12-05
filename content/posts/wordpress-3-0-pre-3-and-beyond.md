@@ -95,24 +95,22 @@ This post has three parts. This is part one. Visit the other parts below:
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-8">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">bookmeister</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-8"><time datetime="2010-07-16T21:13:07+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">bookmeister</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-8"><time datetime="2010-07-16T21:13:07+00:00" pubdate class="published">
 		 at <span class="hours">21:13pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag good effort on the wordpress blog posts. You could write a book :-)
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-9">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-9"><time datetime="2010-07-16T21:17:26+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-9"><time datetime="2010-07-16T21:17:26+00:00" pubdate class="published">
 		 at <span class="hours">21:17pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@bookmeister thanks but barely! You see how much the language plugin shouts at me. Apparently I can barely string a sentence together ;)
 		</div>

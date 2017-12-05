@@ -17,12 +17,11 @@ Last week Allan McAvoy posted up [the interview he did with me](http://allanmcav
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-562">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d96a2fa3a046fcf5cb5230525a1f4918?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d96a2fa3a046fcf5cb5230525a1f4918?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://djisystems.com' rel='external nofollow' class='url'>David Griffiths</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-562"><time datetime="2013-07-03T23:44:30+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d96a2fa3a046fcf5cb5230525a1f4918?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d96a2fa3a046fcf5cb5230525a1f4918?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://djisystems.com' rel='external nofollow' class='url'>David Griffiths</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-562"><time datetime="2013-07-03T23:44:30+00:00" pubdate class="published">
 		 at <span class="hours">23:44pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		“transparentize” –; I love you –; thought I was stuck with rgba too! And if only I lived on the South Coast my 2 labs would love a walk in your park.
 	</div>

@@ -95,60 +95,55 @@ As the Apple app stores get huger, there’s going to be a much greater need for
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-26">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/country-gb/hayles/' rel='external nofollow' class='url'>hayles</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-26"><time datetime="2010-08-01T18:12:17+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/country-gb/hayles/' rel='external nofollow' class='url'>hayles</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-26"><time datetime="2010-08-01T18:12:17+00:00" pubdate class="published">
 		 at <span class="hours">18:12pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Great post! Do you play many games on it? Also for books, have you tried Stanza?
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-28">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">logorrhoea</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-28"><time datetime="2010-08-01T18:17:44+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">logorrhoea</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-28"><time datetime="2010-08-01T18:17:44+00:00" pubdate class="published">
 		 at <span class="hours">18:17pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Nice post. I generally agree with what you say. (This tweet written in Twitterrific on my iPad.)
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-27">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0b6ecff63b5adac3fc906195f41b77f0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0b6ecff63b5adac3fc906195f41b77f0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.brightstorm.co.uk' rel='external nofollow' class='url'>mikek</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-27"><time datetime="2010-08-01T19:27:43+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0b6ecff63b5adac3fc906195f41b77f0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0b6ecff63b5adac3fc906195f41b77f0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.brightstorm.co.uk' rel='external nofollow' class='url'>mikek</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-27"><time datetime="2010-08-01T19:27:43+00:00" pubdate class="published">
 		 at <span class="hours">19:27pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		great account of ipad ownership. think i might tradeup a netbook and old iphone for the pad.. regarding your not being able to have reference of your sent email on your mac if you send from your pad, if you set up mail using imap, the you can. i find this useful as i flit between iphone, netbook, work mini and mbp.
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-31">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-31"><time datetime="2010-08-03T09:50:01+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-31"><time datetime="2010-08-03T09:50:01+00:00" pubdate class="published">
 		 at <span class="hours">09:50am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’ve tried to set up IMAP but never seem to be able to get it to work. I must be doing something wrong somewhere, or maybe it’s that I have POP set up to? I’m too scared to delete POP and then add IMAP in case I lose a load of e-mails in between!
 		</div>
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-29">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.squarerobot.com' rel='external nofollow' class='url'>AndyW</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-29"><time datetime="2010-08-02T08:32:13+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.squarerobot.com' rel='external nofollow' class='url'>AndyW</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-29"><time datetime="2010-08-02T08:32:13+00:00" pubdate class="published">
 		 at <span class="hours">08:32am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Just a quick point on the email thing&#8230; if you use IMAP or Exchange to access your email, the sent items folder should be synced to the server and back to your laptop.
 
@@ -159,12 +154,11 @@ I switched to Google Apps a year or so back and haven’t looked back!
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-32">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-32"><time datetime="2010-08-03T09:51:38+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-32"><time datetime="2010-08-03T09:51:38+00:00" pubdate class="published">
 		 at <span class="hours">09:51am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I never knew that IMAP would sync Sent items, that’s so clever!
 
@@ -173,12 +167,11 @@ I tried Google Apps as a setup for IMAP, but it doesn’t work and I have **no i
 	<ul class="children">
 		<li class="comment even depth-3" id="li-comment-34">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0bec50fd96a5dba3352409e0a9a5928c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0bec50fd96a5dba3352409e0a9a5928c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.squarerobot.com' rel='external nofollow' class='url'>AndyW</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-34"><time datetime="2010-08-03T10:10:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0bec50fd96a5dba3352409e0a9a5928c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0bec50fd96a5dba3352409e0a9a5928c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.squarerobot.com' rel='external nofollow' class='url'>AndyW</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-34"><time datetime="2010-08-03T10:10:34+00:00" pubdate class="published">
 		 at <span class="hours">10:10am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Yeah, it synchs the lot! I use Google Apps via their exchange connection on my iPhone and it works perfectly, including push email. I literally can’t fault it.
 
@@ -192,24 +185,22 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-30">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/61a67b80021502f67ab0d0bbef4ae2de?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/61a67b80021502f67ab0d0bbef4ae2de?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Dan</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-30"><time datetime="2010-08-03T09:10:53+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/61a67b80021502f67ab0d0bbef4ae2de?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/61a67b80021502f67ab0d0bbef4ae2de?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Dan</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-30"><time datetime="2010-08-03T09:10:53+00:00" pubdate class="published">
 		 at <span class="hours">09:10am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Good post thanks&#8230; I too struggle with app discovery&#8230; A good resource for this is [http://app.itize.us](http://app.itize.us" rel="nofollow) which is a curated list of the best designed apps&#8230; There’s some gems in there I wouldn’t have known about otherwise&#8230; Hope this helps :)
 	</div>
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-33">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-33"><time datetime="2010-08-03T09:53:18+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-33"><time datetime="2010-08-03T09:53:18+00:00" pubdate class="published">
 		 at <span class="hours">09:53am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Looks like it’s curated by some proper old-school designers, all those apps have a real graphic designer feel to them! Thanks for the link, I’ll definitely keep my eye on that.
 		</div>

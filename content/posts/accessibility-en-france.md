@@ -41,12 +41,11 @@ Sidenote: The French designers and developers were mostly very knowledgeable abo
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-32375">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/c422aedd4646a5480bef7a8e525be879?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c422aedd4646a5480bef7a8e525be879?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.lije-creative.com/' rel='external nofollow' class='url'>Jérôme</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-32375"><time datetime="2014-06-14T12:25:58+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/c422aedd4646a5480bef7a8e525be879?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c422aedd4646a5480bef7a8e525be879?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.lije-creative.com/' rel='external nofollow' class='url'>Jérôme</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-32375"><time datetime="2014-06-14T12:25:58+00:00" pubdate class="published">
 		 at <span class="hours">12:25pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hey,
 
@@ -59,12 +58,11 @@ Jérôme</p>	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32736">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/adaad232dc1dd4800d7d28fd460db571?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/adaad232dc1dd4800d7d28fd460db571?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://lamecarlate.net' rel='external nofollow' class='url'>Chaopale Lamecarlate</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-32736"><time datetime="2014-06-16T17:16:28+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/adaad232dc1dd4800d7d28fd460db571?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/adaad232dc1dd4800d7d28fd460db571?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://lamecarlate.net' rel='external nofollow' class='url'>Chaopale Lamecarlate</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-32736"><time datetime="2014-06-16T17:16:28+00:00" pubdate class="published">
 		 at <span class="hours">17:16pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>I attended your conference, and it was wonderful: dynamic, fun, interesting.
 
@@ -72,12 +70,11 @@ We were a small group of french-speaking friends, and all agreed that they had u
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-33135">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/f59bac61321183e11db7d0f7619c4cb6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f59bac61321183e11db7d0f7619c4cb6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Grégory STOOS</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-33135"><time datetime="2014-06-18T07:12:42+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/f59bac61321183e11db7d0f7619c4cb6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f59bac61321183e11db7d0f7619c4cb6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Grégory STOOS</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-33135"><time datetime="2014-06-18T07:12:42+00:00" pubdate class="published">
 		 at <span class="hours">07:12am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Thanks Laura for this very nice conference. Can you share your slides ?
 
@@ -85,24 +82,22 @@ Thanks.</p>	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laurakalbag bypostauthor odd alt depth-2" id="li-comment-33185">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://laurakalbag.wpengine.com' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-33185"><time datetime="2014-06-18T10:41:15+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://laurakalbag.wpengine.com' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-33185"><time datetime="2014-06-18T10:41:15+00:00" pubdate class="published">
 		 at <span class="hours">10:41am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Oh yes, sorry, I’d forgotten to post the link. The [slides are up on Speakerdeck.](https://speakerdeck.com/laurakalbag/designer-pour-laccessibilite" rel="nofollow)
 		</div>
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-34979">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/19a8ccff99a02c458e560582d707a608?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/19a8ccff99a02c458e560582d707a608?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.peteblakemore.co.uk' rel='external nofollow' class='url'>Pete Blakemore</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-34979"><time datetime="2014-06-25T22:21:33+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/19a8ccff99a02c458e560582d707a608?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/19a8ccff99a02c458e560582d707a608?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.peteblakemore.co.uk' rel='external nofollow' class='url'>Pete Blakemore</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-34979"><time datetime="2014-06-25T22:21:33+00:00" pubdate class="published">
 		 at <span class="hours">22:21pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Wow Laura, didn’t realise the rest of the conference was en Français! Sounds like you had a brilliant time and hats off for having the confidence to do it, and nice thinking to get the slides translated.
 	</div>

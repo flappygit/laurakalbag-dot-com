@@ -163,12 +163,11 @@ It wasn’t a conference so much about ‘takeways’ but I took away a big sens
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-252">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://andywarburton.co.uk' rel='external nofollow' class='url'>Andy W</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-252"><time datetime="2011-09-12T12:17:00+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://andywarburton.co.uk' rel='external nofollow' class='url'>Andy W</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-252"><time datetime="2011-09-12T12:17:00+00:00" pubdate class="published">
 		 at <span class="hours">12:17pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Holy cow. That is one hella long post. I’m going to have to ‘read later’ on this one.
 
@@ -179,36 +178,33 @@ If you could  bits that you would recommend I read?
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-253">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-253"><time datetime="2011-09-12T12:22:53+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-253"><time datetime="2011-09-12T12:22:53+00:00" pubdate class="published">
 		 at <span class="hours">12:22pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It’s tricky because I was trying to work across themes rather than writing per-talk, but I’ve tried to add some headers in there to break the themes up. Maybe I’ll do a quick skip-menu at the top!
 		</div>
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-255">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://iamdanw.com' rel='external nofollow' class='url'>Dan W</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-255"><time datetime="2011-09-15T00:11:31+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://iamdanw.com' rel='external nofollow' class='url'>Dan W</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-255"><time datetime="2011-09-15T00:11:31+00:00" pubdate class="published">
 		 at <span class="hours">00:11am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks, that was good. I’d love to see more conference write ups like this than the TL;DR  oriented per-speaker bullet point lists many produce.
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-256">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-256"><time datetime="2011-09-15T08:27:24+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-256"><time datetime="2011-09-15T08:27:24+00:00" pubdate class="published">
 		 at <span class="hours">08:27am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks Dan :)
 		</div>

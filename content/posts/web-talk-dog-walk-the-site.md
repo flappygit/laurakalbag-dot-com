@@ -19,12 +19,11 @@ It also makes use of [Perch, that wonderful little content management system](ht
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-10237">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/8dd12b0ef4ca8ad1df8cd048dac59c8f?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/8dd12b0ef4ca8ad1df8cd048dac59c8f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.ofleashk9training.com' rel='external nofollow' class='url'>Richelle Cortis</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-10237"><time datetime="2014-02-16T16:10:23+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/8dd12b0ef4ca8ad1df8cd048dac59c8f?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/8dd12b0ef4ca8ad1df8cd048dac59c8f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.ofleashk9training.com' rel='external nofollow' class='url'>Richelle Cortis</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-10237"><time datetime="2014-02-16T16:10:23+00:00" pubdate class="published">
 		 at <span class="hours">16:10pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice design Laura, and a great ideea to write about your walks in nature, along with the dog and friends. I have a small terrier that I take with me wherever I go. My dear Sheba!
 	</div>

@@ -19,12 +19,11 @@ Recently I found that [he’d published the interview](http://typequest.org/arti
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-10719">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/25ad02b4aa33cd7c4603ee67cb0a80af?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/25ad02b4aa33cd7c4603ee67cb0a80af?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://andywarburton.co.uk' rel='external nofollow' class='url'>Andy Warburton</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-10719"><time datetime="2014-02-25T17:40:37+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/25ad02b4aa33cd7c4603ee67cb0a80af?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/25ad02b4aa33cd7c4603ee67cb0a80af?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://andywarburton.co.uk' rel='external nofollow' class='url'>Andy Warburton</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-10719"><time datetime="2014-02-25T17:40:37+00:00" pubdate class="published">
 		 at <span class="hours">17:40pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Are you vagabonding? That first paragraph makes you sound like some kind of transient (“currently from Brighton”) :-)
 	</div>

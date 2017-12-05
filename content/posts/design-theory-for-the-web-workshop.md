@@ -21,12 +21,11 @@ It’s a low-cost workshop. The early bird tickets are just £125, and the full-
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-568">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-568"><time datetime="2013-08-20T14:18:45+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-568"><time datetime="2013-08-20T14:18:45+00:00" pubdate class="published">
 		 at <span class="hours">14:18pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Good luck on your first solo workshop, although I’m sure you’ll be great at it.
 
@@ -35,12 +34,11 @@ One thing, how suitable is this for a developer who’s looking to understand mo
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-569">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-569"><time datetime="2013-08-20T14:27:24+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-569"><time datetime="2013-08-20T14:27:24+00:00" pubdate class="published">
 		 at <span class="hours">14:27pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks Neil :)
 
@@ -49,12 +47,11 @@ It’s absolutely aimed at developers and beginners who are new to designing for
 	<ul class="children">
 		<li class="comment even depth-3" id="li-comment-570">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-570"><time datetime="2013-08-20T15:12:15+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://about.me/NeilNand' rel='external nofollow' class='url'>Neil</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-570"><time datetime="2013-08-20T15:12:15+00:00" pubdate class="published">
 		 at <span class="hours">15:12pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Awesome, I’ll see if I can get my self up there.
 		</div>

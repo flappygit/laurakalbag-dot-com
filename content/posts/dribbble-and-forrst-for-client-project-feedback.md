@@ -135,24 +135,22 @@ I’d like to try using Dribbble and Forrst for feedback on a longer-term projec
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-107">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">dave</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-107"><time datetime="2010-09-14T20:45:58+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">dave</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-107"><time datetime="2010-09-14T20:45:58+00:00" pubdate class="published">
 		 at <span class="hours">20:45pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		“forced” is kinda how I pronounce it.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-108">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.stockyoo.com' rel='external nofollow' class='url'>AndyW</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-108"><time datetime="2010-09-15T09:39:31+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stockyoo.com' rel='external nofollow' class='url'>AndyW</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-108"><time datetime="2010-09-15T09:39:31+00:00" pubdate class="published">
 		 at <span class="hours">09:39am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Awesome, I imagine Forrst is pronounced like Forrest Gump pronounces his name. So just say forrest with a deep south accent and you should be there ;-)
 
@@ -165,12 +163,11 @@ Anyway. I&#039;m really happy with the final product and can&#039;t wait to star
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-109">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/486e36b21415d26c6133ca01ac1f2c48?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/486e36b21415d26c6133ca01ac1f2c48?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.conceptfeedback.com' rel='external nofollow' class='url'>Andrew Follett</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-109"><time datetime="2010-09-17T01:32:33+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/486e36b21415d26c6133ca01ac1f2c48?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/486e36b21415d26c6133ca01ac1f2c48?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.conceptfeedback.com' rel='external nofollow' class='url'>Andrew Follett</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-109"><time datetime="2010-09-17T01:32:33+00:00" pubdate class="published">
 		 at <span class="hours">01:32am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hi Laura,
 
@@ -181,24 +178,22 @@ Andrew
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-110">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-110"><time datetime="2010-09-29T11:43:02+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-110"><time datetime="2010-09-29T11:43:02+00:00" pubdate class="published">
 		 at <span class="hours">11:43am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post Laura very informative. I&#039;ve not got a Dribbble account, but Forrst has been great for me in making the work I produce better, not only from receiving feedback and improving but looking at other peoples work and critiquing myself.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-112">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://enonavital.com/' rel='external nofollow' class='url'>Enon Avital</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-112"><time datetime="2011-01-31T22:01:08+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://enonavital.com/' rel='external nofollow' class='url'>Enon Avital</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-112"><time datetime="2011-01-31T22:01:08+00:00" pubdate class="published">
 		 at <span class="hours">22:01pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Funny you’re having difficulty determining  the pronunciation of Forrst (I say “Foerced”).
 
@@ -207,12 +202,11 @@ Personally I find Dribbble more difficult to translate into speech. Is it “dri
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-113">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://Silvermapleweb.com' rel='external nofollow' class='url'>PeterWooster</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-113"><time datetime="2012-12-02T18:15:09+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://Silvermapleweb.com' rel='external nofollow' class='url'>PeterWooster</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-113"><time datetime="2012-12-02T18:15:09+00:00" pubdate class="published">
 		 at <span class="hours">18:15pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		There was a discussion on Forrst a few months ago about the pronunciation.  The consensus was that most people pronounce it “forced” but the official pronunciation is “forest”, cf. the little tree logo and the “Error Bear”.
 	</div>

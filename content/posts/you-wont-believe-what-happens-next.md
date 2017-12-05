@@ -608,36 +608,33 @@ Build the world you want to live in.
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-160272">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/a1212e71e1f99cd5b98bb673dca73580?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/a1212e71e1f99cd5b98bb673dca73580?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://eyedeastudio.london' rel='external nofollow' class='url'>Prisca</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-160272"><time datetime="2017-04-13T09:45:22+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/a1212e71e1f99cd5b98bb673dca73580?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/a1212e71e1f99cd5b98bb673dca73580?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://eyedeastudio.london' rel='external nofollow' class='url'>Prisca</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-160272"><time datetime="2017-04-13T09:45:22+00:00" pubdate class="published">
 		 at <span class="hours">09:45am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura, thanks for posting this — must have been an excellent talk, going by this brilliant write-up. Thank you :)
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160273">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.darnelldigitalink.com' rel='external nofollow' class='url'>Wayne Darnell</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-160273"><time datetime="2017-04-22T20:52:07+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.darnelldigitalink.com' rel='external nofollow' class='url'>Wayne Darnell</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-160273"><time datetime="2017-04-22T20:52:07+00:00" pubdate class="published">
 		 at <span class="hours">20:52pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Excellent&#8230;. You hit on some fantastic points that more people need to be aware of.  It’s definitely an uphill battle making changes and developing or finding products that can adhere to an ethical business model (I’m changing gears in my company to spend a lot more time working on solutions) but it must be done.  To continue along the path that the large corporations have laid out for us “users” will eventually end with no privacy, control, or ownership of our information and ultimately our identities&#8230;  The writing is on the wall for anyone who takes the time to look, it’s up to us to erase that writing.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160274">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='https://lifesimply.rocks' rel='external nofollow' class='url'>Alina &amp; Deian</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-160274"><time datetime="2017-04-23T12:21:58+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://lifesimply.rocks' rel='external nofollow' class='url'>Alina &amp; Deian</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-160274"><time datetime="2017-04-23T12:21:58+00:00" pubdate class="published">
 		 at <span class="hours">12:21pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Dear Laura,
 

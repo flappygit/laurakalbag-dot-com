@@ -51,24 +51,22 @@ It worked exactly as I wanted. I now have little coloured visual indicators that
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-485">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://evanlovely.com' rel='external nofollow' class='url'>Evan Lovely</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-485"><time datetime="2013-02-10T19:24:44+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://evanlovely.com' rel='external nofollow' class='url'>Evan Lovely</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-485"><time datetime="2013-02-10T19:24:44+00:00" pubdate class="published">
 		 at <span class="hours">19:24pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice job! I like it! The human mind works better (and faster) with imagery than words as words still need to get processed over to their meaning whereas imagery can have inherent meaning. Thanks for sharing the good idea!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-486">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://evanlovely.com' rel='external nofollow' class='url'>Evan Lovely</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-486"><time datetime="2013-02-10T21:09:38+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://evanlovely.com' rel='external nofollow' class='url'>Evan Lovely</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-486"><time datetime="2013-02-10T21:09:38+00:00" pubdate class="published">
 		 at <span class="hours">21:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		So I was implementing this and found an easier way: Put your cursor in the name field, then go to Edit &gt; Special Characters &gt; Emoji then double click the one you want.
 	</div>

@@ -30,12 +30,11 @@ Note: throughout this post I keep saying ‘mainstream.’ This is because I fee
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-268">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://welcomebrand.co.uk' rel='external nofollow' class='url'>James Young (@welcomebrand)</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-268"><time datetime="2012-06-01T21:59:23+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://welcomebrand.co.uk' rel='external nofollow' class='url'>James Young (@welcomebrand)</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-268"><time datetime="2012-06-01T21:59:23+00:00" pubdate class="published">
 		 at <span class="hours">21:59pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It’s something I do with ads ([http://www.welcomebrand.co.uk/thoughts/browsing-an-uglier-web-on-purpose/](http://www.welcomebrand.co.uk/thoughts/browsing-an-uglier-web-on-purpose/" rel="nofollow)) and I do recommend everyone do it from time to time for the reasons you mention. 
 
@@ -48,12 +47,11 @@ J.
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-269">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-269"><time datetime="2012-06-01T22:00:55+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-269"><time datetime="2012-06-01T22:00:55+00:00" pubdate class="published">
 		 at <span class="hours">22:00pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		That’s a great post, and totally the same way of thinking.
 
@@ -62,36 +60,33 @@ You’re right about Windows. I always test on Windows, but probably not taking 
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-270">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/75ff01d3954ec930eb94da10d49c1182?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/75ff01d3954ec930eb94da10d49c1182?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Gulben</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-270"><time datetime="2012-06-01T23:09:52+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/75ff01d3954ec930eb94da10d49c1182?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/75ff01d3954ec930eb94da10d49c1182?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Gulben</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-270"><time datetime="2012-06-01T23:09:52+00:00" pubdate class="published">
 		 at <span class="hours">23:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’m very much interested hearing about your adventure. I can’t seem to get out of my anti-Google phase :-)
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-273">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-273"><time datetime="2012-06-02T22:56:36+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-273"><time datetime="2012-06-02T22:56:36+00:00" pubdate class="published">
 		 at <span class="hours">22:56pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Oh I still won’t touch Gmail with a barge pole, don’t get me wrong ;-)
 		</div>
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-271">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-271"><time datetime="2012-06-02T14:33:16+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.100yen.co.uk' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-271"><time datetime="2012-06-02T14:33:16+00:00" pubdate class="published">
 		 at <span class="hours">14:33pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		That’s a very good point. I’ve avoided Google+ because I don’t need it in my life, but perhaps I should take another look.
 
@@ -104,36 +99,33 @@ Bit of a crap comment, that. I haven’t properly woken up, give me a break!
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-272">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-272"><time datetime="2012-06-02T22:56:13+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-272"><time datetime="2012-06-02T22:56:13+00:00" pubdate class="published">
 		 at <span class="hours">22:56pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		No it’s a great comment, don’t be daft! That’s a good point about Google+ and Pinterest too, but now I’m starting to wonder where it stops. If we’re using everything, can we be paying attention to many things?
 	</div>
 </li>
 	<li class="comment even depth-2" id="li-comment-279">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/60f3dac07f59d6fc7987de8227d401c5?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/60f3dac07f59d6fc7987de8227d401c5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://rhcedan.com' rel='external nofollow' class='url'>Dan Woods</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-279"><time datetime="2012-06-05T21:43:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/60f3dac07f59d6fc7987de8227d401c5?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/60f3dac07f59d6fc7987de8227d401c5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://rhcedan.com' rel='external nofollow' class='url'>Dan Woods</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-279"><time datetime="2012-06-05T21:43:34+00:00" pubdate class="published">
 		 at <span class="hours">21:43pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@jonic In my opinion, Microsoft really nailed it with Windows Mobile. They have taken a simpler-is-better approach to their UI which has finally made it something that is user friendly and downright interesting to use. I’m not a Windows user in the real world, but I’ve already taken some inspiration from their mobile platform for UI.
 		</div>
 	</li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-274">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/88581226705b3a5daf9d92c2c385ffe9?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/88581226705b3a5daf9d92c2c385ffe9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.katywatkins.com' rel='external nofollow' class='url'>Katy Watkins</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-274"><time datetime="2012-06-03T00:24:40+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/88581226705b3a5daf9d92c2c385ffe9?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/88581226705b3a5daf9d92c2c385ffe9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.katywatkins.com' rel='external nofollow' class='url'>Katy Watkins</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-274"><time datetime="2012-06-03T00:24:40+00:00" pubdate class="published">
 		 at <span class="hours">00:24am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post! I worry about this as well, trying to find a balance between what I want to use and what everyone in the world seems to be using.  My initial reason for joining Twitter was just to understand what the rest of the world was doing, but I’m avoiding Pintrest because I can’t afford another time-suck, and I don’t see a real need for it in my life. And I have an Android phone instead of an iPhone because I want to know how “the other half” lives. 
 
@@ -144,36 +136,33 @@ On an unrelated note, tell me more about your Gmail hatred! Is it because it’s
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-278">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-278"><time datetime="2012-06-05T20:13:43+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-278"><time datetime="2012-06-05T20:13:43+00:00" pubdate class="published">
 		 at <span class="hours">20:13pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I find Gmail a bit odd, but I think it has improved recently. It’s Google themselves, I don’t like the idea of being the product, and I just get this overwhelming creepy feeling from them that it’s not in our favour to be used like this…
 		</div>
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-275">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/610872f5af82d0230363a54fcb0ec4fe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/610872f5af82d0230363a54fcb0ec4fe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://futureinsights.com' rel='external nofollow' class='url'>Davin Wilfrid</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-275"><time datetime="2012-06-05T16:42:21+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/610872f5af82d0230363a54fcb0ec4fe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/610872f5af82d0230363a54fcb0ec4fe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://futureinsights.com' rel='external nofollow' class='url'>Davin Wilfrid</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-275"><time datetime="2012-06-05T16:42:21+00:00" pubdate class="published">
 		 at <span class="hours">16:42pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post, Laura. I signed up for Google + when it was first announced, then ditched it for about a year. Only recently have I started looking into it again, and only because of the business reasons (SEO nonsense, etc). I’m glad I did, because I think it could be a smarter, more engaging version of Facebook if everyone gave it a chance. I’m now embarrassed for “erring on the side of hipsters” and being so dismissive for so long.
 	</div>
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-276">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/f75d304a5c933876749f710fce9c5702?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f75d304a5c933876749f710fce9c5702?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://shinytoyrobots.com' rel='external nofollow' class='url'>Robin Cannon</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-276"><time datetime="2012-06-05T17:30:15+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/f75d304a5c933876749f710fce9c5702?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/f75d304a5c933876749f710fce9c5702?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://shinytoyrobots.com' rel='external nofollow' class='url'>Robin Cannon</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-276"><time datetime="2012-06-05T17:30:15+00:00" pubdate class="published">
 		 at <span class="hours">17:30pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Good to see such a self-aware post.
 
@@ -188,12 +177,11 @@ That’s the balance I want to keep. So much web design is self-referential and 
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-277">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e59258d1478e4148bb8dfec35f7b4ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e59258d1478e4148bb8dfec35f7b4ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://designbyjake.co.uk' rel='external nofollow' class='url'>Jake Giltsoff</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-277"><time datetime="2012-06-05T18:29:50+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e59258d1478e4148bb8dfec35f7b4ddc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e59258d1478e4148bb8dfec35f7b4ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://designbyjake.co.uk' rel='external nofollow' class='url'>Jake Giltsoff</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-277"><time datetime="2012-06-05T18:29:50+00:00" pubdate class="published">
 		 at <span class="hours">18:29pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice and well thought out post.
 
@@ -204,12 +192,11 @@ Obviously its more than okay to put in extra things that only people with a cert
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-280">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/549895c46a63bec3b6fb804ca6d2c6da?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/549895c46a63bec3b6fb804ca6d2c6da?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://hickox.org' rel='external nofollow' class='url'>David Hickox</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-280"><time datetime="2012-06-05T21:51:48+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/549895c46a63bec3b6fb804ca6d2c6da?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/549895c46a63bec3b6fb804ca6d2c6da?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://hickox.org' rel='external nofollow' class='url'>David Hickox</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-280"><time datetime="2012-06-05T21:51:48+00:00" pubdate class="published">
 		 at <span class="hours">21:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Took me a while to learn this one myself.  It’s our job to be well-versed in the norm in spite of the preferences we develop as experts.  If we want to pull experiences in new and exciting directions, we need to know what the average case is in order for that direction to make sense.  The real magic is when you can make well-designed experiences effortless and intuitive, almost invisible.  It takes knowing the environment of the norm to do that.  
 

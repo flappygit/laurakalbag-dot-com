@@ -76,24 +76,22 @@ This post was a love fest. I love my new notebook and I wanted to tell the world
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-189">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-189"><time datetime="2011-03-31T15:05:19+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-189"><time datetime="2011-03-31T15:05:19+00:00" pubdate class="published">
 		 at <span class="hours">15:05pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice choice&#8230; but what pen do you prefer?
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-190">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-190"><time datetime="2011-03-31T16:30:44+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-190"><time datetime="2011-03-31T16:30:44+00:00" pubdate class="published">
 		 at <span class="hours">16:30pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Ooh, that’s a good question.
 
@@ -104,24 +102,22 @@ However, for drawing, I prefer any old cheap black biro. They’re lighter and s
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-191">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-191"><time datetime="2011-04-05T11:15:38+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-191"><time datetime="2011-04-05T11:15:38+00:00" pubdate class="published">
 		 at <span class="hours">11:15am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Where do you buy your pens from? I find thicker rollerballs (~1mm) work better for me, but I have trouble finding places that sell them.
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-192">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-192"><time datetime="2011-04-05T12:47:57+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-192"><time datetime="2011-04-05T12:47:57+00:00" pubdate class="published">
 		 at <span class="hours">12:47pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Actually bought my most recent ones from Tesco! They’re the kind of thing that are tricky to buy online as you can’t test them before you buy.
 
@@ -130,12 +126,11 @@ I find independent stationery shops or art shops tend to have the best range of 
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-193">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://f6design.com/journal' rel='external nofollow' class='url'>Jonathan Nicol</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-193"><time datetime="2011-05-11T23:22:16+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://f6design.com/journal' rel='external nofollow' class='url'>Jonathan Nicol</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-193"><time datetime="2011-05-11T23:22:16+00:00" pubdate class="published">
 		 at <span class="hours">23:22pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post, it’s nice to find someone who’s willing to admit that their notebook is full of chaotic scribbles rather than portfolio-perfect doodles.
 
@@ -146,24 +141,22 @@ But I think you may have won me over with your description of the Leuchtturm1917
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-194">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1eb3960b23088e61c369a3f1b7cd2639?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1eb3960b23088e61c369a3f1b7cd2639?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Amy</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-194"><time datetime="2011-06-20T17:51:54+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/1eb3960b23088e61c369a3f1b7cd2639?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1eb3960b23088e61c369a3f1b7cd2639?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Amy</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-194"><time datetime="2011-06-20T17:51:54+00:00" pubdate class="published">
 		 at <span class="hours">17:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great posting! I like the header space and the subtle squares. Do you know if it’s available in a small size? Didn’t find it right away and didn’t want to give up on it if maybe you knew&#8230;
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-195">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-195"><time datetime="2011-06-20T17:53:36+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-195"><time datetime="2011-06-20T17:53:36+00:00" pubdate class="published">
 		 at <span class="hours">17:53pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		There is! It’s a [Pocket A6 size](http://www.thepaperie.co.uk/notebooks/leuchtturm1917-notebooks?paper_size=83" rel="nofollow)
 
@@ -172,12 +165,11 @@ They’ve also recently got linen-covered Leuchtturm1917 notebooks in. So cool!
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-196">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1f799131c93c0df3382c365ec62b59bf?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1f799131c93c0df3382c365ec62b59bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">David</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-196"><time datetime="2011-07-17T09:32:31+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/1f799131c93c0df3382c365ec62b59bf?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1f799131c93c0df3382c365ec62b59bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">David</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-196"><time datetime="2011-07-17T09:32:31+00:00" pubdate class="published">
 		 at <span class="hours">09:32am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>You should try Arwey notebooks. [http://www.arweystore.com](http://www.arweystore.com" rel="nofollow)
 
@@ -185,12 +177,11 @@ My new perfect notebook! :)</p>	</div>
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-7070">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.dummies-for-destruction.co.uk/random' rel='external nofollow' class='url'>Lyle</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7070"><time datetime="2014-01-07T10:38:59+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.dummies-for-destruction.co.uk/random' rel='external nofollow' class='url'>Lyle</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7070"><time datetime="2014-01-07T10:38:59+00:00" pubdate class="published">
 		 at <span class="hours">10:38am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Out of interest, have you seen the Rhodia notebooks? They come with a dot-grid style which is ace, like the best of both worlds. ( [http://www.bureaudirect.co.uk/rhodia-large-black-a5-webnotebook-dot-paper/p2539](http://www.bureaudirect.co.uk/rhodia-large-black-a5-webnotebook-dot-paper/p2539" rel="nofollow) ) 
 
@@ -199,12 +190,11 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
 </li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-10037">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d5f5e21ba165bc1f9e0fb8cf93d8621d?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d5f5e21ba165bc1f9e0fb8cf93d8621d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://jessicayang.org' rel='external nofollow' class='url'>Jessica Yang</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-10037"><time datetime="2014-02-12T20:35:35+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d5f5e21ba165bc1f9e0fb8cf93d8621d?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d5f5e21ba165bc1f9e0fb8cf93d8621d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://jessicayang.org' rel='external nofollow' class='url'>Jessica Yang</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-10037"><time datetime="2014-02-12T20:35:35+00:00" pubdate class="published">
 		 at <span class="hours">20:35pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Oh goodness, yes. There’s immense pressure in the completely made-up concept of ‘perfect’ sketchbook pages –; it’s an expectation that is anathema to creativity. These days even when artists post pages from their own sketchbooks online they are more often than not curated –; you don’t see the messy exploration or idle drawings of the same thing over and over again because the artist was stuck and couldn’t move on. The false image of amazing creative genius flowing 24/7 is harmful and I’m glad you called it out.
 	</div>

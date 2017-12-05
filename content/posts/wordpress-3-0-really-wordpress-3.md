@@ -148,36 +148,33 @@ This post has three parts. This is part two. Visit the other parts below:
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-19">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">benmckenna</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-19"><time datetime="2010-07-16T21:02:38+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">benmckenna</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-19"><time datetime="2010-07-16T21:02:38+00:00" pubdate class="published">
 		 at <span class="hours">21:02pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag 3 is great isn’t it? First real play this week and it’s so much less hacky it’s unreal. Now for the arduous client upgrades :-/
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-20">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-20"><time datetime="2010-07-16T21:09:38+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-20"><time datetime="2010-07-16T21:09:38+00:00" pubdate class="published">
 		 at <span class="hours">21:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@benmckenna it’s really cool. Shouldn’t be too troublesome with auto-upgrades and backwards compatibility.
 	</div>
 	<ul class="children">
 		<li class="comment even depth-3" id="li-comment-21">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">benmckenna</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-21"><time datetime="2010-07-16T21:11:09+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">benmckenna</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-21"><time datetime="2010-07-16T21:11:09+00:00" pubdate class="published">
 		 at <span class="hours">21:11pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag yep, just trying to leave a sensible period for plug-ins. I went a bit plug-in crazy one one in particular
 		</div>
@@ -189,36 +186,33 @@ This post has three parts. This is part two. Visit the other parts below:
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-22">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">nevillestclair</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-22"><time datetime="2010-07-16T21:08:04+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">nevillestclair</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-22"><time datetime="2010-07-16T21:08:04+00:00" pubdate class="published">
 		 at <span class="hours">21:08pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Nice little précis of 3.0 stuff there. Ta for that. &lt;3 custom posts.
 	</div>
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-23">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-23"><time datetime="2010-07-16T21:10:33+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-23"><time datetime="2010-07-16T21:10:33+00:00" pubdate class="published">
 		 at <span class="hours">21:10pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@nevillestclair ooh, posh words. Thanks :) Custom posts are &lt;3 &lt;3 &lt;3
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-3" id="li-comment-24">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">nevillestclair</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-24"><time datetime="2010-07-16T21:16:12+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">nevillestclair</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-24"><time datetime="2010-07-16T21:16:12+00:00" pubdate class="published">
 		 at <span class="hours">21:16pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Any excuse to do diacritical marks on letters :p
 		</div>

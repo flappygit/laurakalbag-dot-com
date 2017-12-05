@@ -33,12 +33,11 @@ I know I’m going to be annoying, and sleepy. Sympathy should probably be direc
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-899">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1abd4058d8f2f3b40af9d61190a6f10a?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1abd4058d8f2f3b40af9d61190a6f10a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://thierrydewolf.wordpress.com/' rel='external nofollow' class='url'>Thierry D.W.</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-899"><time datetime="2013-09-09T09:37:46+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1abd4058d8f2f3b40af9d61190a6f10a?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1abd4058d8f2f3b40af9d61190a6f10a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://thierrydewolf.wordpress.com/' rel='external nofollow' class='url'>Thierry D.W.</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-899"><time datetime="2013-09-09T09:37:46+00:00" pubdate class="published">
 		 at <span class="hours">09:37am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hiya Laura,
 

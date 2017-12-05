@@ -24,12 +24,11 @@ To me, inspiration is in ideas and approaches. Inspiration is the what drives me
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-452">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://molovo.co.uk' rel='external nofollow' class='url'>James Dinsdale</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-452"><time datetime="2013-01-23T13:20:07+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://molovo.co.uk' rel='external nofollow' class='url'>James Dinsdale</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-452"><time datetime="2013-01-23T13:20:07+00:00" pubdate class="published">
 		 at <span class="hours">13:20pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura,
 

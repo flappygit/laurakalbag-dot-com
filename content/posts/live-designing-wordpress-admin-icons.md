@@ -35,12 +35,11 @@ There’s one book that really is the ultimate icons resource, and I only mentio
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-463">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://keithdevon.com' rel='external nofollow' class='url'>Keith Devon</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-463"><time datetime="2013-02-02T14:49:42+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://keithdevon.com' rel='external nofollow' class='url'>Keith Devon</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-463"><time datetime="2013-02-02T14:49:42+00:00" pubdate class="published">
 		 at <span class="hours">14:49pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hi Laura,
 

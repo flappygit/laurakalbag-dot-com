@@ -39,48 +39,44 @@ Ethan Marcotte writes in a style that is casual but smart and funny in sweet, ge
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-245">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">martcol</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-245"><time datetime="2011-07-05T21:13:05+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">martcol</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-245"><time datetime="2011-07-05T21:13:05+00:00" pubdate class="published">
 		 at <span class="hours">21:13pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks for this. It’s a title now on my most wanted list.  I do think that building for the web is getting more complicated more quickly.  Hopefully this will help stop me feeling I’m falling too far behind. d(&gt;_&lt;)b
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-246">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Andy</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-246"><time datetime="2011-07-05T22:13:29+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Andy</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-246"><time datetime="2011-07-05T22:13:29+00:00" pubdate class="published">
 		 at <span class="hours">22:13pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I found the book really useful, but my biggest issue was that the entire book was written desktop first, and then the final chapter introduces mobile first, which means reversing not only all the logic, but also how you think and build in the first place. If mobile first is the way to go –; and I agree that it is, why didn’t Ethan introduce that from the start ?
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-248">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-248"><time datetime="2011-07-06T08:51:20+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-248"><time datetime="2011-07-06T08:51:20+00:00" pubdate class="published">
 		 at <span class="hours">08:51am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’m not sure if I’m right, but I’d think it was probably because it’s more useful to the majority of readers to introduce something that isn’t such a huge leap from their current process first. The non-mobile-first approach could be easily used on an existing site to enhance it, but you really need to be starting a project afresh to begin with mobile first.
 		</div>
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-247">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://clawg.co.uk' rel='external nofollow' class='url'>Charlie</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-247"><time datetime="2011-07-06T08:48:55+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://clawg.co.uk' rel='external nofollow' class='url'>Charlie</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-247"><time datetime="2011-07-06T08:48:55+00:00" pubdate class="published">
 		 at <span class="hours">08:48am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		The book is a good, lightweight read.   My only criticism of the book is that Ethan has already published most of chapters 1-4 via sites like a list apart, so there was nothing in there that isn’t freely available.  That said its still a good read and his suggestions of how to incorporate responsive design into the design workflow with developers was useful.
 	</div>

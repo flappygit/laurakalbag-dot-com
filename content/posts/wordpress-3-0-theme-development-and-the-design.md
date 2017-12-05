@@ -109,12 +109,11 @@ This post has three parts. This is part three. Visit the other parts below:
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-25">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/41548ecfe0816ed4a7c8817472993478?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/41548ecfe0816ed4a7c8817472993478?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">pronebird</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-25"><time datetime="2010-10-26T19:44:13+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/41548ecfe0816ed4a7c8817472993478?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/41548ecfe0816ed4a7c8817472993478?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">pronebird</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-25"><time datetime="2010-10-26T19:44:13+00:00" pubdate class="published">
 		 at <span class="hours">19:44pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		The dark gray is not flaring but better than annoying orange(maybe even closer to red) that was before, in WordPress 2.6.
 	</div>

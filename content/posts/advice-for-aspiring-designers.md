@@ -22,12 +22,11 @@ With my mind focused on the aspiration part, I started writing an answer based o
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-146596">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/06dd590ce0771be9e44af9efacb0cb76?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/06dd590ce0771be9e44af9efacb0cb76?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.greavesdesign.co.uk' rel='external nofollow' class='url'>David</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-146596"><time datetime="2016-04-27T10:32:45+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/06dd590ce0771be9e44af9efacb0cb76?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/06dd590ce0771be9e44af9efacb0cb76?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.greavesdesign.co.uk' rel='external nofollow' class='url'>David</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-146596"><time datetime="2016-04-27T10:32:45+00:00" pubdate class="published">
 		 at <span class="hours">10:32am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I would say focus on the one thing you are good at and master that skill and style, don’t get distracted thinking you need to know everything about anything. Such as if youre thing is vector graphics become the best at it, or if you use illustrator get to know it inside out. Hope that’s helpful advice for someone.
 	</div>

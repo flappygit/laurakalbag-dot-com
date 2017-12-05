@@ -20,12 +20,11 @@ I’m actively not going to bother designing it as nothing will ever happen if I
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-88">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://cribble.net' rel='external nofollow' class='url'>Scott</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-88"><time datetime="2010-06-10T13:56:56+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://cribble.net' rel='external nofollow' class='url'>Scott</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-88"><time datetime="2010-06-10T13:56:56+00:00" pubdate class="published">
 		 at <span class="hours">13:56pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		WOOO!
 
@@ -35,12 +34,11 @@ LINK LINK LINK	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-89">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://cribble.net' rel='external nofollow' class='url'>Scott</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-89"><time datetime="2010-06-10T13:57:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4dab7155700c1cf887723661552e7083?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://cribble.net' rel='external nofollow' class='url'>Scott</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-89"><time datetime="2010-06-10T13:57:34+00:00" pubdate class="published">
 		 at <span class="hours">13:57pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Ok, my “spam” tags got removed thus killing the joke!
 		</div>

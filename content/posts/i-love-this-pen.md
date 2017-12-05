@@ -25,24 +25,22 @@ For someone who starts every project, post and sketch in a notebook, this pen me
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-7065">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://designack.com' rel='external nofollow' class='url'>Ngaire</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7065"><time datetime="2014-01-07T09:29:57+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://designack.com' rel='external nofollow' class='url'>Ngaire</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7065"><time datetime="2014-01-07T09:29:57+00:00" pubdate class="published">
 		 at <span class="hours">09:29am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Ooo looks like a lovely pen! I’m similar when I design –; always starting with pen and paper, so could be worth the investment!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7066">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.lockedowndesign.com' rel='external nofollow' class='url'>John Locke</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7066"><time datetime="2014-01-07T09:35:00+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.lockedowndesign.com' rel='external nofollow' class='url'>John Locke</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7066"><time datetime="2014-01-07T09:35:00+00:00" pubdate class="published">
 		 at <span class="hours">09:35am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>I totally appreciate what you’re saying about finding tools that make you feel comfortable using them, Laura. One of my goals this year is earn enough margin to invest back into some better tools, that will enable me to do tasks easier. Until then&#8230;by any means necessary!
 
@@ -50,12 +48,11 @@ Have a great Tuesday!</p>	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-7069">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.dummies-for-destruction.co.uk/random' rel='external nofollow' class='url'>Lyle</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7069"><time datetime="2014-01-07T10:33:36+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/aa4c59149898515c0df5f15d3494affe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.dummies-for-destruction.co.uk/random' rel='external nofollow' class='url'>Lyle</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7069"><time datetime="2014-01-07T10:33:36+00:00" pubdate class="published">
 		 at <span class="hours">10:33am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Oh God, now I’ve gone and bought one.
 
@@ -64,24 +61,22 @@ I like BD for pens/pads –; I get my Rhodia pads from there too. But I’d trie
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7072">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/5607c837d7e00ae696473fb9c33a5648?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5607c837d7e00ae696473fb9c33a5648?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">UJ</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7072"><time datetime="2014-01-07T10:50:18+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/5607c837d7e00ae696473fb9c33a5648?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5607c837d7e00ae696473fb9c33a5648?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">UJ</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7072"><time datetime="2014-01-07T10:50:18+00:00" pubdate class="published">
 		 at <span class="hours">10:50am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		iJealous ;)
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-7261">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0d8f8cccbe0525866349344c452a3307?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0d8f8cccbe0525866349344c452a3307?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://rafaelns.com' rel='external nofollow' class='url'>Rafael Nascimento Sampaio</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-7261"><time datetime="2014-01-09T20:29:23+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0d8f8cccbe0525866349344c452a3307?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0d8f8cccbe0525866349344c452a3307?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://rafaelns.com' rel='external nofollow' class='url'>Rafael Nascimento Sampaio</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-7261"><time datetime="2014-01-09T20:29:23+00:00" pubdate class="published">
 		 at <span class="hours">20:29pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		You should leave a review on their website, would help people to decide to buy the pen.
 

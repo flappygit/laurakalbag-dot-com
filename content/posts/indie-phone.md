@@ -65,24 +65,22 @@ In some ways, this hasn’t changed much. I’m still working from home, as the 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-29759">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://designack.com' rel='external nofollow' class='url'>Ngaire</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-29759"><time datetime="2014-06-04T08:45:09+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://designack.com' rel='external nofollow' class='url'>Ngaire</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-29759"><time datetime="2014-06-04T08:45:09+00:00" pubdate class="published">
 		 at <span class="hours">08:45am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		What a great idea Laura! I really hope it goes well for you. Having a side project that you’re passionate about can make your client work even better too I think. It’s having that freedom to do something where you can see your creativity bloom while making a difference that is great about side projects.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32622">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Ran</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-32622"><time datetime="2014-06-16T01:00:58+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Ran</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-32622"><time datetime="2014-06-16T01:00:58+00:00" pubdate class="published">
 		 at <span class="hours">01:00am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Keep us posted on Indie Phone, sounds good.
 	</div>

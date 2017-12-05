@@ -26,12 +26,11 @@ Andy Spicer also asked if I could share my [Sketch](http://www.bohemiancoding.co
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-566">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://digitalevangelist.net' rel='external nofollow' class='url'>Steven Grant</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-566"><time datetime="2013-07-26T10:52:30+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://digitalevangelist.net' rel='external nofollow' class='url'>Steven Grant</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-566"><time datetime="2013-07-26T10:52:30+00:00" pubdate class="published">
 		 at <span class="hours">10:52am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		A good wee article Laura. Always interested in seeing other workflows. The more I read about Sass, the more powerful it gets. 
 

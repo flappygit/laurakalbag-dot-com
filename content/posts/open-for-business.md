@@ -17,12 +17,11 @@ body_classes: "blog"
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-2457">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/0257c59d68f24a7ec605207536aff175?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0257c59d68f24a7ec605207536aff175?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.danieldogeanu.com/' rel='external nofollow' class='url'>Daniel Dogeanu</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-2457"><time datetime="2013-10-17T18:16:06+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/0257c59d68f24a7ec605207536aff175?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/0257c59d68f24a7ec605207536aff175?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.danieldogeanu.com/' rel='external nofollow' class='url'>Daniel Dogeanu</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-2457"><time datetime="2013-10-17T18:16:06+00:00" pubdate class="published">
 		 at <span class="hours">18:16pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I read your article on A List Apart and I wanted to follow you on Twitter because the article was so awesome. Then I realized I was already following you. Awesome feeling!
 	</div>

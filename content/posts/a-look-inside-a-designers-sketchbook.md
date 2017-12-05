@@ -34,12 +34,11 @@ Last week, Ian added some pages from my sketchbook to [his post, “A look insid
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-20756">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e46cc0b454f5a3020ba61bd5342d8e55?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e46cc0b454f5a3020ba61bd5342d8e55?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twerner.org' rel='external nofollow' class='url'>tobi</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-20756"><time datetime="2014-05-11T11:06:17+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e46cc0b454f5a3020ba61bd5342d8e55?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e46cc0b454f5a3020ba61bd5342d8e55?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twerner.org' rel='external nofollow' class='url'>tobi</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-20756"><time datetime="2014-05-11T11:06:17+00:00" pubdate class="published">
 		 at <span class="hours">11:06am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Thanks for sharing all this pages.
 

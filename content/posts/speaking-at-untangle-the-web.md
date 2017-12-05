@@ -19,12 +19,11 @@ I also have a stinking cold so I’m going to be taking industrial quantities of
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-547">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/sulcalibur' rel='external nofollow' class='url'>Suleiman</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-547"><time datetime="2013-06-10T17:25:24+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/sulcalibur' rel='external nofollow' class='url'>Suleiman</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-547"><time datetime="2013-06-10T17:25:24+00:00" pubdate class="published">
 		 at <span class="hours">17:25pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I was looking forward to this when I heard you was speaking but at 5:20pm just over an hour before it starts I’m having to forfeit :(
 

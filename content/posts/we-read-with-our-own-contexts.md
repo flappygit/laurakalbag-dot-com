@@ -68,12 +68,11 @@ Of course criticism is important, if we all just go around telling each other ho
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-421">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/Niaccurshi' rel='external nofollow' class='url'>Lee Griffin</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-421"><time datetime="2012-12-18T14:53:21+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/Niaccurshi' rel='external nofollow' class='url'>Lee Griffin</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-421"><time datetime="2012-12-18T14:53:21+00:00" pubdate class="published">
 		 at <span class="hours">14:53pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		The problem yesterday wasn’t your views, whether they were “right” or “wrong”, it was that people have entrenched views. In the web world, as I’m sure it is for many other professions and industries, we find ourselves wedded to techniques and ways of working. When someone questions these things we don’t see it as “Oh, someone doesn’t see this as useful”, we take it to mean “They think it’s a stupid thing to do, and by proxy that I’m stupid for doing it&#8230;but I’m not stupid!”
 
@@ -90,12 +89,11 @@ It’s this spectrum that can really help us focus on best practices, plural, th
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-422">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://james.brooks.so' rel='external nofollow' class='url'>James Brooks</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-422"><time datetime="2012-12-18T15:01:50+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://james.brooks.so' rel='external nofollow' class='url'>James Brooks</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-422"><time datetime="2012-12-18T15:01:50+00:00" pubdate class="published">
 		 at <span class="hours">15:01pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hi Laura, recently I’ve seen a couple of designers, Paul Adam Davis, Amber Weinberg and yourself criticising Bootstrap. Coming from a development only backgrounds seems to have left me with whitenoise when it comes to design. Whilst I’m capable of deciding if something looks good or not, I’m unable to design myself, so I rely on design frameworks such as Bootstrap and Foundation to give me a head start. My blog for example is built on Bootstrap however I paid for a theme via <a href='https://wrapbootstrap.com/?ref=jbrooksuk' rel="nofollow">WrapBootstrap</a> to take the standard Bootstrap theme and change it into something beautiful and different. I don’t see the harm in doing that? It’s like you taking a website structure you use on every site and applying custom colours on top. Is that just as bad?
 
@@ -106,12 +104,11 @@ I have a lot of respect for you Laura –; this comment isn’t meant as a stab 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-423">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://deanbirkett.name' rel='external nofollow' class='url'>Dean</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-423"><time datetime="2012-12-18T17:12:10+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://deanbirkett.name' rel='external nofollow' class='url'>Dean</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-423"><time datetime="2012-12-18T17:12:10+00:00" pubdate class="published">
 		 at <span class="hours">17:12pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hey Laura,
 
@@ -119,12 +116,11 @@ Don’t beat yourself up. I think it is also important to realise that everybody
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-424">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://louisbullock.com.au' rel='external nofollow' class='url'>Louis Bullock</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-424"><time datetime="2012-12-19T03:01:56+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://louisbullock.com.au' rel='external nofollow' class='url'>Louis Bullock</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-424"><time datetime="2012-12-19T03:01:56+00:00" pubdate class="published">
 		 at <span class="hours">03:01am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Fantastic article, Laura, I’ve now re-evaluated how I talk to others online, when to give critique and constructive criticism etc.
 
@@ -133,12 +129,11 @@ I don’t know about you, but one my favourite things in this community is when 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-425">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://next-nexus.info/' rel='external nofollow' class='url'>Michael.</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-425"><time datetime="2012-12-21T13:30:42+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://next-nexus.info/' rel='external nofollow' class='url'>Michael.</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-425"><time datetime="2012-12-21T13:30:42+00:00" pubdate class="published">
 		 at <span class="hours">13:30pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks for the interesting and thoughtful post. I think you make some good points about criticism and context. It is not just about our personal context. It is also our culture, our society and so on. People forget or don’t realise that knowledge they take for granted is often not there in other people. 
 

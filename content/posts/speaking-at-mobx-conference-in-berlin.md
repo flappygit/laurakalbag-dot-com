@@ -19,12 +19,11 @@ Next Friday I’m speaking at MobX Conference in Berlin about designing for acce
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-1184">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/c22b1f9a49ce9e2dd6971bea5e4cea62?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c22b1f9a49ce9e2dd6971bea5e4cea62?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Anna</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-1184"><time datetime="2013-09-16T10:34:04+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/c22b1f9a49ce9e2dd6971bea5e4cea62?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c22b1f9a49ce9e2dd6971bea5e4cea62?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Anna</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-1184"><time datetime="2013-09-16T10:34:04+00:00" pubdate class="published">
 		 at <span class="hours">10:34am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hello there,
 

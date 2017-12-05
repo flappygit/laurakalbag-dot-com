@@ -57,48 +57,44 @@ This is the classic. That the majority of people slating the Gap logo could cert
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-121">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">neil_berry</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-121"><time datetime="2010-10-06T10:09:12+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">neil_berry</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-121"><time datetime="2010-10-06T10:09:12+00:00" pubdate class="published">
 		 at <span class="hours">10:09am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag totally agree with your dribbble/gap post!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-118">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Jack_Franklin</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-118"><time datetime="2010-10-06T10:52:00+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jack_Franklin</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-118"><time datetime="2010-10-06T10:52:00+00:00" pubdate class="published">
 		 at <span class="hours">10:52am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag when I find some time I&#039;ll write a response to that post, a few things sprung to mind when reading!
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-125">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">mixn</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-125"><time datetime="2010-10-06T11:29:08+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">mixn</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-125"><time datetime="2010-10-06T11:29:08+00:00" pubdate class="published">
 		 at <span class="hours">11:29am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag One of the best articles I&#039;ve read in a while.. Kudos.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-114">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-114"><time datetime="2010-10-06T11:55:03+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-114"><time datetime="2010-10-06T11:55:03+00:00" pubdate class="published">
 		 at <span class="hours">11:55am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hi,
 
@@ -113,24 +109,22 @@ So in my opinion all the bad mouthing of the new design is not about other desig
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-117">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-117"><time datetime="2010-10-06T11:58:46+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-117"><time datetime="2010-10-06T11:58:46+00:00" pubdate class="published">
 		 at <span class="hours">11:58am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		If you&#039;ve got constructive criticisms (like yours above) then I think negative opinions are perfectly valid. It&#039;s when people say things like &quot;It&#039;s rubbish&quot;, &quot;looks like it was designed by an idiot&quot; that they come across as unnecessary.
 		</div>
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-115">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.bevanstephens.com' rel='external nofollow' class='url'>Bevan</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-115"><time datetime="2010-10-06T11:55:11+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.bevanstephens.com' rel='external nofollow' class='url'>Bevan</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-115"><time datetime="2010-10-06T11:55:11+00:00" pubdate class="published">
 		 at <span class="hours">11:55am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Here Here! I love Cederholm to &#039;bits&#039; but there is definitely something wrong with building a competitive themed design community with your own name at the top of the &#039;Leaderboard&#039;.
 
@@ -139,60 +133,55 @@ I call them cewebrity&#039;s btw.
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-120">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-120"><time datetime="2010-10-06T12:12:40+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-120"><time datetime="2010-10-06T12:12:40+00:00" pubdate class="published">
 		 at <span class="hours">12:12pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Maybe most &#039;Likes&#039; would be more constructive for a leaderboard, rather than most &#039;Followers&#039;?
 		</div>
 	</li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-116">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://zootool.com' rel='external nofollow' class='url'>Bastian Allgeier</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-116"><time datetime="2010-10-06T11:57:34+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://zootool.com' rel='external nofollow' class='url'>Bastian Allgeier</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-116"><time datetime="2010-10-06T11:57:34+00:00" pubdate class="published">
 		 at <span class="hours">11:57am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great article Laura!! I feel exactly the same about the whole Dribbble thing and the &quot;weblebrities&quot;. What really bothers me the most is that criticizing people has become so easy on the web. Writing harsh things is so much easier than telling someone the design he or she&#039;s been working on is crap from face to face and criticizing without adding constructive thoughts about how to do it better is even easier. On the other hand all those &quot;You are so fucking great and I love everything you do&quot; comments are bullshit as well. I guess those comments are a part of the success of Dribbble because everybody loves to be told what a great designer he is. But it&#039;s a total waste of time when those comments get so unrelated to the real quality of the submitted designs.
 	</div>
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-119">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-119"><time datetime="2010-10-06T12:10:51+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-119"><time datetime="2010-10-06T12:10:51+00:00" pubdate class="published">
 		 at <span class="hours">12:10pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		That&#039;s exactly the problem! We all love to hear we&#039;re amazing so we&#039;re less likely to see it as an issue.
 		</div>
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-122">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.100yen.co.uk/' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-122"><time datetime="2010-10-06T12:19:59+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.100yen.co.uk/' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-122"><time datetime="2010-10-06T12:19:59+00:00" pubdate class="published">
 		 at <span class="hours">12:19pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It&#039;s the iTunes icon all over again.. I&#039;m beginning to wonder whether or not I ever want to join Dribbble –; you seem to see a lot of this behaviour there, and it&#039;s not healthy for anyone to immerse themselves in that kind of atmosphere.. And honestly, who really gives a crap what Gap do with their branding?
 	</div>
 </li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-123">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://dbushell.com' rel='external nofollow' class='url'>David Bushell</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-123"><time datetime="2010-10-06T12:20:18+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://dbushell.com' rel='external nofollow' class='url'>David Bushell</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-123"><time datetime="2010-10-06T12:20:18+00:00" pubdate class="published">
 		 at <span class="hours">12:20pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post Laura!
 
@@ -205,12 +194,11 @@ Saying that, I haven&#039;t been on Dribbble in a while so perhaps I&#039;m wron
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-124">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-124"><time datetime="2010-10-06T12:24:43+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-124"><time datetime="2010-10-06T12:24:43+00:00" pubdate class="published">
 		 at <span class="hours">12:24pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I don&#039;t think that it&#039;s just Dribbble that has examples of the designer ego. And these egos aren&#039;t necessary those of the most popular Dribbblers, I&#039;d say most are actually incredibly humble. You&#039;re totally right in that it&#039;s the hero-worshippers that propel them on to pedestals. In fact, in my experience, &#039;graphic&#039; design has far more dangerous egos than web design.
 
@@ -219,12 +207,11 @@ However, I still believe reviewing other people&#039;s portfolios in such a way 
 </li>
 	<li class="comment even depth-2" id="li-comment-127">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://dbushell.com' rel='external nofollow' class='url'>David Bushell</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-127"><time datetime="2010-10-06T12:50:35+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://dbushell.com' rel='external nofollow' class='url'>David Bushell</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-127"><time datetime="2010-10-06T12:50:35+00:00" pubdate class="published">
 		 at <span class="hours">12:50pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Maybe I&#039;m optimistic, but I genuinely don&#039;t believe most people giving away invites in such a manner actually consider themselves judges or an authority. That would be arrogant as you say. I&#039;d imagine just any many (if not more) people give away invites to friends, randomly, and with other considered choices. Choosing someone because you feel they need help is also judging them is it not? I don&#039;t think any reasons are done in an arrogant manner, at least most of the time. The shortness of a tweet often results in more ambiguities and implications than intended.
 
@@ -233,36 +220,33 @@ Actually I&#039;m being to half-full here. My point would be that the few arroga
 	<ul class="children">
 		<li class="comment odd alt depth-3" id="li-comment-128">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-128"><time datetime="2010-10-06T13:00:45+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-128"><time datetime="2010-10-06T13:00:45+00:00" pubdate class="published">
 		 at <span class="hours">13:00pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		You&#039;re right. It&#039;s much easier to notice the bad than the good.
 		</div>
 	</li>
 	<li class="comment even depth-2" id="li-comment-133">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-133"><time datetime="2010-10-06T14:40:37+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-133"><time datetime="2010-10-06T14:40:37+00:00" pubdate class="published">
 		 at <span class="hours">14:40pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I was &quot;refused&quot; (understandably as I&#039;m sure the person had been told to) a dribbble invite when it was locked from public view as I have no work on-line. Regardless of my &#039;skillz&#039; (or lack of) the person couldn&#039;t give me one if I didn&#039;t have a high standard of work&#8230; and as he couldn&#039;t see my work&#8230;
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-3" id="li-comment-135">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-135"><time datetime="2010-10-06T14:51:13+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-135"><time datetime="2010-10-06T14:51:13+00:00" pubdate class="published">
 		 at <span class="hours">14:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I can understand refusing somebody on the grounds of not knowing somebody, not knowing if they’re just going to post stuff that is irrelevant to design (ads, aforementioned photos of cats.) However, I’m still disappointed for your predicament, it must have been hard to be refused just for that.
 		</div>
@@ -274,12 +258,11 @@ Actually I&#039;m being to half-full here. My point would be that the few arroga
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-126">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.aaronrussell.co.uk' rel='external nofollow' class='url'>Aaron Russell</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-126"><time datetime="2010-10-06T12:36:35+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.aaronrussell.co.uk' rel='external nofollow' class='url'>Aaron Russell</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-126"><time datetime="2010-10-06T12:36:35+00:00" pubdate class="published">
 		 at <span class="hours">12:36pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice read Laura :)
 
@@ -290,12 +273,11 @@ As for the Gap logo, well it is very average. Just like the iTunes logo is prett
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-129">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.ryandownie.com' rel='external nofollow' class='url'>RyanDownie</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-129"><time datetime="2010-10-06T13:27:24+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.ryandownie.com' rel='external nofollow' class='url'>RyanDownie</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-129"><time datetime="2010-10-06T13:27:24+00:00" pubdate class="published">
 		 at <span class="hours">13:27pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura,
 
@@ -310,12 +292,11 @@ Also think about the people who are &quot;weblebrities&quot; they do not chose t
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-130">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-130"><time datetime="2010-10-06T13:51:04+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-130"><time datetime="2010-10-06T13:51:04+00:00" pubdate class="published">
 		 at <span class="hours">13:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Guilty as charged. On both counts.
 
@@ -330,36 +311,33 @@ Re: the Gap logo –; yes. It looks bad, but yeah, what the hell would we do whe
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-134">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-134"><time datetime="2010-10-06T15:46:11+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-134"><time datetime="2010-10-06T15:46:11+00:00" pubdate class="published">
 		 at <span class="hours">15:46pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		It&#039;s cleverly worded. It doesn&#039;t at any point say &quot;don&#039;t invite inferior work.&quot; It&#039;s saying no LOLcats. However, it implies that you shouldn&#039;t invite anybody whose posts would make you feel ashamed. If you&#039;re ashamed of inviting somebody because their work isn&#039;t of a professional level, maybe that is more significant of your feelings?
 	</div>
 </li>
 	<li class="comment even depth-2" id="li-comment-137">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-137"><time datetime="2010-10-06T16:30:01+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-137"><time datetime="2010-10-06T16:30:01+00:00" pubdate class="published">
 		 at <span class="hours">16:30pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		At the end of the day, it doesn&#039;t really matter does it? It&#039;s just a website.
 		</div>
 	</li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-131">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://flodesign.co.uk' rel='external nofollow' class='url'>Russell Poulter</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-131"><time datetime="2010-10-06T14:21:32+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://flodesign.co.uk' rel='external nofollow' class='url'>Russell Poulter</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-131"><time datetime="2010-10-06T14:21:32+00:00" pubdate class="published">
 		 at <span class="hours">14:21pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great article Laura! I&#039;ve been guilty of jumping on the GAP logo bandwagon my self, its very easy to fire something of on Twitter without stopping to think it through first. As for Dribbble I&#039;m not a member nor am I going to jump through hoops to become one but any site that helps with the creative process can only be a good thing in the end. In any community you&#039;re going to get good eggs and bad eggs.
 
@@ -368,24 +346,22 @@ PS Anyone got  a dribbble invite? :-)
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-132">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://wearecitrus.com' rel='external nofollow' class='url'>Gabe</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-132"><time datetime="2010-10-06T14:29:14+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://wearecitrus.com' rel='external nofollow' class='url'>Gabe</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-132"><time datetime="2010-10-06T14:29:14+00:00" pubdate class="published">
 		 at <span class="hours">14:29pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks for a great post Laura. For those designers that are so busy they can&#039;t be bothered here&#039;s an idea: put together a canned response with links to your favorite resources, then as you are inundated with questions from strangers aspiring to produce work of a &quot;high standard&quot;, you can quickly reply to them and welcome them into the community. Just sayin&#8230;
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-136">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitter.com/brettbergeron' rel='external nofollow' class='url'>brett bergeron</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-136"><time datetime="2010-10-06T16:09:21+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/brettbergeron' rel='external nofollow' class='url'>brett bergeron</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-136"><time datetime="2010-10-06T16:09:21+00:00" pubdate class="published">
 		 at <span class="hours">16:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		The word on the street is that Gap&#039;s new logo was not designed under a brief, but was unexpectedly plucked from a presentation by a corporate chieftan who resides outside the marketing department. Essentially, the design &amp; marketing team had no voice.
 
@@ -396,12 +372,11 @@ So I think it&#039;s fair to criticize Gap&#039;s move as a misunderstanding of 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-138">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.mcbwebdesign.co.uk/' rel='external nofollow' class='url'>Martin Bean</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-138"><time datetime="2010-10-06T17:47:40+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.mcbwebdesign.co.uk/' rel='external nofollow' class='url'>Martin Bean</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-138"><time datetime="2010-10-06T17:47:40+00:00" pubdate class="published">
 		 at <span class="hours">17:47pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		This web celebrity thing is getting out of hand. I find it implausible people are referring to themselves as rock stars and ninjas when we&#039;re essentially a service industry.
 
@@ -412,24 +387,22 @@ It&#039;s all, for want of a better term, a load of bollocks. I joined Dribbble 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-139">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-139"><time datetime="2010-10-06T18:40:53+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-139"><time datetime="2010-10-06T18:40:53+00:00" pubdate class="published">
 		 at <span class="hours">18:40pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Another great post Laura! I&#039;ve always thought Dribbble was or seems elitist. Yes granted the work on there is exceptional but wanting to keep the bar high is for who&#039;s benefit, is it just for the purpose of having comments filled with &quot;awesome&quot;? I&#039;m a member on Forrst and its audience is a bit more wider than Dribbble I see good and great designs as well as not so good design and I am sure people may have made that assumption with my own work too. But the &quot;not so great&quot; designs aren&#039;t bad they&#039;ve just lacked direction, same with my own but its the critiquing that what makes somebody better, being able to see somebody&#039;s point that you&#039;ve not seen and improving ones self.  Thus being able to then help others. We&#039;ve all read on blogs about partnering up with somebody or learning from somebody is great and all about a community environment, well these places are the perfect opportunity yet Dribbble users go a little quiet when drafting somebody new or upcoming. If you give somebody a chance they will prove they are good enough.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-140">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://sci-fi-o-rama.com' rel='external nofollow' class='url'>Kie</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-140"><time datetime="2010-10-06T21:14:56+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://sci-fi-o-rama.com' rel='external nofollow' class='url'>Kie</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-140"><time datetime="2010-10-06T21:14:56+00:00" pubdate class="published">
 		 at <span class="hours">21:14pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice Post Laura,
 
@@ -442,12 +415,11 @@ well there&#039;s the evidence&#8230;.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-141">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://stephenclarkjr.com' rel='external nofollow' class='url'>Stephen Clark Jr.</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-141"><time datetime="2010-10-07T01:17:19+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://stephenclarkjr.com' rel='external nofollow' class='url'>Stephen Clark Jr.</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-141"><time datetime="2010-10-07T01:17:19+00:00" pubdate class="published">
 		 at <span class="hours">01:17am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Most &quot;social networks&quot; are (in function) online popularity contests&#8230; pretty much the same thing that occurs in many real-life social situations. The main problem that I see people with Dribbble is that of <i>expectations</i>.
 
@@ -458,24 +430,22 @@ I almost never read the comments, by the way (I agree that the dialog on the sit
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-142">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.susanengel.co.uk' rel='external nofollow' class='url'>Susan Engel</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-142"><time datetime="2010-10-07T12:51:58+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.susanengel.co.uk' rel='external nofollow' class='url'>Susan Engel</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-142"><time datetime="2010-10-07T12:51:58+00:00" pubdate class="published">
 		 at <span class="hours">12:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Laura, good post and a very valid point :) i agree about the snobbery, didn&#039;t really see much point to dribble as you said there&#039;s not much criticism there.. but the gap logo –; i&#039;m one of those that think it&#039;s not an improvement. and i&#039;m not criticising the designers. it was probably design by committee anyway :) just think that it&#039;s really awkward and somehow a step down from what they had&#8230;
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-143">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://madebyjordan.com' rel='external nofollow' class='url'>Jordan Moore</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-143"><time datetime="2010-10-07T13:15:17+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://madebyjordan.com' rel='external nofollow' class='url'>Jordan Moore</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-143"><time datetime="2010-10-07T13:15:17+00:00" pubdate class="published">
 		 at <span class="hours">13:15pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I wholeheartedly agree. I have been thinking the exact same thing for some time now, I have just never been able to express it as well as you have.
 
@@ -488,12 +458,11 @@ Now I feel like a bit of a hypocrite for releasing my own tirade of design snobb
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-144">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://safetygoat.co.uk' rel='external nofollow' class='url'>kat neville</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-144"><time datetime="2010-10-07T13:20:28+00:00" pubdate class="published">
+			<img alt='' src='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://safetygoat.co.uk' rel='external nofollow' class='url'>kat neville</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-144"><time datetime="2010-10-07T13:20:28+00:00" pubdate class="published">
 		 at <span class="hours">13:20pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I&#039;ve got two dribbble invites&#8230; send me your portfolio so I can decide if I want to be associated with you.
 
@@ -506,12 +475,11 @@ When I&#039;m excited about something cool I&#039;ve done, what&#039;s wrong wit
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-145">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.contrast.ie' rel='external nofollow' class='url'>Des</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-145"><time datetime="2010-10-07T13:37:24+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.contrast.ie' rel='external nofollow' class='url'>Des</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-145"><time datetime="2010-10-07T13:37:24+00:00" pubdate class="published">
 		 at <span class="hours">13:37pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hey Laura,
 
@@ -526,12 +494,11 @@ Des</p>	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-146">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://vukasinstojkov.com/' rel='external nofollow' class='url'>Vuka&scaron;in</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-146"><time datetime="2010-10-08T18:34:40+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://vukasinstojkov.com/' rel='external nofollow' class='url'>Vuka&scaron;in</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-146"><time datetime="2010-10-08T18:34:40+00:00" pubdate class="published">
 		 at <span class="hours">18:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		The beauty and uniqueness of Dribbble is exactly in the fact that it is a hand-picked and a &#039;gated&#039; community. Aren&#039;t there a lot of different places that are open for all, like DeviantArt.
 
@@ -542,24 +509,22 @@ Snobbery is a sad and stupid trait and should be (IMHO) ignored when it springs 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-147">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Nate</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-147"><time datetime="2010-10-12T17:35:45+00:00" pubdate class="published">
+			<img alt='' src='http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Nate</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-147"><time datetime="2010-10-12T17:35:45+00:00" pubdate class="published">
 		 at <span class="hours">17:35pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Holy crap I love this post. Thanks.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-148">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://mesonprojekt.com/' rel='external nofollow' class='url'>Karl Francisco Fernandes</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-148"><time datetime="2010-12-16T07:00:31+00:00" pubdate class="published">
+			<img alt='' src='http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://mesonprojekt.com/' rel='external nofollow' class='url'>Karl Francisco Fernandes</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-148"><time datetime="2010-12-16T07:00:31+00:00" pubdate class="published">
 		 at <span class="hours">07:00am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Excellent article Laura! You have a new admirer&#8230;
 	</div>

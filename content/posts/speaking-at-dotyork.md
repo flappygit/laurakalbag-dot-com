@@ -19,12 +19,11 @@ It’ll be my first time in York, so I’m looking forward to seeing the sights 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-8994">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://dotyork.com' rel='external nofollow' class='url'>Jonic</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-8994"><time datetime="2014-01-27T19:07:34+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://dotyork.com' rel='external nofollow' class='url'>Jonic</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-8994"><time datetime="2014-01-27T19:07:34+00:00" pubdate class="published">
 		 at <span class="hours">19:07pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks for the plug, Laura! Can’t wait to see you there :)
 	</div>

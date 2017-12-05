@@ -40,36 +40,33 @@ Jeremy Keith writes in a fun yet informative tone that makes you feel like you�
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-13">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">timperrett</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-13"><time datetime="2010-07-12T15:34:14+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">timperrett</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-13"><time datetime="2010-07-12T15:34:14+00:00" pubdate class="published">
 		 at <span class="hours">15:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Have you looked at the &lt;video&gt; tag? Use of it so far that i’ve seen on apple.com is amazing.
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-14">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-14"><time datetime="2010-07-12T15:38:57+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-14"><time datetime="2010-07-12T15:38:57+00:00" pubdate class="published">
 		 at <span class="hours">15:38pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@timperrett it looks so good. Being able to specify multiple backup solutions is perfect.
 	</div>
 	<ul class="children">
 		<li class="comment even depth-3" id="li-comment-15">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">timperrett</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-15"><time datetime="2010-07-12T15:42:17+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">timperrett</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-15"><time datetime="2010-07-12T15:42:17+00:00" pubdate class="published">
 		 at <span class="hours">15:42pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Couldn’t agree more –; it looks awesome; now we just need IE to pull up its socks and stop letting the side down ;-)
 		</div>
@@ -81,36 +78,33 @@ Jeremy Keith writes in a fun yet informative tone that makes you feel like you�
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-16">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">cssgareth</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-16"><time datetime="2010-07-12T15:37:01+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">cssgareth</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-16"><time datetime="2010-07-12T15:37:01+00:00" pubdate class="published">
 		 at <span class="hours">15:37pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag Good review, thanks!
 	</div>
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-17">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-17"><time datetime="2010-07-12T15:39:28+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-17"><time datetime="2010-07-12T15:39:28+00:00" pubdate class="published">
 		 at <span class="hours">15:39pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@cssgareth thanks, I’m pleased you think so :)
 	</div>
 	<ul class="children">
 		<li class="comment odd alt depth-3" id="li-comment-18">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">cssgareth</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-18"><time datetime="2010-07-12T15:41:01+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">cssgareth</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-18"><time datetime="2010-07-12T15:41:01+00:00" pubdate class="published">
 		 at <span class="hours">15:41pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		@laurakalbag just waiting for my copy now&#8230;
 		</div>
@@ -122,24 +116,22 @@ Jeremy Keith writes in a fun yet informative tone that makes you feel like you�
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-10">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://adactio.com/' rel='external nofollow' class='url'>Jeremy Keith</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-10"><time datetime="2010-07-12T23:46:22+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://adactio.com/' rel='external nofollow' class='url'>Jeremy Keith</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-10"><time datetime="2010-07-12T23:46:22+00:00" pubdate class="published">
 		 at <span class="hours">23:46pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thank you very much for those very kind words, Laura. Glad you like the book.
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-12">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://zekefranco.com' rel='external nofollow' class='url'>Zeke Franco</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-12"><time datetime="2010-07-14T22:21:10+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://zekefranco.com' rel='external nofollow' class='url'>Zeke Franco</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-12"><time datetime="2010-07-14T22:21:10+00:00" pubdate class="published">
 		 at <span class="hours">22:21pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Very jealous! ;) I preordered mine, but haven’t received it yet. I think I’ll be getting it today. Very excited. Thanks for the sneak peak.
 	</div>

@@ -41,24 +41,22 @@ Overall I found this book insanely inspirational. Partly because it’s a subjec
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-260">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Nik (aMixedmedia)</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-260"><time datetime="2011-11-15T10:09:10+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Nik (aMixedmedia)</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-260"><time datetime="2011-11-15T10:09:10+00:00" pubdate class="published">
 		 at <span class="hours">10:09am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Brilliant review. Emotions and design are two favourite subjects of mine –; I’ll be getting this book when I can ! :)
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-261">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-261"><time datetime="2011-11-17T10:25:30+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-261"><time datetime="2011-11-17T10:25:30+00:00" pubdate class="published">
 		 at <span class="hours">10:25am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Great post. I am fan of the A Book Apart series, may give this one a read after Responsive Web Design.
 	</div>

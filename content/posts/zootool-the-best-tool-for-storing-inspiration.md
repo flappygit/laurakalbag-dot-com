@@ -43,12 +43,11 @@ Note: I was really lucky to meet [Bastian Allgeier](http://twitter.com/bastiana
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-90">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/6e27b8dd54fc8d21f0d7471728a7f253?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6e27b8dd54fc8d21f0d7471728a7f253?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://markscott.co.nz' rel='external nofollow' class='url'>mark</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-90"><time datetime="2010-06-11T00:26:10+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/6e27b8dd54fc8d21f0d7471728a7f253?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/6e27b8dd54fc8d21f0d7471728a7f253?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://markscott.co.nz' rel='external nofollow' class='url'>mark</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-90"><time datetime="2010-06-11T00:26:10+00:00" pubdate class="published">
 		 at <span class="hours">00:26am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Nice little tool, never seen it before.
 
@@ -57,12 +56,11 @@ Have you seen evernote? It’s very big, mac friendly, desktop and web based sni
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-91">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1754f38f89bd552fa3966dc437168b4d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1754f38f89bd552fa3966dc437168b4d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-91"><time datetime="2010-06-11T00:34:56+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1754f38f89bd552fa3966dc437168b4d?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1754f38f89bd552fa3966dc437168b4d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-91"><time datetime="2010-06-11T00:34:56+00:00" pubdate class="published">
 		 at <span class="hours">00:34am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Yeah, I’ve used Evernote a bit but not really their web clipper (what I love so much about Zootool.)
 

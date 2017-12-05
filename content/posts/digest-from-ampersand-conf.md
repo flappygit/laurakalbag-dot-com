@@ -163,36 +163,33 @@ I think that me bothering to write a massive blog post about the themes of Amper
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-241">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.adamwintledesign.com' rel='external nofollow' class='url'>Adam Wintle</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-241"><time datetime="2011-06-22T17:52:44+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.adamwintledesign.com' rel='external nofollow' class='url'>Adam Wintle</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-241"><time datetime="2011-06-22T17:52:44+00:00" pubdate class="published">
 		 at <span class="hours">17:52pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Superb writeup! Makes me really wish I could have been there!
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-243">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-243"><time datetime="2011-06-23T09:49:36+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-243"><time datetime="2011-06-23T09:49:36+00:00" pubdate class="published">
 		 at <span class="hours">09:49am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thanks Adam! Hopefully if there’s a next time you’ll be there :)
 		</div>
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-242">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://jontangerine.com/' rel='external nofollow' class='url'>Jon Tan</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-242"><time datetime="2011-06-23T09:46:46+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://jontangerine.com/' rel='external nofollow' class='url'>Jon Tan</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-242"><time datetime="2011-06-23T09:46:46+00:00" pubdate class="published">
 		 at <span class="hours">09:46am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hey Laura, so glad you enjoyed it! Fantastic, detailed write-up. Here’s a couple of more links you might find useful:
 
@@ -203,12 +200,11 @@ See you next year I hope!
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-244">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-244"><time datetime="2011-06-23T09:51:03+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-244"><time datetime="2011-06-23T09:51:03+00:00" pubdate class="published">
 		 at <span class="hours">09:51am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Cheers Jon, those links are great! Some lovely reads to start the morning&#8230;
 		</div>

@@ -39,12 +39,11 @@ Whilst we’re explaining what we’re doing as designers working on responsive 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-567">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://kruegerdesigns.com' rel='external nofollow' class='url'>Adam Krueger</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-567"><time datetime="2013-08-08T19:23:43+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://kruegerdesigns.com' rel='external nofollow' class='url'>Adam Krueger</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-567"><time datetime="2013-08-08T19:23:43+00:00" pubdate class="published">
 		 at <span class="hours">19:23pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hi Laura,
 

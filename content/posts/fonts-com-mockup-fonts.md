@@ -49,12 +49,11 @@ I know this is an odd blog post, and probably a niche request. I was going to tw
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-563">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/ca28449379d1e89b041811b4af23e627?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ca28449379d1e89b041811b4af23e627?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.fonts.com' rel='external nofollow' class='url'>Matt Brinkerhoff</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-563"><time datetime="2013-07-02T15:34:57+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/ca28449379d1e89b041811b4af23e627?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/ca28449379d1e89b041811b4af23e627?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fonts.com' rel='external nofollow' class='url'>Matt Brinkerhoff</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-563"><time datetime="2013-07-02T15:34:57+00:00" pubdate class="published">
 		 at <span class="hours">15:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Hi Laura,
 
@@ -68,24 +67,22 @@ Fonts.com</p>	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-564">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.jasonbradberry.com' rel='external nofollow' class='url'>Jason Bradberry</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-564"><time datetime="2013-07-12T16:28:31+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.jasonbradberry.com' rel='external nofollow' class='url'>Jason Bradberry</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-564"><time datetime="2013-07-12T16:28:31+00:00" pubdate class="published">
 		 at <span class="hours">16:28pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Here here! Yes and yes. And Amen.
 	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-143312">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/51fc79b898b7953493027cc0d001ed18?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/51fc79b898b7953493027cc0d001ed18?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Ken Clinkenbeard</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-143312"><time datetime="2015-11-04T19:09:07+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/51fc79b898b7953493027cc0d001ed18?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/51fc79b898b7953493027cc0d001ed18?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Ken Clinkenbeard</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-143312"><time datetime="2015-11-04T19:09:07+00:00" pubdate class="published">
 		 at <span class="hours">19:09pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Has anything changed with Mockup and Desktop fonts since your post. It does not appear so. For Mockup fonts, 20 font/days per 30-day period is paltry on most any design single project. And only 5 Desktop fonts per month is no better. This is especially true at this time, also, when the top plan switches to Unlimited for both categories. I realized they want people to upgrade, but this just plays us as dumb by offering an unusable plan in practice.
 	</div>

@@ -103,24 +103,22 @@ Resources on learning design aren’t necessarily those I keep a lookout for, bu
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-427">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://ntljk.tumblr.com' rel='external nofollow' class='url'>natalie</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-427"><time datetime="2012-12-31T15:28:45+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://ntljk.tumblr.com' rel='external nofollow' class='url'>natalie</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-427"><time datetime="2012-12-31T15:28:45+00:00" pubdate class="published">
 		 at <span class="hours">15:28pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Thank you Laura! This is fantastic :). Happy New Year!
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-429">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Tushar</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-429"><time datetime="2013-01-01T19:44:09+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Tushar</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-429"><time datetime="2013-01-01T19:44:09+00:00" pubdate class="published">
 		 at <span class="hours">19:44pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Awesome, Resourceful
 
@@ -128,48 +126,44 @@ Thanks Laura !!</p>	</div>
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-430">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Sibylle</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-430"><time datetime="2013-01-02T17:34:06+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Sibylle</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-430"><time datetime="2013-01-02T17:34:06+00:00" pubdate class="published">
 		 at <span class="hours">17:34pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		Very useful, Laura, thanks! Know/have read most of the books but need to look at some of those online resources and people :)
 	</div>
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-431">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.bikehound.co.uk' rel='external nofollow' class='url'>Charles BH</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-431"><time datetime="2013-01-02T23:20:22+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.bikehound.co.uk' rel='external nofollow' class='url'>Charles BH</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-431"><time datetime="2013-01-02T23:20:22+00:00" pubdate class="published">
 		 at <span class="hours">23:20pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		What do you think about the Smashing Magazine books, especially volume 1&amp;2?
 	</div>
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-432">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn">Laura</cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-432"><time datetime="2013-01-03T08:45:43+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-432"><time datetime="2013-01-03T08:45:43+00:00" pubdate class="published">
 		 at <span class="hours">08:45am</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		I’m afraid I’ve not read them. I shamefully only own Volume 3, and haven’t read much of it yet.
 		</div>
 	</li>
 	<li class="comment odd alt thread-even depth-1" id="li-comment-433">
 			<div class="comment-author vcard">
-			<img alt='' src='https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' />
-### <cite class="fn"><a href='http://www.studentguidewebdesign.com' rel='external nofollow' class='url'>Janna Hagan</a></cite>
-		</div>
-		<aside class="comment-meta commentmetadata"><p><a href="#comment-433"><time datetime="2013-01-29T21:51:33+00:00" pubdate class="published">
+			<img alt='' src='https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=72&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.studentguidewebdesign.com' rel='external nofollow' class='url'>Janna Hagan</a></cite>
+				<aside class="comment-meta commentmetadata"><p><a href="#comment-433"><time datetime="2013-01-29T21:51:33+00:00" pubdate class="published">
 		 at <span class="hours">21:51pm</span></time></a></p>
 	</aside>
+	</div>
 	<div class="comment-entry">
 		<p>Hi Laura, Love what you’re doing here. I myself am a college student and I created [Student Guide Web Design](http://www.studentguidewebdesign.com" rel="nofollow) simply out of frustration with the material I was being presented during my design education. I love helping others because it’s a great way for me to learn myself, but also helps others out who are also trying to overcome the same challenges (because I was there at one point!).
 
