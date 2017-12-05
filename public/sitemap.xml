@@ -1183,12 +1183,6 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/#gaad/</loc>
-    <lastmod>2015-05-23T15:04:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurakalbag.com/tags/.net-magazine/</loc>
     <lastmod>2013-07-01T21:19:05+00:00</lastmod>
     <priority>0</priority>
@@ -2529,6 +2523,12 @@
   <url>
     <loc>https://laurakalbag.com/tags/hardware/</loc>
     <lastmod>2013-12-18T11:59:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/tags/hashtag-gaad/</loc>
+    <lastmod>2015-05-23T15:04:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3914,7 +3914,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/</loc>
-    <lastmod>2015-05-23T15:04:40+00:00</lastmod>
+    <lastmod>2013-07-01T21:19:05+00:00</lastmod>
     <priority>0</priority>
   </url>
   
