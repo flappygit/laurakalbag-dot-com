@@ -1795,6 +1795,36 @@ figcaption p {
   font-family: "Informat Black", Verdana, sans-serif;
   font-weight: bold;
 }
+.commentlist {
+  margin-top: 2em;
+  padding-left: 0;
+}
+.commentlist li {
+  list-style-type: none;
+  margin-bottom: 3em;
+  padding-left: 0;
+}
+.commentlist li .comment-author {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "a b" "a c";
+}
+.commentlist li .avatar {
+  grid-area: a;
+  margin: 0 0 1em 0;
+}
+.commentlist li .fn {
+  display: block;
+  grid-area: b;
+  margin-left: 1rem;
+}
+.commentlist li .comment-meta {
+  grid-area: c;
+}
+.commentlist li .comment-meta a {
+  align-self: flex-start;
+  background: none;
+}
 figure {
   margin: 1em 0 1em;
 }
