@@ -2,6 +2,6 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-colours: []
+body_classes: "blog colours-001"
 ---
 
