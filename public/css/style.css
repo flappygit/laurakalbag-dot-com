@@ -111,6 +111,9 @@ h4,
 h5,
 h6 {
   font-style: italic;
+  margin: 0 0 0.5em 0;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 h4 {
   font-size: 1.5em;
@@ -139,7 +142,6 @@ h6 {
 p {
   margin: 0 1rem 0.5em 1rem;
 }
-p,
 a {
   -ms-word-break: break-all;
   word-break: break-all;
@@ -190,6 +192,7 @@ body.colours-001 a {
 body.colours-001 a:hover,
 body.colours-001 a:active {
   color: #0b5cda;
+  transition: 0.2s;
 }
 body.colours-001 p a,
 body.colours-001 p a:hover,
@@ -199,7 +202,6 @@ body.colours-001 ol a,
 body.colours-001 ol a:hover {
   background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(110,163,247,0.8) 0.03em, rgba(110,163,247,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
   text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-001 h1 a,
 body.colours-001 h2 a,
@@ -495,6 +497,7 @@ body.colours-002 a {
 body.colours-002 a:hover,
 body.colours-002 a:active {
   color: #840bda;
+  transition: 0.2s;
 }
 body.colours-002 p a,
 body.colours-002 p a:hover,
@@ -504,7 +507,6 @@ body.colours-002 ol a,
 body.colours-002 ol a:hover {
   background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(190,110,247,0.8) 0.03em, rgba(190,110,247,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
   text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-002 h1 a,
 body.colours-002 h2 a,
@@ -800,6 +802,7 @@ body.colours-003 a {
 body.colours-003 a:hover,
 body.colours-003 a:active {
   color: #da0b38;
+  transition: 0.2s;
 }
 body.colours-003 p a,
 body.colours-003 p a:hover,
@@ -809,7 +812,6 @@ body.colours-003 ol a,
 body.colours-003 ol a:hover {
   background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(247,110,139,0.8) 0.03em, rgba(247,110,139,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
   text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-003 h1 a,
 body.colours-003 h2 a,
@@ -1105,6 +1107,7 @@ body.colours-004 a {
 body.colours-004 a:hover,
 body.colours-004 a:active {
   color: #0bd8da;
+  transition: 0.2s;
 }
 body.colours-004 p a,
 body.colours-004 p a:hover,
@@ -1114,7 +1117,6 @@ body.colours-004 ol a,
 body.colours-004 ol a:hover {
   background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(110,246,247,0.8) 0.03em, rgba(110,246,247,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
   text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-004 h1 a,
 body.colours-004 h2 a,
@@ -1410,6 +1412,7 @@ body.colours-005 a {
 body.colours-005 a:hover,
 body.colours-005 a:active {
   color: #da780b;
+  transition: 0.2s;
 }
 body.colours-005 p a,
 body.colours-005 p a:hover,
@@ -1419,7 +1422,6 @@ body.colours-005 ol a,
 body.colours-005 ol a:hover {
   background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(247,182,110,0.8) 0.03em, rgba(247,182,110,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
   text-decoration: none;
-  transition: 0.2s;
 }
 body.colours-005 h1 a,
 body.colours-005 h2 a,

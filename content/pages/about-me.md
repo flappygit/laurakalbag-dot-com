@@ -16,7 +16,7 @@ I’m one third of [Ind.ie](https://ind.ie), a tiny two-person-and-one-husky not
 
 ## How do I pronounce Kalbag?
 
-My surname is Kalbag, pronounced *cal* as in *cal*ories, and *bag* as in… um… *bag*.
+My surname is Kalbag. It is pronounced **cal** as in **cal**ories, and **bag** as in… **bag**.
 
 ## I am a designer
 
