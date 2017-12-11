@@ -12451,6 +12451,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/images\/2017\/12\/book-collage-1024x768.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 563333,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-1024x768.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-1024x768.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-collage-300x200.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57252,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-300x200.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-300x200.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-collage-768x576.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 337901,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-768x576.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage-768x576.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-collage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.89876e+06,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-collage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-mug-1023x768.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 825709,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-1023x768.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-1023x768.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-mug-300x200.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48847,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-300x200.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-300x200.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-mug-768x511.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 257522,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-768x511.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug-768x511.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/book-mug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 797781,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug.jpg",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/book-mug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/images\/gohugo-default-sample-hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
