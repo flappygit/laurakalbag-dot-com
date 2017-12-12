@@ -11,7 +11,7 @@ body_classes: "blog colours-004"
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.
 
-{{< figure src="/images/2017/12/book-collage.jpg" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." caption="Photos taken by folks on Twitter" >}}
+{{< figure src="/images/2017/12/book-collage.jpg" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." srcset="/images/2017/12/book-collage-300x200.jpg 150w, /images/2017/12/book-collage-768x576.jpg 380w, /images/2017/12/book-collage-1024x768.jpg 512w, /images/2017/12/book-collage.jpg 1024w" sizes="100vw" caption="Photos taken by folks on Twitter" >}}
 
 For those more experienced in the web, *Accessibility For Everyone* can fill in the accessibility-sized gaps in your knowledge. And for people entirely new to making websites, it should help you get started on the right track. The book is aimed at web designers, developers, content strategists, copywriters, researchers, testers, and anybody else who makes websites.
 
@@ -19,9 +19,7 @@ Want to try before you buy? You can [read an excerpt from *Accessibility For Eve
 
 ## Reviews
 
-Read long review by Terence Eden and that other guy
-
-You can [read more reviews on Goodreads](https://www.goodreads.com/book/show/36312164-accessibility-for-everyone)
+My friend [Terence Eden kicked off the book reviews with a lovely five-star review](https://shkspr.mobi/blog/2017/09/review-accessibility-for-everyone/), and Michael Larsen also wrote a long-form review across multiple blog posts which starts with [Accessibility for Everyone: A Long-Form, Multi Part Book Review](http://www.mkltesthead.com/2017/09/accessibility-for-everyone-long-form.html).
 
 *Accessibility For Everyone* has had [lovely reviews on Goodreads](https://www.goodreads.com/book/show/36312164-accessibility-for-everyone), and below are some of my favourites from Twitter. You can [find more reviews from Twitter on the @a4ebook Twitter feed](https://twitter.com/a4ebook).
 
@@ -56,4 +54,4 @@ I got some celeb endorsements too… 😆
 
 A Book Apart also sells [mugs printed with each of their book covers](https://abookapart.com/products/book-cover-mug). If you want a beautifully-designed mug that reminds everybody you’re a well-read person who cares about accessibility, you should buy one!
 
-{{< figure src="/images/2017/12/book-mug.jpg" alt="Two photos. One showing Laura drinking from a green mug with the Accessibility For Everyone book cover printed on it. The other showing Oskar the husky-malamute dog looking at the same mug and licking his nose." >}}
+{{< figure src="/images/2017/12/book-mug.jpg" alt="Two photos. One showing Laura drinking from a green mug with the Accessibility For Everyone book cover printed on it. The other showing Oskar the husky-malamute dog looking at the same mug and licking his nose." caption="Osky and me trying the mug out!" >}}
