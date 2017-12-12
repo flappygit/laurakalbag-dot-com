@@ -191,7 +191,7 @@ body.colours-001 a {
 }
 body.colours-001 a:hover,
 body.colours-001 a:active {
-  color: #0b5cda;
+  color: #0849b0;
   transition: 0.2s;
 }
 body.colours-001 p a,
@@ -200,7 +200,7 @@ body.colours-001 ul a,
 body.colours-001 ul a:hover,
 body.colours-001 ol a,
 body.colours-001 ol a:hover {
-  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(110,163,247,0.8) 0.03em, rgba(110,163,247,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(133,168,224,0.8) 0.03em, rgba(133,168,224,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
   text-decoration: none;
 }
 body.colours-001 h1 a,
@@ -496,7 +496,7 @@ body.colours-002 a {
 }
 body.colours-002 a:hover,
 body.colours-002 a:active {
-  color: #840bda;
+  color: #643480;
   transition: 0.2s;
 }
 body.colours-002 p a,
@@ -505,7 +505,7 @@ body.colours-002 ul a,
 body.colours-002 ul a:hover,
 body.colours-002 ol a,
 body.colours-002 ol a:hover {
-  background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(190,110,247,0.8) 0.03em, rgba(190,110,247,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(186,133,224,0.8) 0.03em, rgba(186,133,224,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
   text-decoration: none;
 }
 body.colours-002 h1 a,
@@ -801,7 +801,7 @@ body.colours-003 a {
 }
 body.colours-003 a:hover,
 body.colours-003 a:active {
-  color: #da0b38;
+  color: #bd0931;
   transition: 0.2s;
 }
 body.colours-003 p a,
@@ -810,7 +810,7 @@ body.colours-003 ul a,
 body.colours-003 ul a:hover,
 body.colours-003 ol a,
 body.colours-003 ol a:hover {
-  background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(247,110,139,0.8) 0.03em, rgba(247,110,139,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(224,133,152,0.8) 0.03em, rgba(224,133,152,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
   text-decoration: none;
 }
 body.colours-003 h1 a,
@@ -1106,7 +1106,7 @@ body.colours-004 a {
 }
 body.colours-004 a:hover,
 body.colours-004 a:active {
-  color: #0bd8da;
+  color: #007d80;
   transition: 0.2s;
 }
 body.colours-004 p a,
@@ -1115,7 +1115,7 @@ body.colours-004 ul a,
 body.colours-004 ul a:hover,
 body.colours-004 ol a,
 body.colours-004 ol a:hover {
-  background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(110,246,247,0.8) 0.03em, rgba(110,246,247,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(133,223,224,0.8) 0.03em, rgba(133,223,224,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
   text-decoration: none;
 }
 body.colours-004 h1 a,
@@ -1411,7 +1411,7 @@ body.colours-005 a {
 }
 body.colours-005 a:hover,
 body.colours-005 a:active {
-  color: #da780b;
+  color: #975700;
   transition: 0.2s;
 }
 body.colours-005 p a,
@@ -1420,7 +1420,7 @@ body.colours-005 ul a,
 body.colours-005 ul a:hover,
 body.colours-005 ol a,
 body.colours-005 ol a:hover {
-  background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(247,182,110,0.8) 0.03em, rgba(247,182,110,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(224,181,133,0.8) 0.03em, rgba(224,181,133,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
   text-decoration: none;
 }
 body.colours-005 h1 a,

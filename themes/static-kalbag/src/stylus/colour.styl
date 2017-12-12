@@ -1,11 +1,11 @@
 // Plug colour variables into here
 
-// Make accent colour from text colour
+// Make accent colour from text colour (don’t use for text colours--too unpredictable!)
 $accent = lightness(saturation($text, 90%),70%)
 // make darker colour for accent
 $accent-darkened = lightness($accent, 60%)
 // make brighter colour for accent, saturate more to make up for alpha in link underlines
-$accent-brightened = lightness(saturation($accent, 90%),70%)
+$accent-brightened = lightness(saturation($accent, 60%),70%)
 
 &
 	background $secondary-bg
@@ -15,7 +15,7 @@ a
 	color $text
 	
 	&:hover, &:active
-		color lightness($accent-brightened, 45%)
+		color $linktext
 		transition 0.2s
 	
 p a, p a:hover, ul a, ul a:hover, ol a, ol a:hover
