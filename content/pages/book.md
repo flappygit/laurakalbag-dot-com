@@ -23,7 +23,7 @@ Read long review by Terence Eden and that other guy
 
 You can [read more reviews on Goodreads](https://www.goodreads.com/book/show/36312164-accessibility-for-everyone)
 
-*Accessibility For Everyone* has had loads of lovely reviews on Twitter, and below are just some of my favourites. You can [find more reviews from Twitter on the @a4ebook Twitter feed](https://twitter.com/a4ebook).
+*Accessibility For Everyone* has had [lovely reviews on Goodreads](https://www.goodreads.com/book/show/36312164-accessibility-for-everyone), and below are some of my favourites from Twitter. You can [find more reviews from Twitter on the @a4ebook Twitter feed](https://twitter.com/a4ebook).
 
 > “I would totally recommend accessibility for everyone by @laurakalbag , it's such an amazing overview of the field ✨” [Emily Ruby](https://twitter.com/ermmears/status/937418287759097856)
 
