@@ -39,6 +39,8 @@ I got some celeb endorsements too… 😆
 
 > “Congratulations on writing your first book, Laura. Other people edited, copyedited, proofread, printed and bound it. You wrote. Be proud x” [JK Rowling, 19th August 2017](https://twitter.com/jk_rowling/status/898946136161095681)
 
+\
+
 > “You absolutely wrote a book. And congratulations on the accomplishment.” [Roxane Gay, 19th August 2017](https://twitter.com/rgay/status/898990597977116672)
 
 
