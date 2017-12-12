@@ -27,11 +27,19 @@ You can [read more reviews on Goodreads](https://www.goodreads.com/book/show/363
 
 > “I would totally recommend accessibility for everyone by @laurakalbag , it's such an amazing overview of the field ✨” [Emily Ruby](https://twitter.com/ermmears/status/937418287759097856)
 
+<!-- -->
+
 > “Accessibility for Everyone (@a4ebook) is an incredibly broad and good overview of how to build a better and more inclusive web. A treasure trove of a11y info…” [Almero Steyn](https://twitter.com/kryptos_rsa/status/936557186725052416)
+
+<!-- -->
 
 > “Started reading your book a4e this morning and I held a smile on my face the entire time. Your book made me realize grateful I am to be a designer and how much I’m in love with design. Thanks!” [Devin Fountain](https://twitter.com/devinsfountain/status/918913671551598592)
 
+<!-- -->
+
 > “I'm only a chapter in and already learned about like 4 things I didn't know existed. This book is excellent.” [Tyler Gaw](https://twitter.com/tylergaw/status/915945676793671680)
+
+<!-- -->
 
 > “Three chapters into Accessibility for Everyone by @laurakalbag, and I have to say… the book itself is accessible and easily digestible.” [Samantha Blinde](https://twitter.com/sblinde/status/913233087328374784)
 
@@ -39,7 +47,7 @@ I got some celeb endorsements too… 😆
 
 > “Congratulations on writing your first book, Laura. Other people edited, copyedited, proofread, printed and bound it. You wrote. Be proud x” [JK Rowling, 19th August 2017](https://twitter.com/jk_rowling/status/898946136161095681)
 
-\
+<!-- -->
 
 > “You absolutely wrote a book. And congratulations on the accomplishment.” [Roxane Gay, 19th August 2017](https://twitter.com/rgay/status/898990597977116672)
 
