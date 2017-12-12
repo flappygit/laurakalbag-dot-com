@@ -12538,17 +12538,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/static\/images\/gohugo-default-sample-hero-image.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 282988,
-		"inputAbbreviatedPath": "\/static\/images\/gohugo-default-sample-hero-image.jpg",
-		"outputAbbreviatedPath": "\/static\/images\/gohugo-default-sample-hero-image.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		}
 	},
 "hooks": [
