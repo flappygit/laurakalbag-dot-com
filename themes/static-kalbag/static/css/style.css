@@ -183,15 +183,15 @@ figcaption,
   text-transform: uppercase;
 }
 body.colours-001 {
-  background: #adf1dc;
-  color: #28508f;
+  background: #d0d0d0;
+  color: #404141;
 }
 body.colours-001 a {
-  color: #28508f;
+  color: #404141;
 }
 body.colours-001 a:hover,
 body.colours-001 a:active {
-  color: #0849b0;
+  color: #824972;
   transition: 0.2s;
 }
 body.colours-001 p a,
@@ -200,7 +200,7 @@ body.colours-001 ul a,
 body.colours-001 ul a:hover,
 body.colours-001 ol a,
 body.colours-001 ol a:hover {
-  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(133,168,224,0.8) 0.03em, rgba(133,168,224,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(217,217,217,0) 0.02em, rgba(133,224,224,0.8) 0.03em, rgba(133,224,224,0.8) 0.13em, rgba(217,217,217,0) 0.14em);
   text-decoration: none;
 }
 body.colours-001 h1 a,
@@ -209,38 +209,38 @@ body.colours-001 h3 a {
   background: none;
 }
 body.colours-001 .site-header {
-  background: #adf1dc;
+  background: #d0d0d0;
 }
 body.colours-001 .site-title a {
   background: none;
 }
 body.colours-001 #content {
-  background: #c9ffee;
+  background: #d9d9d9;
 }
 body.colours-001 .site-footer {
-  background: #adf1dc;
+  background: #d0d0d0;
 }
 body.colours-001 hr {
-  border: #6ea3f7 dashed 0.1em;
+  border: #6ef7f7 dashed 0.1em;
   margin: 2em 0;
 }
 body.colours-001 pre {
-  background: #28508f;
+  background: #404141;
 }
 body.colours-001 pre code {
-  color: #c9ffee;
+  color: #d9d9d9;
 }
 body.colours-001 .navigation-menu ul {
-  background: rgba(61,133,245,0.1);
+  background: rgba(61,245,245,0.1);
 }
 body.colours-001 .navigation-menu {
-  background: rgba(207,224,252,0.1);
+  background: rgba(207,252,252,0.1);
 }
 body.colours-001 .navigation-menu li.active a {
-  background: rgba(201,255,238,0.5);
+  background: rgba(217,217,217,0.5);
 }
 body.colours-001.blog .navigation-menu li a[href="/posts/"] {
-  background: rgba(201,255,238,0.5);
+  background: rgba(217,217,217,0.5);
 }
 body.colours-001.home .navigation-menu a[href="/about-me/"],
 body.colours-001.about-me .navigation-menu a[href="/"],
@@ -254,8 +254,8 @@ body.colours-001.past-projects .navigation-menu a[href="/speaking/"],
 body.colours-001.speaking .navigation-menu a[href="/projects/"],
 body.colours-001.speaking .navigation-menu a[href="/contact-me/"],
 body.colours-001.contact-me .navigation-menu a[href="/speaking/"] {
-  background: rgba(61,133,245,0.1);
-  color: #244881;
+  background: rgba(61,245,245,0.1);
+  color: #3a3b3b;
 }
 body.colours-001.home .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/"]:hover,
@@ -308,7 +308,7 @@ body.colours-001.speaking .navigation-menu a[href="/projects/"]:active:after,
 body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -327,8 +327,8 @@ body.colours-001.past-projects .navigation-menu a[href="/book/"],
 body.colours-001.past-projects .navigation-menu a[href="/contact-me/"],
 body.colours-001.speaking .navigation-menu a[href="/posts/"],
 body.colours-001.contact-me .navigation-menu a[href="/projects/"] {
-  background: rgba(61,133,245,0.2);
-  color: #22447a;
+  background: rgba(61,245,245,0.2);
+  color: #363737;
 }
 body.colours-001.home .navigation-menu a[href="/book/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/posts/"]:hover,
@@ -373,7 +373,7 @@ body.colours-001.past-projects .navigation-menu a[href="/contact-me/"]:active:af
 body.colours-001.speaking .navigation-menu a[href="/posts/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/projects/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -390,8 +390,8 @@ body.colours-001.book .navigation-menu a[href="/speaking/"],
 body.colours-001.past-projects .navigation-menu a[href="/about-me/"],
 body.colours-001.speaking .navigation-menu a[href="/book/"],
 body.colours-001.contact-me .navigation-menu a[href="/posts/"] {
-  background: rgba(61,133,245,0.3);
-  color: #204072;
+  background: rgba(61,245,245,0.3);
+  color: #333434;
 }
 body.colours-001.home .navigation-menu a[href="/posts/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/projects/"]:hover,
@@ -428,7 +428,7 @@ body.colours-001.past-projects .navigation-menu a[href="/about-me/"]:active:afte
 body.colours-001.speaking .navigation-menu a[href="/book/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/posts/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -443,8 +443,8 @@ body.colours-001.book .navigation-menu a[href="/contact-me/"],
 body.colours-001.past-projects .navigation-menu a[href="/"],
 body.colours-001.speaking .navigation-menu a[href="/about-me/"],
 body.colours-001.contact-me .navigation-menu a[href="/book/"] {
-  background: rgba(61,133,245,0.4);
-  color: #1e3c6b;
+  background: rgba(61,245,245,0.4);
+  color: #303131;
 }
 body.colours-001.home .navigation-menu a[href="/projects/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/speaking/"]:hover,
@@ -473,7 +473,7 @@ body.colours-001.past-projects .navigation-menu a[href="/"]:active:after,
 body.colours-001.speaking .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/book/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -487,8 +487,8 @@ body.colours-001.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-001.past-projects .navigation-menu a[href="/"],
 body.colours-001.speaking .navigation-menu a[href="/"],
 body.colours-001.contact-me .navigation-menu a[href="/about-me/"] {
-  background: rgba(61,133,245,0.5);
-  color: #1c3864;
+  background: rgba(61,245,245,0.5);
+  color: #2d2d2d;
 }
 body.colours-001.home .navigation-menu a[href="/speaking/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:hover,
@@ -513,7 +513,7 @@ body.colours-001.past-projects .navigation-menu a[href="/"]:active:after,
 body.colours-001.speaking .navigation-menu a[href="/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -524,8 +524,8 @@ body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active:after {
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"],
 body.colours-001.contact-me .navigation-menu a[href="/"] {
-  background: rgba(61,133,245,0.6);
-  color: #1a345d;
+  background: rgba(61,245,245,0.6);
+  color: #2a2a2a;
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/"]:hover,
@@ -538,7 +538,7 @@ body.colours-001.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
-  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  border-bottom: 0.15em rgba(64,65,65,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
@@ -3094,6 +3094,371 @@ body.colours-008.home .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-008.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(0,77,102,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009 {
+  background: #adf1dc;
+  color: #28508f;
+}
+body.colours-009 a {
+  color: #28508f;
+}
+body.colours-009 a:hover,
+body.colours-009 a:active {
+  color: #0849b0;
+  transition: 0.2s;
+}
+body.colours-009 p a,
+body.colours-009 p a:hover,
+body.colours-009 ul a,
+body.colours-009 ul a:hover,
+body.colours-009 ol a,
+body.colours-009 ol a:hover {
+  background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(133,168,224,0.8) 0.03em, rgba(133,168,224,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
+  text-decoration: none;
+}
+body.colours-009 h1 a,
+body.colours-009 h2 a,
+body.colours-009 h3 a {
+  background: none;
+}
+body.colours-009 .site-header {
+  background: #adf1dc;
+}
+body.colours-009 .site-title a {
+  background: none;
+}
+body.colours-009 #content {
+  background: #c9ffee;
+}
+body.colours-009 .site-footer {
+  background: #adf1dc;
+}
+body.colours-009 hr {
+  border: #6ea3f7 dashed 0.1em;
+  margin: 2em 0;
+}
+body.colours-009 pre {
+  background: #28508f;
+}
+body.colours-009 pre code {
+  color: #c9ffee;
+}
+body.colours-009 .navigation-menu ul {
+  background: rgba(61,133,245,0.1);
+}
+body.colours-009 .navigation-menu {
+  background: rgba(207,224,252,0.1);
+}
+body.colours-009 .navigation-menu li.active a {
+  background: rgba(201,255,238,0.5);
+}
+body.colours-009.blog .navigation-menu li a[href="/posts/"] {
+  background: rgba(201,255,238,0.5);
+}
+body.colours-009.home .navigation-menu a[href="/about-me/"],
+body.colours-009.about-me .navigation-menu a[href="/"],
+body.colours-009.about-me .navigation-menu a[href="/book/"],
+body.colours-009.book .navigation-menu a[href="/about-me/"],
+body.colours-009.book .navigation-menu a[href="/posts/"],
+body.colours-009.blog .navigation-menu a[href="/book/"],
+body.colours-009.blog .navigation-menu a[href="/projects/"],
+body.colours-009.past-projects .navigation-menu a[href="/posts/"],
+body.colours-009.past-projects .navigation-menu a[href="/speaking/"],
+body.colours-009.speaking .navigation-menu a[href="/projects/"],
+body.colours-009.speaking .navigation-menu a[href="/contact-me/"],
+body.colours-009.contact-me .navigation-menu a[href="/speaking/"] {
+  background: rgba(61,133,245,0.1);
+  color: #244881;
+}
+body.colours-009.home .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/book/"]:hover,
+body.colours-009.book .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.book .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/book/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.home .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/book/"]:active,
+body.colours-009.book .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.book .navigation-menu a[href="/posts/"]:active,
+body.colours-009.blog .navigation-menu a[href="/book/"]:active,
+body.colours-009.blog .navigation-menu a[href="/projects/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/posts/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/projects/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/projects/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/projects/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009.home .navigation-menu a[href="/book/"],
+body.colours-009.about-me .navigation-menu a[href="/posts/"],
+body.colours-009.book .navigation-menu a[href="/"],
+body.colours-009.book .navigation-menu a[href="/projects/"],
+body.colours-009.blog .navigation-menu a[href="/about-me/"],
+body.colours-009.blog .navigation-menu a[href="/speaking/"],
+body.colours-009.past-projects .navigation-menu a[href="/book/"],
+body.colours-009.past-projects .navigation-menu a[href="/contact-me/"],
+body.colours-009.speaking .navigation-menu a[href="/posts/"],
+body.colours-009.contact-me .navigation-menu a[href="/projects/"] {
+  background: rgba(61,133,245,0.2);
+  color: #22447a;
+}
+body.colours-009.home .navigation-menu a[href="/book/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.book .navigation-menu a[href="/"]:hover,
+body.colours-009.book .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/book/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.home .navigation-menu a[href="/book/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/posts/"]:active,
+body.colours-009.book .navigation-menu a[href="/"]:active,
+body.colours-009.book .navigation-menu a[href="/projects/"]:active,
+body.colours-009.blog .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.blog .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/book/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/posts/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/projects/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/projects/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/projects/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009.home .navigation-menu a[href="/posts/"],
+body.colours-009.about-me .navigation-menu a[href="/projects/"],
+body.colours-009.blog .navigation-menu a[href="/"],
+body.colours-009.blog .navigation-menu a[href="/contact-me/"],
+body.colours-009.book .navigation-menu a[href="/speaking/"],
+body.colours-009.past-projects .navigation-menu a[href="/about-me/"],
+body.colours-009.speaking .navigation-menu a[href="/book/"],
+body.colours-009.contact-me .navigation-menu a[href="/posts/"] {
+  background: rgba(61,133,245,0.3);
+  color: #204072;
+}
+body.colours-009.home .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/"]:hover,
+body.colours-009.blog .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.book .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/book/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.home .navigation-menu a[href="/posts/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/projects/"]:active,
+body.colours-009.blog .navigation-menu a[href="/"]:active,
+body.colours-009.blog .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.book .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/book/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/posts/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/"]:hover:after,
+body.colours-009.blog .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/projects/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/"]:active:after,
+body.colours-009.blog .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/posts/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009.home .navigation-menu a[href="/projects/"],
+body.colours-009.about-me .navigation-menu a[href="/speaking/"],
+body.colours-009.book .navigation-menu a[href="/contact-me/"],
+body.colours-009.past-projects .navigation-menu a[href="/"],
+body.colours-009.speaking .navigation-menu a[href="/about-me/"],
+body.colours-009.contact-me .navigation-menu a[href="/book/"] {
+  background: rgba(61,133,245,0.4);
+  color: #1e3c6b;
+}
+body.colours-009.home .navigation-menu a[href="/projects/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.book .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/book/"]:hover,
+body.colours-009.home .navigation-menu a[href="/projects/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.book .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/book/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/projects/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.book .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/projects/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.book .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/book/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009.home .navigation-menu a[href="/speaking/"],
+body.colours-009.about-me .navigation-menu a[href="/contact-me/"],
+body.colours-009.past-projects .navigation-menu a[href="/"],
+body.colours-009.speaking .navigation-menu a[href="/"],
+body.colours-009.contact-me .navigation-menu a[href="/about-me/"] {
+  background: rgba(61,133,245,0.5);
+  color: #1c3864;
+}
+body.colours-009.home .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.past-projects .navigation-menu a[href="/"]:hover,
+body.colours-009.speaking .navigation-menu a[href="/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.home .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.past-projects .navigation-menu a[href="/"]:active,
+body.colours-009.speaking .navigation-menu a[href="/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.past-projects .navigation-menu a[href="/"]:hover:after,
+body.colours-009.speaking .navigation-menu a[href="/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.past-projects .navigation-menu a[href="/"]:active:after,
+body.colours-009.speaking .navigation-menu a[href="/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.2em;
+  margin-bottom: 0.05em;
+  position: relative;
+  width: auto;
+}
+body.colours-009.home .navigation-menu a[href="/contact-me/"],
+body.colours-009.contact-me .navigation-menu a[href="/"] {
+  background: rgba(61,133,245,0.6);
+  color: #1a345d;
+}
+body.colours-009.home .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.contact-me .navigation-menu a[href="/"]:hover,
+body.colours-009.home .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.contact-me .navigation-menu a[href="/"]:active {
+  position: relative;
+}
+body.colours-009.home .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.contact-me .navigation-menu a[href="/"]:hover:after,
+body.colours-009.home .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.contact-me .navigation-menu a[href="/"]:active:after {
+  box-sizing: border-box;
+  border-bottom: 0.15em rgba(40,80,143,0.5) solid;
   content: "";
   display: block;
   height: 0.15em;
