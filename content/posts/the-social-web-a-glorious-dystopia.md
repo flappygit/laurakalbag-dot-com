@@ -5,7 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2015-07-24T18:00:55+00:00
 categories: ["ind.ie"]
 tags: ["corporate surveillance", "Facebook", "Friday Roundup", "Google", "postcapitalism", "Reddit", "surveillance"]
-body_classes: "blog"
+body_classes: "blog colours-010"
 ---
 
 Lots of good quotes and a book recommendation in [this week’s Ind.ie roundup](https://ind.ie/blog/the-social-web-a-glorious-dystopia/).

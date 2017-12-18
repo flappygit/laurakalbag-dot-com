@@ -5,7 +5,7 @@ colours: ["#ee0000", "#3f3f3f", "#b70000", "#232323", "#7a7a7a", "#020202", "#8e
 date: 2014-10-02T14:16:15+00:00
 categories: ["Design", "ind.ie"]
 tags: ["Ind.ie"]
-body_classes: "blog"
+body_classes: "blog colours-010"
 ---
 
 After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal [some big stuff about ind.ie](https://ind.ie/).

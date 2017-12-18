@@ -5,7 +5,7 @@ colours: ["#832821", "#565656", "#b6372e", "#343434", "#ffffff", "#020202", "#ff
 date: 2014-08-26T11:59:37+00:00
 categories: ["Design", "Events"]
 tags: ["accessibility", "diversity", "Ind.ie", "Indie Tech Summit", "universal design", "video"]
-body_classes: "blog"
+body_classes: "blog colours-010"
 ---
 
 Yesterday we finally published [all the videos from the Indie Tech Summit](https://ind.ie/summit/videos) on the [ind.ie site](https://ind.ie/). It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.

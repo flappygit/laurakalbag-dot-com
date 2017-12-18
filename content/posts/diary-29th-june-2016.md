@@ -5,7 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-06-29T13:44:48+00:00
 categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "reviews"]
-body_classes: "blog"
+body_classes: "blog colours-010"
 ---
 
 It’s not even been a week since 51.9% UK citizens voted to leave the EU, and it’s already a mess for any business operating from, or with, British Pounds. I’ve spent today working through our finances to see how best for us to proceed in terms of currencies and bank accounts. Despite living in Sweden, we’re still tied to the UK, not least because I’m a British citizen… * shakes fist at the idiots who voted to Leave *

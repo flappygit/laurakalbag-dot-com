@@ -5,7 +5,7 @@ colours: ["#aa2222", "#595959", "#c42e27", "#343434", "#ffffff", "#0a0a0a", "#ff
 date: 2016-04-22T14:59:43+00:00
 categories: ["ind.ie"]
 tags: ["companies", "director", "Ind.ie", "Limited Company"]
-body_classes: "blog"
+body_classes: "blog colours-010"
 ---
 
 Always busy here! Aral and I have been doing a good job of getting out to events in our new home city of Malmö. Last week we went to see [A Good American at DocLounge](https://forum.ind.ie/t/a-good-american-doc-lounge-screening-in-malmo/1135), and this week we’ve been to a few events right here in [Media Evolution City](http://mediaevolutioncity.se/" rel="nofollow). We’re really lucky to have an amazing venue that hosts so many events around us.
