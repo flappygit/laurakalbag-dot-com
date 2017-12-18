@@ -86,8 +86,10 @@ highlight-and-underline-on-interaction()
 // darken text accordingly
 &.home .navigation-menu a[href="/about-me/"],
 &.about-me .navigation-menu a[href="/"],
-&.about-me .navigation-menu a[href="/posts/"],
-&.blog .navigation-menu a[href="/about-me/"],
+&.about-me .navigation-menu a[href="/book/"],
+&.book .navigation-menu a[href="/about-me/"],
+&.book .navigation-menu a[href="/posts/"],
+&.blog .navigation-menu a[href="/book/"],
 &.blog .navigation-menu a[href="/projects/"],
 &.past-projects .navigation-menu a[href="/posts/"],
 &.past-projects .navigation-menu a[href="/speaking/"],
@@ -102,13 +104,16 @@ highlight-and-underline-on-interaction()
 	
 // links second before and after active navigation
 // darken text accordingly
-&.home .navigation-menu a[href="/posts/"],
-&.about-me .navigation-menu a[href="/projects/"],
-&.blog .navigation-menu a[href="/"],
+&.home .navigation-menu a[href="/book/"],
+&.about-me .navigation-menu a[href="/posts/"],
+&.book .navigation-menu a[href="/"],
+&.book .navigation-menu a[href="/projects/"],
+&.blog .navigation-menu a[href="/about-me/"],
 &.blog .navigation-menu a[href="/speaking/"],
-&.past-projects .navigation-menu a[href="/about-me/"],
+&.past-projects .navigation-menu a[href="/book/"],
 &.past-projects .navigation-menu a[href="/contact-me/"],
-&.speaking .navigation-menu a[href="/posts/"]
+&.speaking .navigation-menu a[href="/posts/"],
+&.contact-me .navigation-menu a[href="/projects/"]
 	background alpha($accent-darkened, 0.2)
 	color darken($text, 10%)
 	
@@ -117,12 +122,14 @@ highlight-and-underline-on-interaction()
 	
 // links third before and after active navigation
 // darken text accordingly
-&.home .navigation-menu a[href="/projects/"],
-&.about-me .navigation-menu a[href="/speaking/"],
-&.past-projects .navigation-menu a[href="/"],
+&.home .navigation-menu a[href="/posts/"],
+&.about-me .navigation-menu a[href="/projects/"],
+&.blog .navigation-menu a[href="/"],
 &.blog .navigation-menu a[href="/contact-me/"],
-&.speaking .navigation-menu a[href="/about-me/"],
-&.contact-me .navigation-menu a[href="/projects/"]
+&.book .navigation-menu a[href="/speaking/"],
+&.past-projects .navigation-menu a[href="/about-me/"],
+&.speaking .navigation-menu a[href="/book/"],
+&.contact-me .navigation-menu a[href="/posts/"]
 	background alpha($accent-darkened, 0.3)
 	color darken($text, 15%)
 	
@@ -131,10 +138,12 @@ highlight-and-underline-on-interaction()
 	
 // links fourth before and after active navigation
 // darken text accordingly
-&.home .navigation-menu a[href="/speaking/"],
-&.about-me .navigation-menu a[href="/contact-me/"],
-&.speaking .navigation-menu a[href="/"],
-&.contact-me .navigation-menu a[href="/posts/"]
+&.home .navigation-menu a[href="/projects/"],
+&.about-me .navigation-menu a[href="/speaking/"],
+&.book .navigation-menu a[href="/contact-me/"],
+&.past-projects .navigation-menu a[href="/"],
+&.speaking .navigation-menu a[href="/about-me/"],
+&.contact-me .navigation-menu a[href="/book/"]
 	background alpha($accent-darkened, 0.4)
 	color darken($text, 20%)
 	
@@ -143,7 +152,9 @@ highlight-and-underline-on-interaction()
 
 // links fifth before and after active navigation
 // darken text accordingly
-&.home .navigation-menu a[href="/contact-me/"],
+&.home .navigation-menu a[href="/speaking/"],
+&.about-me .navigation-menu a[href="/contact-me/"],
+&.past-projects .navigation-menu a[href="/"],
 &.speaking .navigation-menu a[href="/"],
 &.contact-me .navigation-menu a[href="/about-me/"]
 	background alpha($accent-darkened, 0.5)
@@ -154,6 +165,7 @@ highlight-and-underline-on-interaction()
 	
 // links sixth before and after active navigation
 // darken text accordingly
+&.home .navigation-menu a[href="/contact-me/"]
 &.contact-me .navigation-menu a[href="/"]
 	background alpha($accent-darkened, 0.6)
 	color darken($text, 30%)

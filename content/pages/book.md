@@ -6,7 +6,7 @@ menu:
  main:
   name: "Book"
   weight: 10
-body_classes: "blog colours-004"
+body_classes: "book colours-004"
 ---
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.
