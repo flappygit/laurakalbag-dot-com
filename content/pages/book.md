@@ -19,7 +19,7 @@ Want to try before you buy? You can [read an excerpt from *Accessibility For Eve
 
 ## Reviews
 
-My friend [Terence Eden kicked off the book reviews with a lovely five-star review](https://shkspr.mobi/blog/2017/09/review-accessibility-for-everyone/), and Michael Larsen also wrote a long-form review across multiple blog posts which starts with [Accessibility for Everyone: A Long-Form, Multi Part Book Review](http://www.mkltesthead.com/2017/09/accessibility-for-everyone-long-form.html).
+My friend [Terence Eden kicked off the book reviews with a lovely five-star review](https://shkspr.mobi/blog/2017/09/review-accessibility-for-everyone/), and Michael Larsen wrote a long-form review across multiple blog posts which starts with [Accessibility for Everyone: A Long-Form, Multi Part Book Review](http://www.mkltesthead.com/2017/09/accessibility-for-everyone-long-form.html).
 
 *Accessibility For Everyone* has had [lovely reviews on Goodreads](https://www.goodreads.com/book/show/36312164-accessibility-for-everyone), and below are some of my favourites from Twitter. You can [find more reviews from Twitter on the @a4ebook Twitter feed](https://twitter.com/a4ebook).
 

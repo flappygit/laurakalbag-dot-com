@@ -10,7 +10,7 @@ body_classes: "contact-me colours-005"
 
 {{< emailaddress "Email" >}}.
 
-Twitter [laurakalbag](http://twitter.com/laurakalbag "Laura Kalbag on Twitter")
+Email is the easiest way to contact me. If you want to talk about Ind.ie-related things, my work email is <a href="mailto:laura@ind.ie" title="Create an e-mail to laura@ind.ie in your mail client.">laura@ind.ie</a>.
 
 ## Just Say Hi
 
