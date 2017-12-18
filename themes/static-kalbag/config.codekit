@@ -351,6 +351,38 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/src\/stylus\/colour-theme-007.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/stylus\/colour-theme-007.styl",
+		"outputAbbreviatedPath": "\/src\/css\/colour-theme-007.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/src\/stylus\/colour-theme-008.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/stylus\/colour-theme-008.styl",
+		"outputAbbreviatedPath": "\/src\/css\/colour-theme-008.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
 	"\/src\/stylus\/colour-themes.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,

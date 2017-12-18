@@ -4,7 +4,7 @@ date: 2017-10-26T20:28:58+02:00
 menu:
  main:
   weight: 20
-body_classes: "past-projects"
+body_classes: "past-projects colours-008"
 ---
 
 # Past Projects
