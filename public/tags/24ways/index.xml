@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>24ways on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/24ways/</link>
+    <description>Recent content in 24ways on Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 22 Dec 2017 18:59:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://laurakalbag.com/tags/24ways/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantic HTML on 24 Ways</title>
+      <link>https://laurakalbag.com/semantic-html-on-24-ways/</link>
+      <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
+      <description>It’s been a few years since I wrote something for 24ways, but this year I’m back, making the case for semantic HTML.
+ 
+As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on Better. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web.</description>
+    </item>
+    
+  </channel>
+</rss>

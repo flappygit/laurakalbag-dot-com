@@ -12618,6 +12618,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/screenshot-1024x548.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161229,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-1024x548.png",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-1024x548.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/screenshot-300x161.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24540,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-300x161.png",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-300x161.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/screenshot-768x411.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107528,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-768x411.png",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot-768x411.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/images\/2017\/12\/screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 396517,
+		"inputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot.png",
+		"outputAbbreviatedPath": "\/static\/images\/2017\/12\/screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		}
 	},
 "hooks": [

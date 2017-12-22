@@ -1,7 +1,7 @@
 ---
 title: "Accessibility For Everyone"
 date: 2017-12-06T13:52:54+01:00
-draft: true
+draft: false
 menu:
  main:
   name: "Book"

@@ -6,10 +6,20 @@
     <description>Recent content in Pages on Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 01 Nov 2017 18:07:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2017 13:52:54 +0100</lastBuildDate>
     
 	<atom:link href="https://laurakalbag.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accessibility For Everyone</title>
+      <link>https://laurakalbag.com/book/</link>
+      <pubDate>Wed, 06 Dec 2017 13:52:54 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/book/</guid>
+      <description>I wrote a book! It’s called Accessibility For Everyone, and you can buy it in paperback and ebook from A Book Apart. Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.
+  Photos taken by folks on Twitter   For those more experienced in the web, Accessibility For Everyone can fill in the accessibility-sized gaps in your knowledge.</description>
+    </item>
     
     <item>
       <title>Speaking</title>
@@ -28,7 +38,7 @@ In the last couple of years, I’ve been really lucky to be invited to speak at 
       
       <guid>https://laurakalbag.com/contact-me/</guid>
       <description>The Basics Email info@laurakalbag.com.
-Twitter laurakalbag
+Email is the easiest way to contact me. If you want to talk about Ind.ie-related things, my work email is laura@ind.ie.
 Just Say Hi If you just want to say hi, it’s definitely best to contact me on Twitter. I’m also chatty on the Ind.ie forum.</description>
     </item>
     
