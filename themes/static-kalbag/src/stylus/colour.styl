@@ -2,6 +2,7 @@
 
 // Make accent colour from text colour (don’t use for text colours--too unpredictable!)
 $accent = lightness(saturation($text, 90%),70%)
+
 // make darker colour for accent
 $accent-darkened = lightness($accent, 60%)
 // make brighter colour for accent, saturate more to make up for alpha in link underlines
