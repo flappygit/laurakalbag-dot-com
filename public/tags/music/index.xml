@@ -3,12 +3,12 @@
   <channel>
     <title>Music on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/music/</link>
-    <description>Recent content in Music on Laura Kalbag</description>
+    <description>Recent content from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 05 Aug 2014 09:30:57 +0000</lastBuildDate>
     
-	<atom:link href="https://laurakalbag.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://laurakalbag.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

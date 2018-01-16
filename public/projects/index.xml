@@ -3,12 +3,12 @@
   <channel>
     <title>Past Projects on Laura Kalbag</title>
     <link>https://laurakalbag.com/projects/</link>
-    <description>Recent content in Past Projects on Laura Kalbag</description>
+    <description>Recent content from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 26 Oct 2017 20:28:58 +0200</lastBuildDate>
     
-	<atom:link href="https://laurakalbag.com/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://laurakalbag.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
