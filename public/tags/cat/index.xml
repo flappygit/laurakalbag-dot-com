@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cat on Laura Kalbag</title>
+    <title>Posts from Cat on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/cat/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 13 May 2015 16:19:03 +0000</lastBuildDate>
@@ -17,8 +17,26 @@
       <pubDate>Wed, 13 May 2015 16:19:03 +0000</pubDate>
       
       <guid>https://laurakalbag.com/photography-on-manual-7-small-cat/</guid>
-      <description>My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.
-  **Small Cat.** I edited out the wonky lamp in the background because it was distracting. I also muted the grass and plants so her scary green eyes would be more noticeable.</description>
+      <description>&lt;p&gt;My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/DSCF4326-small.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4684&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/DSCF4326-small.jpg&#34; alt=&#34;Small grey and brown tabby/tortoiseshell cat lying on grass in the garden&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		**Small Cat.** I edited out the wonky lamp in the background because it was distracting. I also muted the grass and plants so her scary green eyes would be more noticeable.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

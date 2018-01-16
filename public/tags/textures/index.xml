@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Textures on Laura Kalbag</title>
+    <title>Posts from Textures on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/textures/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 04 Nov 2010 16:26:24 +0000</lastBuildDate>
@@ -17,8 +17,498 @@
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
       
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
-      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
-And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+      <description>
+
+&lt;p&gt;This little post is based around the talk I gave at Bathcamp. &lt;a href=&#34;http://twitter.com/richquick&#34;&gt;Rich Quick&lt;/a&gt; came up with the great idea that, whilst &lt;a href=&#34;http://bathcamp.org&#34;&gt;Bathcamp&lt;/a&gt; attendees are mostly developers, a talk on design for developers was probably appropriate.&lt;/p&gt;
+
+&lt;p&gt;And you might have seen on &lt;a href=&#34;https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/&#34;&gt;my post from last week&lt;/a&gt;, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-original&#34;&gt;The original&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/timperrett&#34;&gt;Tim Perrett&lt;/a&gt; had been asking me for a while to help redesign &lt;a href=&#34;http://liftweb.net&#34;&gt;liftweb.net&lt;/a&gt;. Even though the design isn’t awful, and I’m not even sure whether it was done by a developer, it did need some designery love.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-246&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original.png&#34; alt=&#34;liftweb.net original homepage design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-redesign&#34;&gt;My redesign&lt;/h2&gt;
+
+&lt;p&gt;I wasn’t aiming for a full-on redesign, more of a re-alignment of the existing design. I tried to take all the elements that I thought were successful, and continue using those, and try to improve on the areas that I thought had issues.&lt;/p&gt;
+
+&lt;p&gt;I’ll explain my decisions below, based on my design tips for developers. I’m only including the most relevant tips from my talk, as very few designs would cover all of them!&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/01.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-248&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/01.png&#34; alt=&#34;my redesign of liftweb.net&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-design-tips-for-developers&#34;&gt;My Design Tips For Developers&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Design isn’t all about having an ‘eye’&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A lot of people just have an ‘eye’ for design. Knowing what looks good to the masses comes fairly easily. This doesn’t mean that if you don’t have that ‘eye’, you can’t design. A lot of design principles are based on simple theories and rules that anybody can follow.&lt;/p&gt;
+
+&lt;p&gt;All good designers know the rules, the best designers know how to break them effectively.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Colour&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;contrast-is-the-most-important-aspect-of-colour-when-you-re-trying-to-make-text-readable&#34;&gt;Contrast is the most important aspect of colour when you’re trying to make text readable&lt;/h4&gt;
+
+&lt;p&gt;The inconsistency in colour contrast was fairly noticeable on the original Lift page. In some places, it was dark on light and in some places it was light on dark, this makes sense.&lt;/p&gt;
+
+&lt;p&gt;However, in the ‘Taking Off’, ‘Flying in Formation’, ‘Team’ and ‘Wiki’ pages, the descriptions are black on a dark gradient background. This makes the text harder to read, as well as drawing attention to this part of the text as it’s significantly different from the contrast patterns on the rest of the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-249&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34; alt=&#34;Black on a coloured gradient is quite hard to read&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Black on a coloured gradient is quite hard to read
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Contrast is something that loads of designers get wrong, as well as developers. Silly things like light grey text on a white background, a big hit with print designers. Screens are incredibly inconsistent, and our eyesight is better saved for more important things than squinting at text on a screen.&lt;/p&gt;
+
+&lt;p&gt;I really recommend using &lt;a href=&#34;http://www.snook.ca/technical/colour_contrast/colour.html&#34;&gt;Jonathan Snook’s Colour Contrast Check&lt;/a&gt;. This analyses the contrast between your foreground and background colours against the WCAG guidelines. Everybody knows that guidelines are just for guidance, so I wouldn’t stress if you’re colours aren’t AAA compliant (this produces very extreme contrasts that are pretty hard on the eyes) but if you make sure your colours are AAA compliant at 18pt+ then you should be on to a readable winner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/snook-colour-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-250 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/snook-colour-contrast.png&#34; alt=&#34;Checking my redesign colour contrast on the quotes section&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Checking my redesign colour contrast on the quotes section
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;if-you-re-going-to-use-a-strong-colour-just-use-one&#34;&gt;If you’re going to use a strong colour, just use one&lt;/h4&gt;
+
+&lt;p&gt;With a lot of purples and blues teamed with white, the Lift page was suffering from a bit of a 90s colour scheme. The trick is to stay away from using multiple strong colours (the dark blue and purpley blue) together.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original-scheme.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-252&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original-scheme.png&#34; alt=&#34;The original Lift main colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The original Lift main colours
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To calm a design like this down, I tried using less of the extreme colour contrasts (dark blue and white) and more of the in-between, softer and more muted colours. Where I felt the purpley blues and dark blues were a bit harsh, I just toned them down to a slightly greyer version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/my-scheme.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-253&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/my-scheme.png&#34; alt=&#34;My Lift redesign main colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My Lift redesign main colours
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used these colours to help differentiate between areas of content. The original Lift design did a good job of emphasising the quotes at the top of the page through using dark text on a light background, where the rest of the page used the inverse. I took this theory further.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/light-on-dark.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-255&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/light-on-dark.png&#34; alt=&#34;On the original design, you can see how the quote area stands out&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		On the original design, you can see how the quote area stands out
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Whilst I thought it was good to keep the quotes at the top of the page, as they’re vital to helping sell the benefits of Lift to potential high-profile groups, they’re not really as valuable as the four links below to ‘Get Started’, ‘Lift community’ etc.&lt;/p&gt;
+
+&lt;p&gt;As this content, and the content immediately below is most useful to the page visitors, I used the dark-on-light contrast to draw the user to those areas. It stands out more than the light-on-dark areas above as it is a greater contrast against the overall page background.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/dark-on-ligt.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-256&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/dark-on-ligt.png&#34; alt=&#34;At this small size, you can see how my redesign draws the eye to the most important content&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;At this small size, you can see how my redesign colours draw the eye to the most important content
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Layout&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;give-everything-more-space-and-share-the-space-equally-between-the-elements&#34;&gt;Give everything more space, and share the space equally between the elements&lt;/h4&gt;
+
+&lt;p&gt;When you look at the original design, what really jumps out is the huge amount of space in the middle of the page. This is caused by the amount of ‘Latest Happenings’ appearing down the right hand column. Obviously, this wouldn’t have been originally designed like this, but it emphasises the importance of imagining how the content on a page may evolve.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original-middle.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-258&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original-middle.png&#34; alt=&#34;the main page content on the original Lift page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the main page content on the original Lift page
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/middle.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-259&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/middle.png&#34; alt=&#34;my redesigned main content area&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		my redesigned main content area
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I felt that the ‘What is Scala?’ and ‘Lift Books’ information was also a little hidden-away at the bottom of the ‘Latest Happenings’ sidebar. I brought this out into its own area underneath the main content and gave it a light-on-dark contrast to clearly separate it from the content above. This also makes the text look less intimidating. As the areas are clearly separated, it doesn’t look like a huge amount to read.&lt;/p&gt;
+
+&lt;h4 id=&#34;try-to-base-your-design-around-a-grid&#34;&gt;Try to base your design around a grid&lt;/h4&gt;
+
+&lt;p&gt;With some large areas of white space and some slightly squashed looking text in boxes, the structure of the original page design doesn’t look like it is based on a grid. However it is fairly simply laid-out and does have gridded elements to it.&lt;/p&gt;
+
+&lt;p&gt;Using a grid makes a lot of the design decisions less of a decision, as your grid will help dictate where the elements belong. Little details like having all the bottom of the text line up against a base grid, and main content areas having the same proportions, make a design look a lot cleaner and much classier.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/gridded.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-261&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/gridded.png&#34; alt=&#34;The grid I used for my redesign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The grid I used for my redesign
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Above you can see how I used a grid to line up all of my elements. I started with a main content area width of 960px. This is a useful value as it’s divisible by many different multiples, giving you nice round numbers to work with. It doesn’t really matter if you’re using pixels, ems or percentages, it’s just working from one value to get your proportions that helps.&lt;/p&gt;
+
+&lt;p&gt;The yellow grid lines are where I started, I divided my main content area into four, as this suited the four main calls-to-action (‘Get Started’, ‘Lift Community’) well. Usually, I’d probably design around three columns as this corresponds well with the &lt;a href=&#34;http://en.wikipedia.org/wiki/Golden_section&#34;&gt;golden section&lt;/a&gt; which creates a very harmonious balance in your design. You can combine three and four column grids in one, but this is probably a bit complicated for this post!&lt;/p&gt;
+
+&lt;p&gt;All of my main content areas sit within these yellow columns. The logo is in the first column, the navigation in the next three columns. The testimonials sit in all four columns, and the calls-to-action each sit in their own column. The main content areas are split into two sets of two columns.&lt;/p&gt;
+
+&lt;p&gt;What might stand out to you is that the ‘Demo’ and ‘Download’ buttons don’t sit entirely comfortably into columns. This is intentional. By moving some elements out of the column structure, it creates a tension against those that are within the columns, and draws attention to them.&lt;/p&gt;
+
+&lt;p&gt;The orange lines are an example of how I divided the columns further to decide where the margins should be. Each column of about 240px is divided by 4 and then those columns are divided by 2 again to get 30px, which is the width of the margin.&lt;/p&gt;
+
+&lt;p&gt;For areas like the width of the selected testimonial link, I just split the column by two as I needed a wider space to hold that text.&lt;/p&gt;
+
+&lt;p&gt;I also used the yellow grid lines for rows. It’s hard designing with rows on a web design as the content is always liable to change and no longer fit within those rows if there’s more or less text or an image gets put in. You can see that the content roughly sits on these rows by not completely.&lt;/p&gt;
+
+&lt;p&gt;I actually work on all web designs with a 10px square grid underneath as a baseline for all content, especially text. As most of the text has a line-height of 25px, every other line of text sits on the 10px grid. Below is what a small segment of the design looks like sitting on a 10px grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-14.07.13.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-262&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-14.07.13.png&#34; alt=&#34;my redesign on 10px grid&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		my redesign on 10px grid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s where the bananas go. &lt;em&gt;Just seeing if you’re still here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;imagery&#34;&gt;Imagery&lt;/h3&gt;
+
+&lt;h4 id=&#34;avoid-generic-stock-photography&#34;&gt;Avoid generic stock photography&lt;/h4&gt;
+
+&lt;p&gt;I know the original page didn’t have any stock photography. In fact, I think that was the problem. There wasn’t any kind of imagery to break up the text. The closest it came was quote marks and gradients.&lt;/p&gt;
+
+&lt;p&gt;So first off I found some appropriate images to illustrate the content. A quick bit of Googling and I located the book covers for the Lift books. This will make the books easier to identify in passing, and really work to break up that text-heavy area at the bottom.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-15.41.35.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-267&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-15.41.35.png&#34; alt=&#34;Book information with book images on my redesigned page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Book information with book images on my redesigned page
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The difficulty in sites about web development and other non-visual subjects is there isn’t much in the way of obvious imagery you can use to illustrate your pages. But stay away from the stock photos! These are never the solution as they mostly look generic, cheesy and cheap.&lt;/p&gt;
+
+&lt;p&gt;Illustrations can be expensive, though stock illustrations are often better than stock photos. However there are a lot of high quality free icon sets out there. If you find icons relevant to the content, they can serve to break up a very text-heavy site &lt;em&gt;and&lt;/em&gt; act as signifiers to help the user understand what the text, call-to-action or button is for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/icons.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-268&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/icons.png&#34; alt=&#34;the icons I used to illustrate my redesign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the icons I used to illustrate my redesign
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a look through my icon collections and found some &lt;a href=&#34;http://www.iconeden.com/icon/shine.html&#34;&gt;Shine icons&lt;/a&gt; that suited the content and were the right sizes for button links and bigger calls-to-action.&lt;/p&gt;
+
+&lt;h4 id=&#34;use-subtle-patterns-and-textures-to-add-depth-to-a-page&#34;&gt;Use subtle patterns and textures to add depth to a page&lt;/h4&gt;
+
+&lt;p&gt;I’d almost completed my design, and it felt like it was looking a bit flat. This is usually the way when you’re using a different solid colours. To combat this effect, I added some subtle noise and shadows to give it a more ‘real’ feeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/noise2.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-272&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/noise2.png&#34; alt=&#34;the background of my redesign without (above) and with (below) noise textured background&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the background of my redesign without (above) and with (below) noise textured background
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;I know I’d usually say that something like ‘noise’ is &lt;a href=&#34;http://dribbble.com/search?q=noise&amp;amp;amp;x=0&amp;amp;amp;y=0&#34; title=&#34;Search noise on Dribbble&#34;&gt;possibly a current trend&lt;/a&gt;, but I think it’s more of a recent discovery. It’s all very well using grungy textures if it’s appropriate to your site, but it really wouldn’t be for most software, corporate or family sites. Subtle noise is a great way to add some texture and definition without theming a site. Just make sure it’s very gentle. It looks best when not instantly visible, it should be &lt;em&gt;that&lt;/em&gt; subtle.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Light&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;choose-one-imaginary-light-source-and-make-the-shadows-follow-that-source&#34;&gt;Choose one imaginary light source, and make the shadows follow that source&lt;/h4&gt;
+
+&lt;p&gt;The thing that people forget when they use gradients, box shadows and text shadows on websites is that these elements are all used to recreate the illusion of light. Having light and dark on a site imitates real life, it makes your design more ‘real’, it makes it easier for your users to identify with it.&lt;/p&gt;
+
+&lt;p&gt;The incoming problems with &lt;a href=&#34;http://www.css3.info/&#34;&gt;CSS3&lt;/a&gt; is that people are using shadows willy-nilly, chucking them in to make their design look fancy without thinking about the effect they’re creating. This is visible on the random text-shadow on the original Lift design.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-249&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34; alt=&#34;Random text-shadow on the Lift original design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Random text-shadow on the Lift original design
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If  you want to use gradients and shadows to make your site feel more real, and give it more depth, the trick is to choose a natural-style imaginary light source, and make all your shadows follow that.&lt;/p&gt;
+
+&lt;p&gt;There could be two light sources, though that could quickly get complicated, and beyond the realms of CSS, so I just went with the simplest possible for my design–;top-down. I imagined there was a light behind/above me and so it was projecting shadows that were equal sizes on each side of the boxes. It might not be completely scientifically sound, but it’s close-enough to feel real.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/shadows.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-273&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/shadows.png&#34; alt=&#34;Light shadows visible around the boxes&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Light shadows visible around the boxes
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Colour is also important. Since when have you seen a white shadow? Pure black shadows are also very rare unless it’s very very dark. A shadow is usually just a darker shade of the surface it’s casting on to, follow that principle and you’ll have realism in no time.&lt;/p&gt;
+
+&lt;h4 id=&#34;make-your-light-source-subtle&#34;&gt;Make your light source subtle&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;The other issue with the text shadow on the original Lift design is that it’s really screamingly obvious. From day-to-day we don’t really notice or comment on shadows much, even though they’re used &lt;em&gt;everywhere&lt;/em&gt;, occurring in real life and almost every piece of software. The reason we barely notice is them is because they’re so subtle. I know I’ve used the ‘subtle’ word about a million times now but it really is the key to making a design look sophisticated.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### If in doubt, keep it simple&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;less-looks-more-sophisticated&#34;&gt;Less looks more sophisticated&lt;/h4&gt;
+
+&lt;p&gt;There’s no crime in creating a site with a white background, and no crime in being ‘basic.’ All the best sites are noted for their simplicity and how clean they look and not how garish and full-of-stuff (my particular design weakness) they are.&lt;/p&gt;
+
+&lt;p&gt;I really hope these tips and this sort-of walkthrough has been helpful. I’ll be happy to do more in the future if anybody wants them, or further explain any more elements of this design if anybody asks.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-159&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://matt-fuller.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Matt&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-159&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:34:19+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        first.
+
+x
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jackfranklin.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack Franklin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:38:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I think Lift should get in touch with you! I loved your talk and this follow up is superb. I&amp;#039;m loving your blog more and more every time I visit!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-161&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo avatar-default&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/jamienewman&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;@jamienewman&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-161&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:41:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post. Love the new design and some very useful tips here!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-162&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://experimentsincode.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mike&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-162&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:54:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:54pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks great article!! Shame I missed your talk at BathCamp.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-163&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://levibreederland.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Levi&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-163&#34;&gt;&lt;time datetime=&#34;2010-11-08T20:39:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:39pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I totally agree with the other comments (except for that first one). Very good summary of handy tips!
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

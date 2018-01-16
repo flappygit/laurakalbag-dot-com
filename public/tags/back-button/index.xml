@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Back Button on Laura Kalbag</title>
+    <title>Posts from Back Button on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/back-button/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 16 Jun 2010 14:40:42 +0000</lastBuildDate>
@@ -17,8 +17,132 @@
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
       
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
-      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
-I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+      <description>
+
+&lt;p&gt;I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.&lt;/p&gt;
+
+&lt;p&gt;I understand their concern. &lt;em&gt;I really do&lt;/em&gt;. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### The Back button is the second most-used form of navigation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If a user wants to go back to your site, they can. If you open in a new window or tab, you make the ‘Back’ button useless. Don’t treat your users like they’re idiots that need to be led-around by the nose. (It helps to be helpful, but not patronising!)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### By opening a link in a new window, you’re not giving the user any other choice.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is my personal pet hate. If I want to open a link in another window or tab, I can do so easily by right-clicking the link and selecting that option (and I’m sure there’s numerous shortcuts for such behaviour.) However, if you specify that the link &lt;em&gt;must&lt;/em&gt; open in another window, there’s nothing I can do about it. You shouldn’t force users into situations that are uncomfortable against their usual browsing patterns. They will end up associating that discomfort with your site.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Some users just won’t understand what’s happening.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As more and more people get cheap access to the internet, there will be more users who have very basic skills, aren’t wholly computer-literate, but will browse your site anyway! If you’d never used a computer before, and were presented with a link that opened in a new window, are you sure you’d understand what just happened? These users may not understand that they’re now in a new window or tab. They’ll have a great big ‘Back’ button screaming at them, not a ‘Close this window or tab and then select the relevant window or tab to view it again’ button.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### There’s no guarantee that, when the user closes that window, they’ll go back to your site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If I open a page in a new tab on Safari, it gets added to the end of my list of tabs. If I’ve already got another tab open that has the BBC website in, when I close the new tab, it’ll go back to the BBC website, not your website.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### It’s irritating for mobile browsers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Some mobile browsers may just ignore your ‘Open in New Window’ suggestion as they don’t support multiple windows. If you’re browsing using Mobile Safari, it will do this very dramatic shrink-this-window open-another-window animation. The back button is much less fiddly. People using mobile browsers are more likely to be on-the-go and less likely to put up with switching windows all the time when browsing your site.&lt;/p&gt;
+
+&lt;p&gt;Please be considerate of your users, and don’t treat them like they don’t know what they’re doing. For those that &lt;em&gt;really&lt;/em&gt; don’t know what they’re doing, keep it simple. If users remember yours as the site that was easy to use, that’s going to make you a lot more popular than forcing them to look at your content ever will.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Some other handy articles I found on this subject:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.problogdesign.com/blog-usability/new-window-for-a-new-link/&#34;&gt;Should Links Open In A New Window Or Not?—Pro Blog Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.useit.com/alertbox/open_new_windows.html&#34;&gt;Open New Windows for PDF and other Non-Web Documents—Jakob Nielsen’s Alertbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dubroy.com/blog/my-chi2010-talk-a-study-of-tabbed-browsing/&#34;&gt;My CHI2010 talk: A Study of Tabbed Browsing—Patrick Dubroy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webnauts.net/new-window.html&#34;&gt;Avoid Forcing To Open In A New Window—Webnauts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.useit.com/alertbox/990530.html&#34;&gt;The Top Ten Web Design Mistakes of 1999—Jakob Nielsen’s Alertbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://robertnyman.com/2006/02/13/how-evil-is-the-target-attribute/&#34;&gt;How Evil Is The Target Attribute?—Robert’s Talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-93&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;ChrisC&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-93&#34;&gt;&lt;time datetime=&#34;2010-06-16T14:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I can’t believe a client would suggest that, personally I’d hammer hard to explain that it’ll drive people away rather than keep them there.
+
+I always remember the story of old people, they think when a new window opens the other one closes. So they’ll never work out whats going on!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-94&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.meatfreedesign.co.uk/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tom&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-94&#34;&gt;&lt;time datetime=&#34;2010-06-16T15:02:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:02pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Interesting article, to the point and very good points&amp;#8230; only one I slightly disagree or maybe differ on is the opening in new windows on safari/iPhone, if I’m googling and on the move I tend to open everything in a new window so I don’t have to go back to the previous page and load it again&amp;#8230; often takes ages if the connection is bad so I tend to be window crazy!
+
+Good stuff! =0)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-95&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-95&#34;&gt;&lt;time datetime=&#34;2010-06-16T15:44:27+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Actually sometimes I do that as well! Still, I think that, like opening new windows on a desktop browser, the important part is that you choose to do it rather than being forced to do it!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-96&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://levibreederland.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Levisan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-96&#34;&gt;&lt;time datetime=&#34;2010-06-16T17:49:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:49pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well, now that I finally understand the other side of the argument, I think I’ll get rid of the opening of new windows for my site.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-97&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-97&#34;&gt;&lt;time datetime=&#34;2010-06-16T17:58:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:58pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Wow, I’m well pleased I managed to convince somebody :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-98&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5cce99e9bf6154703d8ecdf474a750bd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5cce99e9bf6154703d8ecdf474a750bd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jitendravyas.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;jitendra vyas&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-98&#34;&gt;&lt;time datetime=&#34;2012-11-01T06:17:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Even if your client still want link to be open in new window. You can give clue to sighted and non-sighted user both by appending this to link “World Wide Web Consortium (links to external site)”
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

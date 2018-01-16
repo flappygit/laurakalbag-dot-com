@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on Laura Kalbag</title>
+    <title>Posts from Writing on Laura Kalbag</title>
     <link>https://laurakalbag.com/categories/writing/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
@@ -17,9 +17,140 @@
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
       
       <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
-      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
- 
-In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+      <description>
+
+&lt;p&gt;After three years of work, I can finally tell you that I’ve written a book for &lt;a href=&#34;https://abookapart.com&#34;&gt;A Book Apart&lt;/a&gt; about web accessibility called &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;Accessibility For Everyone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34;&gt;
+&lt;figure class=&#34;alignnone wp-image-4947&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34; alt=&#34;Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for &lt;em&gt;everyone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is a huge wealth of information about accessibility from accessibility experts on the web. But where do you start? This is why I wrote Accessibility For Everyone. I want to help you learn the foundations of accessibility, and point you in the direction of the accessibility experts I learn from so we can keep making the web better.&lt;/p&gt;
+
+&lt;p&gt;Accessibility For Everyone will be published in a few months, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;sign up to be notified when we launch on the A Book Apart website&lt;/a&gt;. If you forget, don’t worry, I’ll probably be going on about this for a long time to come… 😉&lt;/p&gt;
+
+&lt;h2 id=&#34;10-comments&#34;&gt;10 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160276&#34;&gt;
+        &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Kathy Bray&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160276&#34;&gt;&lt;time datetime=&#34;2017-08-19T18:35:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This sounds like a must have book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160277&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://wendybarron.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Wendy Barron&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160277&#34;&gt;&lt;time datetime=&#34;2017-08-19T19:26:48+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I am excited about this book. Plain language, plain design, inclusiveness and accessibility are part of what I do for a living, and resources are important! (I’m redoing my website with accessibility in mind, right now.) Thanks for doing this work and putting it out there where we can get at it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160287&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;peter&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160287&#34;&gt;&lt;time datetime=&#34;2017-08-19T20:10:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        thank you
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160300&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://nuclearpengy.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Nathan Jeffery&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160300&#34;&gt;&lt;time datetime=&#34;2017-08-20T00:56:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:56am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congrats and good luck with the launch!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160304&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.destinosolutions.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Noufal binu&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160304&#34;&gt;&lt;time datetime=&#34;2017-08-20T09:55:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m curious to read this book, I expect *Accessibility for everyone* is a very helpful for my  blog redesign and improve my blog functions for everyone, So i hope this book going to really interesting.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160307&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jonathan Melton&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160307&#34;&gt;&lt;time datetime=&#34;2017-08-20T15:59:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations on the book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160308&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://cedc.org&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laryn&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160308&#34;&gt;&lt;time datetime=&#34;2017-08-20T19:48:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:48pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you! I look forward to reading it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160312&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.microassist.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack McElaney&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160312&#34;&gt;&lt;time datetime=&#34;2017-08-22T01:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura on “Accessibility for Everyone”! Based on the title of the book, and your description of it, it is a much needed book and I look forward to reading it. I curate a weekly newsletter called “Accessibility in the News” so I will let my subscribers know about your book in this week’s issue.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160313&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://ttimsmith.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160313&#34;&gt;&lt;time datetime=&#34;2017-08-23T13:16:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura! I can’t wait to read it!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160314&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marie Moyles&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160314&#34;&gt;&lt;time datetime=&#34;2017-08-23T21:28:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I cannot wait to read this book! Well done and thank you for producing a new resource on web accessibility 😊
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +159,17 @@ In case you’ve not heard of web accessibility (you wouldn’t be the first!), 
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
       
       <guid>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</guid>
-      <description>I was slow to post aboutmy April Pastry Box post as my realign got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.
-[  ](https://the-pastry-box-project.net/laura-kalbag/2014-april-19)</description>
+      <description>&lt;p&gt;I was slow to post about&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-april-19&#34;&gt; my April Pastry Box post&lt;/a&gt; as &lt;a href=&#34;https://laurakalbag.com/a-little-realign/&#34; title=&#34;A little realign&#34;&gt;my realign&lt;/a&gt; got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;[
+&lt;figure class=&#34;aligncenter size-full wp-image-4466&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/05/pastry-box-april.png&#34; alt=&#34;Laura Kalbag on The Pastry Box, Saturday 19th April 2014&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+](https://the-pastry-box-project.net/laura-kalbag/2014-april-19)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

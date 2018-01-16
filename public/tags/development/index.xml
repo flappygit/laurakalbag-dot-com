@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Laura Kalbag</title>
+    <title>Posts from Development on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/development/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 07 Oct 2014 13:57:33 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
       
       <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
-      <description>Last week my latest column, Breaking Stuff, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at ind.ie, so I think I’ll be writing more about situations like these as time goes on.
-I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)</description>
+      <description>&lt;p&gt;Last week &lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;my latest column, Breaking Stuff&lt;/a&gt;, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at &lt;a href=&#34;https://ind.ie&#34;&gt;ind.ie&lt;/a&gt;, so I think I’ll be writing more about situations like these as time goes on.&lt;/p&gt;
+
+&lt;p&gt;I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4561&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/Breaking-Stuff.png&#34; alt=&#34;Breaking Stuff column on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,9 +38,130 @@ I’ve also finally updated that terrible avatar to something much better. I loo
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
       
       <guid>https://laurakalbag.com/grid-frameworks/</guid>
-      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
-After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
-I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+      <description>
+
+&lt;p&gt;I’ve written &lt;a href=&#34;http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks&#34;&gt;a post for 12 Devs of Xmas on Grid Frameworks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.&lt;/p&gt;
+
+&lt;p&gt;I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs. So far, the reasons behind these feelings seem to be a lack of control over their own work, blaming clients or bosses. I don’t know what to say to be helpful in these situations&lt;/p&gt;
+
+&lt;p&gt;Me, I would refuse to do a job that wouldn’t fit my idea of quality development. If there’s not enough time to make a site accessible (the idea of this still baffles me as I consider accessibility part of core development) then there’s not enough time to finish the project. It does feel rather unhelpful telling someone that, if their boss/client is forcing them to do things in the wrong way, they should quit their job, and I probably care about these things a lot harder than many, but honestly, that’s what I’d do.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I’m sure I’ll be dealing with more accessibility-related issues in the future. It’s far too easy for me to go off on a rant and a ramble, I just want more people to care.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-435&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.craigmcpheat.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Craig McPheat&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-435&#34;&gt;&lt;time datetime=&#34;2013-01-02T15:26:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I appreciate and agree with your sentiment about semantic markup, and accessibility, but I think you may have jumped the gun in [Day 7: Grid Frameworks](http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks&#34; rel=&#34;nofollow) by implying grid frameworks are inherently inaccessible.
+
+I argue against front end frameworks in my day to day job. The reasons I cite are:
+
+&lt;p&gt;1) developers need to learn the framework, not the underlying technology
+
+2) our web standards require semantic markup, which frameworks often lack out the box
+
+3) frameworks look like a framework –; sometimes as much work is required to theme it as there would be to build from scratch
+
+4) frameworks often mean extra bytes –; superfluous markup contradicts my requirements for mobile first / every byte counts&lt;/p&gt;
+I get where you’re coming from and agree in most parts. I’m not saying I’ll never use a front end framework, but I do campaign for refining and building our own internal boilerplates.
+
+It’s important to be careful when choosing arguments to protect accessibility. To say using a grid framework would introduce a risk to the accessibility of the site would be careless if not untrue, thus risking the importance of the accessibility argument. Like all things, the devil is in the detail. If those grids had semantic class names rather than grid_whatever they’d be no more accessible. You rightly point out some basic semantics required for a good accessible build –; lists, heading levels, good anchor text –; but these are separate from the structure provided by a grid framework. (Of course, all this goes without mention of landmark areas, aria, skip to main content etc)
+
+(As an aside, is it terrible to use a grid as the structure and object orientate the theme with semantic classnames alongside the grid_whatevers?)
+
+I agree accessibility and semantics are both important, but I think there’s a lot of detail missing to get from point A to point B in your post and subsequent comments, which is very dangerous when promoting the cause to senior stakeholders and those who need to understand the cold hard facts without emotion.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-436&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-436&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:06:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:06pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Craig, there’s some great points in there, and I think you’re right in saying that I was making a bit of leap, here’s my explanation why:
+
+I was really trying to create an argument around your point 2. “Our web standards require semantic markup, which frameworks often lack out of the box.” But then I came to ask myself: why do semantics matter? Why bother making anything semantic? I know that **I** think that semantics are important, but how do you explain it to someone who just thinks that semantics are about being fussy?
+
+So I went one level deeper. Why are semantics so important to me? Chiefly, accessibility. Then reusability, maintenance etc. Thus my post became about these things, brushing over the semantics that people often disregard as purist.
+
+I’m sorry if I didn’t convey the point well enough, and you’ve definitely given me some food for thought in terms of how I represent accessibility.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-437&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.craigmcpheat.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Craig McPheat&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-437&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:57:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        No apology necessary Laura, any constructive discussion on accessibility is good discussion.
+
+I too am incredibly passionate about semantic markup and accessibility, but the reason I need to be careful is there’s always someone ready with a counter; a supplier, external developers, project managers&amp;#8230; I push back on poorly structured content all the time. As you mention, the basic but big ticket items like heading levels, form inputs, lists, good anchor text are all essential –; but would I push back on someone for using a grid framework? Probably not, as the site can be completely accessible whilst using a grid system, just as much as a more semantic site can be inaccessible.
+
+If I’m honest, I would actually have to pay more attention if a supplier uses HTML5 sectioning elements to &lt;b&gt;structure the document “semantically”&lt;/b&gt;, as these cause problems with the document outline when not implemented correctly:
+
+[HTML5 sectioning elements, headings, and document outlines](http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/&#34; rel=&#34;nofollow)
+
+[HTML5 document outline revisited](http://www.456bereastreet.com/archive/201104/html5_document_outline_revisited/&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-438&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marc&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-438&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:10:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:10am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I largely agree with your opinion on inaccessible, non-semantic grid systems. However, your post would have been more balanced if you had paid some attention to the existing alternatives. More semantic grid systems, such as [Susy](http://susy.oddbird.net/&#34; rel=&#34;nofollow), [Singularity](http://singularity.gs/&#34; rel=&#34;nofollow) and [Zen Grids](http://zengrids.com/&#34; rel=&#34;nofollow) make it very easy to apply a custom grid to your own semantic HTML structure.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-439&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-439&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:44:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:44am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I would if I were more familiar with the alternatives! That’s why I cautiously tweeted that Sass is probably the answer. And whilst I do use Sass, I still write all my grids from scratch. This might be foolish, or because I’m a creature of habit having done that with CSS since I started out……I’m not sure which!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-440&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marc&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-440&#34;&gt;&lt;time datetime=&#34;2013-01-03T09:04:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:04am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        OK, I didn’t see that tweet. I’d say just give Susy a try and keep an eye on [Susy Next](http://oddbird.net/2013/01/01/susy-next/&#34; rel=&#34;nofollow)!
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,9 +170,151 @@ I knew it would be contentious and that some people would feel antagonised by my
       <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
       
       <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
-      <description>Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.
-   
-HTML5 For Web Designers by Jeremy Keith is the first offering from A Book Apart. It’s a very easy read, not an endless reference, which took me a couple of hours to fully digest whilst I was enjoying the sun.</description>
+      <description>
+
+&lt;p&gt;Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-12-at-15.47.10.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-113&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-12-at-15.47.10.jpg&#34; alt=&#34;my copy of HTML5 For Web Designers&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://books.alistapart.com/product/html5-for-web-designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt; by &lt;a href=&#34;http://adactio.com/&#34;&gt;Jeremy Keith&lt;/a&gt; is the first offering from &lt;a href=&#34;http://books.alistapart.com/&#34;&gt;A Book Apart&lt;/a&gt;. It’s a very easy read, not an endless reference, which took me a couple of hours to fully digest whilst I was enjoying the sun. They’ve been some of the first people to produce a book about HTML5 and they prove it isn’t too early to start discussing the new specification and its impact on the web.&lt;/p&gt;
+
+&lt;p&gt;The book is split into six chapters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A Brief History of Markup&lt;/li&gt;
+&lt;li&gt;The Design of HTML5&lt;/li&gt;
+&lt;li&gt;Rich Media&lt;/li&gt;
+&lt;li&gt;Web Forms 2.0&lt;/li&gt;
+&lt;li&gt;Semantics&lt;/li&gt;
+&lt;li&gt;Using HTML5 Today&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Starting off with a brief history of the specifications that came before, Jeremy Keith gives an explanation on how the various working groups work along with how the specifications are created. This was really enlightening and goes a long way to explain the &lt;strong&gt;whys&lt;/strong&gt; of many of the choices that have been made for HTML5.&lt;/p&gt;
+
+&lt;p&gt;After reading HTML5 For Web Designers and listening to &lt;a href=&#34;http://mollydotcom.tumblr.com/&#34;&gt;Molly Holzschlag&lt;/a&gt;‘s great talk at &lt;a href=&#34;http://futureofwebdesign.com/london-2010/&#34;&gt;Future Of Web Design&lt;/a&gt; about the processes, blood, sweat and tears of the working groups, I feel like I’m starting to get an idea of all the politics and diplomacy that goes into these specifications and I’ve certainly gained an appreciation for the hard work that must go into them.&lt;/p&gt;
+
+&lt;p&gt;The phrase ‘*paving the cowpaths*‘ is repeated throughout the book showing how HTML5 emphasises on taking the existing practices that web developers have formed, such as having &lt;code&gt;&amp;amp;lt;div id=&amp;quot;header&amp;quot;&amp;amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;amp;lt;div id=&amp;quot;footer&amp;quot;&amp;amp;gt;&lt;/code&gt; at the top and bottom of pages, and making them fully fledged parts of the specification, as in &lt;code&gt;&amp;amp;lt;header&amp;amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;amp;lt;footer&amp;amp;gt;&lt;/code&gt; tags. It really shows that this specification is taking a really reasonable look at the web around it and taking backwards-compatibility into mind.&lt;/p&gt;
+
+&lt;p&gt;There’s no overly lengthy passages on musts and must-nots. Each chapter is a whistle-stop tour through a few choice elements, their implementation and how you can include them today with backwards-compatibility (and slow browser take-up) in mind. Despite the HTML examples, I wouldn’t say this was the kind of book you need to read at a desktop to try it all out. More than anything it serves to give the reader a taste of things to come and an enthusiasm for what the future will bring.&lt;/p&gt;
+
+&lt;p&gt;The final chapter, Using HTML5 Today, ends on realistic ways us keen developers can start using HTML5 right away. It goes to show that, with the amount of new features you can easily implement, it wasn’t too soon to have a book on HTML5 before the specification is finalised.&lt;/p&gt;
+
+&lt;p&gt;Jeremy Keith writes in a fun yet informative tone that makes you feel like you’re learning a lot and are part of the cool crowd with a load of webby in-jokes as well. It’s one of the first skills-based books I’ve managed to read from cover-to-cover in the last year due to its size and engaging readability. Totally recommend it.&lt;/p&gt;
+
+&lt;h2 id=&#34;9-comments&#34;&gt;9 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-13&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;timperrett&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-13&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:34:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Have you looked at the &amp;lt;video&amp;gt; tag? Use of it so far that i’ve seen on apple.com is amazing.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-14&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-14&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:38:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @timperrett it looks so good. Being able to specify multiple backup solutions is perfect.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-15&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;timperrett&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-15&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:42:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Couldn’t agree more –; it looks awesome; now we just need IE to pull up its socks and stop letting the side down ;-)
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-16&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;cssgareth&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-16&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:37:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Good review, thanks!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-17&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-17&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:39:28+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:39pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @cssgareth thanks, I’m pleased you think so :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-18&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;cssgareth&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-18&#34;&gt;&lt;time datetime=&#34;2010-07-12T15:41:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag just waiting for my copy now&amp;#8230;
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-10&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5ad82c5ba0264363974af89deb743c20?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://adactio.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jeremy Keith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-10&#34;&gt;&lt;time datetime=&#34;2010-07-12T23:46:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:46pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you very much for those very kind words, Laura. Glad you like the book.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-12&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ea2a6b21e565032912a90ad1057680bd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://zekefranco.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Zeke Franco&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-12&#34;&gt;&lt;time datetime=&#34;2010-07-14T22:21:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:21pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very jealous! ;) I preordered mine, but haven’t received it yet. I think I’ll be getting it today. Very excited. Thanks for the sneak peak.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

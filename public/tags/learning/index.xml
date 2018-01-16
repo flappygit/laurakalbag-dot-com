@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on Laura Kalbag</title>
+    <title>Posts from Learning on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/learning/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
@@ -17,7 +17,118 @@
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
-      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+      <description>
+
+&lt;p&gt;I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;And that’s what happened. In June, I wrote about &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;becoming part of Indie Phone&lt;/a&gt; for 50% of my time. Then some time in August I became full time. &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4556&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34; alt=&#34;ind.ie balloon leaving stratosphere&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;indie-phone-became-ind-ie&#34;&gt;Indie Phone became Ind.ie&lt;/h2&gt;
+
+&lt;p&gt;At some point over those months, as we started to brainstorm our crowdfunding campaign. We realised that running a campaign for an all-new phone with new hardware, software and “cloud” services, would be a mammoth task. We’d have to look at raising at least $1 million, and would need people to trust us to deliver a phone after two whole years. The phone is really the summit of the Ind.ie mountain. The phone will only be of value if it’s part of a larger foundation platform that equips people to own their own data. It needs to work with existing platforms, such as social networks and computer operating systems. Otherwise we’d be expecting people to switch to an all-new system, cutting themselves off from the existing technology they use with their friends and family. That’s just not practical. We quickly realised that Ind.ie phone had to be part of an ecosystem that allows people to share their data with each other and nobody else (using &lt;a href=&#34;https://ind.ie/pulse/&#34;&gt;Pulse&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/heartbeat&#34;&gt;Heartbeat&lt;/a&gt; as part of the &lt;a href=&#34;https://ind.ie/stratosphere/&#34;&gt;Indienet&lt;/a&gt;.) We also need part of that ecosystem to help people find each other in the first place (&lt;a href=&#34;https://ind.ie/waystone&#34;&gt;Waystone&lt;/a&gt;.) That ecosystem is most of the mountain. And then &lt;a href=&#34;https://ind.ie/phone/&#34;&gt;the phone&lt;/a&gt; will be the ideal way to use the ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;flexibility-and-change&#34;&gt;Flexibility and change&lt;/h2&gt;
+
+&lt;p&gt;The change from Indie Phone to Ind.ie emphasised how flexible Ind.ie needs to be as a company and a team. We can’t be scared to change our minds and iterate on our ideas and goals. As a freelancer, I learned how I needed to continually learn new development techniques, and adapt to understand the modern web. The same applies to Ind.ie, but on a bigger scale. And I’d be lying if I said it isn’t a bit terrifying.&lt;/p&gt;
+
+&lt;h2 id=&#34;always-learning&#34;&gt;Always learning&lt;/h2&gt;
+
+&lt;p&gt;As with freelancing, staying on top of new technologies and techniques are important, but even more so when you’re a small team under a lot of scrutiny. When you ask for money, people want to know that you’re trustworthy. We have to pay attention to all the little details, and do everything right. Of course we make mistakes. I’ve screwed up bits of the website and a couple of email newsletters, and probably a whole lot more… But we have to own our mistakes, admit the blame, don’t take it personally, and fix it as quickly as possible. The upside of the fast-moving pace of the business is that I get to learn loads of cool and challenging things. As my job requires me to understand the entirety of my platform, I’m looking into areas I’ve not needed to investigate before. I’m facing design challenges for completely different types of content and interactions. In the last week alone, I’ve written the hardest JavaScript I’ve ever tried, learned how to create and implement Git submodules, and learned how to set up Grunt. It’s pretty thrilling.&lt;/p&gt;
+
+&lt;p&gt;It also means doing things that feel new and pit-of-your-stomach daunting. Like when &lt;a href=&#34;https://border-none.net/2014/scene-setters#c81&#34;&gt;I gave my first talk and workshop around Ind.ie&lt;/a&gt;. And facing some of the challenging feedback we’ve got through social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;handling-feedback&#34;&gt;Handling feedback&lt;/h2&gt;
+
+&lt;p&gt;Whilst the work is physically and mentally exhausting, the hardest part of working for Ind.ie is the feedback. As a designer, I’m a firm believer in critique and constructive feedback. I’m a leave-your-ego-at-the-door designer (at least I try my best.) But sometimes the feedback isn’t so constructive, and sometimes the comments are a bit personal. Occasionally they’re from people you considered friends and it’s very very difficult to not feel upset, let down, and emotionally drained. It takes time to process and get past hurtful comments, but it’s unavoidable when you want to get past the junk to the criticism that’ll help you do things better.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-is-it-worth-it&#34;&gt;Why is it worth it?&lt;/h2&gt;
+
+&lt;p&gt;But to me, Ind.ie is worth it. The technology industry is broken in so many ways (diversity, accessibility, first world priorities…) Unethical business is at the heart of most of the problems. A lot of designers and developers talk about the difficulty of running a business because everyone expects something for free. Free mobile apps and free web services have given consumers the impression that good stuff needn’t cost anything. Very few people realise that they’re not getting these apps and services for free, but in exchange for the data provided when they upload photos, write to each other, play games, track their activities. (What the companies do with this data varies, but it’s very rarely in the best interests of the user.) We’re paying with our privacy.&lt;/p&gt;
+
+&lt;p&gt;I’m frightened of how this could escalate. I’m frightened of how companies operate today. As far as I know, I’m a normal, law-abiding citizen, and I’m not doing anything wrong. But that doesn’t matter. All the data I’ve shared combined could tell strangers things I don’t know about myself. It could tell strangers things about my friends and family too. &lt;a href=&#34;http://www.un.org/en/documents/udhr/index.shtml/index.shtml#a12&#34;&gt;Privacy is a human right&lt;/a&gt;, and it shouldn’t be traded for consumer goods.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to make a difference for the sake of being good. I want to work on Ind.ie because I don’t see enough people putting time and effort into fighting these infringements on our human rights. If I can’t dedicate my time and energy into creating alternatives, then how important can it be?&lt;/p&gt;
+
+&lt;h3 id=&#34;please-support-us&#34;&gt;Please support us&lt;/h3&gt;
+
+&lt;p&gt;Ind.ie is hard work and costs money. We’re frugal. We’re small enough that we can work from a home office, we have only the equipment we need, and nothing more. We use free and open technology wherever we can. But we need human resources. I cost around £28,800 per year to Ind.ie. I worked out the lowest amount that Oskar and I can live comfortably on, and that’s all I need. It’s a lot less than what I earned as a freelancer. The others on the team take similar pay. But we’re only four people, and we’re limited to our expertise and time. We want a Mac and iOS developer, a Node.js developer, and an Android developer. These people will help us create a platform that will help people own their own data on the current platforms. This platform will become a sustainable business which we can then use to extend to more platforms, and work on the phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie&#34; title=&#34;Ind.ie crowdfunding campaign&#34;&gt;Please support us&lt;/a&gt;. Ind.ie is my life and livelihood, and a deserving cause.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-104613&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.shkintyboda.org/braindump&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Austin Prior&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104613&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:05:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:05pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Seeing as you you’ve found the negative feedback tough at times, allow me to give you some positive feedback:&lt;/p&gt;
+Ind.ie is the most exciting, inspiring project I’ve ever followed. My wife and I have both donated and are looking forward to participating in the pre-alpha.
+
+Your work is reaching people and is already helping before you’ve even released anything. You’re helping people understand the issues around privacy and freedom and in no time at all, you’ll be empowering people of diverse backgrounds and abilities by putting beautiful, free and open tools in their hands.
+
+Thank you for all of your great work. You are appreciated. :-)
+
+Austin
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laurakalbag bypostauthor odd alt depth-2&#34; id=&#34;li-comment-104661&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104661&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:34:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you so much, Austin. You’ve completely made my day. And please pass my thanks on to your wife as well :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-105098&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Darina Prior&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-105098&#34;&gt;&lt;time datetime=&#34;2014-11-29T01:54:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Your thanks and your tireless work to make our digital world a better place are gratefully accepted :-)
+
+Darina (Austin’s wife)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-108763&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Matthijs&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-108763&#34;&gt;&lt;time datetime=&#34;2014-12-02T10:54:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Fully agree with Austin. The indie project and what you are doing is very exciting and inspiring. Really looking forward to what is coming. And will try to help or provide feedback where I can.
+
+Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +137,19 @@
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
       
       <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
-      <description>Last week my latest column, Breaking Stuff, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at ind.ie, so I think I’ll be writing more about situations like these as time goes on.
-I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)</description>
+      <description>&lt;p&gt;Last week &lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;my latest column, Breaking Stuff&lt;/a&gt;, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at &lt;a href=&#34;https://ind.ie&#34;&gt;ind.ie&lt;/a&gt;, so I think I’ll be writing more about situations like these as time goes on.&lt;/p&gt;
+
+&lt;p&gt;I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4561&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/Breaking-Stuff.png&#34; alt=&#34;Breaking Stuff column on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,8 +158,24 @@ I’ve also finally updated that terrible avatar to something much better. I loo
       <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
       
       <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
-      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
-How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+      <description>
+
+&lt;p&gt;The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an &lt;em&gt;essential&lt;/em&gt; part of the nature of the web.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-learned-accessibility&#34;&gt;How I learned accessibility&lt;/h2&gt;
+
+&lt;p&gt;When I started to learn about web design and development, I learned from great books like &lt;a href=&#34;http://www.amazon.com/gp/product/1430219203/ref=as_li_qf_sp_asin_il_tl&#34;&gt;Dan Cederholm’s Web Standards Solutions&lt;/a&gt;. Web Standards Solutions continually referred back to why the different markup solutions suggested would be better or worse for accessibility. That’s how I learned that accessibility was important, part of a developer’s everyday work and not so hard to achieve.&lt;/p&gt;
+
+&lt;h2 id=&#34;modern-web-development-and-accessibility&#34;&gt;Modern web development and accessibility&lt;/h2&gt;
+
+&lt;p&gt;Nowadays when developers talk about modern web development techniques, they most often mention the impact they may have on web performance. Considering performance during each step of a project makes sense as bandwidth and battery life are uncertain commodities. However, I’d really like the community to start talking (again) about accessibility in the same way they talk about web performance. We need to change the minds of people who think that accessibility doesn’t make business sense, and I want the web to be a better place to visit for a wider range of people.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’ve written this little post as part of &lt;a href=&#34;http://www.globalaccessibilityawarenessday.org&#34;&gt;Global Accessibility Awareness Day&lt;/a&gt; (#GAAD). Thanks to Neil Milliken and his &lt;a href=&#34;http://atrophiedmind.wordpress.com/2014/05/15/design-choice-is-more-than-just-about-taste-its-an-accessibility-issue/&#34;&gt;fantastic post on designing for accessibility&lt;/a&gt; for the heads-up. If you want to find out more about accessibility, there’s a &lt;a href=&#34;http://inclusivedesign24.org&#34;&gt;24 hour Inclusive Design community conference&lt;/a&gt; happening online right now (Thanks to &lt;a href=&#34;http://twitter.com/brucel&#34;&gt;Bruce Lawson&lt;/a&gt; for tweeting so much about it!)&lt;/p&gt;
+
+&lt;p&gt;I also run a Twitter account that shares all the best accessibility resources that I find, it’s called &lt;a href=&#34;http://twitter.com/newtoa11y&#34;&gt;@newtoa11y&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,8 +184,120 @@ How I learned accessibility When I started to learn about web design and develop
       <pubDate>Thu, 11 Apr 2013 17:46:03 +0000</pubDate>
       
       <guid>https://laurakalbag.com/learning-to-speak/</guid>
-      <description>Just over a year ago, I was in a country I’d never visited, about to give two talks I’d never given before to two large, paying audiences in the space of three days at Future Insights Live. I had only given a couple of talks to small audiences before. It was one of the scariest things I’d ever done.
-A helping hand I’d seen Aral Balkan speak a few times before.</description>
+      <description>
+
+&lt;p&gt;Just over a year ago, I was in a country I’d never visited, about to give two talks I’d never given before to two large, paying audiences in the space of three days at &lt;a href=&#34;http://futureinsightslive.com/las-vegas-2012/&#34;&gt;Future Insights Live&lt;/a&gt;. I had only given a couple of talks to small audiences before. It was one of the scariest things I’d ever done.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-helping-hand&#34;&gt;A helping hand&lt;/h2&gt;
+
+&lt;p&gt;I’d seen &lt;a href=&#34;http://aralbalkan.com&#34;&gt;Aral Balkan&lt;/a&gt; speak a few times before. His talk at &lt;a href=&#34;http://futureofwebdesign.com/london-2011/&#34;&gt;Future Of Web Design&lt;/a&gt; had blown me away. I recommended him to my friends who organising &lt;a href=&#34;http://thebigm.mobi/&#34;&gt;The Big M&lt;/a&gt; as a must-have speaker. On the first of the five days at Future Insights, Aral kindly offered to go through my talks with me. In just one hour, I had learned so much, and my confidence increased hugely. My talk the next day went down really well. We repeated the process the following day, my next talk was also a success. I’d done it, I started getting more and more speaking offers.&lt;/p&gt;
+
+&lt;h2 id=&#34;not-just-me&#34;&gt;Not just me&lt;/h2&gt;
+
+&lt;p&gt;Over this last year I’ve learned I’m not so special. In fact, I’ve seen and heard about Aral giving speaker training to many people. Some have gone over their talks a few times, some have had last-minute reassurances. Everyone has come out happier and more confident with their talks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lots-to-learn&#34;&gt;Lots to learn&lt;/h2&gt;
+
+&lt;p&gt;The things I’ve learned from Aral haven’t just been “how to give a talk”. There were so many facets I’d never even considered before. How do I walk on the stage? How do I finish my talk? How do I set up the stage? How do I interact with the audience afterwards without just being awkward?&lt;/p&gt;
+
+&lt;p&gt;It’s never about over-thinking my talk, or treating my talk like I’m giving a world-class performance. It’s about being prepared.&lt;/p&gt;
+
+&lt;h2 id=&#34;we-re-all-different-speakers&#34;&gt;We’re all different speakers&lt;/h2&gt;
+
+&lt;p&gt;Aral never tried to make me speak like him. He’s naturally very funny on stage, his jokes have audiences roaring. I’m not like that. I can never remember the punchline and have a unique talent for making jokes really uncomfortable. Aral taught me how to improve my own style, working on basic principles that apply to everyone, and how to fight awful bouts of nerves and anxiety.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-masterclass-you-shouldn-t-miss&#34;&gt;The masterclass you shouldn’t miss&lt;/h2&gt;
+
+&lt;p&gt;Aral didn’t ask me to write this post. If he did, I would’ve said no, I’m contrary like that… I wanted to tell you about &lt;a href=&#34;http://slideandstage.com&#34;&gt;the masterclass Aral is holding in June&lt;/a&gt;, where you can benefit from all the things he’s taught me, but in the space of one day.&lt;/p&gt;
+
+&lt;p&gt;A lot of people ask my advice on speaking, and honestly, I just pass on what Aral’s taught me. The best piece of advice &lt;em&gt;I&lt;/em&gt; can give you is to &lt;a href=&#34;http://slideandstage.com&#34;&gt;take this masterclass&lt;/a&gt;. It’s very affordable (I say this as a wary freelancer!) And I promise it will make a huge difference to your talks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slideandstage.com/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-3157&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/slide-and-stage.png&#34; alt=&#34;Slide and Stage: a one day workshop on presenting by Aral Balkan.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-532&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.100yen.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jonic&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-532&#34;&gt;&lt;time datetime=&#34;2013-04-11T17:52:15+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        “I &amp;#8230; have a unique talent for making jokes really uncomfortable.”
+
+Unique, you say? ;)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-533&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-533&#34;&gt;&lt;time datetime=&#34;2013-04-11T17:52:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Yeah, jokes, Jonic. Your unique talent is making *everything* awkward… ;)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-534&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.100yen.co.uk/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jonic&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-534&#34;&gt;&lt;time datetime=&#34;2013-04-11T17:54:48+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:54pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well we all have to have a hobby.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-535&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/85b7c86eb0a62d8c1e5d5bfe52023d89?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jeff Lau&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-535&#34;&gt;&lt;time datetime=&#34;2013-04-11T18:01:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;i&gt;That&lt;/i&gt; made me lol.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-536&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3abd4d4780f8bddabb22498f796b71b0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.thesambarnes.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sam Barnes&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-536&#34;&gt;&lt;time datetime=&#34;2013-04-18T22:32:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:32pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Ello, I just mailed Aral about this&amp;#8230; very interested indeed.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-538&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/95b59031bc69309bb0b979ec71fc3afc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/sulcalibur&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Suleiman&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-538&#34;&gt;&lt;time datetime=&#34;2013-05-20T15:18:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:18pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I did my first mini speaking gig at Untangle the Web and even though I had a lot of very nice comments, me, myself thought it was a train wreck. I think the main problem was I wasn’t myself and probably came across more like a robot in some stages. It was a small talk about why people that are using CSS &lt;b&gt;should&lt;/b&gt; use Sass and how easy it was to get started.
+
+Afterwards I realised I didn’t even explain what Sass stood for :/ It was one of those talks :P
+
+If I could I would most definitely go to Aral’s workshop. I’ll never forget seeing him for the first time at FOWD. His talk was totally engrossing and very informative.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -56,8 +306,173 @@ A helping hand I’d seen Aral Balkan speak a few times before.</description>
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
       
       <guid>https://laurakalbag.com/learning-design/</guid>
-      <description>Every now and again someone will email me asking how they should go about learning design. After reading Aral Balkan’s fantastic post on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
-First off, read Aral’s post.</description>
+      <description>
+
+&lt;p&gt;Every now and again someone will email me asking how they should go about learning design. After reading &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral Balkan’s fantastic post&lt;/a&gt; on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.&lt;/p&gt;
+
+&lt;p&gt;First off, read &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral’s post&lt;/a&gt;. It might seem intimidating. Aral emphasises the importance of considering every tiny design decision you make. There’s no easy-in. But really there’s no easy-in to doing anything well. Development might appear to be something with a low barrier to entry, but in order to do development with web standards, or to any level of efficiency, you need to take the time to learn the best techniques and working processes.&lt;/p&gt;
+
+&lt;p&gt;Considering every tiny design decision might also make design seem like a much more arduous process than it needs to be. In truth, if you are considering your users, their experience, and your overall design vision in the back of your mind, every decision you make whilst designing will be considered. It can feel somewhat subconscious at times. If you have the ‘feeling’ that your choice of typography suits the project, then chances are, if you analyse the cognitive and emotional impact on the user, you’ll find your subconscious actually made those decisions for a reason. Design isn’t instinct. This ‘instinct’ is really something that we’ve built up from the experience of millions of different design decisions, and evaluating their success and failure.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-how-to-design&#34;&gt;Learning &lt;em&gt;how&lt;/em&gt; to design&lt;/h2&gt;
+
+&lt;p&gt;Design is a pretty tricky thing to just ‘learn’; it doesn’t happen overnight. Following a tutorial on how to create a photo-realistic SLR camera in Photoshop is about as useful as following a tutorial on how to create an SLR camera in CSS; it teaches you how to use the tools but not about why you’d want to use an SLR camera illustration in your design. The best thing is to try as many different design tasks as possible to test yourself and gain experience on what does and doesn’t work. I also find looking at other people’s design work and considering its effectiveness really helps develop an understanding of design principles in relation to your own personal taste. This is what a lot of art and design education is built around; interpreting and understanding the work of other people. Blog posts where people tell you about their inspiration and how they designed their sites are the best sources for this kind of learning as you get real insight into the decisions of the designer.&lt;/p&gt;
+
+&lt;p&gt;The opposite of this are sites that showcase trends, ‘beautiful’ websites or lists of a particular type of site as ‘inspiration.’ These tend to be examples of what are very aesthetically-pleasing designs, but not necessarily successful designs in terms of a good user experience. Of course convention can be a trend of sorts. If one designer establishes a really easy-to-use type of navigation, then it’s inevitable that those working on similar projects may use that standard as a basis for their own navigation, but only &lt;em&gt;similar&lt;/em&gt; projects. It’s so easy to mimic a lovely visual aesthetic to make your project look good, but you really need to consider if that’s an &lt;em&gt;appropriate&lt;/em&gt; aesthetic style.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+
+&lt;p&gt;Blog-wise, I prefer the more ideasy and critical thinking blogs, as I find ‘how to design xyz’ is never terribly useful unless you’re working on an identical project.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-list-apart-design-category-http-www-alistapart-com-topics-design&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/topics/design/&#34;&gt;A List Apart design category&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Very few magazine sites curate design content so well. It’s all too easy to fall into posts that are just lists of ‘inspiration.’ A List Apart is one of the most tightly-curated and edited magazines around, and their design articles are always worth a read.&lt;/p&gt;
+
+&lt;h4 id=&#34;paul-robert-lloyd-http-www-paulrobertlloyd-com-journal&#34;&gt;&lt;a href=&#34;http://www.paulrobertlloyd.com/journal/&#34;&gt;Paul Robert Lloyd&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you’re looking to learn more about design thinking, especially a focus on how responsiveness fits into design, Paul Robert Lloyd’s posts are must-reads.&lt;/p&gt;
+
+&lt;h4 id=&#34;usabilitypost-http-www-usabilitypost-com&#34;&gt;&lt;a href=&#34;http://www.usabilitypost.com/&#34;&gt;UsabilityPost&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A very insightful blog focused on usability, often discussing design in terms of successful user experiences.&lt;/p&gt;
+
+&lt;h4 id=&#34;sidebar-io-http-sidebar-io&#34;&gt;&lt;a href=&#34;http://sidebar.io/&#34;&gt;Sidebar.io&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Sidebar.io is crowd-sourced by a select group, so has a slightly curated more zeitgeist-y feel to it. The links aren’t always long-form articles on design, but if there’s a good post going around, they’ll pick up on it.&lt;/p&gt;
+
+&lt;h4 id=&#34;mark-boulton-http-www-markboulton-co-uk-journal&#34;&gt;&lt;a href=&#34;http://www.markboulton.co.uk/journal&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Mark has always been talking about more traditional design theory as a part of web design, and his approach has always inspired me.&lt;/p&gt;
+
+&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
+
+&lt;p&gt;Twitter is a great way to keep up with good designers. I find these snippets of insight can often provide bite-size inspiration when I really need it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bastianallgeier&#34;&gt;Bastian Allgeier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/armstrong&#34;&gt;Chris Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/aral&#34;&gt;Aral Balkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/markboulton&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simplebits&#34;&gt;Dan Cederholm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/malarkey&#34;&gt;Andy Clarke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sachagreif&#34;&gt;Sacha Greif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/owltastic&#34;&gt;Meagan Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hellofisher&#34;&gt;Steve Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/mishunov&#34;&gt;Denys Mishunov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/vpieters&#34;&gt;Veerle Pieters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+
+&lt;p&gt;I’m always disappointed that there aren’t more design theory books with a focus on web design. The few I’ve found are here, but also books on usability and graphic design where you can combine the knowledge to create a great design background.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-the-invisible-by-robert-mills-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-the-invisible&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible&#34;&gt;A Practical Guide to Designing the Invisible by Robert Mills&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Understanding design as a language, and how design is more than just the visual decoration. &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;I’ve reviewed Rob’s book in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-for-the-web-by-mark-boulton-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-for-the-web&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web&#34;&gt;A Practical Guide to Designing for the Web by Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A great grounding in many of the different areas of design theory in relation to the web. I’m very eagerly awaiting Mark’s next book on grid theory.&lt;/p&gt;
+
+&lt;h4 id=&#34;ordering-disorder-grid-principles-for-web-design-by-khoi-vinh-http-grids-subtraction-com&#34;&gt;&lt;a href=&#34;http://grids.subtraction.com/&#34;&gt;Ordering Disorder: Grid Principles for Web Design by Khoi Vinh&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Pre-dating responsive design, but still a very valuable book for learning about applying grids to web design in a practical way.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-elements-of-user-experience-by-jesse-james-garrett-http-www-jjg-net-elements&#34;&gt;&lt;a href=&#34;http://www.jjg.net/elements/&#34;&gt;The Elements of User Experience by Jesse James Garrett&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An oldie but a goodie. These founding principles really molded the way I view design for the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;designing-for-emotion-by-aarron-walter-http-www-abookapart-com-products-designing-for-emotion&#34;&gt;&lt;a href=&#34;http://www.abookapart.com/products/designing-for-emotion&#34;&gt;Designing for Emotion by Aarron Walter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Considering not just the user experience, but the user emotions. A quick but brilliant read which &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;I’ve reviewed in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-how-could-i-forget-this-first-time-round-elements-of-typographic-style-by-robert-bringhurst-http-www-amazon-co-uk-elements-typographic-style-robert-bringhurst-dp-0881792063&#34;&gt;[Edit: How could I forget this first time round?!] &lt;a href=&#34;http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063&#34;&gt;Elements of Typographic Style by Robert Bringhurst&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An incredibly in-depth guide to typography, giving you all the basic principles you need and more.[/edit]&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-2-8faces-magazine-http-8faces-com&#34;&gt;[Edit 2:] &lt;a href=&#34;http://8faces.com/&#34;&gt;8faces Magazine&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Not quite a book, but a beautiful typography magazine with new releases a few times a year. 8faces introduces you to great quality typefaces and provides plenty of insight into design with its feature interviews.[/edit]&lt;/p&gt;
+
+&lt;h2 id=&#34;i-ll-try-to-keep-them-coming&#34;&gt;I’ll try to keep them coming&lt;/h2&gt;
+
+&lt;p&gt;Resources on learning design aren’t necessarily those I keep a lookout for, but I’m going to make a conscious effort to do so from now on. I’ll &lt;a href=&#34;http://twitter.com/laurakalbag&#34;&gt;post on Twitter&lt;/a&gt; and maybe do a round-up post later on, so let me know if you know of any good resources I should check out.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-427&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ntljk.tumblr.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;natalie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-427&#34;&gt;&lt;time datetime=&#34;2012-12-31T15:28:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you Laura! This is fantastic :). Happy New Year!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-429&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tushar&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-429&#34;&gt;&lt;time datetime=&#34;2013-01-01T19:44:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Awesome, Resourceful
+
+Thanks Laura !!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-430&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Sibylle&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-430&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:34:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very useful, Laura, thanks! Know/have read most of the books but need to look at some of those online resources and people :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-431&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.bikehound.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charles BH&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-431&#34;&gt;&lt;time datetime=&#34;2013-01-02T23:20:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        What do you think about the Smashing Magazine books, especially volume 1&amp;amp;2?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-432&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-432&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:45:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:45am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m afraid I’ve not read them. I shamefully only own Volume 3, and haven’t read much of it yet.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-433&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.studentguidewebdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Janna Hagan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-433&#34;&gt;&lt;time datetime=&#34;2013-01-29T21:51:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura, Love what you’re doing here. I myself am a college student and I created [Student Guide Web Design](http://www.studentguidewebdesign.com&#34; rel=&#34;nofollow) simply out of frustration with the material I was being presented during my design education. I love helping others because it’s a great way for me to learn myself, but also helps others out who are also trying to overcome the same challenges (because I was there at one point!).
+
+Cheers from Canada :)&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -66,8 +481,600 @@ First off, read Aral’s post.</description>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/display-none/</guid>
-      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
-display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+      <description>
+
+&lt;h2 id=&#34;or-the-things-you-think-are-common-knowledge-but-really-they-aren-t&#34;&gt;&lt;em&gt;Or&lt;/em&gt; The things you think are common knowledge but really they aren’t.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shoptalkshow.com/episodes/040-with-laura-kalbag/&#34;&gt;I was on the ShopTalk show&lt;/a&gt; a few weeks ago, and a few people have asked me what I meant when I said “&lt;code&gt;display: none;&lt;/code&gt; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;display-none-in-responsive-web-design&#34;&gt;&lt;code&gt;display: none;&lt;/code&gt; in responsive web design&lt;/h2&gt;
+
+&lt;p&gt;When we’re &lt;a href=&#34;http://www.alistapart.com/articles/responsive-web-design&#34;&gt;changing out layouts based on viewport sizes, using media queries&lt;/a&gt;, we tend to switch page elements about a bit. We might make our images display one-on-top-of-the-other for narrower layouts, we might make our text super big to take advantage of bigger spaces.&lt;/p&gt;
+
+&lt;p&gt;There can be a lot of content on one web page, and often there’s a temptation to hide some of it on narrower viewports. This walks hand-in-hand with the assumptions that narrow viewports are mobile devices and people using mobile devices are roving the planet using the web ‘on the go.’&lt;/p&gt;
+
+&lt;h3 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h3&gt;
+
+&lt;p&gt;But those assumptions are exactly that, you’re just &lt;em&gt;assuming&lt;/em&gt; that’s what the user is doing, you’re not basing that on real research or user testing. Why are you hiding so much of your content if you’re assuming it’s also useful to those browsing your site with a wider viewport?&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-be-lazy&#34;&gt;Don’t be lazy&lt;/h3&gt;
+
+&lt;p&gt;Just hiding content is a lazy design solution. Yes, it’s hard designing for smaller screens, but maybe that will help you ensure that every little piece of content you’re putting on that site is worthwhile. Responsive design should be about rearranging, not changing, your page elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;and-then-you-re-actually-just-loading-it-anyway&#34;&gt;And then you’re actually just loading it anyway…&lt;/h3&gt;
+
+&lt;p&gt;When you’re putting content into your page, and &lt;em&gt;then&lt;/em&gt; hiding it with CSS, it’s still there, it’s just not visible. So if you’re using this ‘technique’ across your site in numerous places, you’re likely taking a performance hit. And potentially, for narrower viewports/possible mobile devices, in the one place that a slow-loading page is likely to irritate a user. It’s just not worth that risk.&lt;/p&gt;
+
+&lt;h2 id=&#34;changing-the-display-not-hiding-the-display&#34;&gt;Changing the display, not hiding the display&lt;/h2&gt;
+
+&lt;p&gt;One solution I’ve been using is changing the display of the content. It is a real problem that CSS can’t easily manipulate all types of content into a readable fashion on all devices. This is particularly true for navigation that needs to be displayed in a significantly different way, and often tables need to be reinterpreted into a more digestible format for narrow viewports. And in these cases, javascript can be your friend.&lt;/p&gt;
+
+&lt;h3 id=&#34;mobile-first&#34;&gt;Mobile first&lt;/h3&gt;
+
+&lt;p&gt;I always start mobile first, that’s not just in markup, it’s in content too. We don’t want to load up unnecessary HTML that creates performance problems, or javascript that may not working consistently on mobile devices.&lt;/p&gt;
+
+&lt;p&gt;If I’ve got a data table, and I think it would be better off displayed as a list of data, I would write the list of data into the HTML. This way it’ll load quickly, and those without javascript (or enough bandwidth to load javascript) will get a decent experience.&lt;/p&gt;
+
+&lt;h3 id=&#34;progressively-enhancing-with-javascript&#34;&gt;Progressively enhancing with javascript&lt;/h3&gt;
+
+&lt;p&gt;Then, I would use media queries, or some kind of clever javascript, to load in the fancy content for particular viewport widths. I’ve done this to load in tables of data, replacing data lists, and also for navigation, replacing a vertical list of links with a show/hide button that reveals the menu when tapped (as on this site.) None of this requires &lt;code&gt;display: none;&lt;/code&gt;. No markup is wasted.&lt;/p&gt;
+
+&lt;h3 id=&#34;edit-accessibility&#34;&gt;[Edit]: Accessibility&lt;/h3&gt;
+
+&lt;p&gt;The good &lt;a href=&#34;http://twitter.com/SteveMarshall&#34;&gt;Steve Marshall&lt;/a&gt; has pointed out that there are also accessbility issues related to &lt;code&gt;display: none;&lt;/code&gt;. I didn’t want to cover too much in the post, but in case you want to know more about that too, I recommend &lt;a href=&#34;http://www.alistapart.com/articles/now-you-see-me/&#34;&gt;Aaron Gustafson’s ‘Now You See Me’ on A List Apart&lt;/a&gt; and &lt;a href=&#34;http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/&#34;&gt;Chris Coyier’s ‘Places It’s Tempting To Use Display: None; But Don’t on CSS Tricks&lt;/a&gt;. [/edit]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;writing-about-markup&#34;&gt;Writing about markup&lt;/h2&gt;
+
+&lt;p&gt;I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.&lt;/p&gt;
+
+&lt;p&gt;I also shy away from writing about the ‘easy’ stuff. This post about &lt;code&gt;display: none;&lt;/code&gt; is a fairly simple principle and I really don’t want to patronise anyone.&lt;/p&gt;
+
+&lt;h3 id=&#34;people-do-want-to-hear-about-the-simple-stuff&#34;&gt;People do want to hear about the ‘simple’ stuff&lt;/h3&gt;
+
+&lt;p&gt;Making these assumptions about it being a simple principle, and that everybody would know about it already, was daft. I was quickly proved wrong when people started asking me about it and then I realised how silly it was to think that we all have the same sources of information.&lt;/p&gt;
+
+&lt;h3 id=&#34;scattered-learning&#34;&gt;Scattered learning&lt;/h3&gt;
+
+&lt;p&gt;The web is a big and varied place. To assume that someone else has read something just because you’ve read it is foolish. How do we learn about these resources? When do we all decide that we’re all going to read these particular sites and articles so that we’re all equally informed?&lt;/p&gt;
+
+&lt;p&gt;Even on Twitter, the resources we hear from, and learn from, are wildly different. We may follow completely different individuals and so the resources we learn from are curated by these individuals, and these may not ever crossover. Even if we do follow the same people on Twitter, noone can be expected to read every tweet, and inevitably you’ll miss some, and then you may not know about this other new thing that everybody else has been doing for years.&lt;/p&gt;
+
+&lt;h3 id=&#34;where-i-get-to-the-point&#34;&gt;Where I get to the point…&lt;/h3&gt;
+
+&lt;p&gt;The point I’m trying to make is that we shouldn’t be fearful of writing about what we know. Even if you write from the most basic point of view, about something which has been ‘around for ages’, you’ll likely be saying something new to someone. They might be new to the industry, you might just be filling in the holes in someone’s knowledge.&lt;/p&gt;
+
+&lt;p&gt;Every week I have a revelation on app.net or Twitter where I wonder how I didn’t know about this old technique or tool before… but we can’t be expected to keep up with everything. I hope this post does that for some people. It’s good to share what we know. You needn’t be the first, you’ll just help if you’re the first that somebody finds.&lt;/p&gt;
+
+&lt;h2 id=&#34;63-comments&#34;&gt;63 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-350&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrgwebdev.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Glover&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-350&#34;&gt;&lt;time datetime=&#34;2012-11-06T09:55:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for blogging this Laura, that’s really cleared up the podcast for me. I wasn’t really convinced about starting with mobile first, but using javascript to turn the mobile markup into the desktop markup makes far more sense than using display: none; or, worse, using javascript to turn desktop markup into mobile.
+
+Regarding what people know, I’ve been worrying about the same thing for ages and avoiding writing about things that seem simple to me. I concluded a little while ago that what I’ve learnt so far comes mostly from other people writing about things that seem simple to them. As you say, we all look at different parts of the internet, and not everyone has been doing this job for years. I’m a pretty experienced PHP developer, but I’m perhaps still a little behind the recent changes in frontend development. Other people are probably in the reverse position.
+
+Keep blogging the simple stuff, there will always be someone who needs that piece of knowledge :-) P.S I’d be interested to read a post from you on semantic HTML sometime. I know it’s one of your things, and I feel like I could be doing it a lot better (I still div a lot).
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-351&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.jasonbradberry.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jason Bradberry&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-351&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:12:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:12am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks, definitely a helpful post!
+
+I’ve been working using a desktop first approach, and am considering switching to looking at ‘mobile’ first for my next project. One thing I’d like to hear more about – in the podcast you talked about loading content conditionally as browser window size is increased (using the example of the large illustration on the right hand side of your site). Can you recommend any good articles/links for further reading on this?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-352&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://remy.bach.me.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rémy&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-352&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:17:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last half of this article has really struck a chord with me. In the past, I’ve shelved so many potential blog posts because I think they’re too basic when they might actually have been useful to somebody.
+
+There’s also a lot to be said for how easy something is to Google. Before posting on something, try doing a quick search for what you’re thinking of writing about. I think more often than not, you’ll find that what you want to post about either hasn’t been covered at all, is not visible enough using the search terms you used (which anyone else might easily have searched for as well), or you do it slightly differently. Either way, sharing even the smallest bit of knowledge only makes the web community stronger.
+
+Thanks for the great thoughts (and inspiration) Laura!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-353&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Richard Lewis&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-353&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:26:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        very informative laura, no one should assume that everyone knows a certain piece of info. Something that I have learned though is if you have an image for example and display :none on that then yes it still renders, however if you wrap that element in a div and then display none on that parent element the img doesn’t actually load&amp;#8230; thought it may help
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-388&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://sarasoueidan.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sara&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-388&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:36:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:36am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is a great tip! thanks for mentioning it :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-395&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jason&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-395&#34;&gt;&lt;time datetime=&#34;2012-12-10T18:01:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I’d be cautious with this approach as from my testing the images still get loaded.
+
+[http://jsfiddle.net/jlaeser/pCbav/](http://jsfiddle.net/jlaeser/pCbav/&#34; rel=&#34;nofollow)&lt;/p&gt;
+This could potentially make for a larger initial page load.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-400&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;James&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-400&#34;&gt;&lt;time datetime=&#34;2013-03-06T15:37:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Yes I tested this also and it does indeed load. Shame though as this could have been an ideal solution.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-354&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://graphiceyedea.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Prisca&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-354&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:42:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Laura :)
+
+thanks for this post –; well explained :)
+
+Also, just wanted to say that I agree: writing about what might simple is always a good idea. Teaching webdesign is changing all the time and there’s so much out there that it can be a tricky endeavour to point students to good resources. By now, I recommend people and high quality sites as good resources to follow ~ which essentially means that you writing about something simple will always have an audience, from students starting out with learning webdesign to the students of the web who we all are :)&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-355&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-355&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:26:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hold on. “display: none;” is naughty? In all situations?
+
+Then you Laura, are very naughty. For that’s exactly how you display your top menu at lower resolutions, no?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-356&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-356&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:42:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Heh. Only in the form of a good old dropdown menu. So whilst `display: none;` is used to *temporarily* hide the sub navigation, it is visible on hover.
+
+To be fair, I’m sure there are a lot of use cases where `display: none;` has its uses. As with every rule, there are always exceptions :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-357&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-357&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:57:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well, actually at lower resolutions, both menus are only available on click :)
+
+I agree there are many use cases –; but this isn’t what’s implied here. I actually believe for performant web apps, using “display:none;” and modifying markup through js absolutely essential.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-4&#34; id=&#34;li-comment-385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Harry Mansworth&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-385&#34;&gt;&lt;time datetime=&#34;2012-11-29T16:04:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Using display:none has other disadvantages. In the (rare) case that javascript has been turned off or the device has insufficient resources to run the script, using something like `$(&#39;#element&#39;).hide();` will ensure that, should JS be turned off the elements will still be visible. **Essential**for things like navigation!
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-358&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://twitter.com/crisgarner&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Cristian Garner&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-358&#34;&gt;&lt;time datetime=&#34;2012-11-07T16:37:13+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I don’t think she meant on all situations, display:none is a useful tool, if it were really bad no one would use it, I believe what Laura wants to explain is that it must be used only in what it is needed and to stop over using it.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-359&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Dean&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-359&#34;&gt;&lt;time datetime=&#34;2012-11-07T20:45:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most people in this industry seem to fear that they will be found out and ridiculed by those with more experience. I am thankful that there are some of those people who write blog posts, and put themselves in the ‘firing line’ for us unassured types to lap up. I’m yet to see the ridiculing of anybody though, and that’s another thing to be thankful for! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-360&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Chris&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-360&#34;&gt;&lt;time datetime=&#34;2012-11-08T00:09:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Nice article :)
+
+Like Jason mentioned in the comments I too would like to hear more about how you approach using JS for conditionally loading content.
+
+Cheers&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-362&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ayoungh.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Anthony Young&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-362&#34;&gt;&lt;time datetime=&#34;2012-11-08T21:43:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:43pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post :) Very encouraging for me as I want to start blogging about little bits like this, although I doubt it will be as good as yours! Keep up the great articles
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-364&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.markdixon.ca/design/blog/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Dixon&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-364&#34;&gt;&lt;time datetime=&#34;2012-11-09T22:58:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:58pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I agree. It is fine to write about web design and front-end stuff even if you are not an “expert”. I have recently launched my new portfolio website and have included a blog section where I plan on writing about web design.
+
+While doing client work we straddle a lot of areas and cannot be expected to know everything about everything.
+
+Mea Culpa –; on my first responsive design I did a fair amount of display:none.
+
+Cheers from Montreal,
+
+Mark&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-366&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://rockfishdigital.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Jacobsen&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-366&#34;&gt;&lt;time datetime=&#34;2012-11-12T16:55:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent post. Very applicable across design, dev, and content creation. Thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-368&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://carlhallberg.se&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Carl Hallberg&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-368&#34;&gt;&lt;time datetime=&#34;2012-11-13T09:46:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Love the part on ‘Scattered learning’! Very important insight that not many of us think of from day to day. I feel safe to say that i’m learning new stuff each and every day, even the most basic tech but also on completely different topics that in hindsight definitely could have been worth blogging about.
+
+Great post!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-370&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://iloveresponsivedesign.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Fredrik Christensson&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-370&#34;&gt;&lt;time datetime=&#34;2012-11-14T08:27:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:27am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, and thx for the post. I feel when we designing we dont get enough test time to see how the user are using the site. This is one of the biggest problems that I have encountered when iam design a responsive site.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-371&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Skweekah&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-371&#34;&gt;&lt;time datetime=&#34;2012-11-14T23:29:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very interesting article. I guess there’s always a better way of doing things, and if you can incorporate a little bit of better in each of the projects you are working on, you are challenging yourself and growing as a designer/developer.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-372&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://velonomad.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-372&#34;&gt;&lt;time datetime=&#34;2012-11-15T20:51:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        How about a concrete example workaround?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-374&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://lenanghai.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Hai Web&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-374&#34;&gt;&lt;time datetime=&#34;2012-11-16T15:36:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:36pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks bro.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-377&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-377&#34;&gt;&lt;time datetime=&#34;2012-11-20T00:46:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Thanks for your encouragement.
+
+Hiding images by display none is a big issue, because they load anyway. The following research breaks the ice by documenting that “background images attached to elements that are inside a element with display none are NOT loaded”: [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+
+Loading images with a common 1x1px src (because the attribute cannot be empty) AND inline styling its background-image to the ‘original’ src you are able to control the load by conditionally replacing the src with the background-image src – and showing the parent element. Only then will the image load.&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-381&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Rob&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-381&#34;&gt;&lt;time datetime=&#34;2012-11-22T22:57:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Good post, but I don’t see a concrete alternative solution here. An example would be beneficial.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-383&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-383&#34;&gt;&lt;time datetime=&#34;2012-11-23T11:51:54+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Rob. Please see my replied suggestion on how to avoid caching images for a slideshow if viewport &amp;lt; 480, on [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-384&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.daydesignz.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dayana&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-384&#34;&gt;&lt;time datetime=&#34;2012-11-27T16:45:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post, I always thought the same to myself about posting about things that should be “common knowledge” when indeed there can be several layers of knowledge to uncover. Loading mobile first is a great tip! Thanks for the post
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-386&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://player.fm&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael Mahemoff&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-386&#34;&gt;&lt;time datetime=&#34;2012-12-10T03:46:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;03:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very familiar with this issue as I’ve strived to do RWD without having to customise much of the server-side or the JS. And doing so means display: none; is almost a necessity.
+
+In an upcoming iteration, I’ve resorted to using more Ajax requests with checks for the user-agent. It’s arguably more naughty than just “display: none;”, because now there’s a bit of JS coupled to the stylesheet, but since it improves performance, it’s a net gain.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-387&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://balupton.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Benjamin Lupton&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-387&#34;&gt;&lt;time datetime=&#34;2012-12-10T05:08:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:08am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last part raises a very interesting point, and is definitely something I find myself falling into a lot. Although, my train of thought feels that writing another blog post is just adding more noise to an already saturated library of good content –; if I figured it out already, then the answer is already there, what help does it do myself adding yet another article about it?
+
+Perhaps the difference is how people get their learnings in the first place. A pre-supposition of this article appears that learning primarily occurs via blog posts and other forms of subscription based learning. I wonder how this mode of transport contrasts against learning when one encounters a problem then seeks an answer via google and stack overflow.
+
+For instance, stack overflow is a fantastic place to ensure the content that is posted is of top notch quality, whereas with blog posts you do not have that guarantee that what you are reading is correct. However, with blog posts, you do get the subscription benefit.
+
+Perhaps the solution to this dilemma is figuring out a way of combining stack exchange’s peer review and archival for searching abilities with blog posts careful curation, subscription and celebrity benefits.
+
+Thoughts?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-390&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-390&#34;&gt;&lt;time datetime=&#34;2012-12-10T07:19:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:19am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        While I think places like Stack Overflow are very useful and important, you really have to know the question that you want to ask. What if you just want to know tips and tricks?
+
+I agree that me writing this on a blog doesn’t necessarily mean I’m right, or that I know what I’m talking about, but neither do I have that guarantee when I read blog posts written by other people. The ‘peer review’ element seems to come via social networks. If someone that I respect posts a link to a blog post, then they give that post credibility.
+
+I think that learning on the web means we all need to doubt the credibility of what we read. We build up knowledge by reading a lot around these topics and then making judgments on what we choose to believe. These aren’t always black-and-white facts, there are a lot of grey areas where we rely on ‘opinion’ pieces to understand the ‘why’s to help us make more informed decisions about our work.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-389&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://christianheilmann.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chris Heilmann&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-389&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:42:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent points! What fascinates me more is that people are not taking advantage of matchmedia() enough –; it is the JS equivalent of mediaqueries. This means you can happily use the same query in CSS and JS to lazy-load content only when it is applicable. [https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/](https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/&#34; rel=&#34;nofollow)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-394&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://NoTwoTheSame.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Elliot Lewis&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-394&#34;&gt;&lt;time datetime=&#34;2012-12-10T17:22:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        That is a great little function. But I didn’t think it worked in IE? I’m sure I tried it before and ended up using work arounds to stop IE exploding at unknown function.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-391&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.maltonwebdesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dave Andrew&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-391&#34;&gt;&lt;time datetime=&#34;2012-12-10T09:05:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:05am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great points Laura about sharing. IMO the more info the better. If think the more we share the more kudos you’ll gain and that respect may hopefully turn into business.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-393&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.feliciafortes.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Felicia Fortes&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-393&#34;&gt;&lt;time datetime=&#34;2012-12-10T16:31:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I like your thoughts and I’ve decided to share more of my newbie learnings.
+
+I think every project has an individual path. For me blogging about things I’ve learnt during a project is a way to remember what I did  and at the same time being able to learn new stuff through the comments. &lt;/p&gt;
+Just look at all the new knowledge coming through this blog posts comments.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-396&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://overthecounterdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chatman R.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-396&#34;&gt;&lt;time datetime=&#34;2012-12-11T12:55:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I haven’t actually been using `display: none;` very often on its own. I’ve mainly used JavaScript to hide elements I manipulate through a situational `.hide` class. I’ve gotten into a habit of using temporary classes for states to applied through JavaScript. This way, if something effs up, I won’t be hiding critical information from the user. 
+
+If I ever find I’m hiding an element indefinitely, it usually means it’s time to figure out if it’s needed at all. And I liked your last point over not being afraid to contribute something to the pool of knowledge. My reluctance to write blog posts comes from the fact that I’m entirely self-taught, so I have a tendency to assume everything I know IS common knowledge and I have nothing to add. I may have to rethink that.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-402&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.lockedowndesign.com/blog&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Locke&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-402&#34;&gt;&lt;time datetime=&#34;2013-06-09T09:26:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Best practices are made up of all these little bits of information that we collect from people we trust in web development, and we don’t always listen the first time we hear things. But when we keep seeing the same things written over and over, then those standards and best practices begin to take hold in our own workflows.
+
+I’m always looking for better ways to do things on the front-end, to make things faster loading, or smoother for the user. 
+
+Thanks for being one of the voices of reason and being a mentor to many in the web industry.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-404&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.catalystdesigns.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-404&#34;&gt;&lt;time datetime=&#34;2013-07-21T18:04:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Really well written post! Was looking into the use of display none to hide some elements on a responsive design and you’ve persuaded me to think otherwise! 
+
+An article on how to do the JavaScript side of things would be great! Thanks.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-7385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.kintoweb.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kintoweb&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-7385&#34;&gt;&lt;time datetime=&#34;2014-01-11T01:48:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It may be also possible to use iFrame and display:none on that to stop data downloading
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-33064&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.elmnt.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Greg Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-33064&#34;&gt;&lt;time datetime=&#34;2014-06-18T00:38:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:38am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;“I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.”
+
+I bet most people feel the same way, so don’t worry. I’ve been designing &amp;amp; (front-end) coding for more than 10 years, and I still read about &amp;amp; play with the fundamentals all the time. I think it’s always important to keep re-visiting the basics, not just the very difficult stuff. Well done. Keep up the great work!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-37332&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://blog.ki6i.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kalina&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-37332&#34;&gt;&lt;time datetime=&#34;2014-07-09T13:45:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most browsers like Chrome and Firefox doesn’t actually spend time on the display none content on page load. In other words the load time it about the same as if the content isn’t there.The only browsers that have this issues are IE&amp;lt;11
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-150438&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://korosheh.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;korosheh&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150438&#34;&gt;&lt;time datetime=&#34;2016-09-19T21:13:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Is nice article thanks
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -76,7 +1083,95 @@ display: none; in responsive web design When we’re changing out layouts based 
       <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
       
       <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
-      <description>Programming block I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be really really good at HTML first, and then CSS and then JavaScript, but I somehow always stopped short of actually learning JavaScript properly.</description>
+      <description>
+
+&lt;h2 id=&#34;programming-block&#34;&gt;Programming block&lt;/h2&gt;
+
+&lt;p&gt;I’m a bit scared of JavaScript. Since I started learning front-end development about seven years ago, I’ve pretty much stayed away from it. That aside from some pretty dodgy jQuery where I can usually bodge something together but would never rely on it. I’ve always said it’s because I wanted to be &lt;em&gt;really really&lt;/em&gt; good at HTML first, and &lt;strong&gt;then&lt;/strong&gt; CSS and &lt;strong&gt;then&lt;/strong&gt; JavaScript, but I somehow always stopped short of actually learning JavaScript properly.&lt;/p&gt;
+
+&lt;p&gt;This is because I was scared of it. I might be able to put together some basic PHP when working with WordPress, but I really wouldn’t consider myself a programmer. The less that the code I’m writing has an instant visual output, the more I get confused by it. I’ve tried to learn all sorts of different languages but they always go in one ear and out the other. I had just settled for knowing enough to be able to know what the right solution should be and finding someone clever to help me.&lt;/p&gt;
+
+&lt;h3 id=&#34;there-s-a-lot-of-javascript-on-the-web&#34;&gt;There’s a lot of JavaScript on the web&lt;/h3&gt;
+
+&lt;p&gt;The problem was, that in doing this, I was really limiting myself. There’s a lot of JavaScript on the web. Even if you’re not using it to do something fancy on a site, if you’re a modern developer using progressive enhancement then chances are you’re using some kind of shiv or polyfill that relies on JavaScript. It’s pretty hypocritical of me if I go around saying I don’t use HTML and CSS frameworks, because writing all my own markup from scratch means I understand every little bit of it, when I don’t really understand the shivs and polyfills I’m using to help me use elements of HTML5 and CSS3.&lt;/p&gt;
+
+&lt;h2 id=&#34;creativejs-for-non-coders-workshop&#34;&gt;CreativeJS for non-coders workshop&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seb.ly&#34;&gt;Seb Lee-Delisle&lt;/a&gt; was putting on another couple of &lt;a href=&#34;http://seb.ly/training/&#34;&gt;workshops teaching CreativeJS&lt;/a&gt;. Everyone I’d known that had been to one of Seb’s workshops had said it was incredibly worthwhile and good fun. I didn’t have an excuse to put off learning JavaScript. And whilst I go to a lot of conferences, I’d not been to a proper two day workshop before so I wasn’t really sure what to expect.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1194 wp-caption aligncenter size-full wp-image-1194&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/seb.jpg&#34; alt=&#34;Seb at the CreativeJS for non-coders workshop&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		If you look really closely, you might be able to make out Seb’s twitter username projected on his jumper
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;creativejs&#34;&gt;CreativeJS&lt;/h3&gt;
+
+&lt;p&gt;Seb has a creative angle on JavaScript as he’s really an artist who uses programming as one of his tools rather than a stereotypical ‘coder’. The whole workshop is based around learning how to create cool visual effects, interactive elements and animations rather than tedious examples of toggle menus and form validation. This really helped me get my head around the JavaScript we were using as it all had very visible, visual results. There was a practical use for all the code that we were taught, but we could play with it in more creative ways. Seb showed us loads of cool, complex examples of what other artists were doing with programming right at the beginning of the workshop and this helped deliver a good dose of inspiration into our heads.&lt;/p&gt;
+
+&lt;h3 id=&#34;non-coder&#34;&gt;Non-coder&lt;/h3&gt;
+
+&lt;p&gt;I opted for the non-coder workshop (Seb also runs a more advanced CreativeJS and HTML5 2D workshop) as I really knew very little code. Whilst I could copy and paste a few things into something that vaguely works on the web, I didn’t really understand any of the core concepts of programming. This was the right choice for me as I continually felt challenged by the exercises set by Seb without feeling completely out of my depth.&lt;/p&gt;
+
+&lt;h2 id=&#34;so-what-did-i-make&#34;&gt;So what did I make?&lt;/h2&gt;
+
+&lt;p&gt;Over the course of two days, we played with a lot of fun demos and exercises, coding along with Seb and then being challenged to try new tasks out for ourselves. The part I’m most proud of is the Pong-like game that I created. I wrote every bit of this code by myself, some whilst following Seb’s instructions, and some by testing my knowledge of what I’d just been taught. This feels like a massive achievement for me, I don’t just feel like I’ve parroted a load of code, I feel like I &lt;strong&gt;actually understand it&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sebly.jsbin.com/icifow/5/embed?live&#34;&gt;View it on the CreativeJS graphics playground&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;and-another-thing-i-learnt&#34;&gt;And another thing I learnt&lt;/h2&gt;
+
+&lt;p&gt;I’d previously always consider coding as something you did &lt;em&gt;after&lt;/em&gt; design, but Seb’s workshop showed me that you can actually come up with new ideas just playing with the code. Just like in painting, drawing or designing, where you can have ‘happy accidents’, we seemed to frequently have these same serendipitous moments just mucking about with JavaScript.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-really-really-really-recommend-you-give-it-a-go&#34;&gt;I really really really recommend you give it a go&lt;/h2&gt;
+
+&lt;p&gt;If you want to learn JavaScript, or learn more creative ways to use your knowledge, I couldn’t recommend Seb’s workshops more. You can find out more on the &lt;a href=&#34;http://seb.ly/training/&#34;&gt;training section of Seb’s site&lt;/a&gt;, and I’ve just noticed he’s got another &lt;a href=&#34;http://seb.ly/training/&#34;&gt;CreativeJS for non-coders workshop on in December&lt;/a&gt; (that’d be a great early Christmas present!)&lt;/p&gt;
+
+&lt;p&gt;And even if you don’t end up going to a workshop, you should check out Seb’s &lt;a href=&#34;http://seb.ly/work/&#34;&gt;mad fun projects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-324&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6f501cfc748d74a94687a9c30545599e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6f501cfc748d74a94687a9c30545599e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.tedgoas.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ted Goas&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-324&#34;&gt;&lt;time datetime=&#34;2012-11-13T15:41:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve been a designer and front-end developer for more than a few years and, like you, JavaScript confuses me. I’ve survived using many of the techniques you described above, but I have to admit that I don’t really know how the code I copy/paste is actually working. I’ve come to grips that I’ll likely never be ‘good’ at any programming language like PHP, but as a responsible front-ender I should at least be proficient at JavaScript.
+
+I’ve been doing Codecademy and tinkering with JS more. You’ve completely sold me on Seb’s workshops! I’ll keep an eye out for next time he’ll be on my side of the pond.
+
+Thanks for posting this. I feel less alone seeing someone like you going through some of the same things. Cheers!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-325&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8d17e30c11742e9dee30edb662a26980?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8d17e30c11742e9dee30edb662a26980?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Andressa&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-325&#34;&gt;&lt;time datetime=&#34;2013-02-21T13:53:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:53pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        really nice and motivational post Laura! I live far from Sebs workshops, so i’m still waiting for the online version, but your comments made me really curious about it and a lot more hopefully about the js learning, thankss!
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -85,8 +1180,175 @@ display: none; in responsive web design When we’re changing out layouts based 
       <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
       
       <guid>https://laurakalbag.com/dconstruct-2010/</guid>
-      <description>I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.
-I went with a notebook and an open mind. I didn’t want to go all reverse-snob on the pretentious (something I’m generally pretty guilty of being) and be ignorant of learning when I’d paid ££s for the pleasure.</description>
+      <description>
+
+&lt;p&gt;I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.&lt;/p&gt;
+
+&lt;p&gt;I went with a notebook and an open mind. I didn’t want to go all reverse-snob on the pretentious (something I’m generally pretty guilty of being) and be ignorant of learning when I’d paid ££s for the pleasure.&lt;/p&gt;
+
+&lt;p&gt;And I ended up writing reams. Well, seven sides of a scruffy notebook, so here are the best bits I remember from each talk for the benefit of my friends who couldn’t be there.&lt;/p&gt;
+
+&lt;h2 id=&#34;summaries&#34;&gt;Summaries&lt;/h2&gt;
+
+&lt;p&gt;I’ve tried to summarise the main ideas from the talks. If I totally missed the point or didn’t do it justice, I’m really sorry!&lt;/p&gt;
+
+&lt;h3 id=&#34;marty-neumeier-the-designful-company&#34;&gt;Marty Neumeier — The Designful Company&lt;/h3&gt;
+
+&lt;p&gt;Branding is about how the consumer &lt;em&gt;feels&lt;/em&gt; about your product. To differentiate your brand from others, you must be good &lt;strong&gt;and&lt;/strong&gt; different.&lt;/p&gt;
+
+&lt;h3 id=&#34;brendan-dawes-boil-simmer-reduce&#34;&gt;Brendan Dawes — Boil, Simmer, Reduce&lt;/h3&gt;
+
+&lt;p&gt;Collect as much inspiration and information as possible, consider it all and the reduce it down until there’s nothing left to take away.&lt;/p&gt;
+
+&lt;h3 id=&#34;david-mccandless-information-is-beautiful&#34;&gt;David McCandless — Information Is Beautiful&lt;/h3&gt;
+
+&lt;p&gt;Infographics can be used to help us understand and relate to the huge amount of information and data we’re drowning in.&lt;/p&gt;
+
+&lt;h3 id=&#34;samantha-warren-the-power-and-beauty-of-typography&#34;&gt;Samantha Warren — The Power and Beauty of Typography&lt;/h3&gt;
+
+&lt;p&gt;Letters can say more than the words they spell. Picking fonts for a project is like picking shoes for an outfit, you must pick the most contextually appropriate font.&lt;/p&gt;
+
+&lt;h3 id=&#34;john-gruber-the-auteur-theory-of-design&#34;&gt;John Gruber — The Auteur Theory Of Design&lt;/h3&gt;
+
+&lt;p&gt;Much like in film production, collaborative web projects can benefit from an auteur who acts as an arbiter of taste and strives for high quality.&lt;/p&gt;
+
+&lt;h3 id=&#34;hannah-donovan-jam-session-what-improvisation-can-teach-us-about-design&#34;&gt;Hannah Donovan — Jam Session: What Improvisation Can Teach Us About Design&lt;/h3&gt;
+
+&lt;p&gt;We can learn about improvisation in design from improvisation in music. Making sure tools don’t get in the way, we have a structure to follow and roles to keep, to help us free our self-expression.&lt;/p&gt;
+
+&lt;h3 id=&#34;james-bridle-the-value-of-ruins&#34;&gt;James Bridle — The Value Of Ruins&lt;/h3&gt;
+
+&lt;p&gt;We need to make sure information is being kept, given history, value and versions to help us understand its context, the world and protect the information from cultural destruction.&lt;/p&gt;
+
+&lt;h3 id=&#34;tom-coates-everything-the-network-touches&#34;&gt;Tom Coates — Everything The Network Touches&lt;/h3&gt;
+
+&lt;p&gt;The future is in the connectivity of data, up to huge scales such a cities&lt;/p&gt;
+
+&lt;h3 id=&#34;merlin-mann-kerning-orgasms-amp-those-goddamned-japanese-toothpicks&#34;&gt;Merlin Mann — Kerning, Orgasms &amp;amp; Those Goddamned Japanese Toothpicks&lt;/h3&gt;
+
+&lt;p&gt;Nerd are cool because they really care about something. It’s great to be a nerd because you suck up huge quantities of information. It’s important to ensure you keep the information up-to-date and relevant.&lt;/p&gt;
+
+&lt;h2 id=&#34;various-points-and-ideas&#34;&gt;Various points and ideas&lt;/h2&gt;
+
+&lt;p&gt;I’ve tried to capture some of the ideas from my notes in this mind map thing, in addition/support to the summaries. If you can read my writing, you might find it interesting. I just did it to help cement the ideas in my head as I’m one of those people who has to write something down a million times to get it to stick.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/09/finished-mindmap.gif&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-211&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/09/finished-mindmap-960x676.gif&#34; alt=&#34;dConstruct 2010 ideas mindmap&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;(&lt;a href=&#34;https://laurakalbag.com/images/2010/09/finished-mindmap.gif&#34; title=&#34;View the above image full size&#34;&gt;You might want to view it full-size to attempt to read the text&lt;/a&gt;.)&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overall-conference-thoughts&#34;&gt;Overall conference thoughts&lt;/h2&gt;
+
+&lt;p&gt;The more people I know, the better conferences always are. It can be pretty hard to get chatting to somebody you don’t know in a room full of people who are stereotypically shy (especially when you’re in a minority of girls and so stick out like a sore thumb!)&lt;/p&gt;
+
+&lt;p&gt;I loved Brighton as a destination (pretty easy travel for me) and the venue was very smart. It was a bit tricky to write notes in the darker parts of the theatre but wouldn’t be so hard on back-lit devices (I opted for paper as I’m still really slow on iPad.) It would have been great to charge my iPhone/iPad during the talks as most of my break times were spent out of the venue trying to find non-coffee/tea refreshments.&lt;/p&gt;
+
+&lt;p&gt;What I noticed in particular was that there weren’t any questions at the end of the talks. In a way this was good because it prevented the awkward silence that is often heralded with ‘Any questions?’ at other conferences. However, it did give you the feeling of one-way communication. Much more like being at a lecture than being in a lesson.&lt;/p&gt;
+
+&lt;p&gt;It was good to see speakers I hadn’t seen before too. I think I’d already seen a variation of Brendan Dawes’ talk at Future Of Web Design, but otherwise the talks and speakers were totally new to me. This was refreshing over some of the conference veterans, because how much do you practice what you preach when you spend your whole time touring a talk?!&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-101&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;crispinheath&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-101&#34;&gt;&lt;time datetime=&#34;2010-09-07T11:26:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag love the mindmap
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-100&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tom&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-100&#34;&gt;&lt;time datetime=&#34;2010-09-07T12:20:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The big question&amp;#8230; will you go again next year!?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-102&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-102&#34;&gt;&lt;time datetime=&#34;2010-09-07T13:41:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Definitely! It&amp;#039;s such good value for money.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-106&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;timhastings&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-106&#34;&gt;&lt;time datetime=&#34;2010-09-07T12:31:51+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag your #dConstruct mind map is awesome, great job!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-105&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/49f2afdf84fdc75ddb70fe2fc1701a37?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/49f2afdf84fdc75ddb70fe2fc1701a37?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://andyhume.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Andy Hume&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-105&#34;&gt;&lt;time datetime=&#34;2010-09-07T14:43:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:43pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Justin and Laura,
+
+These are exactly the goals of dConstruct –; always have been. There are workshops alongside the conference which teach more practical skills-based stuff, but the conference day itself is all about getting people to think outside of their day-to-day work: to inspire, to excite, and (perhaps most of all) to motivate.
+
+So glad you enjoyed it –; and see you next year!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-103&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/ae049867321650db92f74bfb926a8551?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/ae049867321650db92f74bfb926a8551?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.surferm.ag&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Justin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-103&#34;&gt;&lt;time datetime=&#34;2010-09-07T14:56:02+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:56pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I was a little bit dubious about the conference at first as well.
+
+By lunch time I was thinking that the Web Directions conference in London was much better.  At Web Directions they were talking about technologies that we could use now and running through real life examples, something that gave the dev side of me some excitement to get home and straight to work.
+
+At the end of dConstruct I met up with my girlfriend who was eager to hear about the day.  I started with &amp;quot;Actually the last conference I went to was much better, but&amp;#8230;.&amp;quot;
+
+What followed from that &amp;quot;but&amp;#8230;.&amp;quot; was 90 minutes of explaining my thoughts and ideas and the concepts the speakers discussed during the conference.
+
+I realised it *was* an awesome conference, and I think you&amp;#039;re descriptions and mind map are great examples of that.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-104&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104&#34;&gt;&lt;time datetime=&#34;2010-09-07T15:14:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Couldn&amp;#039;t agree more! When there are so many technique-driven talks out there, it can be easy to judge the more ideas-based talks as pretentious when they&amp;#039;re actually really valuable fuel for the brain!
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

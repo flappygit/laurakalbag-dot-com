@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Back End Development on Laura Kalbag</title>
+    <title>Posts from Back End Development on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/back-end-development/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 07 Mar 2014 12:04:04 +0000</lastBuildDate>
@@ -17,7 +17,17 @@
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
-      <description>Yesterday the fourth episode of the Backendy podcast was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.</description>
+      <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://backendy.com/2014/03/4-laura-kalbag/&#34;&gt;fourth episode of the Backendy podcast&lt;/a&gt; was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://backendy.com&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4270&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/03/backendy.png&#34; alt=&#34;A Bit More Backendy - A podcast for web developers and designers with more of a focus on backend technologies. Based in the UK.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

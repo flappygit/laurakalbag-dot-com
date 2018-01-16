@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design Ethics on Laura Kalbag</title>
+    <title>Posts from Design Ethics on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/design-ethics/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 30 Jul 2015 10:19:04 +0000</lastBuildDate>
@@ -17,9 +17,35 @@
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
-      <description>We have Piwik analytics on the Ind.ie site, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use Ghostery so I actually block analytics like this for my own use.
-As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:
- Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc) Browser/browser size/operating system (required to know how to optimise for visitors) Language spoken (required to work out how to best optimise for different languages) Referring links (to track who is saying what about your site)  BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:</description>
+      <description>&lt;p&gt;We have &lt;a href=&#34;https://forum.ind.ie/t/piwik-alternative-for-analytics/627&#34;&gt;Piwik analytics&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;Ind.ie site&lt;/a&gt;, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use &lt;a href=&#34;https://www.ghostery.com/en/&#34;&gt;Ghostery&lt;/a&gt; so I actually block analytics like this for my own use.&lt;/p&gt;
+
+&lt;p&gt;As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc)&lt;/li&gt;
+&lt;li&gt;Browser/browser size/operating system (required to know how to optimise for visitors)&lt;/li&gt;
+&lt;li&gt;Language spoken (required to work out how to best optimise for different languages)&lt;/li&gt;
+&lt;li&gt;Referring links (to track who is saying what about your site)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Internet Service Provider&lt;/li&gt;
+&lt;li&gt;Tracking of individuals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And some metrics I find misleading, as they’re based on pattern-matching and guessing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Engagement time&lt;/li&gt;
+&lt;li&gt;Gender/Income Level/Age/Interests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some of these are grey areas when it comes to tracking web apps, but I’d be interested to know where you all see boundaries? Are all analytics bad analytics? Is there room for “ethical analytics” that only tracks anonymous data with limited uses? Would there be a business in that?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://forum.ind.ie/t/is-there-potential-for-ethical-analytics/628/2&#34;&gt;Discussion on the Ind.ie forum&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Freelancing on Laura Kalbag</title>
+    <title>Posts from Freelancing on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/freelancing/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
@@ -17,7 +17,118 @@
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
-      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+      <description>
+
+&lt;p&gt;I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;And that’s what happened. In June, I wrote about &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;becoming part of Indie Phone&lt;/a&gt; for 50% of my time. Then some time in August I became full time. &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4556&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34; alt=&#34;ind.ie balloon leaving stratosphere&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;indie-phone-became-ind-ie&#34;&gt;Indie Phone became Ind.ie&lt;/h2&gt;
+
+&lt;p&gt;At some point over those months, as we started to brainstorm our crowdfunding campaign. We realised that running a campaign for an all-new phone with new hardware, software and “cloud” services, would be a mammoth task. We’d have to look at raising at least $1 million, and would need people to trust us to deliver a phone after two whole years. The phone is really the summit of the Ind.ie mountain. The phone will only be of value if it’s part of a larger foundation platform that equips people to own their own data. It needs to work with existing platforms, such as social networks and computer operating systems. Otherwise we’d be expecting people to switch to an all-new system, cutting themselves off from the existing technology they use with their friends and family. That’s just not practical. We quickly realised that Ind.ie phone had to be part of an ecosystem that allows people to share their data with each other and nobody else (using &lt;a href=&#34;https://ind.ie/pulse/&#34;&gt;Pulse&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/heartbeat&#34;&gt;Heartbeat&lt;/a&gt; as part of the &lt;a href=&#34;https://ind.ie/stratosphere/&#34;&gt;Indienet&lt;/a&gt;.) We also need part of that ecosystem to help people find each other in the first place (&lt;a href=&#34;https://ind.ie/waystone&#34;&gt;Waystone&lt;/a&gt;.) That ecosystem is most of the mountain. And then &lt;a href=&#34;https://ind.ie/phone/&#34;&gt;the phone&lt;/a&gt; will be the ideal way to use the ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;flexibility-and-change&#34;&gt;Flexibility and change&lt;/h2&gt;
+
+&lt;p&gt;The change from Indie Phone to Ind.ie emphasised how flexible Ind.ie needs to be as a company and a team. We can’t be scared to change our minds and iterate on our ideas and goals. As a freelancer, I learned how I needed to continually learn new development techniques, and adapt to understand the modern web. The same applies to Ind.ie, but on a bigger scale. And I’d be lying if I said it isn’t a bit terrifying.&lt;/p&gt;
+
+&lt;h2 id=&#34;always-learning&#34;&gt;Always learning&lt;/h2&gt;
+
+&lt;p&gt;As with freelancing, staying on top of new technologies and techniques are important, but even more so when you’re a small team under a lot of scrutiny. When you ask for money, people want to know that you’re trustworthy. We have to pay attention to all the little details, and do everything right. Of course we make mistakes. I’ve screwed up bits of the website and a couple of email newsletters, and probably a whole lot more… But we have to own our mistakes, admit the blame, don’t take it personally, and fix it as quickly as possible. The upside of the fast-moving pace of the business is that I get to learn loads of cool and challenging things. As my job requires me to understand the entirety of my platform, I’m looking into areas I’ve not needed to investigate before. I’m facing design challenges for completely different types of content and interactions. In the last week alone, I’ve written the hardest JavaScript I’ve ever tried, learned how to create and implement Git submodules, and learned how to set up Grunt. It’s pretty thrilling.&lt;/p&gt;
+
+&lt;p&gt;It also means doing things that feel new and pit-of-your-stomach daunting. Like when &lt;a href=&#34;https://border-none.net/2014/scene-setters#c81&#34;&gt;I gave my first talk and workshop around Ind.ie&lt;/a&gt;. And facing some of the challenging feedback we’ve got through social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;handling-feedback&#34;&gt;Handling feedback&lt;/h2&gt;
+
+&lt;p&gt;Whilst the work is physically and mentally exhausting, the hardest part of working for Ind.ie is the feedback. As a designer, I’m a firm believer in critique and constructive feedback. I’m a leave-your-ego-at-the-door designer (at least I try my best.) But sometimes the feedback isn’t so constructive, and sometimes the comments are a bit personal. Occasionally they’re from people you considered friends and it’s very very difficult to not feel upset, let down, and emotionally drained. It takes time to process and get past hurtful comments, but it’s unavoidable when you want to get past the junk to the criticism that’ll help you do things better.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-is-it-worth-it&#34;&gt;Why is it worth it?&lt;/h2&gt;
+
+&lt;p&gt;But to me, Ind.ie is worth it. The technology industry is broken in so many ways (diversity, accessibility, first world priorities…) Unethical business is at the heart of most of the problems. A lot of designers and developers talk about the difficulty of running a business because everyone expects something for free. Free mobile apps and free web services have given consumers the impression that good stuff needn’t cost anything. Very few people realise that they’re not getting these apps and services for free, but in exchange for the data provided when they upload photos, write to each other, play games, track their activities. (What the companies do with this data varies, but it’s very rarely in the best interests of the user.) We’re paying with our privacy.&lt;/p&gt;
+
+&lt;p&gt;I’m frightened of how this could escalate. I’m frightened of how companies operate today. As far as I know, I’m a normal, law-abiding citizen, and I’m not doing anything wrong. But that doesn’t matter. All the data I’ve shared combined could tell strangers things I don’t know about myself. It could tell strangers things about my friends and family too. &lt;a href=&#34;http://www.un.org/en/documents/udhr/index.shtml/index.shtml#a12&#34;&gt;Privacy is a human right&lt;/a&gt;, and it shouldn’t be traded for consumer goods.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to make a difference for the sake of being good. I want to work on Ind.ie because I don’t see enough people putting time and effort into fighting these infringements on our human rights. If I can’t dedicate my time and energy into creating alternatives, then how important can it be?&lt;/p&gt;
+
+&lt;h3 id=&#34;please-support-us&#34;&gt;Please support us&lt;/h3&gt;
+
+&lt;p&gt;Ind.ie is hard work and costs money. We’re frugal. We’re small enough that we can work from a home office, we have only the equipment we need, and nothing more. We use free and open technology wherever we can. But we need human resources. I cost around £28,800 per year to Ind.ie. I worked out the lowest amount that Oskar and I can live comfortably on, and that’s all I need. It’s a lot less than what I earned as a freelancer. The others on the team take similar pay. But we’re only four people, and we’re limited to our expertise and time. We want a Mac and iOS developer, a Node.js developer, and an Android developer. These people will help us create a platform that will help people own their own data on the current platforms. This platform will become a sustainable business which we can then use to extend to more platforms, and work on the phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie&#34; title=&#34;Ind.ie crowdfunding campaign&#34;&gt;Please support us&lt;/a&gt;. Ind.ie is my life and livelihood, and a deserving cause.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-104613&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.shkintyboda.org/braindump&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Austin Prior&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104613&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:05:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:05pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Seeing as you you’ve found the negative feedback tough at times, allow me to give you some positive feedback:&lt;/p&gt;
+Ind.ie is the most exciting, inspiring project I’ve ever followed. My wife and I have both donated and are looking forward to participating in the pre-alpha.
+
+Your work is reaching people and is already helping before you’ve even released anything. You’re helping people understand the issues around privacy and freedom and in no time at all, you’ll be empowering people of diverse backgrounds and abilities by putting beautiful, free and open tools in their hands.
+
+Thank you for all of your great work. You are appreciated. :-)
+
+Austin
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laurakalbag bypostauthor odd alt depth-2&#34; id=&#34;li-comment-104661&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104661&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:34:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you so much, Austin. You’ve completely made my day. And please pass my thanks on to your wife as well :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-105098&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Darina Prior&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-105098&#34;&gt;&lt;time datetime=&#34;2014-11-29T01:54:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Your thanks and your tireless work to make our digital world a better place are gratefully accepted :-)
+
+Darina (Austin’s wife)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-108763&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Matthijs&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-108763&#34;&gt;&lt;time datetime=&#34;2014-12-02T10:54:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Fully agree with Austin. The indie project and what you are doing is very exciting and inspiring. Really looking forward to what is coming. And will try to help or provide feedback where I can.
+
+Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +137,17 @@
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
       
       <guid>https://laurakalbag.com/unfinished-business-83-slightly-sticky-bottoms/</guid>
-      <description>Andy is back this week and so we did a handover episode of Unfinished Business. This week we talked about our different approaches to the podcast and what’s relevant to “business”. Andy found an interesting article on the BBC website about smartphone stress, so we talked about how we handle disconnecting when we go on holiday, and in our downtime at home.
-[  ](http://unfinished.bz/83)</description>
+      <description>&lt;p&gt;Andy is back this week and so we did a handover &lt;a href=&#34;http://unfinished.bz/83&#34;&gt;episode of Unfinished Business&lt;/a&gt;. This week we talked about our different approaches to the podcast and what’s relevant to “business”. Andy found an interesting article on the BBC website about smartphone stress, so we talked about how we handle disconnecting when we go on holiday, and in our downtime at home.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;[
+&lt;figure class=&#34;aligncenter wp-image-4098 size-full&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/11/unfinishedbusiness.png&#34; alt=&#34;Andrew Clarke &amp;amp;amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+](http://unfinished.bz/83)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,8 +156,23 @@
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
       
       <guid>https://laurakalbag.com/unfinished-business-81-and-82/</guid>
-      <description>I was so busy last week that I forgot to post about Unfinished Business episode 81: Do you have a dinosaur onesie? This week, Ashley and I recorded episode 82: Love a good pep talk.
-It’s been a fun few weeks. It’s been interesting how a lot of people have said that Ashley and I focused more on business-related topics than Andy’s recent episodes. That may well be the case, but it wasn’t really intentional, or because we think the podcast should be more business-focused.</description>
+      <description>&lt;p&gt;I was so busy last week that I forgot to post about &lt;a href=&#34;http://unfinished.bz/81&#34;&gt;Unfinished Business episode 81: Do you have a dinosaur onesie?&lt;/a&gt; This week, Ashley and I recorded &lt;a href=&#34;http://unfinished.bz/82&#34;&gt;episode 82: Love a good pep talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s been a fun few weeks. It’s been interesting how a lot of people have said that Ashley and I focused more on business-related topics than Andy’s recent episodes. That may well be the case, but it wasn’t really intentional, or because we think the podcast should be more business-focused. I love the informal, conversational style, and how (as a listener) I can keep up with the goings-on of the regular guests. There’s a lot more to business than the obvious topics.&lt;/p&gt;
+
+&lt;p&gt;I can’t speak for both Ashley and I, but I know that I was a bit scared of messing up the podcast, and so having some structured business-related topics made me feel a little more secure, and prevented me from rambling too much off topic!&lt;/p&gt;
+
+&lt;p&gt;I’ll be back for a handover episode with Andy this week, so I’m not going anywhere!&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;[
+&lt;figure class=&#34;aligncenter wp-image-4098 size-full&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/11/unfinishedbusiness.png&#34; alt=&#34;Andrew Clarke &amp;amp;amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+](http://unfinished.bz/82)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,8 +181,19 @@ It’s been a fun few weeks. It’s been interesting how a lot of people have sa
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
       
       <guid>https://laurakalbag.com/unfinished-business-80/</guid>
-      <description>Andy Clarke is on holiday for three weeks and has handed over the Unfinished Business reins to Ashley Baxter and I. This week’s episode is all about business insurance for freelancers and small businesses. We talked about public liability, professional indemnity, business contents and copyright infringement. It was great because I got to ask Ashley loads of questions I forgot to ask when she was helping me get insured!
-I’m not sure if the audio quality is as good as it usually is on Unfinished Business, as my editing skills are rather rusty… But this episode does feature a little bit of Oskar!</description>
+      <description>&lt;p&gt;Andy Clarke is on holiday for three weeks and has handed over the &lt;a href=&#34;http://unfinished.bz/&#34;&gt;Unfinished Business&lt;/a&gt; reins to &lt;a href=&#34;http://insurancebyjack.co.uk/&#34;&gt;Ashley Baxter&lt;/a&gt; and I. &lt;a href=&#34;http://unfinished.bz/80&#34;&gt;This week’s episode&lt;/a&gt; is all about business insurance for freelancers and small businesses. We talked about public liability, professional indemnity, business contents and copyright infringement. It was great because I got to ask Ashley loads of questions I forgot to ask when she was helping me get insured!&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if the audio quality is as good as it usually is on Unfinished Business, as my editing skills are rather rusty… But this episode does feature a little bit of &lt;a href=&#34;http://twitter.com/gigapup&#34;&gt;Oskar&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;[
+&lt;figure class=&#34;aligncenter wp-image-4098 size-full&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/11/unfinishedbusiness.png&#34; alt=&#34;Andrew Clarke &amp;amp;amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+](http://unfinished.bz/80)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -56,8 +202,89 @@ I’m not sure if the audio quality is as good as it usually is on Unfinished Bu
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/indie-phone/</guid>
-      <description>There’s some big changes around here. As of Monday, I am now working with Indie Phone for 50% of my working time.
-What is Indie Phone? Indie Phone is a huge, and very ambitious, project. We’re building a smart phone that allows you to own your own data. The majority of companies on the web have a simple, and potentially dangerous, business model. These companies give you services for free, and sell your data on to third parties to make their money (think Google, Facebook, Twitter).</description>
+      <description>
+
+&lt;p&gt;There’s some big changes around here. As of Monday, I am now working with &lt;a href=&#34;http://indiephone.eu&#34;&gt;Indie Phone&lt;/a&gt; for 50% of my working time.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-indie-phone&#34;&gt;What is Indie Phone?&lt;/h2&gt;
+
+&lt;p&gt;Indie Phone is a huge, and very ambitious, project. We’re building a smart phone that allows you to own your own data. The majority of companies on the web have a simple, and potentially dangerous, business model. These companies give you services for free, and sell your data on to third parties to make their money (think Google, Facebook, Twitter).&lt;/p&gt;
+
+&lt;p&gt;This has opened our data up to a lot of potential abuse, including the &lt;a href=&#34;http://www.democracynow.org/2013/10/14/edward_snowden_speaks_out_against_nsa&#34;&gt;government dragnet surveillance employed by the NSA and GCHQ (and other governments)&lt;/a&gt;. For users aware of these problems, we can either choose to share our data, or be excluded from the majority of services (and social interactions) on the web. Worse still, the majority of general consumers on the web are unaware of these problems. There are loose, and often misleading, privacy settings on these services. Few people realise that they’re still sharing their data with the companies that own their services, and many other third parties. Even fewer people realise that their email and private messages are being stored, and potentially read and shared, with these services and third parties. To find out more about these issues, I really recommend watching &lt;a href=&#34;http://www.thersa.org/events/audio-and-past-events/2014/Free-is-a-Lie&#34;&gt;Aral’s talk, ‘Free Is a Lie’&lt;/a&gt;, and watching &lt;a href=&#34;http://tacma.net/&#34;&gt;‘Terms and Conditions May Apply’&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Indie Phone aims to create a smart phone that isn’t just for the tech folk that want to take control over their data. We want to create experiences that combine hardware, software, and the cloud, as well as appealing to the everyday consumer. The fact that it’ll be open, and allows you to take control of your data, and choose what you want to be shared, is an essential bonus. It’s incredibly important that these tools are available to everybody. We don’t want to discriminate against those with less tech experience or knowledge.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing like Indie Phone. There are a few fantastic companies and products working towards other &lt;a href=&#34;https://indietech.org/manifesto/&#34;&gt;indie technologies&lt;/a&gt;. Together we can try to make technology, and the web, more open and user-friendly.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-indie-tech&#34;&gt;What’s indie tech?&lt;/h3&gt;
+
+&lt;p&gt;Data-hungry services have become the norm. Indie Technologies have sustainable business models and offer alternatives to these services. These alternative products need to be design-led and consumer-friendly so they can realistically compete in the consumer market. At Indie Phone, we’re spearheading indie tech, we want to be a great example to other indie technologies. We also have plans to help support and promote other indie tech projects.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-work-with-indie-phone-when-i-love-client-work-so-much&#34;&gt;Why work with Indie Phone when I love client work so much?&lt;/h2&gt;
+
+&lt;p&gt;It’s been very trendy lately to switch from client work to a side project or product. A lot of designers and developers don’t enjoy client services. But I do. I really really love working with clients, and helping them achieve their goals. It’s similar to why I love Indie Phone. I like providing services to people who otherwise may not be able to create their own site or understand what would work for them on the web.&lt;/p&gt;
+
+&lt;p&gt;I’ve been Chief Sounding Board for the last 10 months, as &lt;a href=&#34;http://aralbalkan.com&#34;&gt;Aral&lt;/a&gt; has researched, planned, brainstormed and agonised over Codename Prometheus and Indie Phone. It’s been his life for nearly a year, so in turn has been a huge part of my life. I have absolute faith in his ability to see it through. It’s been hard sitting on the sidelines, desperately wanting to help, but not being able to dedicate the time and money that a project of this size really needs.&lt;/p&gt;
+
+&lt;p&gt;After the sale of Aral’s family’s home in Ankara, we finally have funds to afford other people to work on the Indie Phone up to crowd funding. Money is still tight, we can’t afford me to work on Indie Phone 100% of the time, and this works for me. The money is far better spent on other valuable skills required to get us up-and-running.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-i-do-for-indie-phone&#34;&gt;What I do for Indie Phone&lt;/h3&gt;
+
+&lt;p&gt;Design and web development. Web is my specialism, so the most expertise I can offer Indie Phone is in producing the websites, mini sites and other web-based materials. I also work on the branding and other general graphic design tasks. Sometimes I do some writing, and I do a lot of editing. All of my work is collaborative. Aral, &lt;a href=&#34;http://www.jo-porter.com/&#34;&gt;Jo&lt;/a&gt; and I all review and critique each others’ work, and this is an exciting new experience for me!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-about-the-other-50-of-my-time&#34;&gt;What about the other 50% of my time?&lt;/h2&gt;
+
+&lt;p&gt;I can still carry on the relationships I have with my existing clients, and take on a few new clients, with a decent amount of time to dedicate to client work. I love the variety of client work, and I really enjoy working with different people.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-want-to-work-with-other-indie-tech-projects&#34;&gt;I want to work with other indie tech projects&lt;/h3&gt;
+
+&lt;p&gt;I’ve always been picky with new projects, I only work with clients that I care about and projects that interest me. That’s how I do my best work. And lately, as I’ve been absolutely influenced by Indie Phone, I really care about the success of indie tech projects. Is your project design-led, free and open, and independent in line with the &lt;a href=&#34;https://indietech.org/manifesto/&#34;&gt;Indie Technology Manifesto&lt;/a&gt;? Then I’ve got a deal for you…&lt;/p&gt;
+
+&lt;h4 id=&#34;20-off-for-indie-tech-projects&#34;&gt;20% off for indie tech projects&lt;/h4&gt;
+
+&lt;p&gt;I’m going to put my money where my mouth is. I want to work on indie tech projects so much, that I will work for 20% less (on my hourly rate) for an indie tech project. This will be expensive for me, but I want to do more to help indie technologies.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-can-i-offer-an-indie-tech-project&#34;&gt;What can I offer an indie tech project?&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/web-app-and-mobile-design/&#34; title=&#34;Web, App and Mobile Design&#34;&gt;&lt;strong&gt;Design&lt;/strong&gt;&lt;/a&gt;. I’m an all-round designer. With design-led projects, the majority of indie tech projects probably have a designer in place already, but I’m here for support and strategy.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/graphic-design/&#34; title=&#34;Graphic Design&#34;&gt;&lt;strong&gt;Branding&lt;/strong&gt;&lt;/a&gt;. From logos to typography to icons for your avatars, I can create your brand and show you how to use it effectively.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/web-app-and-mobile-design/&#34; title=&#34;Web, App and Mobile Design&#34;&gt;&lt;strong&gt;Web design&lt;/strong&gt;&lt;/a&gt;. I love the web. If it’s working out the experience for your app, I can help you with design and front-end development. With marketing sites, I can promote your product with an end-to-end solution (copy to content management system, I can do all of that.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re interested in my 20% discount, please &lt;a href=&#34;mailto:me@laurakalbag.com?subject=Indie%20Tech Project&#34;&gt;send me an email at me@laurakalbag.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-huge-but-also-not-so-huge&#34;&gt;It’s huge, but also not so huge&lt;/h2&gt;
+
+&lt;p&gt;In some ways, this hasn’t changed much. I’m still working from home, as the Indie Phone office is currently occupying the largest room in our house. I’m still working on projects I love with people that I love. I’m very lucky :)&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-29759&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9d852ad65e88b3836261a29d427849b2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://designack.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ngaire&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-29759&#34;&gt;&lt;time datetime=&#34;2014-06-04T08:45:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:45am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        What a great idea Laura! I really hope it goes well for you. Having a side project that you’re passionate about can make your client work even better too I think. It’s having that freedom to do something where you can see your creativity bloom while making a difference that is great about side projects.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-32622&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a8fbf4c8ab7c5db6d39bfbff46042b67?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Ran&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-32622&#34;&gt;&lt;time datetime=&#34;2014-06-16T01:00:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:00am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Keep us posted on Indie Phone, sounds good.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -66,8 +293,37 @@ What is Indie Phone? Indie Phone is a huge, and very ambitious, project. We’re
       <pubDate>Mon, 06 Jan 2014 21:17:32 +0000</pubDate>
       
       <guid>https://laurakalbag.com/speaking-at-12-devs-of-winter/</guid>
-      <description>I’m speaking at 12 Devs of Winter on the 22nd January in Shoreditch. Because I’ve clearly lost my mind, I’m going to be doing another new talk. This time on ‘Freelancing for the reluctant businessperson.’ I’m that reluctant businessperson, and I’m hoping to share some silly stories about all the daft things I’ve done and some of the things that have worked out just fine.
-For once, I’m ahead of the schedule, and tickets will be released this Wednesday 8th January at 10am.</description>
+      <description>
+
+&lt;p&gt;I’m speaking at &lt;a href=&#34;http://12devs.co.uk/events/12-devs-of-winter-2014/&#34;&gt;12 Devs of Winter on the 22nd January in Shoreditch&lt;/a&gt;. Because I’ve clearly lost my mind, I’m going to be doing another new talk. This time on ‘Freelancing for the reluctant businessperson.’ I’m that reluctant businessperson, and I’m hoping to share some silly stories about all the daft things I’ve done and some of the things that have worked out just fine.&lt;/p&gt;
+
+&lt;p&gt;For once, I’m ahead of the schedule, and tickets will be released this Wednesday 8th January at 10am.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://12devs.co.uk/events/12-devs-of-winter-2014/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4186&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/01/12devs.png&#34; alt=&#34;12 Devs of Winter website&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-8883&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/dda5af3d4dab972a2611af8d3f9ee8a4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/dda5af3d4dab972a2611af8d3f9ee8a4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.sarahevansdesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sarah&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-8883&#34;&gt;&lt;time datetime=&#34;2014-01-25T10:32:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:32am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Really enjoyed your talk at 12Devs Laura. Hope to catch you speaking again soon.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -76,8 +332,19 @@ For once, I’m ahead of the schedule, and tickets will be released this Wednesd
       <pubDate>Tue, 12 Nov 2013 18:22:41 +0000</pubDate>
       
       <guid>https://laurakalbag.com/unfinished-business-44/</guid>
-      <description>Last week I was on Unfinished Business again! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…
-I’m also going to be on Unfinished Business more regularly. I always have fun chatting to Andy, and it’s a great excuse to pick his more experienced brains about business stuff.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/44&#34;&gt;Last week I was on Unfinished Business again&lt;/a&gt;! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…&lt;/p&gt;
+
+&lt;p&gt;I’m also going to be on Unfinished Business more regularly. I always have fun chatting to Andy, and it’s a great excuse to pick his more experienced brains about business stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/44&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4098&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/11/unfinishedbusiness.png&#34; alt=&#34;Andrew Clarke &amp;amp;amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -86,8 +353,52 @@ I’m also going to be on Unfinished Business more regularly. I always have fun 
       <pubDate>Mon, 04 Nov 2013 10:14:44 +0000</pubDate>
       
       <guid>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</guid>
-      <description>At Dare conference in September, I saw a great talk by Kevin Hoffman on “How To Rebuild Amidst Crisis.” I loved this talk, there was so much in it, but one thing struck me as something I could carry over into my work: Kevin said he included “ask any question and I’ll answer it” in his contract.
-This might seem like stating the obvious at first, but really there’s nothing obvious to a client who is new to you, and your process.</description>
+      <description>
+
+&lt;p&gt;At Dare conference in September, I saw &lt;a href=&#34;http://2013.dareconf.com/videos/hoffman&#34;&gt;a great talk by Kevin Hoffman on “How To Rebuild Amidst Crisis.”&lt;/a&gt; I loved this talk, there was so much in it, but one thing struck me as something I could carry over into my work: Kevin said he included “ask any question and I’ll answer it” in his contract.&lt;/p&gt;
+
+&lt;p&gt;This might seem like stating the obvious at first, but really there’s nothing obvious to a client who is new to you, and your process. And this is even more true for a client who is new to having a website built, or working with web professionals for the first time. There’s no book on how to be a client, and many of us (regardless of whether we’re on the client or consultant side) can often be fearful of asking the wrong questions in case it shows us up as ignorant.&lt;/p&gt;
+
+&lt;p&gt;I want my clients to feel comfortable, and that they know what’s going on. I’m sure that sometimes I don’t explain things as well as I could do, or fail to explain some things at all, so having something in my contract that lets a client know that they’re encouraged to ask questions can help make up for my shortcomings. I also believe it’s good for a designer to be challenged. &lt;a href=&#34;https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/&#34; title=&#34;Design work is 50% visual, 50% justification&#34;&gt;I’ve said before that communication and justification are a large part of our work as designers&lt;/a&gt;, and encouraging clients to ask me “why” will only make me better at understanding my own design decisions.&lt;/p&gt;
+
+&lt;p&gt;This is the new section I’ve now included in my contract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;ask-me-anything&#34;&gt;Ask me anything&lt;/h3&gt;
+
+&lt;p&gt;I want you to feel that you understand what’s happening, and why, throughout the duration of the project. Please feel free to ask me any question that comes to mind. I’ll always be happy to answer your questions, explain what I’m doing or how I work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It might make a difference, it might not. Contracts are a great way to set the tone of your working relationship with your client, so I hope that this will do just that.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-3196&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5e6d8ee2e4f6b434b9f1ab262cca33a3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5e6d8ee2e4f6b434b9f1ab262cca33a3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Kris Marissens&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-3196&#34;&gt;&lt;time datetime=&#34;2013-11-04T10:31:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:31am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Loved this article. Learned a few things too. For instance the way English is written by a “native” writer/speaker. Native speaker/writer sounds so stupid, don’t you think? :) Anyway, I hope you don’t mind me sending this, sometimes I guess I’m like that Warren Zevon song. Thanks, Laura!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-3213&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9942aaf87a25db4f85091cb366ca8811?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9942aaf87a25db4f85091cb366ca8811?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://@artisanshannon&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Shannon Lerner&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-3213&#34;&gt;&lt;time datetime=&#34;2013-11-04T15:26:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Lovely.
+
+Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much like everything else you publish. Your clients are sure to understand exactly what to expect from you.&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -96,7 +407,17 @@ This might seem like stating the obvious at first, but really there’s nothing 
       <pubDate>Mon, 19 Aug 2013 08:26:55 +0000</pubDate>
       
       <guid>https://laurakalbag.com/guest-on-happy-monday-podcast/</guid>
-      <description>Last Friday I was a guest for today’s Happy Monday podcast. It was great fun chatting with Josh and Sarah about design, client work and inspiration.</description>
+      <description>&lt;p&gt;Last Friday I was a guest for today’s &lt;a href=&#34;http://www.happymondaypodcast.com/episodes/laura-kalbag&#34;&gt;Happy Monday podcast&lt;/a&gt;. It was great fun chatting with Josh and Sarah about design, client work and inspiration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.happymondaypodcast.com/episodes/laura-kalbag&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4033&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/08/happy-monday.png&#34; alt=&#34;HAPPY MONDAY. A new, short-burst, industry podcast available every Monday from 7am GMT.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,10 +426,34 @@ This might seem like stating the obvious at first, but really there’s nothing 
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</guid>
-      <description>Last Friday I was a guest co-host on Unfinished Business again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.
-I’m a massive fan of Unfinished Business and listen to every episode so it was a real treat to go back again. Thank you for inviting me, Andy!
- 
-Oh, and one more thing: Slide + Stage One of the sponsors this week was Slide + Stage, a full-day intensive masterclass with Aral Balkan.</description>
+      <description>
+
+&lt;p&gt;Last Friday I was a &lt;a href=&#34;http://unfinished.bz/19&#34;&gt;guest co-host on Unfinished Business&lt;/a&gt; again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.&lt;/p&gt;
+
+&lt;p&gt;I’m a massive fan of Unfinished Business and listen to every episode so it was a real treat to go back again. Thank you for inviting me, Andy!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/19&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2345&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/unfinished-bz.png&#34; alt=&#34;Andy &amp;amp;amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;oh-and-one-more-thing-slide-stage&#34;&gt;Oh, and one more thing: Slide + Stage&lt;/h2&gt;
+
+&lt;p&gt;One of the sponsors this week was &lt;a href=&#34;http://thelink.is/unfinishedbusiness&#34;&gt;Slide + Stage&lt;/a&gt;, a full-day intensive masterclass with &lt;a href=&#34;http://aralbalkan.com&#34;&gt;Aral Balkan&lt;/a&gt;. It’s going to be brilliant and I’m going to be there. I’ve already &lt;a href=&#34;https://laurakalbag.com/learning-to-speak/&#34; title=&#34;Learning to speak&#34;&gt;written a post about how much I’ve learnt from Aral&lt;/a&gt;, and if you want to speak at events, or even just become better at presenting your work to clients, I really recommend you come along.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;[
+&lt;figure class=&#34;aligncenter  wp-image-3297&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/05/slideandstage.png&#34; alt=&#34;Slide &amp;#43; Stage&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+](http://thelink.is/unfinishedbusiness)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -117,9 +462,61 @@ Oh, and one more thing: Slide + Stage One of the sponsors this week was Slide + 
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</guid>
-      <description>Previous posts on the mentoring project:
- Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people Mentoring a project: the project  It’s been far too long since I wrote about the mentoring project. I’ve been incredibly busy and really needed to dedicate more time to make it a success (more about that in another post!)
-Last time I wrote about the project, we had just started to get the contract sorted.</description>
+      <description>
+
+&lt;p&gt;Previous posts on the mentoring project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-idea/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the idea&#34;&gt;Mentoring a project: the idea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-right-project/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the right project&#34;&gt;Mentoring a project: the right project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-finding-the-right-people/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: finding the right people&#34;&gt;Mentoring a project: finding the right people&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-the-project/&#34; title=&#34;Mentoring a project: the project&#34;&gt;Mentoring a project: the project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It’s been far too long since I wrote about the mentoring project. I’ve been incredibly busy and really needed to dedicate more time to make it a success (more about that in another post!)&lt;/p&gt;
+
+&lt;p&gt;Last time I wrote about the project, we had just started to get the contract sorted. I use an evolved version of &lt;a href=&#34;http://stuffandnonsense.co.uk/projects/contract-killer/&#34;&gt;Andy Clarke’s Contract Killer&lt;/a&gt; for my client projects. Over the last four years I’ve amended it, and added in extra chunks, to prevent myself from repeating the same mistakes on multiple projects.&lt;/p&gt;
+
+&lt;p&gt;I reused this contract again for this project, adding in some extra text about my responsibility as a mentor to the client and mentees. We then decided, prompted by the client’s desire to potentially share the code with other community projects, and Yago’s knowledge of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons licenses&lt;/a&gt;, to license the code under the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;licensing-code&#34;&gt;Licensing code&lt;/h2&gt;
+
+&lt;p&gt;It’s an interesting and important part of the contract, and merits discussion. Previously I had always used the Contract Killer’s lines about licensing where the client has all the rights to the graphics/design elements, whereas the developer has the rights to the code and licenses it to the client for one use.&lt;/p&gt;
+
+&lt;p&gt;This always seemed to make sense to me before, it restricts the client from rehashing your code for a different project, or even reselling it to others. But code is not a static one-off document. A website, and subsequently its code, is a living document which is usually frequently updated, fixed and improved upon. How does this then work with a one-use license? Are we then telling clients that if they need any code to be changed, they must re-hire us for the job? This wouldn’t work for most client-developer relationships. As an industry, we seem to have mostly moved to a model where we give clients the tools and knowledge to keep their own sites updated. Maintenance contracts are a thing of the past for all but the most complex systems.&lt;/p&gt;
+
+&lt;p&gt;Yago found the perfect license for our particular case, where we wanted to allow the client to share the work on a not-for-profit basis, but I do urge you to &lt;a href=&#34;http://creativecommons.org/choose/&#34; title=&#34;choose a Creative Commons license&#34;&gt;look into the correct license which &lt;em&gt;really&lt;/em&gt; makes it clear what the client is and isn’t allowed to do&lt;/a&gt;. And the wonderful thing about Creative Commons is that they write the licenses in plain English. This means the licenses work with the Contract Killer, and also makes it easy to find the best license for the job.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-all-takes-time&#34;&gt;It all takes time&lt;/h2&gt;
+
+&lt;p&gt;Sorting out the contract took a lot more time than I’d have liked. When so many parties need to sign a contract, it can take a lot of to-ing and fro-ing before it’s agreed upon. Add in email-based communication and people working on the project part-time, and it took us a good couple of weeks to get it all ironed out. Far too long.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://rightsignature.com/&#34;&gt;Right Signature&lt;/a&gt; to get documents signed online, and I was jumping into it too quickly. It’s fairly quick to email a PDF (or even better, pasted text) of the contract for all the signers glance over before they need to sign. As fantastic as &lt;a href=&#34;https://rightsignature.com/features&#34; title=&#34;features of Right Signature&#34;&gt;Right Signature’s sequential signers option&lt;/a&gt; is, it’s a complete pain if you get to the last person to sign the contract and they need to make an amendment!&lt;/p&gt;
+
+&lt;h2 id=&#34;after-the-contract&#34;&gt;After the contract&lt;/h2&gt;
+
+&lt;p&gt;Once the contract was signed, having roles within the project actually become useful. Whilst I expected Yago, Sibylle and Phil to work as hybrids, collaborating on design and development, their responsibilities to lead on front-end development, content and WordPress and design (respectively) meant each could be responsible for planning more in-depth requirements for that area. These requirements took a while to nail down but provided a structure to work from, and gave each mentee a better idea of what the others were doing.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-541&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://next-nexus.info/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-541&#34;&gt;&lt;time datetime=&#34;2013-05-08T11:46:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        When it comes to licenses for code, I see nothing wrong with the old standards: the GNU General Public License, and the GNU Lesser GPL. Particularly when working with WordPress, where plugin and theme code is meant to be GPL compatible, using the GPL just makes sense. Yes, it does mean that the client could turn around and re-use, re-sell or whatever, the code. But considering that your name should be clearly identified anyway (in the license block at the top of each file), it will be obvious who to turn to to fix any issues. 
+
+Moreover, by using a license that permits re-use, modification, etc., you are clearly saying, “I am not locking you in to my services, if you’re not happy, you can go else where with no problem; I’ll try and keep you happy”. And I think that’s valuable in and of itself.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -128,8 +525,19 @@ Last time I wrote about the project, we had just started to get the contract sor
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
       
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
-      <description>Last week I was guest co-host on one of my most favourite podcasts, Unfinished Business. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
-We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.</description>
+      <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
+
+&lt;p&gt;We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/12&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2345&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/unfinished-bz.png&#34; alt=&#34;Andy &amp;amp;amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -138,8 +546,361 @@ We talked about smoking chimps, mentoring and how we can try to help newcomers i
       <pubDate>Tue, 12 Mar 2013 20:41:36 +0000</pubDate>
       
       <guid>https://laurakalbag.com/burnout/</guid>
-      <description>Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you want to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.
-I’m burned out. The last couple of months have really taken their toll.</description>
+      <description>
+
+&lt;p&gt;Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you &lt;em&gt;want&lt;/em&gt; to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.&lt;/p&gt;
+
+&lt;p&gt;I’m burned out. The last couple of months have really taken their toll. I tend to always be on top of my work schedule, ensuring I don’t work late into the evenings or weekends on client work, as I know I need time away from the screen to spend on my social life and my health. However, due to some client work getting out of hand, over-optimism with scheduling, and a talk at Responsive Day Out (speaking is always exhausting), I got through the mad rush and just couldn’t do &lt;em&gt;any more&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.onishiweb.co.uk/2012/09/burnout/&#34;&gt;Adam Onishi has spoken extensively about burnout&lt;/a&gt;, and I know I’ve got it lucky. Burnout can be a bad side effect of really caring about your work, and I’ve always been aware that I’m inclined to over-work and so need to keep myself in check. I rarely lack motivation (though sometimes lack confidence), I love what I do. Burnout is not laziness, it’s illness.&lt;/p&gt;
+
+&lt;h2 id=&#34;dragging-myself-out-of-it&#34;&gt;Dragging myself out of it&lt;/h2&gt;
+
+&lt;p&gt;After a week of feeling incredibly unhappy, I spent a weekend trying to escape work. But spending the weekend worrying about the amount I had to do once the weekend was over made it worse. The first step to dragging myself out of the burnout was acknowledging that it had become a problem, and realising that I would improve far quicker if I stopped trying to fight it and let myself rest.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-little-bit-at-a-time&#34;&gt;A little bit at a time&lt;/h3&gt;
+
+&lt;p&gt;I’ve found that working a little bit at a time is helping. I’m always very productive in the mornings, so I’ve been getting up early and getting on with work. When I feel the burnout dragging me down, I stop. I do something completely different, completely unrelated to work (walking the dog, playing computer games). These stints away from work seem to re-invigorate me, and after a couple of hours I can get back into working again. I can’t speak for how anyone else feels when they’re burnt out, but this seems to be making me more productive, and really helps my mood and motivation.&lt;/p&gt;
+
+&lt;p&gt;I’m also trying to harness the moments when I’m feeling sharp and focused. Right now I’m writing a blog post because it’s too late to do client work (I know it’d have an effect on a productive early morning tomorrow) but I’m still running off the adrenaline of a successful few hours work earlier in the evening.&lt;/p&gt;
+
+&lt;h3 id=&#34;our-minds-are-funny-things&#34;&gt;Our minds are funny things&lt;/h3&gt;
+
+&lt;p&gt;We forget how important our state of mind is to our overall health until it becomes a real problem. Recent events with those close to me, and &lt;a href=&#34;http://www.truthfully.ca/&#34;&gt;Shannon Fisher&lt;/a&gt; and &lt;a href=&#34;http://lizelcoate.tumblr.com/post/42841858501/18-months-of-freelance-and-the-black-dog&#34;&gt;Liz Elcoate&lt;/a&gt; writing bravely about depression have inspired me to write this post. Let’s talk about these funny minds of us more.&lt;/p&gt;
+
+&lt;h2 id=&#34;28-comments&#34;&gt;28 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-497&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3d5cb04f1bd3bd744b5a7050ebc14874?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3d5cb04f1bd3bd744b5a7050ebc14874?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.jonathanstrong.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jonathan Strong&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-497&#34;&gt;&lt;time datetime=&#34;2013-03-12T20:50:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:50pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great blog post, i feel i can relate to ‘Burnout’.
+
+I’m currently working full-time, starting my own business and studying a distance learning degree! I’ve found that if things get too much and i feel myself getting stressed, i take 15mins to meditate. It’s something new for me but i’ve found that it helps.
+        &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-498&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/Niaccurshi&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Lee Griffin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-498&#34;&gt;&lt;time datetime=&#34;2013-03-12T20:51:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The frustrating thing about it is that you can both understand how it was avoidable&amp;#8230;but also how it couldn’t be avoided! I imagine it’s degrees worse as a full time freelancer, but the whole job is about relationships, and it almost seems inevitable that points are reached where we find ourselves painted in to a corner and unwilling (rather than unable) to do what we really should do which is be frank with those we’re working with and for. 
+
+But there’s the fear that the relationship may sour, and probably some experience in the past about how turning back work, or pushing it back, has resulted in the business side of that relationship being as fruitful.
+
+Jenny (@Grinblo) posted this link today and I think it’s really useful on this subject: [http://t.co/V8ZrEIAgIy](http://t.co/V8ZrEIAgIy&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-499&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6a3ee49625841a3100dd0dc00309cf35?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6a3ee49625841a3100dd0dc00309cf35?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://timothybsmith.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-499&#34;&gt;&lt;time datetime=&#34;2013-03-12T20:53:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:53pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for writing about this. I had recently been in the same boat.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-500&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9dd6817ae3cd4093d6db7cd649836112?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9dd6817ae3cd4093d6db7cd649836112?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Karolina Szczur&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-500&#34;&gt;&lt;time datetime=&#34;2013-03-12T20:57:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        There’s an interesting take on positive side of burnout too: [http://zenhabits.net/burn/](http://zenhabits.net/burn/&#34; rel=&#34;nofollow)
+
+And plus one to being there.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-501&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a8bff715a965594c68c993ca957036af?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://welcomebrand.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;James Young (@welcomebrand)&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-501&#34;&gt;&lt;time datetime=&#34;2013-03-12T21:00:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:00pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve suffered from mild depression (actual, diagnosed depression rather than feeling depressed) in the past as well as having the occasional stretches of just feeling burnt out and unable to focus and it’s all gone away since I’ve started distance running. 
+
+I love being outside in all weathers covering the miles on local trails and I’d recommend it to anyone who struggles. 
+
+There’s a notion that designers love their jobs so much they’re always “on the clock” thinking about design, buying typography books or practicing photography skills etc and I think it’s vital getting away from it all whether it’s running or some other hobby/activity. 
+
+Hope your mind clears a little after a break!
+
+J.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-502&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/11e31aeb26f58f57edf881cfddd974b3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/11e31aeb26f58f57edf881cfddd974b3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.tanusoft.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Christophe Franco&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-502&#34;&gt;&lt;time datetime=&#34;2013-03-12T21:41:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It’s so difficult to comment on this one&amp;#8230; Kudos for having the strength to admit if though, I know what it feels to go through all this, and the hardest part is probably to admit it publicly.
+
+One deep cause that I’ve been able to identify was lacking a reason to keep on with the daily work routine that was progressively burning me out. After a year or so since I’ve finally realized this, I’ve still to figure out what could possibly change my mind so deeply (hint : at least I know it includes life changing decisions both in my work and in my personal life&amp;#8230;)
+
+&lt;p&gt;Reading Peter Bregman’s 18 Minutes has helped me a lot figuring out all this&amp;#8230; If you haven’t read it yet, it’s worth giving it a try.
+
+[http://peterbregman.com/18-minutes/](http://peterbregman.com/18-minutes/&#34; rel=&#34;nofollow)&lt;/p&gt;   &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-523&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ae762973fff8da00c83a428a82f5541f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ae762973fff8da00c83a428a82f5541f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.burnouttoolbox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Roger Carr&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-523&#34;&gt;&lt;time datetime=&#34;2013-06-28T05:20:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:20am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I second the recommendation for the book “18 Minutes.”  I read it at the suggestion of a friend and it helped me as well.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-503&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d6558e7f01eb5667da77bdd3f9fbd38e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d6558e7f01eb5667da77bdd3f9fbd38e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://kodsmuts.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ida&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-503&#34;&gt;&lt;time datetime=&#34;2013-03-12T22:15:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:15pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Thank you for sharing!
+
+I kind of recognize this. People talk a lot about separating work and your personal life. As for me, since I started working as a web developer, I don’t have a barrier between those two anymore. This is both awesome and real bad. I’ve definitely had my moments when I’ve been totally stressed out. &lt;/p&gt;
+I really hope you feel better soon. Stay strong!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-504&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6ace81a8eaf2f4997e054f8d19b0e0a2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6ace81a8eaf2f4997e054f8d19b0e0a2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://totl.net/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Christopher Gutteridge&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-504&#34;&gt;&lt;time datetime=&#34;2013-03-12T22:18:11+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:18pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I am an always-on-the-clock kinda person, but I know (now, after many mistakes and f- ups) that I need to keep some slack in the schedule. Even if I’m in full flow and *could* take on one more thing, I’ve learned to keep enough slack so when I go into a mild burnout I don’t let anybody down. 
+
+That’s when, not if. You can’t run 100% all the time, so don’t budget your time that way. You’ll make yourself ill trying to look after everybody but yourself. 
+
+I generally take the view that any respectable professional looks after their tools and should be respected for doing so. Your number one tool is yourself; mind and body &amp;#8212; not looking after your health isn’t going the extra mile, it’s unprofessional. You’ve got to say some small “no”s all the time, so you don’t end up having to say “no” for 6 months.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-505&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a1a96ac1ce9d8ae633ad9a45990495ba?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a1a96ac1ce9d8ae633ad9a45990495ba?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.sushkelly.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sush Kelly (@maxray)&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-505&#34;&gt;&lt;time datetime=&#34;2013-03-12T22:51:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Ah yes burn out. Kind of sneaks up on you! Had a real bout of it over the last year since we had a little boy. Adding him and the associated sleep depravation and lack of free time suddenly shifted the balance and I realised I had been burning the candle at both ends in order to maintain things. 
+
+As James mentioned about running I found that a run or bike ride really helped as well as accepting that I can no longer just work through the night to get something done! 
+
+It is definitely something that affects web designers more than other fields. I think this is because of the constant shifting in skills and the like.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-506&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e2feaeedc595ffdc675f31f1e6920526?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e2feaeedc595ffdc675f31f1e6920526?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://twitter.com/paulmasek&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul Masek&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-506&#34;&gt;&lt;time datetime=&#34;2013-03-12T23:44:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I find keeping up with the constant changes in the web dev world and the resources that go along with that the most exhausting thing (It does keep things interesting though!).  
+
+I’d be interested to know how people manage to fit ‘education’ into their busy schedules, as I often find my twitter favourites / instapaper / google reader lists spiral out of control&amp;#8230;.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-507&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c35f88ae9dcb3582323160d0dd137bc8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c35f88ae9dcb3582323160d0dd137bc8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://joeyaugustin.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Joey Augustin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-507&#34;&gt;&lt;time datetime=&#34;2013-03-13T02:20:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;02:20am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;The combination of staring at screens all day, sitting, trying to keep up with the industry, looking for work, doing work&amp;#8230; it all adds up to this mental juggling act and before we know it our brain and body fail.
+
+I’m working through similar issues. Being a one-person show as a freelancer is very difficult. Thanks for being honest. I wish you the best.&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-508&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/fe0839f2e5944283ae5e63aa43f125e3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/fe0839f2e5944283ae5e63aa43f125e3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://helloimnik.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Nik&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-508&#34;&gt;&lt;time datetime=&#34;2013-03-13T13:31:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I can completely relate to this –; a bi-product of being a perfectionist, working hard towards my design career and having an almost full time admin job to hold down too. I find myself getting depressed and cabin fevery when I spend too long doing work in front of the computer so it definitely is worth considering our mental health, taking time away from the computer and doing things that refresh you. Wise words Laura!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-509&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Chris Comben&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-509&#34;&gt;&lt;time datetime=&#34;2013-03-13T14:09:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Ah you all just need to man up! ;)
+
+I’ve found cutting up the day and not worrying about constant work helps me too. Watch some TV while working, take a 10 minute nap, call someone, go see a film. Yes it does mean sometimes I have to work at night, but if I feel like I can then it helps me. It amazes me if you actually stop and look at an office how often people are actually not working. You just feel that if you work on your own or at home that you have to do more hours than anyone else.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-510&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/81b6f9b56b91806d00192a12f2d78269?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/81b6f9b56b91806d00192a12f2d78269?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Paul Cross&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-510&#34;&gt;&lt;time datetime=&#34;2013-03-13T16:27:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Possibly the “best” articulation I’ve read.  7 years into running a small business and I’ve been feeling like you describe for the last 2.  There are a few other symptoms you’ve not listed, but I’m not man enough to admit to them.  All the best.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-511&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0d67d2d5776421751c75899fe7c8b0aa?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0d67d2d5776421751c75899fe7c8b0aa?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.republicofquality.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Fisher&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-511&#34;&gt;&lt;time datetime=&#34;2013-03-13T17:31:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Laura, this is such a great post. One I’ve been close to writing over the last few months as I’ve had too much on my plate and knew I was more than burnt out and had reached depression. Recently I took a few days off which lead to three weeks off work just so I could regain some balance. I’m still working on it as it isn’t easy, but I’m lucky to have a courageous life partner at my side. 
+
+I want you to know that Shannon and I are in your corner ready to contribute to a healthy future! You should take some time off this summer and come to Vancouver. ; )
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-513&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/50a2b24590a36e2ca9404a4c03bbe233?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/50a2b24590a36e2ca9404a4c03bbe233?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://truthfully.ca&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;shannon&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-513&#34;&gt;&lt;time datetime=&#34;2013-03-15T02:44:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;02:44am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        HELLS YEAH. xo
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-512&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/af595e4c74f8c5b5347cd24b132ec50a?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/af595e4c74f8c5b5347cd24b132ec50a?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Brian Hermelijn&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-512&#34;&gt;&lt;time datetime=&#34;2013-03-14T11:28:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:28am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I have to say, that I am completely related to this as well. Its like you work on for hours on end, without caring for your own health.
+
+So finding that [peak hours that makes you more creative, would not only give you the advantage to finish work easier, it will also makes you come up with better results. 
+
+Aside from that, I wholeheartedly agree that playing games or just watch some shows that makes you laugh, can make your mind rest and enjoy the moment, until you  can start working again. For some this may be difficult, since they become to focused on the other mentioned tasks.
+
+But it’s definitely something to try out. Thanks for posting this article!
+
+Brian
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-515&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Chatman R.&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-515&#34;&gt;&lt;time datetime=&#34;2013-03-15T20:52:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve dealt with burnout a few times. It really is a consequence of loving your work so much that it doesn’t feel like work. I used to pull a ton of all-nighters to get things done, because I was so eager to get it all launched. Your sleeping habits get messed up, and the exhaustion just shatters productivity.
+
+That said, I’m nowhere near strict enough to have 9-5 kind of consistent hours. Instead I work when I feel most productive, and after a set time (usually 7 hours, give or take an hour), I just *stop*. I’ve found it helps to work according to your natural rhythm, and sometimes that just means stepping back from the keys when time’s up. 
+
+Of course, as you said, sometimes things just spill over in ways we don’t expect. Burnout used to completely piss me off, but now I just try to accept it as a sign that my mind is running on empty and needs a break. And I completely agree that as people we try very hard to look bulletproof to the outside world. Sharing our vulnerabilities can be liberating in a sense, because we all have them. It’s just part of being human.
+
+As always, I appreciate your honesty. Lets us know we’re not alone with our frustrations.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-516&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://simoncox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Simon Cox&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-516&#34;&gt;&lt;time datetime=&#34;2013-03-18T10:00:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:00am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I have talked with Adam about this having been through it myself several times.  This is going to happen to a lot of people if they don’t balance life and work. You right to find other things to do but video games is a bit too close to working on the web –; still using a computer. Taking the dog for a walk is good but you will still be thinking about work while getting pulled along.
+
+Find yourself a hobby –; something you can loose yourself in that completly removes yourself from design and the web. I make model railways –; it’s challenging and very creative (the way I do it –; read ‘bodge’) and completly removes my mind from work and the web. Choose something that doesn’t put any time pressures on you, something that you need to concentrate on and requires some craft to acomplish. The craft aspect will instill ideas in you head for later by opening new nural pathways and provide inspiration.
+
+Last year  I took a week off work and built a shed –; quite a big shed. I was absolutly exhausted, had loads of cuts and bruises including nettle stings when I ignominiously fell off the staging into a nettle bed –; and despite all that the following week I was unstopable at work, really motivated and full of inspiration. 
+
+Go get ’em girl.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-517&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/65796052d4c7fc7ff84eb65ba2a17861?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/65796052d4c7fc7ff84eb65ba2a17861?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/twittem&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Edward McIntyre&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-517&#34;&gt;&lt;time datetime=&#34;2013-03-26T22:27:15+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        One line you said really sticks with me, “Burnout can be a bad side effect of really caring about your work” The interesting thing for me lately is defining the which part of caring is bring me so much grief. 
+
+Personally, I truly get invested in the success of my employers/clients. Sometime this leads to burnout from being overworked, other times it leads to burnout over the actions/inaction of said employer/client. This had led to a lot of thought over when to terminate work for a freelance client or look for a position at another company. 
+
+I find the things the burn me out the most are feeling like you’re working for a company that doesn’t recognize your contributions, or for a client that doesn’t put foot to pavement and use the tools created to be successful.
+
+&lt;p&gt;I often find myself analyzing what I could have done better to contribute to their success. What tools could I have equipped them with? Did I build the best product for them? Did I really hit their target market?
+
+Then apathy kicks in, and its defiantly a squatter in my house of creativity.&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-521&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7966b70a1382fbd8ee144239e1c386d9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7966b70a1382fbd8ee144239e1c386d9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/benpford&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ben Ford&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-521&#34;&gt;&lt;time datetime=&#34;2013-06-19T17:18:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:18pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Nice article Laura.
+
+The way you explain to overcome ‘burnout’ is generally a very good way of working anyway; find the time you work at your best, and try to get a higher percentage of your work done during that time. Take short, regular breaks completely away from your work and your work station.
+
+I read a lot of blogs about this way of working and completely ignored it, questioning how I can do more work when I work less hours.
+
+I decided to try this technique in the last year of my degree, and it completely changed the way I was writing, revising and studying and haven’t stopped working this way since.&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-522&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ae762973fff8da00c83a428a82f5541f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ae762973fff8da00c83a428a82f5541f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.burnouttoolbox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Roger Carr&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-522&#34;&gt;&lt;time datetime=&#34;2013-06-28T05:16:54+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:16am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It is great that you are writing about the topic of burnout.  I have been there and consider myself a recovering burnout.
+
+It is great that you are already aware of burnout and are addressing it before it becomes more serious.  I denied its existence while it crept up on me, so it has required more time and change to deal with it.
+
+Getting away from work can provide a temporary relief, but doesn’t change the work situation.  If you continue to find yourself in chronic stress, consider reevaluating your purpose, goals and processes on the work side of your life.  Changes may be required.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -148,8 +909,78 @@ I’m burned out. The last couple of months have really taken their toll.</descr
       <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mentoring-the-project/</guid>
-      <description>Previous posts on the mentoring project:
- Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people  In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.</description>
+      <description>
+
+&lt;p&gt;Previous posts on the mentoring project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-idea/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the idea&#34;&gt;&lt;span style=&#34;line-height: 13px;&#34;&gt;Mentoring a project: the idea&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-right-project/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the right project&#34;&gt;Mentoring a project: the right project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-finding-the-right-people/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: finding the right people&#34;&gt;Mentoring a project: finding the right people&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.&lt;/p&gt;
+
+&lt;p&gt;Now we’ve got our team together, I can elaborate on our client and the brief. I was very lucky to be contacted by the lovely &lt;a href=&#34;http://www.mallenbaker.net/&amp;quot; target=&amp;quot;_blank&#34;&gt;Mallen Baker&lt;/a&gt;, who had a great project in mind and was willing to give me, and the mentees I chose, a go.&lt;/p&gt;
+
+&lt;h2 id=&#34;gislingham-village-website&#34;&gt;Gislingham village website&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Gislingham is a rural village in Suffolk which has a thriving community with a number of local organisations and businesses. The village website is to be revamped to be able to provide an excellent online support to that community.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gislingham.com&amp;quot; target=&amp;quot;_blank&#34;&gt;http://gislingham.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The website is an old site, using now outdated development techniques (tables!) created by Mallen around ten years ago. Whilst the site has been maintained and updated, it’s in need of a redesign to help it better serve the local community. We are at two distinct advantages here. The existing website means that we can learn from what does and doesn’t work on the existing site. Also, having a client who works in the web industry gives us the advantage that we won’t have to teach the client about the web as we work on the site.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-first-client-meeting&#34;&gt;Our first client meeting&lt;/h2&gt;
+
+&lt;p&gt;Mallen was keen to meet Phil, Yago and Sibylle, and it was a good opportunity to kick the project off. We met last Friday in London.&lt;/p&gt;
+
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+
+&lt;p&gt;In preparation for our first meeting, the mentees dissected the brief and assembled a list of questions for the client. They each made their own lists and then collated these together in a master list which covered a huge range of detail and depth.&lt;/p&gt;
+
+&lt;p&gt;Yago, Sibylle and Phil explored tools and file formats that everybody could use together without causing compatibility issues, wrote a very thorough content inventory and started looking at personas based on the brief and existing users, and researched project management systems at length to find one that was best suited to us, settling on Basecamp. This meant that we had somewhere to keep our discussions as all the email was becoming unruly!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-meeting&#34;&gt;The meeting&lt;/h3&gt;
+
+&lt;p&gt;I tried to stay out the way in the meeting. All of the preparation and research that the mentees had done assured me that they were very capable running the meeting. I tried to only jump in when I thought something might be overlooked (rarely) and to assure them the role I would take for the project.&lt;/p&gt;
+
+&lt;p&gt;Mallen started by explaining more background on the project and what he was looking for in the new site. This informal start already answered a lot of the questions that the mentees had prepared and helped us get to know Mallen better. Then the mentees ran through the list of questions they had, asking any other questions they came up with as they thought of them. This was exactly what I was hoping would happen. Everybody was comfortable enough to ask questions at any point but we didn’t all end up speaking over each other either!&lt;/p&gt;
+
+&lt;h3 id=&#34;money&#34;&gt;Money&lt;/h3&gt;
+
+&lt;p&gt;At the end, I went over how I thought the project should be run, and we talked about money. I’ve been getting better at discussing money with clients, but &lt;a href=&#34;http://unfinished.bz/&amp;quot; target=&amp;quot;_blank&#34;&gt;listening to Andy and Anna on Unfinished Business&lt;/a&gt; has given me more confidence and reassurance that this is the best way to work.&lt;/p&gt;
+
+&lt;p&gt;I want the project to be run as much as possible like I would run a client project myself. This means taking payment in stages, not just in one lump sum. Over the last six months I’ve successfully moved my clients to a structure where I bill 50% of the estimated project as a deposit/retainer, then bill every first and third Thursday of the month (pretty much every two weeks) to ensure a sensible cash flow and that nobody has to wait for, or pay, enormous invoices at the end of a long project.&lt;/p&gt;
+
+&lt;p&gt;Mimicking this process, we decided that, as we’re looking at a nominal payment of £500, breaking it into less than two stages would become a little too much of an admin nightmare. I will have to take the payment, and then pass it on to each mentee. If this got down to sending £10 payments around, it would be more hassle than it was worth. So we decided on a 50% up front and 50% on completion (the details of which will be ironed out in the contract).&lt;/p&gt;
+
+&lt;h2 id=&#34;the-next-steps&#34;&gt;The next steps&lt;/h2&gt;
+
+&lt;p&gt;Before we kick off the project, the mentees are going to assemble a proposal/estimate where they break down what needs doing and how long each task should take. This will help us plan how best to run the project and work out if our deadline is realistic. My next step is sorting out a contract for all of us to sign to make sure we understand our roles and responsibilities over the next couple of months.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-496&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://redheaded-geek.blogspot.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Wickee&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-496&#34;&gt;&lt;time datetime=&#34;2013-03-27T19:22:40+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I really love this project you’re doing. It’s a great idea and can provide some great experience for those you selected. It’s great of you to share and help them. Mentoring can be invaluable. 
+
+I’m really interested to follow along and see how it plays out.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -158,8 +989,135 @@ I’m burned out. The last couple of months have really taken their toll.</descr
       <pubDate>Mon, 25 Feb 2013 17:48:24 +0000</pubDate>
       
       <guid>https://laurakalbag.com/why-i-love-unfinished-business/</guid>
-      <description>I know, this is a funny topic on which to base a blog post but I love the Unfinished Business podcast, and I’d like to elaborate why in something more than a few fawning tweets.
-Business, but not suits Business doesn’t feel like the right word to describe what I do. It’s a hobby that makes me enough money to support myself. The word ‘business’ conjures up images of suits, handshakes and networking.</description>
+      <description>
+
+&lt;p&gt;I know, this is a funny topic on which to base a blog post but I love the &lt;a href=&#34;http://unfinished.bz/&#34;&gt;Unfinished Business podcast&lt;/a&gt;, and I’d like to elaborate why in something more than a few &lt;a href=&#34;https://twitter.com/laurakalbag/status/306038603950198785&#34;&gt;fawning tweets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;business-but-not-suits&#34;&gt;Business, but not suits&lt;/h2&gt;
+
+&lt;p&gt;Business doesn’t feel like the right word to describe what I do. It’s a hobby that makes me enough money to support myself. The word ‘business’ conjures up images of suits, handshakes and networking. Unfinished Business feels like a podcast about my kind of business. It’s not about synergising or maximising profits in the next quarter, it’s about how to do the best by our clients and ourselves.&lt;/p&gt;
+
+&lt;h2 id=&#34;transparency-openness-honesty&#34;&gt;Transparency, openness, honesty&lt;/h2&gt;
+
+&lt;p&gt;The entire premise of the Unfinished Business podcast is to speak openly about business end of the web, design and creative industries. And Anna and Andy really do exactly that. They’re not saying things to impress people, they talk about mistakes they’ve made and how they think they could do business better, and they’re not scared of talking about “taboo” subjects, such as money. This means each episode is full of insights on how to get started working as a small business, and how to keep that small business running successfully.&lt;/p&gt;
+
+&lt;p&gt;It says it all over my site, honesty is really my thing. From me this might come in the form of over-sharing occasionally on Twitter, and often putting my foot in my mouth. Still, honesty feels like something that’s lacking in the business world. The web community that I know isn’t competitive, it’s sharing. Unfinished Business reflects this non-competitive sharing when Anna and Andy speak so honestly about business. They’re not doing a podcast to gain a competitive advantage against other developers and designers who don’t have podcasts, they’ve just created a space to share experiences.&lt;/p&gt;
+
+&lt;h2 id=&#34;ethics&#34;&gt;Ethics&lt;/h2&gt;
+
+&lt;p&gt;This is what struck me today, and the reason why Unfinished Business resonates so much with me. Anna and Andy don’t talk about how to make money, they talk about how to do a good job for your clients. Today I listened to them discussing handing over files to clients when the business relationship has finished. Their priority was doing the right thing, and not making life difficult for that client after they’ve moved on. This means so much. It’s one thing to be hardworking and good at your job, it’s quite another to be a good person.&lt;/p&gt;
+
+&lt;p&gt;These are good people. And &lt;a href=&#34;http://unfinished.bz/&#34;&gt;you should listen to their podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2345&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/unfinished-bz.png&#34; alt=&#34;Andy &amp;amp;amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;9-comments&#34;&gt;9 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-487&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6a3ee49625841a3100dd0dc00309cf35?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6a3ee49625841a3100dd0dc00309cf35?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://timothybsmith.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-487&#34;&gt;&lt;time datetime=&#34;2013-02-25T17:56:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:56pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I totally agree. I love this podcast. I’m really excited about this new wave of talking frankly and honestly about business. It’s so helpful, no matter what stage of your career you find yourself in.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-488&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-488&#34;&gt;&lt;time datetime=&#34;2013-02-25T18:09:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        And that is high praise indeed coming from someone who runs such a meaningful podcast himself!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-489&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/362da963c1a8e81cc508fd6b972ca4df?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/362da963c1a8e81cc508fd6b972ca4df?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.robhampson.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rob&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-489&#34;&gt;&lt;time datetime=&#34;2013-02-25T18:16:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is awesome. Couldn’t agree more. Will be checking out this podcast :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-490&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/aa8e9557e5fe402953f8d2fb726b731d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/aa8e9557e5fe402953f8d2fb726b731d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Dan Boulet&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-490&#34;&gt;&lt;time datetime=&#34;2013-02-25T18:17:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:17pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I agree, Laura. Never thought I’d enjoy listening to two people talk about business for an hour, but Andy and Anna have proven me wrong.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-491&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-491&#34;&gt;&lt;time datetime=&#34;2013-02-25T20:19:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:19pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Personally what I enjoy most about the podcast is the realisation that we all experience similar problems in business and I am not alone. They are things that can be solved/worked through. 
+
+When knee deep and in the thick of it, sometimes it pays for me to step away and reflect on that.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-492&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/32df526463f91b68f822af66a6b9027f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/32df526463f91b68f822af66a6b9027f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://overthecounterdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chatman R.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-492&#34;&gt;&lt;time datetime=&#34;2013-02-25T21:13:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I definitely need to catch up on Unfinished Business. I’ve been building things for a while, but I still have some difficulty wrapping my head around the business side of things. I mean, clients *are* the business, but no one really likes to talk about the financial side and daily operations.
+
+I feel like Unfinished Business fills a gap we were only vaguely aware was there: real business advice without stiff business practices. Mike Monteiro got that ball rolling with &lt;cite&gt;Design is a Job&lt;/cite&gt;, which I will shamlessly endorse because it’s an excellent read. That it’s hosted by two of my professional heroes is just icing on the cake.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-493&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d212a102c8e7f5b7b80fc3910e16ab22?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d212a102c8e7f5b7b80fc3910e16ab22?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;yago&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-493&#34;&gt;&lt;time datetime=&#34;2013-02-25T23:01:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I couldn’t agree more. I don’t know them personally like you do, but by listening to the ideas they defend and how they approach ‘taboo’ subjects, I very much look forward to meeting the both of them soon! :)
+
+Just to state the obvious, unfinished.bz has become a must-listen for me, I’m actually saving the episodes for offline perusal&amp;#8230; ;)
+
+Y&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-494&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://redheaded-geek.blogspot.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Wickee&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-494&#34;&gt;&lt;time datetime=&#34;2013-03-27T19:28:54+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I recently subscribed to their podcast because it sounded good, but hadn’t started listening yet. Glad to hear it will be worthwhile when it comes up in listening.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -168,9 +1126,23 @@ Business, but not suits Business doesn’t feel like the right word to describe 
       <pubDate>Wed, 06 Feb 2013 09:23:20 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-east-wing-podcast/</guid>
-      <description>Yesterday I was a guest on Tim Smith‘s The East Wing podcast. It was a pre-recorded conversation and it was great fun. You can listen to it on the East Wing website, and it’ll be up on iTunes soon.
-We discussed how I got started in the industry (really sorry traditional Graphic Design people, I may have generalised a bit…), speaking at conferences, women in the industry and mentoring.
-As I said last night on Twitter, Tim Smith is such a great guy.</description>
+      <description>&lt;p&gt;Yesterday I was a guest on &lt;a href=&#34;http://twitter.com/ttimsmith&#34;&gt;Tim Smith&lt;/a&gt;‘s &lt;a href=&#34;http://theeastwing.net/&#34;&gt;The East Wing podcast&lt;/a&gt;. It was a pre-recorded conversation and it was great fun. You can &lt;a href=&#34;http://theeastwing.net/episodes/laura-kalbag&#34;&gt;listen to it on the East Wing website&lt;/a&gt;, and it’ll be up on iTunes soon.&lt;/p&gt;
+
+&lt;p&gt;We discussed how I got started in the industry (really sorry traditional Graphic Design people, I may have generalised a bit…), speaking at conferences, women in the industry and mentoring.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href=&#34;https://twitter.com/laurakalbag/status/298862630506991616&#34;&gt;I said last night on Twitter&lt;/a&gt;, Tim Smith is such a great guy. I really had my heart warmed and faith in humanity boosted by our conversation. His thoughts on women in the industry made me proud to be part of the web community.&lt;/p&gt;
+
+&lt;p&gt;And if you don’t already &lt;a href=&#34;https://itunes.apple.com/gb/podcast/the-east-wing/id503801143?mt=2&#34;&gt;subscribe to The East Wing podcast&lt;/a&gt;, do it! It’s full of great, and inspiring, insight on the people behind the work in the web industry.&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter size-full wp-image-2085&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/east-wing.png&#34; alt=&#34;The East Wing podcast&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
@@ -179,8 +1151,103 @@ As I said last night on Twitter, Tim Smith is such a great guy.</description>
       <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
-      <description>A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.
-Me and freelancing I’m lucky, I get offered a lot of projects, and usually I don’t have any availability for a few months. Little projects like this generally can’t pay the bills for me. It’s a lot of time (particularly admin) for a fairly small return.</description>
+      <description>
+
+&lt;p&gt;A couple of days ago, a potential project turned up in my inbox. An old school friend wants a website, needs it soon and doesn’t have a huge budget.&lt;/p&gt;
+
+&lt;h2 id=&#34;me-and-freelancing&#34;&gt;Me and freelancing&lt;/h2&gt;
+
+&lt;p&gt;I’m lucky, I get offered a lot of projects, and usually I don’t have any availability for a few months. Little projects like this generally can’t pay the bills for me. It’s a lot of time (particularly admin) for a fairly small return.&lt;/p&gt;
+
+&lt;p&gt;I have a very small list of trusted designers that I’ll happily pass these projects. The thing is, when I do this, it’s a risk for me too. If I recommend someone who turns out to be unreliable, it makes me look bad too.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-inspiration&#34;&gt;The inspiration&lt;/h2&gt;
+
+&lt;p&gt;After listening to &lt;a href=&#34;http://unfinished.bz/&#34;&gt;Unfinished Business&lt;/a&gt; with &lt;a href=&#34;http://unfinished.bz/#presenters&#34;&gt;Anna Debenham and Andy Clarke&lt;/a&gt;, I’ve been inspired to be more open about how I work. I’ve never been one to keep secrets, I’m always happy to discuss my rates and how I work with anyone, but I’ve never actively shared this information. And after talking to loads of students recently, I’ve realised that one of the hardest things, after landing a project in the first place, is knowing how to run a project and talk to clients.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-idea&#34;&gt;The idea&lt;/h2&gt;
+
+&lt;p&gt;These thoughts and this project collided in my mind.&lt;/p&gt;
+
+&lt;p&gt;I want to help “de-mystify” these elements of freelancing. I wouldn’t call myself an expert, I’m not sure many people could. But after around four years of freelancing, I feel like I am &lt;em&gt;successful&lt;/em&gt;; I make enough money to support myself, living and working by myself.&lt;/p&gt;
+
+&lt;p&gt;It strikes me that the transition from student to freelancer is particularly hard, and so I’m looking for students/graduates/new freelancers to work on this project. Here’s the tweet that I sent out:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurakalbag/status/296305016954834944&#34;&gt;Tweet&lt;/a&gt;
+I’ve already had more than twenty replies, my next goal is to make sure I find one or two people who can gain as much as possible from this project. If you’re interested, please &lt;a href=&#34;https://laurakalbag.com/contact-me/&#34; title=&#34;Contact Me&#34;&gt;email me&lt;/a&gt;. I’ll hopefully be sending out an email to everyone who’s interested later on today.&lt;/p&gt;
+
+&lt;p&gt;I’m hoping to blog the process as much as possible, so other people can share in our experience. My next post will cover how I’m going to try to find a good match to work on the project.&lt;/p&gt;
+
+&lt;h2 id=&#34;8-comments&#34;&gt;8 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-453&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d40014a5f1be502104d77e5277cb1fdc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Oliver&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-453&#34;&gt;&lt;time datetime=&#34;2013-01-30T09:38:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:38am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Great idea!
+
+Best of luck to all the other candidates :)&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-454&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://webeyedea.info&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Prisca&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-454&#34;&gt;&lt;time datetime=&#34;2013-01-30T09:43:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:43am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Laura :)
+
+just wanted to repeat that I think this is such a brilliant idea, one which all parties will benefit from for sure :)
+
+Working with real clients is something that teaches so much, having a mentor / expert at hand to run to for help and advise is invaluable. As a student or newcomer to the field, it is often scary—though it does not need to be.
+
+This is one of the reasons why I get my students to work with a [ real client project ](http://webeyedea.info/wp/real-client-sites/&#34; rel=&#34;nofollow) during my course. Tends to be quite time-consuming for me, to manage it all (number of students = number of clients)—but… **it is really worth it**: happy, grateful clients &amp;amp; happy, more informed newbies &amp;amp; one happy tutor :-)&lt;/p&gt;
+Your idea of doing this is fabulous –; hope you will find a good match :) and really hope this will inspire more web peeps to follow suit :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-455&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7da76b0cd1bf05b90ade5b4f7738aa49?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Steve&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-455&#34;&gt;&lt;time datetime=&#34;2013-01-30T20:19:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:19pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is fantastic, Laura. If only more folks in more fields applied this kind of attitude. Imagine how awesome we would all be?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-457&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a009e11e36f1fc6ec77306527b5f9415?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://squarebracket.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dan Farrow&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-457&#34;&gt;&lt;time datetime=&#34;2013-02-01T16:11:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:11pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is a great idea Laura. I’ve had a couple of &lt;i&gt;“those”&lt;/i&gt; kind of job requests recently and this seems a much more constructive approach than taking on the job directly and potentially spoiling a friendship :) 
+
+I tend to forget how hard-won my 10 years of accumulated web knowledge has been and how valuable it could be to new designers &amp;amp; developers.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-458&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/148ae4bc14dcf1808cfee69bd9fc5d5e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://about.me/NeilNand&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Neil&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-458&#34;&gt;&lt;time datetime=&#34;2013-03-04T15:29:11+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is such a great idea, don’t know of many others who’ve done something like this but it sounds like it’d be really helpful to someone trying to get experience.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -189,8 +1256,106 @@ Me and freelancing I’m lucky, I get offered a lot of projects, and usually I d
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
       
       <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
-      <description>Insites is a mini tour of four cities in the UK where Keir Whitaker and Elliot Jay Stocks present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where Aral Balkan, Sarah Parmenter and Jeremy Keith were the guests.
-The Format The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience.</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://insitestour.com/&#34;&gt;Insites&lt;/a&gt; is a mini tour of four cities in the UK where &lt;a href=&#34;http://keirwhitaker.com/&#34;&gt;Keir Whitaker&lt;/a&gt; and &lt;a href=&#34;http://elliotjaystocks.com/&#34;&gt;Elliot Jay Stocks&lt;/a&gt; present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where &lt;a href=&#34;http://aralbalkan.com/&#34;&gt;Aral Balkan&lt;/a&gt;, &lt;a href=&#34;http://www.sazzy.co.uk/&#34;&gt;Sarah Parmenter&lt;/a&gt; and &lt;a href=&#34;http://adactio.com/&#34;&gt;Jeremy Keith&lt;/a&gt; were the guests.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-format&#34;&gt;The Format&lt;/h2&gt;
+
+&lt;p&gt;The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience. Except it was much less formal than that. There were breaks in between and a comfortably small amount of people (I’m rubbish at estimating amounts of people so I’ll save you the pain) so there was a really relaxed and casual environment where everybody seemed happy to chat about anything.&lt;/p&gt;
+
+&lt;p&gt;The genius was really in the way it was run. Keir and Elliot asked really interesting and leading questions and Aral, Sarah and Jeremy were all open and honest so they genuinely did provide insight into their lives in the web/tech industry. I don’t think it would have worked had the interviewers been unfamiliar with the guests, and with Keir and Elliot both working in the industry doing similar jobs to most people in the audience, their questions always felt appropriate and had something of the &lt;em&gt;that’s-just-what-I-wanted-to-ask&lt;/em&gt; about them.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-actual-insights&#34;&gt;The Actual Insights&lt;/h2&gt;
+
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;The first thing that struck me about each of the guests (and a lot of people I spoke to) was that everybody was self-taught in some way. That’s really inspiring for anybody wanting to work with the web or iOS. Each of the guests hadn’t studied design or development formally yet they’re helping lead the way and set the standards in user experience, iOS design and development.&lt;/p&gt;
+
+&lt;p&gt;Funnily enough, despite not having formal education, Aral, Sarah and Jeremy each teach workshops. It goes to show how well they know their subject matter in order to host successful workshops, but also how the semi-formalisation of education can work and enough people seem to enjoy learning that way (rather than self-teaching through books or the web.) And a lot of people must prefer this way of learning as the amount of workshops seem to be on the up.&lt;/p&gt;
+
+&lt;h3 id=&#34;client-work&#34;&gt;Client Work&lt;/h3&gt;
+
+&lt;p&gt;One of the directions that a lot of web industry professionals seem to be taking lately is moving away from client work and towards making their own products. Aral was incredibly passionate about how much more he enjoyed working for himself in every sense, rather than having ever-changing clients for bosses.&lt;/p&gt;
+
+&lt;p&gt;Sarah provided some great advice on the warning signs when starting work with potential clients, as she’s had her fair share of painful client relationships, and relayed that she thinks she’s just* too* nice and so clients take advantage. As someone who completely identifies with the niceness approach, it was heartening to see that Sarah has found such great clients that she’s considering working for two exclusively. This is also interesting as it shows more of that same direction of moving away from working with different clients and towards maintaining products as a career.&lt;/p&gt;
+
+&lt;p&gt;Jeremy was honest in saying he preferred to just get on with the development, and is very fortunate to work as part of an agency where Andy Budd enjoys handling the clients and accounts sides of a project. I think many freelancers find the sales and admin are the worst part of the job so it made sense that forming an agency with like-minded people would be a good idea, but Jeremy pointed out that this does only really work if there is one individual who is happy to work on the ‘business’ side whilst the others work on the project itself.&lt;/p&gt;
+
+&lt;h3 id=&#34;outlooks&#34;&gt;Outlooks&lt;/h3&gt;
+
+&lt;p&gt;What I took away in summary to these talks was really one big point, &lt;strong&gt;everybody there was following a career path based around what makes them happy and fulfilled over what might make them rich&lt;/strong&gt;. And this really emphasises what I love so much about the industry. People are there because they enjoy it, people want to make a difference and make the web a really cool place.&lt;/p&gt;
+
+&lt;h2 id=&#34;and-the-rest&#34;&gt;And The Rest&lt;/h2&gt;
+
+&lt;p&gt;Due to the nature of the Insites tour, people came with a willingness to discuss work, process and dealing with clients rather than focusing on the techniques and technologies that we go on about during the working day. This lead to a few good discussions outside of the talks with the guests where I felt my brain buzzing from finally starting to understand a bit more about how we work.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-am-endlessly-lucky-with-the-clients-i-have&#34;&gt;I am endlessly lucky with the clients I have&lt;/h3&gt;
+
+&lt;p&gt;I assumed that most people had good clients. From the various discussions it does look like I am very lucky in having ended up with *predominantly* lovely, responsive, &lt;strong&gt;paying-on-time&lt;/strong&gt; clients. After talking to the &lt;a href=&#34;http://mrqwest.co.uk/cc/&#34;&gt;Croydon Creatives&lt;/a&gt; bunch (and also something Sarah mentioned,) we really seemed to conclude that having a top contract is one of the most important aspects of client work. Not necessarily a boring law-speak contract, but something that appealed to the client and showed that you’re a human who deserves to be paid for your hard work, as well as laying out some &lt;em&gt;just-in-case&lt;/em&gt; terms.&lt;/p&gt;
+
+&lt;h3 id=&#34;labels-and-titles&#34;&gt;Labels and Titles&lt;/h3&gt;
+
+&lt;p&gt;And the final fascinating conversation that was really ongoing throughout the evening outside of the talks was about labelling. It stemmed from Aral and &lt;a href=&#34;http://www.andybudd.com/&#34;&gt;Andy Budd&lt;/a&gt;‘s disagreement on what makes a UX Designer, but lead to discussing how we describe ourselves to clients and each other.&lt;/p&gt;
+
+&lt;p&gt;I finally learnt the different between ‘&lt;strong&gt;indie&lt;/strong&gt;‘ and ‘&lt;strong&gt;freelance&lt;/strong&gt;‘ (indie means you produce work for yourself or customers, freelance means you work for clients) and that Jeremy Keith works somewhere between a rotating job title and none whatsoever because it’s the work that do that speaks for you, rather than what you call yourself.&lt;/p&gt;
+
+&lt;p&gt;The conclusion that I came to was that labels are a pain. Everybody is judged on what they call themselves and, within the industry, it doesn’t really matter as soon as you’re familiar with somebody’s work. What we &lt;em&gt;do&lt;/em&gt; need labels and job titles for is accurately communicating what we do to potential clients. This means we should forget about the acronyms and jargon and sometimes the most appropriate description is ‘&lt;strong&gt;I make websites&lt;/strong&gt;.’&lt;/p&gt;
+
+&lt;h2 id=&#34;so-if-you-re-in-manchester-or-bristol-this-week-go&#34;&gt;So if you’re in Manchester or Bristol this week, go!&lt;/h2&gt;
+
+&lt;p&gt;I took a day to write this post, so I’m a bit late in telling people to go to the London leg of the Insites tour, but Manchester is tonight and Bristol is tomorrow night.&lt;/p&gt;
+
+&lt;p&gt;It was definitely one of the best events I’ve attended in a while, and one that just gave me faith in how the industry and community is &lt;em&gt;just&lt;/em&gt; &lt;strong&gt;brilliant&lt;/strong&gt; (and probably the best ever.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Note: please forgive my enthusiasm in this post, I hope it’s not &lt;strong&gt;&lt;em&gt;too&lt;/em&gt;&lt;/strong&gt; annoying, but I had a really good time!&lt;/p&gt;
+
+&lt;h2 id=&#34;3-comments&#34;&gt;3 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-249&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e447058d3157368c3919157905bd8de3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e447058d3157368c3919157905bd8de3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrqwest.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Anthony&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-249&#34;&gt;&lt;time datetime=&#34;2011-07-20T13:20:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write up Laura, and pretty much summed up the way I felt after the evening too! 
+
+@MrQwest
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-250&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.simoncox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Simon Cox&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-250&#34;&gt;&lt;time datetime=&#34;2011-07-20T17:07:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:07pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write up Laura –; captured the essence very well. Excellent evening and a pleasure to meet you.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-251&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b47e4f9448a175c868e8088abe08f778?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b47e4f9448a175c868e8088abe08f778?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.georgewiscombe.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;George Wiscombe&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-251&#34;&gt;&lt;time datetime=&#34;2011-07-20T18:33:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:33pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I couldn’t agree more with your thoughts on labels &amp;amp; titles, I think the same applies to CV’s (in the creative industries at least).  A list of academic achievements or awesome companies you’ve worked at doesn’t matter to me, it’s all about the quality of work *you* produce and the way in which you can articulate your ideas. 
+
+The merits from working with great people &amp;amp; big brands definitely go some way to helping with that, but it’s not everything.
+
+Great post, thanks for sharing –; sounds like a great evening! I’ll write the London night up when I get a chance to breathe :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

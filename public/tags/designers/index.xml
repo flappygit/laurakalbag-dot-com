@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Designers on Laura Kalbag</title>
+    <title>Posts from Designers on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/designers/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 30 Aug 2013 09:00:54 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
       
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
-      <description>This week the first post was published on my A List Apart column. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.
-It’s good fun and a proper challenge having an editor working with me. I’ve already learned a lot, and I hope to be slightly less hopeless at writing clearly as the months go by…</description>
+      <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
+
+&lt;p&gt;It’s good fun and a proper challenge having an editor working with me. I’ve already learned a lot, and I hope to be slightly less hopeless at writing clearly as the months go by…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;
+&lt;figure class=&#34;alignnone size-full wp-image-4064&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/09/good-designers-good-clients.png&#34; alt=&#34;Good Designers, Good Clients, my post on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +38,173 @@ It’s good fun and a proper challenge having an editor working with me. I’ve 
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
       
       <guid>https://laurakalbag.com/learning-design/</guid>
-      <description>Every now and again someone will email me asking how they should go about learning design. After reading Aral Balkan’s fantastic post on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
-First off, read Aral’s post.</description>
+      <description>
+
+&lt;p&gt;Every now and again someone will email me asking how they should go about learning design. After reading &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral Balkan’s fantastic post&lt;/a&gt; on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.&lt;/p&gt;
+
+&lt;p&gt;First off, read &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral’s post&lt;/a&gt;. It might seem intimidating. Aral emphasises the importance of considering every tiny design decision you make. There’s no easy-in. But really there’s no easy-in to doing anything well. Development might appear to be something with a low barrier to entry, but in order to do development with web standards, or to any level of efficiency, you need to take the time to learn the best techniques and working processes.&lt;/p&gt;
+
+&lt;p&gt;Considering every tiny design decision might also make design seem like a much more arduous process than it needs to be. In truth, if you are considering your users, their experience, and your overall design vision in the back of your mind, every decision you make whilst designing will be considered. It can feel somewhat subconscious at times. If you have the ‘feeling’ that your choice of typography suits the project, then chances are, if you analyse the cognitive and emotional impact on the user, you’ll find your subconscious actually made those decisions for a reason. Design isn’t instinct. This ‘instinct’ is really something that we’ve built up from the experience of millions of different design decisions, and evaluating their success and failure.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-how-to-design&#34;&gt;Learning &lt;em&gt;how&lt;/em&gt; to design&lt;/h2&gt;
+
+&lt;p&gt;Design is a pretty tricky thing to just ‘learn’; it doesn’t happen overnight. Following a tutorial on how to create a photo-realistic SLR camera in Photoshop is about as useful as following a tutorial on how to create an SLR camera in CSS; it teaches you how to use the tools but not about why you’d want to use an SLR camera illustration in your design. The best thing is to try as many different design tasks as possible to test yourself and gain experience on what does and doesn’t work. I also find looking at other people’s design work and considering its effectiveness really helps develop an understanding of design principles in relation to your own personal taste. This is what a lot of art and design education is built around; interpreting and understanding the work of other people. Blog posts where people tell you about their inspiration and how they designed their sites are the best sources for this kind of learning as you get real insight into the decisions of the designer.&lt;/p&gt;
+
+&lt;p&gt;The opposite of this are sites that showcase trends, ‘beautiful’ websites or lists of a particular type of site as ‘inspiration.’ These tend to be examples of what are very aesthetically-pleasing designs, but not necessarily successful designs in terms of a good user experience. Of course convention can be a trend of sorts. If one designer establishes a really easy-to-use type of navigation, then it’s inevitable that those working on similar projects may use that standard as a basis for their own navigation, but only &lt;em&gt;similar&lt;/em&gt; projects. It’s so easy to mimic a lovely visual aesthetic to make your project look good, but you really need to consider if that’s an &lt;em&gt;appropriate&lt;/em&gt; aesthetic style.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+
+&lt;p&gt;Blog-wise, I prefer the more ideasy and critical thinking blogs, as I find ‘how to design xyz’ is never terribly useful unless you’re working on an identical project.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-list-apart-design-category-http-www-alistapart-com-topics-design&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/topics/design/&#34;&gt;A List Apart design category&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Very few magazine sites curate design content so well. It’s all too easy to fall into posts that are just lists of ‘inspiration.’ A List Apart is one of the most tightly-curated and edited magazines around, and their design articles are always worth a read.&lt;/p&gt;
+
+&lt;h4 id=&#34;paul-robert-lloyd-http-www-paulrobertlloyd-com-journal&#34;&gt;&lt;a href=&#34;http://www.paulrobertlloyd.com/journal/&#34;&gt;Paul Robert Lloyd&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you’re looking to learn more about design thinking, especially a focus on how responsiveness fits into design, Paul Robert Lloyd’s posts are must-reads.&lt;/p&gt;
+
+&lt;h4 id=&#34;usabilitypost-http-www-usabilitypost-com&#34;&gt;&lt;a href=&#34;http://www.usabilitypost.com/&#34;&gt;UsabilityPost&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A very insightful blog focused on usability, often discussing design in terms of successful user experiences.&lt;/p&gt;
+
+&lt;h4 id=&#34;sidebar-io-http-sidebar-io&#34;&gt;&lt;a href=&#34;http://sidebar.io/&#34;&gt;Sidebar.io&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Sidebar.io is crowd-sourced by a select group, so has a slightly curated more zeitgeist-y feel to it. The links aren’t always long-form articles on design, but if there’s a good post going around, they’ll pick up on it.&lt;/p&gt;
+
+&lt;h4 id=&#34;mark-boulton-http-www-markboulton-co-uk-journal&#34;&gt;&lt;a href=&#34;http://www.markboulton.co.uk/journal&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Mark has always been talking about more traditional design theory as a part of web design, and his approach has always inspired me.&lt;/p&gt;
+
+&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
+
+&lt;p&gt;Twitter is a great way to keep up with good designers. I find these snippets of insight can often provide bite-size inspiration when I really need it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bastianallgeier&#34;&gt;Bastian Allgeier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/armstrong&#34;&gt;Chris Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/aral&#34;&gt;Aral Balkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/markboulton&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simplebits&#34;&gt;Dan Cederholm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/malarkey&#34;&gt;Andy Clarke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sachagreif&#34;&gt;Sacha Greif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/owltastic&#34;&gt;Meagan Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hellofisher&#34;&gt;Steve Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/mishunov&#34;&gt;Denys Mishunov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/vpieters&#34;&gt;Veerle Pieters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+
+&lt;p&gt;I’m always disappointed that there aren’t more design theory books with a focus on web design. The few I’ve found are here, but also books on usability and graphic design where you can combine the knowledge to create a great design background.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-the-invisible-by-robert-mills-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-the-invisible&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible&#34;&gt;A Practical Guide to Designing the Invisible by Robert Mills&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Understanding design as a language, and how design is more than just the visual decoration. &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;I’ve reviewed Rob’s book in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-for-the-web-by-mark-boulton-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-for-the-web&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web&#34;&gt;A Practical Guide to Designing for the Web by Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A great grounding in many of the different areas of design theory in relation to the web. I’m very eagerly awaiting Mark’s next book on grid theory.&lt;/p&gt;
+
+&lt;h4 id=&#34;ordering-disorder-grid-principles-for-web-design-by-khoi-vinh-http-grids-subtraction-com&#34;&gt;&lt;a href=&#34;http://grids.subtraction.com/&#34;&gt;Ordering Disorder: Grid Principles for Web Design by Khoi Vinh&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Pre-dating responsive design, but still a very valuable book for learning about applying grids to web design in a practical way.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-elements-of-user-experience-by-jesse-james-garrett-http-www-jjg-net-elements&#34;&gt;&lt;a href=&#34;http://www.jjg.net/elements/&#34;&gt;The Elements of User Experience by Jesse James Garrett&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An oldie but a goodie. These founding principles really molded the way I view design for the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;designing-for-emotion-by-aarron-walter-http-www-abookapart-com-products-designing-for-emotion&#34;&gt;&lt;a href=&#34;http://www.abookapart.com/products/designing-for-emotion&#34;&gt;Designing for Emotion by Aarron Walter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Considering not just the user experience, but the user emotions. A quick but brilliant read which &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;I’ve reviewed in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-how-could-i-forget-this-first-time-round-elements-of-typographic-style-by-robert-bringhurst-http-www-amazon-co-uk-elements-typographic-style-robert-bringhurst-dp-0881792063&#34;&gt;[Edit: How could I forget this first time round?!] &lt;a href=&#34;http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063&#34;&gt;Elements of Typographic Style by Robert Bringhurst&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An incredibly in-depth guide to typography, giving you all the basic principles you need and more.[/edit]&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-2-8faces-magazine-http-8faces-com&#34;&gt;[Edit 2:] &lt;a href=&#34;http://8faces.com/&#34;&gt;8faces Magazine&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Not quite a book, but a beautiful typography magazine with new releases a few times a year. 8faces introduces you to great quality typefaces and provides plenty of insight into design with its feature interviews.[/edit]&lt;/p&gt;
+
+&lt;h2 id=&#34;i-ll-try-to-keep-them-coming&#34;&gt;I’ll try to keep them coming&lt;/h2&gt;
+
+&lt;p&gt;Resources on learning design aren’t necessarily those I keep a lookout for, but I’m going to make a conscious effort to do so from now on. I’ll &lt;a href=&#34;http://twitter.com/laurakalbag&#34;&gt;post on Twitter&lt;/a&gt; and maybe do a round-up post later on, so let me know if you know of any good resources I should check out.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-427&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ntljk.tumblr.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;natalie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-427&#34;&gt;&lt;time datetime=&#34;2012-12-31T15:28:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you Laura! This is fantastic :). Happy New Year!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-429&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tushar&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-429&#34;&gt;&lt;time datetime=&#34;2013-01-01T19:44:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Awesome, Resourceful
+
+Thanks Laura !!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-430&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Sibylle&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-430&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:34:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very useful, Laura, thanks! Know/have read most of the books but need to look at some of those online resources and people :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-431&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.bikehound.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charles BH&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-431&#34;&gt;&lt;time datetime=&#34;2013-01-02T23:20:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        What do you think about the Smashing Magazine books, especially volume 1&amp;amp;2?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-432&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-432&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:45:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:45am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m afraid I’ve not read them. I shamefully only own Volume 3, and haven’t read much of it yet.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-433&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.studentguidewebdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Janna Hagan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-433&#34;&gt;&lt;time datetime=&#34;2013-01-29T21:51:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura, Love what you’re doing here. I myself am a college student and I created [Student Guide Web Design](http://www.studentguidewebdesign.com&#34; rel=&#34;nofollow) simply out of frustration with the material I was being presented during my design education. I love helping others because it’s a great way for me to learn myself, but also helps others out who are also trying to overcome the same challenges (because I was there at one point!).
+
+Cheers from Canada :)&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +213,89 @@ First off, read Aral’s post.</description>
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
       
       <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
-      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
-Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+      <description>
+
+&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/&#34; title=&#34;Using Dribbble and Forrst for feedback on a client project&#34;&gt;discussing Dribbble and Forrst&lt;/a&gt;, and &lt;a href=&#34;https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/&#34; title=&#34;Good old designer snobbery is alive and kicking&#34;&gt;my latest post that looked at criticism in design&lt;/a&gt;, I’ve been thinking a lot more about how feedback features in my design process.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-stuck&#34;&gt;Getting stuck&lt;/h2&gt;
+
+&lt;p&gt;When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.&lt;/p&gt;
+
+&lt;p&gt;Somehow it didn’t feel right though, I didn’t feel like I was working for myself, asking other designers could feel a bit like cheating. I didn’t like how detached it made me feel from the design when I started to follow the ideas of other designers that have completely different approaches and styles from my own. I decided I don’t feel comfortable sharing work in those stages with other designers as they can be a negative influence on me. Not because they make bad suggestions, but because I work to satisfy them.&lt;/p&gt;
+
+&lt;p&gt;No longer craving that kind of approval, I’ve realised that I make extensive use of two new types of feedback, client feedback and ‘boyfriend’ feedback.&lt;/p&gt;
+
+&lt;h2 id=&#34;client-feedback&#34;&gt;Client Feedback&lt;/h2&gt;
+
+&lt;p&gt;So it might sound totally obvious. Inevitably, you will always get feedback from the client at &lt;em&gt;some&lt;/em&gt; point. However I’ve found myself doing this at earlier and earlier stages since I starting working freelance.&lt;/p&gt;
+
+&lt;p&gt;Lately I’ve been going straight into talking to the client as soon as the design slows down or is coming suspiciously quickly (usually a sign that I’ve jumped on a bandwagon or just acted on my first, badly thought-out idea.) I came to the conclusion that there’s no point searching for answers so far away from the problem. The client is the one person who set the brief and will approve the results, they’re the beginning and the end, so why not involve them more in the middle as well?&lt;/p&gt;
+
+&lt;h3 id=&#34;feedback-now-polish-later&#34;&gt;Feedback now, polish later&lt;/h3&gt;
+
+&lt;p&gt;Number one newbie mistake is showing a client a 100% complete mockup (or even live) page design. I’ve done it, and kicked myself for it. Chances are you’ll have really jumped on an idea and run with it. The problem is that the client might not like your angle or approach. You’ve just wasted a huge amount of hours on something that is rejected outright.&lt;/p&gt;
+
+&lt;h4 id=&#34;you-re-designing-for-the-client&#34;&gt;You’re designing for the client&lt;/h4&gt;
+
+&lt;p&gt;There’s no need to be fearful of showing something incomplete. Clients aren’t stupid, and if you explain that the work is unfinished but you’re looking for their input on what you’ve done so far, they’re likely to be grateful that you’re keeping them in the loop.&lt;/p&gt;
+
+&lt;p&gt;Unfinished work doesn’t necessarily mean bad work either. You’re not posting your work online for the world to see, you’re sharing progress and developing designs.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-benefits-of-feedback-now&#34;&gt;The benefits of feedback now&lt;/h4&gt;
+
+&lt;p&gt;If the client is finding it hard to understand your approach, or flatly hates it, you’ve got time to discuss, justify, rework and whatever else is needed to create something that your client loves and you know will work for the user.&lt;/p&gt;
+
+&lt;p&gt;Design is just creative problem solving. If the client isn’t keen on what you’ve shown them and you’ve got some useful criticism, you’re further refining the problem which will help get you closer to the answer.&lt;/p&gt;
+
+&lt;h2 id=&#34;boyfriend-feedback&#34;&gt;Boyfriend Feedback&lt;/h2&gt;
+
+&lt;p&gt;As a freelance designer, I’m very lucky to have another person around me while I work. My boyfriend &lt;a href=&#34;http://twitter.com/MatthewFuller&#34; title=&#34;Matt Fuller on Twitter&#34;&gt;Matt&lt;/a&gt; works in the same room at home and is an honest critic of everything I do, whether I want his opinion or not!&lt;/p&gt;
+
+&lt;h3 id=&#34;non-client-and-non-designer-feedback&#34;&gt;Non-client and non-designer feedback&lt;/h3&gt;
+
+&lt;p&gt;Matt is great at giving me reactionary critiques. In this way, he’s far more like a client or a user. He’ll tell me he thinks it’s rubbish, and give a vague idea of why, usually based on reactions and associations such as “it reminds me of X.” Matt’s reasons are never because it’s not on trend, or it doesn’t make use of available technologies. In fact, he often hates the fashionable styles and can convince me to be more reasonable and not succumb to “but this looks pretty.”&lt;/p&gt;
+
+&lt;p&gt;One thing that struck me about the discussions about criticism on Dribbble, and the Gap logo, is that the type of feedback a designer gives is totally unlike the thoughts and opinions of clients and users. Those thoughts and opinions are exactly that. They’re not necessarily put in context or very constructive but they are the emotions and associations which are so hard to put into words but have a huge impact on your design’s effectiveness.&lt;/p&gt;
+
+&lt;h2 id=&#34;community-helps-and-hinders&#34;&gt;Community helps and hinders&lt;/h2&gt;
+
+&lt;p&gt;I love the amount of apps and tools showing up to help designers communicate more effectively with other designers. It’s fun to share, and it’s fun to have a bit of mutual-appreciation going on. However I think I’m likely to fall into the trap of designing for these communities, for approval of other designers and developers, and totally forgetting the blindingly obvious user needs and client necessities.&lt;/p&gt;
+
+&lt;p&gt;Am I the only one? I think it’s hard to tell from the outside. Some people are very capable of creating work that is incredibly satisfying to users, clients, other designers and themselves. The order in which they aimed to please isn’t obvious!&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-149&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.robotregime.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dennis Kardys&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-149&#34;&gt;&lt;time datetime=&#34;2010-10-15T19:44:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+I also find it challenging to ask for feedback early on since there are so many different directions a design might take. For me, changing the way in which I frame my request for feedback has been a big help, both when talking to clients and with other designers. Instead of an entirely open invitation for critique (which may come later when the design is more complete), I usually try to pose very direct questions that identify the problems as opposed to recommending the solution. &amp;quot;Do you think the call to action should be more prominent?&amp;quot; or &amp;quot;What type of feeling does this color scheme evoke&amp;quot;, etc.
+
+Your post also made me think about ownership of a design, and how there is a pride that goes along with coming up with the ideas and inventing the solutions. I think it&amp;#039;s important to be aware of times when that sense of pride may conflict with the best interest of the project. Does that make sense?
+
+I also totally agree that it&amp;#039;s helpful to have someone who is not the client or another designer, but who can be brutally honest to tell you what they think.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-150&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;damilare&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150&#34;&gt;&lt;time datetime=&#34;2010-10-16T00:06:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:06am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag I think a huge difference between client feedback and designer feedback is aesthetic vs business goals, the latter, the better.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -47,8 +304,549 @@ Getting stuck When I used to get stuck on a design, from ‘creative block’ or
       <pubDate>Wed, 06 Oct 2010 10:38:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</guid>
-      <description>There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”
-These are comments I’m 100% guilty of saying, but I think the problem is the outlet. If it’s a quick chatter between friends then there’s not much lost except making yourself look like a bit of an arse, but start broadcasting these harsh judgements to the world and you’ll rapidly give the impression of a big ego, huge mouth and tiny brain.</description>
+      <description>
+
+&lt;p&gt;There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”&lt;/p&gt;
+
+&lt;p&gt;These are comments I’m 100% guilty of saying, but I think the problem is the outlet. If it’s a quick chatter between friends then there’s not much lost except making yourself look like a bit of an arse, but start broadcasting these harsh judgements to the world and you’ll rapidly give the impression of a big ego, huge mouth and tiny brain.&lt;/p&gt;
+
+&lt;h2 id=&#34;dribbble-egos&#34;&gt;Dribbble Egos&lt;/h2&gt;
+
+&lt;p&gt;I’ve been feeling the need to unfollow people recently, when their Dribbble ego has been massively over-inflated. Dribbble is an exclusive community in its nature of being invite-only. However, far too many people see it as owning an invite means you are in some way superior to anybody that doesn’t have an invite. As seen on Twitter:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hey everybody, I’ve got a Dribbble invite. Send me a link to your portfolio and I’ll give my invite away to the best one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What baffles me is that not many other people seem to think &lt;strong&gt;this is wrong&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-the-point-in-a-community-of-elite-designers&#34;&gt;What’s the point in a community of elite designers?&lt;/h3&gt;
+
+&lt;p&gt;To sit and caress each other’s egos,  posting shots mimicking each other and establishing trends, and to gawk at ‘weblebrities’ and instantly hit ‘Like’ on anything they produce without even looking at it first.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, this is what a large part of Dribbble has become, partly due to the attitudes of those that send out tweets like above. There’s no value in a community where everybody is doing the same thing, adhering to the same rules and spending all day telling people how lovely they are. The best and most useful comments on Dribbble are those that offer constructive criticism. The most interesting shots are from previously unheard-of people because we’re being introduced to a new way of thinking, not the same old rut that the ‘weblebrities’ are stuck in.&lt;/p&gt;
+
+&lt;h3 id=&#34;and-who-are-you-to-judge&#34;&gt;And who are &lt;em&gt;you&lt;/em&gt; to judge?&lt;/h3&gt;
+
+&lt;p&gt;One of the things that irritates upsets me the most is that the aforementioned tweet comes with the assumption that the tweeter is better than those who are sending them their portfolios. Who are they to judge the quality of somebody’s work?&lt;/p&gt;
+
+&lt;p&gt;And even if the work is undeniably poor. Who are you to prevent these people from growing? One of the premises of the Dribbble community that really appealed to me was sharing criticisms with people you don’t know. Having your work critiqued by somebody else helps you learn how other people see your work, introduces you to alternatives that you may never consider, and occasionally gives you a boost in self-confidence.&lt;/p&gt;
+
+&lt;p&gt;It works the other way round too. By constructively criticising other people’s work, you challenge your own perspective on design. By trying to come up with helpful suggestions and interpretations, you’re learning to understand more than ‘like this,’ ‘hate that.’ This is how designers grow. Whether the criticism comes from clients or other designers, it’s all of value, and who is the tweeter above to deny other people the opportunity to indulge in such creative and useful practices.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-gap-logo&#34;&gt;The Gap Logo&lt;/h2&gt;
+
+&lt;p&gt;Late last night the furore over the Gap logo redesign came about.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/10/Screen-shot-2010-10-06-at-10.09.54.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-232&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/10/Screen-shot-2010-10-06-at-10.09.54.png&#34; alt=&#34;The new Gap logo&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The new Gap logo
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alpha.drawar.com/posts/The-World-isn-t-a-Dribbble-Showcase&#34; title=&#34;The World isn&#39;t a Dribbble Showcase on Drawar&#34;&gt;Scrivs&lt;/a&gt; puts it way better than I could but it seems like madness. The logo isn’t &lt;em&gt;that bad&lt;/em&gt;. It’s average, and thus an improvement on 99% of logos in the world. Get some perspective!&lt;/p&gt;
+
+&lt;h3 id=&#34;so-quick-to-be-rude-about-other-people-s-work&#34;&gt;So quick to be rude about other people’s work&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://matt-fuller.com&#34; title=&#34;Matt Fuller&#39;s blog&#34;&gt;Matt&lt;/a&gt; coined a great term for these type of people, ‘keyboard heroes.’ The kind of people who are all full of bravado and aggression when they’re hiding behind a keyboard, but would stay quiet when talking to somebody’s face.&lt;/p&gt;
+
+&lt;p&gt;Again, we’re all guilty of this from time to time. Twitter is perfect for getting your snap judgements out there and having 140 character tantrums. None of these tweets said “it would look better if they’d put some spacing between the letters” or “a solid blue square would have tied in better with the old branding.” It was straight to spitting vitriol.&lt;/p&gt;
+
+&lt;h3 id=&#34;could-you-do-any-better&#34;&gt;Could you do any better?&lt;/h3&gt;
+
+&lt;p&gt;This is the classic. That the majority of people slating the Gap logo could certainly not do any better. How do you know what the brief was and whether the logo fits it? These people don’t understand the context so it would be very difficult to understand whether it delivers the desired effect. I don’t think it’s a great logo, but I don’t think I could do much better without knowing what Gap were going for. I believe that unless you &lt;em&gt;can&lt;/em&gt; do better, then maybe you should use your keen eye to help improve your own work.&lt;/p&gt;
+
+&lt;h2 id=&#34;35-comments&#34;&gt;35 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-121&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;neil_berry&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-121&#34;&gt;&lt;time datetime=&#34;2010-10-06T10:09:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag totally agree with your dribbble/gap post!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-118&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jack_Franklin&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-118&#34;&gt;&lt;time datetime=&#34;2010-10-06T10:52:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:52am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag when I find some time I&amp;#039;ll write a response to that post, a few things sprung to mind when reading!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-125&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;mixn&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-125&#34;&gt;&lt;time datetime=&#34;2010-10-06T11:29:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:29am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag One of the best articles I&amp;#039;ve read in a while.. Kudos.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-114&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/renniks&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark S&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-114&#34;&gt;&lt;time datetime=&#34;2010-10-06T11:55:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi,
+
+I wholeheartedly agree with everything you said about dribbble, keyboard heroes and the like.&lt;/p&gt;
+However I feel that commenting on a brands redesign (however negative the comments are) is not a bad thing, after all, it is not about doing better than them, or feeling that you are a better designer, it is about the confusion caused by the release of these redesigns.
+
+&lt;p&gt;If GAP&amp;#039;s logo brief was set, and this ticked all the boxes, then the brief in my opinion was a poor one (but who am I to judge?!)
+
+They seem to have implemented a lot of techniques that would benefit different logos, but the GAP logo, with all 3 letters of it, does not need to be more legibility, it is still constrained by the orientation you could place it in, it uses gradients which I haven&amp;#039;t looked at in grayscale but I imagine don&amp;#039;t look as clean as the original logo etc. etc.&lt;/p&gt;
+So in my opinion all the bad mouthing of the new design is not about other designers being better, or the logo being un-usable, it is about the confusion how they got from the original logo to the new logo without seeing the brief (after all we will never see it)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-117&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-117&#34;&gt;&lt;time datetime=&#34;2010-10-06T11:58:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        If you&amp;#039;ve got constructive criticisms (like yours above) then I think negative opinions are perfectly valid. It&amp;#039;s when people say things like &amp;quot;It&amp;#039;s rubbish&amp;quot;, &amp;quot;looks like it was designed by an idiot&amp;quot; that they come across as unnecessary.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-115&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/6e1b85e7fae19abee10f92cfd8a08230?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.bevanstephens.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Bevan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-115&#34;&gt;&lt;time datetime=&#34;2010-10-06T11:55:11+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Here Here! I love Cederholm to &amp;#039;bits&amp;#039; but there is definitely something wrong with building a competitive themed design community with your own name at the top of the &amp;#039;Leaderboard&amp;#039;.
+
+I call them cewebrity&amp;#039;s btw.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-120&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-120&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:12:40+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:12pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Maybe most &amp;#039;Likes&amp;#039; would be more constructive for a leaderboard, rather than most &amp;#039;Followers&amp;#039;?
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-116&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://zootool.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Bastian Allgeier&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-116&#34;&gt;&lt;time datetime=&#34;2010-10-06T11:57:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:57am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great article Laura!! I feel exactly the same about the whole Dribbble thing and the &amp;quot;weblebrities&amp;quot;. What really bothers me the most is that criticizing people has become so easy on the web. Writing harsh things is so much easier than telling someone the design he or she&amp;#039;s been working on is crap from face to face and criticizing without adding constructive thoughts about how to do it better is even easier. On the other hand all those &amp;quot;You are so fucking great and I love everything you do&amp;quot; comments are bullshit as well. I guess those comments are a part of the success of Dribbble because everybody loves to be told what a great designer he is. But it&amp;#039;s a total waste of time when those comments get so unrelated to the real quality of the submitted designs.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-119&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-119&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:10:51+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        That&amp;#039;s exactly the problem! We all love to hear we&amp;#039;re amazing so we&amp;#039;re less likely to see it as an issue.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-122&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.100yen.co.uk/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jonic&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-122&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:19:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:19pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It&amp;#039;s the iTunes icon all over again.. I&amp;#039;m beginning to wonder whether or not I ever want to join Dribbble –; you seem to see a lot of this behaviour there, and it&amp;#039;s not healthy for anyone to immerse themselves in that kind of atmosphere.. And honestly, who really gives a crap what Gap do with their branding?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-123&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://dbushell.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;David Bushell&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-123&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:20:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post Laura!
+
+On personalities: I think the idea of designer &amp;quot;ego&amp;quot; in communities like Dribbble stems more from outside perception than any inside &amp;quot;celebrity&amp;quot; culture. The very nature of the site is exclusivity, but that&amp;#039;s purely for moderation and advertisement purposes. I see no problem with your example tweet, it&amp;#039;s a product of the system rather than elitism from the tweeter.  I often think those suggesting the idea of &amp;quot;celebrity designers&amp;quot; are the only ones who are labelling people celebrities in the first place.
+
+Most people enjoy discussing and sharing great design for networking and self promotion. When congregating together they share trends, form a hierarchy, and sometimes disagree. It&amp;#039;s socialising, not elitism, though that can manifest is tiny amounts.
+
+Saying that, I haven&amp;#039;t been on Dribbble in a while so perhaps I&amp;#039;m wrong ;)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-124&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-124&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:24:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:24pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I don&amp;#039;t think that it&amp;#039;s just Dribbble that has examples of the designer ego. And these egos aren&amp;#039;t necessary those of the most popular Dribbblers, I&amp;#039;d say most are actually incredibly humble. You&amp;#039;re totally right in that it&amp;#039;s the hero-worshippers that propel them on to pedestals. In fact, in my experience, &amp;#039;graphic&amp;#039; design has far more dangerous egos than web design.
+
+However, I still believe reviewing other people&amp;#039;s portfolios in such a way is arrogant. By all means, let people know you have invites, but why not invite somebody who is new and could do with some help rather than the best designer you know?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-127&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://dbushell.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;David Bushell&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-127&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:50:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:50pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Maybe I&amp;#039;m optimistic, but I genuinely don&amp;#039;t believe most people giving away invites in such a manner actually consider themselves judges or an authority. That would be arrogant as you say. I&amp;#039;d imagine just any many (if not more) people give away invites to friends, randomly, and with other considered choices. Choosing someone because you feel they need help is also judging them is it not? I don&amp;#039;t think any reasons are done in an arrogant manner, at least most of the time. The shortness of a tweet often results in more ambiguities and implications than intended.
+
+Actually I&amp;#039;m being to half-full here. My point would be that the few arrogant eggs over shadow the humble lovely designers.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-128&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-128&#34;&gt;&lt;time datetime=&#34;2010-10-06T13:00:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:00pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        You&amp;#039;re right. It&amp;#039;s much easier to notice the bad than the good.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-133&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/renniks&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark S&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-133&#34;&gt;&lt;time datetime=&#34;2010-10-06T14:40:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:40pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I was &amp;quot;refused&amp;quot; (understandably as I&amp;#039;m sure the person had been told to) a dribbble invite when it was locked from public view as I have no work on-line. Regardless of my &amp;#039;skillz&amp;#039; (or lack of) the person couldn&amp;#039;t give me one if I didn&amp;#039;t have a high standard of work&amp;#8230; and as he couldn&amp;#039;t see my work&amp;#8230;
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-135&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-135&#34;&gt;&lt;time datetime=&#34;2010-10-06T14:51:13+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I can understand refusing somebody on the grounds of not knowing somebody, not knowing if they’re just going to post stuff that is irrelevant to design (ads, aforementioned photos of cats.) However, I’m still disappointed for your predicament, it must have been hard to be refused just for that.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-126&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b7d0c9a6a7216a0d9e5b45b43390890e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.aaronrussell.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Aaron Russell&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-126&#34;&gt;&lt;time datetime=&#34;2010-10-06T12:36:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:36pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice read Laura :)
+
+I absolutely despise Dribbble –; always have. I am a member, but not because I jumped through my own backside to prove my worth, just because a friend invited me. There are some very talented people posting some very good work in Dribbble –; that can&amp;#039;t be denied –; but it&amp;#039;s also actively encourages and harbours the kind of elitist attitudes that you&amp;#039;ve described above (much more politely than I would have) by the way it&amp;#039;s invite only system works.
+
+As for the Gap logo, well it is very average. Just like the iTunes logo is pretty average. Neither are *that* bad. But I think it&amp;#039;s just human nature to react negatively to change, especially with something they are so familiar with. In my time I don&amp;#039;t think I&amp;#039;ve ever witnessed a single big name rebranding that hasn&amp;#039;t been met with more negative than positive reaction. I think it&amp;#039;s the nature of the beast. You need to be tough-skinned to be a logo designer.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-129&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/673fb2ddda3df9c1487150431b7e6258?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.ryandownie.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;RyanDownie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-129&#34;&gt;&lt;time datetime=&#34;2010-10-06T13:27:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Laura,
+
+As being on dribbble from a very early start, nearly a year I think its worth a comment. I don&amp;#039;t agree with a lot of what has been said. I know a lot of designers not just on dribbble but from the community.
+
+Where as I can not talk about other designers as everyone is unique I can talk about myself. Regarding the tweets for invites, I myself do this where people who want in can send me their portfolio to look at. I do turn away the ones that at the moment are not up to standard. The reason for this is not elitism to massage my &amp;quot;EGO&amp;quot; but for the good of the community. People with sub standard work would in fact find it hard to associate with the community in general as if their work is not of a high standard how can they comment on things that they do not know?
+
+However I do understand that there is a problem with snobbery in the community, this is not to do with the &amp;quot;weblebrities&amp;quot; its more of the jealous people who think that they should be. The type of person who gets Photoshop but not design in general. The same person will visit gallery sites time and time again and be &amp;quot;inspired from x and y design&amp;quot;, when in fact they should only visit them for the planning stage at all.
+
+Also think about the people who are &amp;quot;weblebrities&amp;quot; they do not chose this, it is the same in any area of life. The people who are marketed well at being good at something will always attract people who want to be them. I have talked to a lot of these &amp;quot;weblebrities&amp;quot; and they are some of the most nicest and humble people you can talk to. Just imagine for a second that your workload is putting you under a lot of stress and then a stranger asks a question that will take 20mins of your already busy schedule you wont be able to answer straight away and it sadly gets pushed back to the que. I am no means a &amp;quot;weblebrities&amp;quot; but I get emails daily asking things from &amp;quot;How can I get better&amp;quot;, &amp;quot;What books do you recommend&amp;quot;, &amp;quot;can you look over my work&amp;quot; etc and it gets tiring but sadly that is life.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-130&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://prandall.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul Randall&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-130&#34;&gt;&lt;time datetime=&#34;2010-10-06T13:51:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Guilty as charged. On both counts.
+
+This is the **only** reason I may ask for work when giving out an invite is down to this piece of text on the site:
+
+&amp;lt;blockquote cite=&amp;quot;[http://dribbble.com/account/invitations&amp;quot;&amp;gt;Help](http://dribbble.com/account/invitations%22%3EHelp&#34; rel=&#34;nofollow) keep the league clean. Resist the urge to send invites to folks who enjoy uploading photos of their cat.
+
+Also! The players you draft will show up in your &amp;ldquo;drafted list&amp;rdquo; so we&amp;rsquo;ll know who to blame for the aforementioned cat photos.
+
+Re: the Gap logo –; yes. It looks bad, but yeah, what the hell would we do when someone like the Gap asks us to redesign? ISO50 is trying to get the &amp;#039;keyboard heroes&amp;#039; to come up with something better: [](http://blog.iso50.com/2010/10/05/gap-redesign-contest/&#34; rel=&#34;nofollow)[http://blog.iso50.com/2010/10/05/gap-redesign-con](http://blog.iso50.com/2010/10/05/gap-redesign-con&#34; rel=&#34;nofollow)&amp;#8230; but is this spec work. And that, is a whole other matter&amp;#8230;
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-134&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-134&#34;&gt;&lt;time datetime=&#34;2010-10-06T15:46:11+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:46pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It&amp;#039;s cleverly worded. It doesn&amp;#039;t at any point say &amp;quot;don&amp;#039;t invite inferior work.&amp;quot; It&amp;#039;s saying no LOLcats. However, it implies that you shouldn&amp;#039;t invite anybody whose posts would make you feel ashamed. If you&amp;#039;re ashamed of inviting somebody because their work isn&amp;#039;t of a professional level, maybe that is more significant of your feelings?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-137&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://prandall.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul Randall&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137&#34;&gt;&lt;time datetime=&#34;2010-10-06T16:30:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:30pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        At the end of the day, it doesn&amp;#039;t really matter does it? It&amp;#039;s just a website.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-131&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b9e7d3157feb8c4b6906a96fc98e4607?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://flodesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Russell Poulter&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-131&#34;&gt;&lt;time datetime=&#34;2010-10-06T14:21:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:21pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great article Laura! I&amp;#039;ve been guilty of jumping on the GAP logo bandwagon my self, its very easy to fire something of on Twitter without stopping to think it through first. As for Dribbble I&amp;#039;m not a member nor am I going to jump through hoops to become one but any site that helps with the creative process can only be a good thing in the end. In any community you&amp;#039;re going to get good eggs and bad eggs.
+
+PS Anyone got  a dribbble invite? :-)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-132&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/84b7f76832c6cd40f18c225581dca935?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://wearecitrus.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Gabe&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-132&#34;&gt;&lt;time datetime=&#34;2010-10-06T14:29:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for a great post Laura. For those designers that are so busy they can&amp;#039;t be bothered here&amp;#039;s an idea: put together a canned response with links to your favorite resources, then as you are inundated with questions from strangers aspiring to produce work of a &amp;quot;high standard&amp;quot;, you can quickly reply to them and welcome them into the community. Just sayin&amp;#8230;
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-136&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/brettbergeron&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;brett bergeron&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-136&#34;&gt;&lt;time datetime=&#34;2010-10-06T16:09:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The word on the street is that Gap&amp;#039;s new logo was not designed under a brief, but was unexpectedly plucked from a presentation by a corporate chieftan who resides outside the marketing department. Essentially, the design &amp;amp; marketing team had no voice.
+
+Critiques become elitist and petty when people begin claim they can (or have) produced better work. While this may be true, it ignores the reality of the design process as a collaboration between designer and client. When the collaboration fails, the work fails. The Gap logo is a great example of a non-existent collaboration between art and commerce that could cost the company significant brand equity.
+
+So I think it&amp;#039;s fair to criticize Gap&amp;#039;s move as a misunderstanding of design. &amp;quot;New&amp;quot; isn&amp;#039;t enough. The logo itself lacked a substantive discovery phase, so they ended up with an ill conceived mark for the brand. As designers, I think it&amp;#039;s important that we voice critiques of new work as a means of validating (or invalidating) the decisions made by all parties involved.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-138&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/96269f5a69115aa0e461b6334292d651?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.mcbwebdesign.co.uk/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Martin Bean&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-138&#34;&gt;&lt;time datetime=&#34;2010-10-06T17:47:40+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:47pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This web celebrity thing is getting out of hand. I find it implausible people are referring to themselves as rock stars and ninjas when we&amp;#039;re essentially a service industry.
+
+I don&amp;#039;t see plumbers putting each other on a pedestal, or stepping out and calling themselves rock stars, ninjas and the like. I don&amp;#039;t see mechanics putting together Top Trumps-style cards (any one remember Type Faces?).
+
+It&amp;#039;s all, for want of a better term, a load of bollocks. I joined Dribbble earlier this year, and as soon as the novelty wore off grew dissatisfied with it. There&amp;#039;s no community feel to the website, but more so establishing trends and a breeding ground for iTunes 10 replacement logos, or GAP replacement logos, or whatever will come along next week that the community at large decide isn&amp;#039;t worthy.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-139&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-139&#34;&gt;&lt;time datetime=&#34;2010-10-06T18:40:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:40pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Another great post Laura! I&amp;#039;ve always thought Dribbble was or seems elitist. Yes granted the work on there is exceptional but wanting to keep the bar high is for who&amp;#039;s benefit, is it just for the purpose of having comments filled with &amp;quot;awesome&amp;quot;? I&amp;#039;m a member on Forrst and its audience is a bit more wider than Dribbble I see good and great designs as well as not so good design and I am sure people may have made that assumption with my own work too. But the &amp;quot;not so great&amp;quot; designs aren&amp;#039;t bad they&amp;#039;ve just lacked direction, same with my own but its the critiquing that what makes somebody better, being able to see somebody&amp;#039;s point that you&amp;#039;ve not seen and improving ones self.  Thus being able to then help others. We&amp;#039;ve all read on blogs about partnering up with somebody or learning from somebody is great and all about a community environment, well these places are the perfect opportunity yet Dribbble users go a little quiet when drafting somebody new or upcoming. If you give somebody a chance they will prove they are good enough.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-140&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/66e76a58b71b7573d3855579457cf7f3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://sci-fi-o-rama.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-140&#34;&gt;&lt;time datetime=&#34;2010-10-06T21:14:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice Post Laura,
+
+this seems to confirm your point that a majority &amp;quot;could certainly not do any better?&amp;quot;
+
+well there&amp;#039;s the evidence&amp;#8230;.
+
+  [](http://blog.iso50.com/2010/10/06/gap-redesign-contest/&#34; rel=&#34;nofollow)[http://blog.iso50.com/2010/10/06/gap-redesign-con](http://blog.iso50.com/2010/10/06/gap-redesign-con&#34; rel=&#34;nofollow)&amp;#8230;
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-141&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://stephenclarkjr.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Stephen Clark Jr.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-141&#34;&gt;&lt;time datetime=&#34;2010-10-07T01:17:19+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most &amp;quot;social networks&amp;quot; are (in function) online popularity contests&amp;#8230; pretty much the same thing that occurs in many real-life social situations. The main problem that I see people with Dribbble is that of &lt;i&gt;expectations&lt;/i&gt;.
+
+As a non-Dribbbler, I use the site mainly for inspiration, and I usually come away with fresh ideas or approaches. I also enjoy discovering (for myself) other designers and their work through the site.
+
+I almost never read the comments, by the way (I agree that the dialog on the site is almost comically one-dimensional).
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-142&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/38021595fd633f776e4bb045ec6dcadd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.susanengel.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Susan Engel&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-142&#34;&gt;&lt;time datetime=&#34;2010-10-07T12:51:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Laura, good post and a very valid point :) i agree about the snobbery, didn&amp;#039;t really see much point to dribble as you said there&amp;#039;s not much criticism there.. but the gap logo –; i&amp;#039;m one of those that think it&amp;#039;s not an improvement. and i&amp;#039;m not criticising the designers. it was probably design by committee anyway :) just think that it&amp;#039;s really awkward and somehow a step down from what they had&amp;#8230;
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-143&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://madebyjordan.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jordan Moore&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-143&#34;&gt;&lt;time datetime=&#34;2010-10-07T13:15:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:15pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I wholeheartedly agree. I have been thinking the exact same thing for some time now, I have just never been able to express it as well as you have.
+
+My thoughts on Dribbble –; I use it the odd time to publish snippets of work for feedback (which is what it should be used for) but rarely receive any –; probably because I&amp;#039;m not a weblebrity and even if I was I&amp;#039;d imagine I would just receive a bunch of back-pats and well dones.
+
+My main issue is that the real sheep mentality of following our weblebrity leaders not only filters down into comments and follows, it appears in the *actual work*. People quickly lose their own identity and uniqueness on Dribbble to produce work like their newfound idols. The debuts and popular pages contain the same tall-white-sans-serif-noise-backgrounds images as the day before and the day before that. All because of this follow-the-leader mentality.
+
+Now I feel like a bit of a hypocrite for releasing my own tirade of design snobbery on the designs of most of the Dribbble community, although it comes from a concerned place for fear of a global design trend discouraging individuality.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-144&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://safetygoat.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;kat neville&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-144&#34;&gt;&lt;time datetime=&#34;2010-10-07T13:20:28+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I&amp;#039;ve got two dribbble invites&amp;#8230; send me your portfolio so I can decide if I want to be associated with you.
+
+hehehe!
+
+I&amp;#039;m a bit torn about the whole situation, but, at the same time, there&amp;#039;s still a lot of rubbish designers on dribbble anyway (sorry, let me rephrase that as designers who are first starting out who need a lot of help to improve), and while I&amp;#039;m not a regular user the system, I think it&amp;#039;s good to have a place to show things off to your peers.  Snobbery in design is not a new thing (I hung out with some architects recently and oh do they think web design is not a very noble profession!), and while you can claim you don&amp;#039;t like it, you&amp;#039;re not going to stop it.
+
+When I&amp;#039;m excited about something cool I&amp;#039;ve done, what&amp;#039;s wrong with showing it to the type of people who might give you compliments?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-145&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/ce959d32211cd99d6867fdaa779d4a2c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.contrast.ie&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Des&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-145&#34;&gt;&lt;time datetime=&#34;2010-10-07T13:37:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura,
+
+Great post. What irritates me most about the keyboard heroes tweeting one-line criticisms is that they just don&amp;#039;t know enough about what they&amp;#039;re criticizing.
+
+&lt;p&gt;To criticize a creation properly you need to know the designer, the contract, and the client.
+
+It takes three to tango [http://www.contrast.ie/blog/three-to-tango/](http://www.contrast.ie/blog/three-to-tango/&#34; rel=&#34;nofollow)&lt;/p&gt;
+&lt;p&gt;Thanks for writing,
+
+Des&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-146&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/20b8d9e32479acd99a7cb3601454a104?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://vukasinstojkov.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Vuka&amp;scaron;in&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-146&#34;&gt;&lt;time datetime=&#34;2010-10-08T18:34:40+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The beauty and uniqueness of Dribbble is exactly in the fact that it is a hand-picked and a &amp;#039;gated&amp;#039; community. Aren&amp;#039;t there a lot of different places that are open for all, like DeviantArt.
+
+While elitism sounds like a curse word it can be beneficial like I think it is in this case, we could also call it with a name that I find more appropriate in this case –; &lt;b&gt;peer review&lt;/b&gt;.
+
+Snobbery is a sad and stupid trait and should be (IMHO) ignored when it springs up, but let&amp;#039;s not associate it directly with peer review.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-147&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/887f1bf66eb5913a0c4602984ca0dc8a?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Nate&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-147&#34;&gt;&lt;time datetime=&#34;2010-10-12T17:35:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Holy crap I love this post. Thanks.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-148&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/f5f622fba9f9e01f634d1e0b1ad214b1?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mesonprojekt.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Karl Francisco Fernandes&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-148&#34;&gt;&lt;time datetime=&#34;2010-12-16T07:00:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:00am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent article Laura! You have a new admirer&amp;#8230;
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

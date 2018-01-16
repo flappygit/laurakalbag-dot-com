@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keyboard Navigation on Laura Kalbag</title>
+    <title>Posts from Keyboard Navigation on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/keyboard-navigation/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 14 Jan 2015 14:59:26 +0000</lastBuildDate>
@@ -17,8 +17,101 @@
       <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
       
       <guid>https://laurakalbag.com/skip-links/</guid>
-      <description>Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.
-This afternoon I was testing a new feature I want to add to Ind.ie’s accessible video player, and started moving down our style guide (work in progress!</description>
+      <description>
+
+&lt;p&gt;Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.&lt;/p&gt;
+
+&lt;p&gt;This afternoon I was testing a new feature I want to add to &lt;a href=&#34;https://ind.ie/blog/accessible-video-player&#34;&gt;Ind.ie’s accessible video player&lt;/a&gt;, and started moving down our &lt;a href=&#34;https://ind.ie/style-guide/&#34;&gt;style guide (work in progress!) page&lt;/a&gt;, tabbing through the links. Our style guide is really long, so I’ve added skip links at the top of the page, allowing you to jump to the relevant section without having to scroll such a long way. Skip links are very common as an accessibility feature to skip past lengthy navigation to get straight to the page content. They’ve also become a common form of navigation used on one-page sites that have a lot of content on one page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/01/skip-links.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4588&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/01/skip-links.jpg&#34; alt=&#34;Contents list of links on the Ind.ie style guide&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The code usually looks something like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;amp;lt;a href=&amp;quot;#main-content&amp;quot;&amp;amp;gt;Skip to content&amp;amp;lt;/a&amp;amp;gt;
+    ...
+&amp;amp;lt;div id=&amp;quot;#main-content&amp;quot;&amp;amp;gt;
+    ...
+&amp;amp;lt;/div&amp;amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-the-problem&#34;&gt;What’s the problem?&lt;/h2&gt;
+
+&lt;p&gt;Some browsers don’t support skip links in this way. After some very quick tests, I found both Safari and Chrome don’t change the keyboard focus to the visual focus area when a user follows a skip link. This means you might be looking at the section on branding, but the keyboard focus is still on the navigation at the top of the page. If you tab to the next item, your visual focus will scroll right back to the top of the page. A few web searches later and I find this isn’t a new problem at all.&lt;/p&gt;
+
+&lt;p&gt;The difference between visual and actual focus could be an irritation to any sighted users, but for screen readers users, it makes skip links utterly useless. They’re not actually skipping at all.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-we-fix-this&#34;&gt;How can we fix this?&lt;/h2&gt;
+
+&lt;p&gt;Having a read through this &lt;a href=&#34;https://bugs.webkit.org/show_bug.cgi?id=17450&#34;&gt;Webkit bug report&lt;/a&gt;, there’s seems to be cross-platform issues and implications. There’s no web standard for skip links, so there’s no guidance for browsers to follow.&lt;/p&gt;
+
+&lt;p&gt;But after some searching, I found &lt;a href=&#34;http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/&#34;&gt;a JavaScript snippet&lt;/a&gt; that seems to solve the problem. Relying on JavaScript is less than ideal, but I think right now it’s the best we can do.&lt;/p&gt;
+
+&lt;p&gt;Without consistent behaviour for focus on skip links, they’re little value to the wider audience on the web.&lt;/p&gt;
+
+&lt;p&gt;Other sites posting on this issue:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://webaim.org/techniques/keyboard/&#34;&gt;WebAIM keyboard accessibility&lt;/a&gt; (October, 2013)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/&#34;&gt;Fixing “Skip to content” links&lt;/a&gt; (January, 2013)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.456bereastreet.com/archive/201203/skip_links_and_other_in_page_links_in_webkit_browsers/&#34;&gt;Skip links and other in page links in WebKit browsers&lt;/a&gt; (March, 2012)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/&#34;&gt;Keyboard Navigation in Mac Browsers&lt;/a&gt; (useful for knowing how to test)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-137909&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/47d083708ad8d06202d50d5e567f3eaf?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/47d083708ad8d06202d50d5e567f3eaf?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://github.com/svinkle&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;@svinkle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137909&#34;&gt;&lt;time datetime=&#34;2015-01-14T15:09:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;This is how I’ve been approaching this:
+
+```&amp;lt;a href=&amp;quot;#main&amp;quot; class=&amp;quot;visuallyhidden focusable&amp;quot;&amp;gt;Skip to content&amp;lt;/a&amp;gt;```
+
+CSS classes there are from HTML5 Boilerplate CSS.
+
+I then have this for my main element:
+
+`&amp;lt;main id=&amp;quot;main&amp;quot; tabindex=&amp;quot;-1&amp;quot;&amp;gt; ... &amp;lt;/main&amp;gt;`
+
+Using tabindex=”-1&#34; like this allows the main element to programmatically receive focus. When the user hits tab again, it will move focus away from main to the next focusable element.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-137910&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2e7291b36e6344f7c6d2cb1b56aff1c9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2e7291b36e6344f7c6d2cb1b56aff1c9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.pixeldiva.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;pixeldiva&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137910&#34;&gt;&lt;time datetime=&#34;2015-01-14T15:09:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Another minor thing, to make things better (once the above problem is fixed)… having the link text be Skip to Main Content gives a screen reader a bit more context so the pronunciation will be correct as *Con*tent, rather than Con*tent*.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-137914&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5375b1b830a01f1b6a894eea985ce7b8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5375b1b830a01f1b6a894eea985ce7b8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;goetsu&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137914&#34;&gt;&lt;time datetime=&#34;2015-01-14T16:11:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:11pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Yes after 8 years of waiting for this bug to be fixed after I create it now it can work but the target of you links must be focusable (a link, a button, a form element or anything with a tabindex).
+
+So, in your case the most easy thing I presume is to add a tabindex=”-1&#34; to you hx&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

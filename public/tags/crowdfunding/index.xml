@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crowdfunding on Laura Kalbag</title>
+    <title>Posts from Crowdfunding on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/crowdfunding/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
@@ -17,7 +17,118 @@
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
-      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+      <description>
+
+&lt;p&gt;I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;And that’s what happened. In June, I wrote about &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;becoming part of Indie Phone&lt;/a&gt; for 50% of my time. Then some time in August I became full time. &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4556&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34; alt=&#34;ind.ie balloon leaving stratosphere&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;indie-phone-became-ind-ie&#34;&gt;Indie Phone became Ind.ie&lt;/h2&gt;
+
+&lt;p&gt;At some point over those months, as we started to brainstorm our crowdfunding campaign. We realised that running a campaign for an all-new phone with new hardware, software and “cloud” services, would be a mammoth task. We’d have to look at raising at least $1 million, and would need people to trust us to deliver a phone after two whole years. The phone is really the summit of the Ind.ie mountain. The phone will only be of value if it’s part of a larger foundation platform that equips people to own their own data. It needs to work with existing platforms, such as social networks and computer operating systems. Otherwise we’d be expecting people to switch to an all-new system, cutting themselves off from the existing technology they use with their friends and family. That’s just not practical. We quickly realised that Ind.ie phone had to be part of an ecosystem that allows people to share their data with each other and nobody else (using &lt;a href=&#34;https://ind.ie/pulse/&#34;&gt;Pulse&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/heartbeat&#34;&gt;Heartbeat&lt;/a&gt; as part of the &lt;a href=&#34;https://ind.ie/stratosphere/&#34;&gt;Indienet&lt;/a&gt;.) We also need part of that ecosystem to help people find each other in the first place (&lt;a href=&#34;https://ind.ie/waystone&#34;&gt;Waystone&lt;/a&gt;.) That ecosystem is most of the mountain. And then &lt;a href=&#34;https://ind.ie/phone/&#34;&gt;the phone&lt;/a&gt; will be the ideal way to use the ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;flexibility-and-change&#34;&gt;Flexibility and change&lt;/h2&gt;
+
+&lt;p&gt;The change from Indie Phone to Ind.ie emphasised how flexible Ind.ie needs to be as a company and a team. We can’t be scared to change our minds and iterate on our ideas and goals. As a freelancer, I learned how I needed to continually learn new development techniques, and adapt to understand the modern web. The same applies to Ind.ie, but on a bigger scale. And I’d be lying if I said it isn’t a bit terrifying.&lt;/p&gt;
+
+&lt;h2 id=&#34;always-learning&#34;&gt;Always learning&lt;/h2&gt;
+
+&lt;p&gt;As with freelancing, staying on top of new technologies and techniques are important, but even more so when you’re a small team under a lot of scrutiny. When you ask for money, people want to know that you’re trustworthy. We have to pay attention to all the little details, and do everything right. Of course we make mistakes. I’ve screwed up bits of the website and a couple of email newsletters, and probably a whole lot more… But we have to own our mistakes, admit the blame, don’t take it personally, and fix it as quickly as possible. The upside of the fast-moving pace of the business is that I get to learn loads of cool and challenging things. As my job requires me to understand the entirety of my platform, I’m looking into areas I’ve not needed to investigate before. I’m facing design challenges for completely different types of content and interactions. In the last week alone, I’ve written the hardest JavaScript I’ve ever tried, learned how to create and implement Git submodules, and learned how to set up Grunt. It’s pretty thrilling.&lt;/p&gt;
+
+&lt;p&gt;It also means doing things that feel new and pit-of-your-stomach daunting. Like when &lt;a href=&#34;https://border-none.net/2014/scene-setters#c81&#34;&gt;I gave my first talk and workshop around Ind.ie&lt;/a&gt;. And facing some of the challenging feedback we’ve got through social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;handling-feedback&#34;&gt;Handling feedback&lt;/h2&gt;
+
+&lt;p&gt;Whilst the work is physically and mentally exhausting, the hardest part of working for Ind.ie is the feedback. As a designer, I’m a firm believer in critique and constructive feedback. I’m a leave-your-ego-at-the-door designer (at least I try my best.) But sometimes the feedback isn’t so constructive, and sometimes the comments are a bit personal. Occasionally they’re from people you considered friends and it’s very very difficult to not feel upset, let down, and emotionally drained. It takes time to process and get past hurtful comments, but it’s unavoidable when you want to get past the junk to the criticism that’ll help you do things better.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-is-it-worth-it&#34;&gt;Why is it worth it?&lt;/h2&gt;
+
+&lt;p&gt;But to me, Ind.ie is worth it. The technology industry is broken in so many ways (diversity, accessibility, first world priorities…) Unethical business is at the heart of most of the problems. A lot of designers and developers talk about the difficulty of running a business because everyone expects something for free. Free mobile apps and free web services have given consumers the impression that good stuff needn’t cost anything. Very few people realise that they’re not getting these apps and services for free, but in exchange for the data provided when they upload photos, write to each other, play games, track their activities. (What the companies do with this data varies, but it’s very rarely in the best interests of the user.) We’re paying with our privacy.&lt;/p&gt;
+
+&lt;p&gt;I’m frightened of how this could escalate. I’m frightened of how companies operate today. As far as I know, I’m a normal, law-abiding citizen, and I’m not doing anything wrong. But that doesn’t matter. All the data I’ve shared combined could tell strangers things I don’t know about myself. It could tell strangers things about my friends and family too. &lt;a href=&#34;http://www.un.org/en/documents/udhr/index.shtml/index.shtml#a12&#34;&gt;Privacy is a human right&lt;/a&gt;, and it shouldn’t be traded for consumer goods.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to make a difference for the sake of being good. I want to work on Ind.ie because I don’t see enough people putting time and effort into fighting these infringements on our human rights. If I can’t dedicate my time and energy into creating alternatives, then how important can it be?&lt;/p&gt;
+
+&lt;h3 id=&#34;please-support-us&#34;&gt;Please support us&lt;/h3&gt;
+
+&lt;p&gt;Ind.ie is hard work and costs money. We’re frugal. We’re small enough that we can work from a home office, we have only the equipment we need, and nothing more. We use free and open technology wherever we can. But we need human resources. I cost around £28,800 per year to Ind.ie. I worked out the lowest amount that Oskar and I can live comfortably on, and that’s all I need. It’s a lot less than what I earned as a freelancer. The others on the team take similar pay. But we’re only four people, and we’re limited to our expertise and time. We want a Mac and iOS developer, a Node.js developer, and an Android developer. These people will help us create a platform that will help people own their own data on the current platforms. This platform will become a sustainable business which we can then use to extend to more platforms, and work on the phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie&#34; title=&#34;Ind.ie crowdfunding campaign&#34;&gt;Please support us&lt;/a&gt;. Ind.ie is my life and livelihood, and a deserving cause.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-104613&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.shkintyboda.org/braindump&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Austin Prior&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104613&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:05:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:05pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Seeing as you you’ve found the negative feedback tough at times, allow me to give you some positive feedback:&lt;/p&gt;
+Ind.ie is the most exciting, inspiring project I’ve ever followed. My wife and I have both donated and are looking forward to participating in the pre-alpha.
+
+Your work is reaching people and is already helping before you’ve even released anything. You’re helping people understand the issues around privacy and freedom and in no time at all, you’ll be empowering people of diverse backgrounds and abilities by putting beautiful, free and open tools in their hands.
+
+Thank you for all of your great work. You are appreciated. :-)
+
+Austin
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laurakalbag bypostauthor odd alt depth-2&#34; id=&#34;li-comment-104661&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104661&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:34:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you so much, Austin. You’ve completely made my day. And please pass my thanks on to your wife as well :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-105098&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Darina Prior&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-105098&#34;&gt;&lt;time datetime=&#34;2014-11-29T01:54:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Your thanks and your tireless work to make our digital world a better place are gratefully accepted :-)
+
+Darina (Austin’s wife)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-108763&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Matthijs&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-108763&#34;&gt;&lt;time datetime=&#34;2014-12-02T10:54:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Fully agree with Austin. The indie project and what you are doing is very exciting and inspiring. Really looking forward to what is coming. And will try to help or provide feedback where I can.
+
+Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

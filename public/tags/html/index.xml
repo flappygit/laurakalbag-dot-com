@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on Laura Kalbag</title>
+    <title>Posts from Html on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/html/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 22 Dec 2017 18:59:08 +0100</lastBuildDate>
@@ -17,9 +17,19 @@
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
       
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
-      <description>It’s been a few years since I wrote something for 24ways, but this year I’m back, making the case for semantic HTML.
- 
-As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on Better. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web.</description>
+      <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;
+&lt;figure &gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/12/screenshot.png&#34; alt=&#34;Screenshot of the article on 24ways including the title “Accessibility Through Semantic HTML” and an avatar of me with a pen in my mouth.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on &lt;a href=&#34;https://better.fyi&#34;&gt;Better&lt;/a&gt;. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web. It doesn’t take much to better understand how to use it effectively, and it can make a huge difference to the accessibility of a web page.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +38,486 @@ As I mention in the article, I see a lot of redundant and unsemantic HTML while 
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
       
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
-      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
-After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+      <description>
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;A month ago I spoke at &lt;a href=&#34;http://responsiveconf.com/&#34;&gt;Responsive Day Out&lt;/a&gt;, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to &lt;a href=&#34;http://adactio.com&#34;&gt;Jeremy Keith&lt;/a&gt; when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (&lt;a href=&#34;http://responsiveconf.com/&#34;&gt;you can listen to them here&lt;/a&gt;, or &lt;a href=&#34;http://www.besquare.me/conferences/responsive-day-out/&#34;&gt;watch them on BeSquare&lt;/a&gt;), I’ve joined a lot of dots in my head. I had intended to publish this writeup just a few days after the event, but &lt;a href=&#34;https://laurakalbag.com/burnout/&#34; title=&#34;Burnout&#34;&gt;burnout&lt;/a&gt; and a whole lot of client work got on top of me.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;Even though it’s a month later, I still wanted to share all of these great things I learned on that day. This writeup has now become a writeup-reflection. Do I still feel excited by these things a month later? How did these talks affect my work over the next month?&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-hugeness-that-is-responsive-web-design&#34;&gt;The hugeness that is Responsive Web Design&lt;/h2&gt;
+
+&lt;p&gt;Elliot Jay Stocks described Responsive Web Design as being about “making your site accessible and adaptable to any device, regardless of the design.” Bruce Lawson described it as “make it work everywhere or else you’re a walrus.”&lt;/p&gt;
+
+&lt;p&gt;For a seemingly niche subject for a day-long conference, the amount covered in this day was huge. As Mark Boulton put it in the closing talk, responsive web design is, in a way, bigger than web standards. It disrupts far more industries than our own. The subtleties in the markup that we write is only visible to us as developers, but responsive web design has an effect on any user of the web, and any industry that has a presence on the web.&lt;/p&gt;
+
+&lt;p&gt;Despite having such a huge impact on modern web design, there wasn’t anyone really preaching that responsive web design is the “one true solution”. One of the first points David Bushell made was that if a site that isn’t optimised for small viewports and isn’t too hard to browse on mobile, then it’s worth considering whether an alternative is really worthwhile.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-the-devices&#34;&gt;All the devices&lt;/h2&gt;
+
+&lt;p&gt;Since the dawn of Responsive Design (and before that, really) we seemed to focus on making our sites work on particular mobile devices. Namely the iPhone. It made life easier as we just had to design for a few more specific widths of websites.&lt;/p&gt;
+
+&lt;p&gt;Many of the speakers at Responsive Day Out spoke about how we need to break away from designing for specific devices, as you’ll never be able to cater for every user, and there is no average, normal or most common viewport width or capabilities. In his talk about future-friendly browser support, Tom Maslen posited that there are far too many edge cases (almost every device is an edge case in some way) to take this approach, and that you have no idea what’s going to come out next week or next year.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“You’re never going to win, you’re playing the wrong game…” David Bushell on designing for devices&lt;/p&gt;
+
+&lt;p&gt;“Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/devicedetection.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2737&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/devicedetection.jpg&#34; alt=&#34;Anna Debenham—Device detection isn&amp;#39;t future proof. Avoid.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Anna Debenham—Device detection isn’t future proof. Avoid.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As Tom Maslen pointed out, we’re foolish focusing on devices. Before responsive design, did we ever talk about whether a website worked on a particular Dell PC or a MacBook? We didn’t, we thought in terms of browsers and whether our sites worked in Internet Explorer 8 or the most recent version of Firefox. This makes it much easier to test and gives us a much narrower set of requirements that our sites need to fulfil.&lt;/p&gt;
+
+&lt;p&gt;David Bushell explained how screen size doesn’t equate to viewport size, as many desktop users, especially those with very large displays, will use browser windows much narrower than their screen. Something that I also touched on in my talk was that you can’t judge what device is being used, or what user is doing based on the size of their viewport. A narrower viewport does not necessarily guarantee a mobile device, or low bandwidth or that the user is “on the go”. A narrower viewport could just mean that the user has stuck the browser window to one side of their enormous display on a high-end Mac, using broadband while at work in their office.&lt;/p&gt;
+
+&lt;h3 id=&#34;breakpoints-and-tweakpoints&#34;&gt;Breakpoints and tweakpoints&lt;/h3&gt;
+
+&lt;p&gt;Many of the speakers discussed breakpoints, but not obsessing over them as the defining feature of Responsive Web Design. While most of us have been guilty of basing breakpoints on particular (Apple!) devices, the focus was on moving away from device-based breakpoints.&lt;/p&gt;
+
+&lt;p&gt;Mark Boulton suggested that breakpoints should be based on changing user experiences based on the features and capabilities of the browser; using “macro breakpoints” when something big happens, such as a layout change, and mostly basing your CSS around “micro breakpoints”, on the little tweaking details that add up to 80% of your styles. These are very much along the same lines as &lt;a href=&#34;http://adactio.com/journal/6044/&#34;&gt;Jeremy Keith’s “tweakpoints”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my talk I shared my ideas of basing breakpoints around the optimal display of the content, as every content element has an ideal maximum width and and ideal minimum width. Using the content in this way ensures the best browsing experience, as well as using constraints derived from the one thing that won’t change in the future.&lt;/p&gt;
+
+&lt;p&gt;Bruce Lawson also touched on making assumptions about types of user interaction based on viewport size. Bruce gave the example of browsing a site on a TV. Whilst the TV screen is very large, the distance at which you sit from it makes the interaction more akin to using a mobile device, they occupy the same space in your field of vision.&lt;/p&gt;
+
+&lt;h2 id=&#34;not-just-screens-but-inputs&#34;&gt;Not just screens, but inputs&lt;/h2&gt;
+
+&lt;p&gt;Anna Debenham’s talk on consoles showed us the wide range of web browsing experiences on gaming devices, and how the inputs and interactions on these devices have a huge impact on the browsing experience. Combinations of touch screen and voice input, stylus wielding, button hitting, pointer waving and joystick nudging can make the web a challenging experience on consoles, however Anna emphasised that designing specifically for these devices isn’t the way forward. These &lt;a href=&#34;http://console.maban.co.uk/&#34;&gt;devices are rapidly improving their support for web standards&lt;/a&gt;, so building a site with web standards, multiple contexts and accessibility in mind will inevitably result in a site that’s a joy to use on a console.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Don’t design for consoles, design for everything and nothing.” Jeremy Keith summing up in the panel session after Anna’s talk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;designing-for-features-and-capabilities&#34;&gt;Designing for features and capabilities&lt;/h2&gt;
+
+&lt;p&gt;Mark Boulton, Andy Hume and Tom Maslen all spoke about designing for features and capabilities instead of devices. This is tied in with the idea of &lt;a href=&#34;http://alistapart.com/article/understandingprogressiveenhancement&#34;&gt;progressive enhancement&lt;/a&gt;, which many of us have been using as a web development mantra for years. Tom Maslen named his talk after the technique of judging browsers which “cut the mustard.”&lt;/p&gt;
+
+&lt;h3 id=&#34;cutting-the-mustard&#34;&gt;Cutting the mustard&lt;/h3&gt;
+
+&lt;p&gt;Tom Maslen and Andy Hume both work on large news sites (&lt;a href=&#34;http://bbc.co.uk&#34;&gt;bbc.co.uk&lt;/a&gt;, &lt;a href=&#34;http://guardian.co.uk&#34;&gt;guardian.co.uk&lt;/a&gt;) and so shared their experiences of practically applying responsive design to huge content-heavy sites. Their technique of “cutting the mustard” is to define a list of browsers deemed to be ‘modern’, with a certain set of features and capabilities, and then delivering a progressively enhanced experience to those browsers only.&lt;/p&gt;
+
+&lt;p&gt;This technique relies on building a simple core experience where the content is accessible from any device. Andy suggested there are three stages of the page load, where only one is vital:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;“content”: HTML and CSS&lt;/li&gt;
+&lt;li&gt;“enhancement”: javascript which enhances the experience with rich/interactive media&lt;/li&gt;
+&lt;li&gt;“leftovers”: analytics, ads, and anything else which is least important to the users but useful to include on the page&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Tom pointed out that using this technique would mean no time wasted on polyfilling, or other ways of trying to make the older/less capable browsers support the same enhancements. As the browsers that cut the mustard all support modern standards, you can be assured of a good level of support for CSS and other modern technologies.&lt;/p&gt;
+
+&lt;p&gt;This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/browsercompatibility.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2729&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/browsercompatibility.jpg&#34; alt=&#34;Tom Maslen demonstrating the BBC&amp;#39;s previous strategy of supporting a specific table of browsers&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;more-markup-and-code&#34;&gt;More markup and code&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“The web and web standards have always been responsive”-Bruce Lawson on how the web is inherently flexible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bruce Lawson started his talk saying that we constrained ourselves on the web. Mark Boulton later pointed out that we didn’t really constrain ourselves, we’ve been using the web for everything and anything when it was really just designed for memos. The web wasn’t &lt;strong&gt;designed&lt;/strong&gt; to be inherently flexible, it just happened that way.&lt;/p&gt;
+
+&lt;h2 id=&#34;fluid-design&#34;&gt;Fluid design&lt;/h2&gt;
+
+&lt;p&gt;However, Bruce was really highlighting the fact that we could have been developing sites based on fluid layouts for years, it’s just that most of us have been falsely constraining ourselves with fixed-width layouts in order to give us more control. Throughout the day, Jeremy Keith relished in telling us how he’d always worked in this way and how it made the move to responsive layouts significantly easier.&lt;/p&gt;
+
+&lt;p&gt;Andy Hume spoke of an ideal future where every component of a site would be standalone, as a modular part of a greater system. Building our sites in this way would mean we didn’t even need to rely on media queries. If we built our components to suit any width, embracing fluidity, they would fit any device without forcing particular responsive behaviour.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-the-css-possibilities&#34;&gt;All the CSS possibilities&lt;/h2&gt;
+
+&lt;p&gt;Bruce Lawson introduced us to a huge amount of existing and up-and-coming standards that we’ll be able to use to make responsive design much easier.&lt;/p&gt;
+
+&lt;h3 id=&#34;viewport-meta-and-viewport&#34;&gt;Viewport meta and @viewport&lt;/h3&gt;
+
+&lt;p&gt;Bruce explained how the viewport meta tag &lt;code&gt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width&amp;quot;&lt;/code&gt; is a bit of a blunt instrument, and how it’s really mixing presentation into our structure as it’s telling pages how to display from within the HTML and not the CSS.&lt;/p&gt;
+
+&lt;p&gt;Bruce showed us a potential solution using an &lt;a href=&#34;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&#34;&gt;@viewport rule&lt;/a&gt; in your CSS which could replace the viewport meta tag and allow for more sophisticated combinations of viewport and media query rules.&lt;/p&gt;
+
+&lt;h3 id=&#34;some-next-level-css&#34;&gt;Some next level CSS&lt;/h3&gt;
+
+&lt;p&gt;Under the cheeky name of “CSS Level 4”, Bruce walked us through some proposed additional media queries:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;(script)&lt;/code&gt; which can be used to provide fallbacks or enhancements based on whether the browser supports JavaScript&lt;/li&gt;
+&lt;li&gt;supported inputs and interactions such as &lt;code&gt;(touch)&lt;/code&gt;, &lt;code&gt;(hover)&lt;/code&gt;, &lt;code&gt;(remote)&lt;/code&gt; and &lt;code&gt;(keyboard)&lt;/code&gt; which can be used to optimise the user experience based on the capabilities of their device&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These could be used to replace the functionality of something like &lt;a href=&#34;http://modernizr.com/&#34;&gt;Modernizr, where JavaScript is used to detect browser capabilities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox&#34;&gt;Flexbox&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/flexbox.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2741&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/flexbox.jpg&#34; alt=&#34;Bruce Lawson talking about flexbox&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt; &lt;a href=&#34;http://dev.opera.com/articles/view/flexbox-basics/&#34;&gt;Flexbox&lt;/a&gt;, as shown by Bruce, is so full of exciting potential for CSS layouts. The rules associated with flexbox gives layout superpowers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;reorder content on the page without changing the hierarchy of the HTML&lt;/li&gt;
+&lt;li&gt;make content redistribute across any given space&lt;/li&gt;
+&lt;li&gt;centre content horizontally or vertically&lt;/li&gt;
+&lt;li&gt;create complex grid layouts without having to rely on dodgy class names or endless floating elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bruce warned us to be wary of the &lt;a href=&#34;http://css-tricks.com/old-flexbox-and-new-flexbox/&#34;&gt;differences between the 2009 and 2011 flexbox syntaxes&lt;/a&gt;, as both are implemented differently across browsers, although a standard is being reached with the later syntax.&lt;/p&gt;
+
+&lt;h3 id=&#34;pesky-prefixes&#34;&gt;Pesky prefixes&lt;/h3&gt;
+
+&lt;p&gt;Bruce emphasised that, when using any of these new CSS features, to always make sure you use both the prefixed (for browser vendor implementation testing) and unprefixed (the desired web standard) versions of each rule. This ensures current compatibility with browsers-in-flux but also future compatibility when all browsers consistently support the standard in the same way.&lt;/p&gt;
+
+&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;Performance was a key word of the day. Many speakers mentioned how we’ve been spoilt by broadband, and seemed to have forgotten about optimising our sites for limited bandwidth and poor connections. This has come back to bite us as we realise how much our weighty sites impact upon the mobile experience on responsively designed sites. Andy Hume pointed out that performance isn’t just about responsive design, it’s important for &lt;em&gt;all&lt;/em&gt; design, and that responsive design has just put the light on our previously bad practices. Anna Debenham suggested that we should set a performance budget for each page, which we use to ensure that our resources aren’t getting out of hand.&lt;/p&gt;
+
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;“Responsive images” are a common request among designers and developers. Really what most people want is a clever way to add flexibility to images, and some kind of browser magic to deliver the relevant image to suit the user’s bandwidth. Paul Robert Lloyd proposed that appropriate use of imagery is a more realistic solution. Paul questioned whether we really need to use images as much as we do, and maybe we should be working with truly scalable media. Paul posited that the element is an unrealistic solution as it gives developers the idea that you can aim for pixel perfection on the web when, especially in the world of varying-DPI displays, it’s just not achievable. When considering the best solutions for images, Paul put images into three categories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interface&lt;/li&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Decorative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-2793&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/types-of-images.png&#34; alt=&#34;Paul Robert Lloyd&amp;amp;#039;s slide on types of images&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Paul Robert Lloyd’s slide on types of images
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;asset-fonts&#34;&gt;Asset fonts&lt;/h3&gt;
+
+&lt;p&gt;Where images meet fonts, Josh Emerson spoke about using asset fonts for one-colour graphic elements. Much like the &lt;a href=&#34;https://www.microsoft.com/typography/web/fonts/webdings/default.htm&#34;&gt;Webdings icons font&lt;/a&gt;, Josh explained that asset fonts could be created as your own set of scaling icons. The glyphs are much easier to manage than &lt;a href=&#34;http://alistapart.com/article/sprites&#34;&gt;hacky image sprites&lt;/a&gt;, they’re supported by &lt;a href=&#34;http://caniuse.com/#feat=fontface&#34;&gt;any browser that supports web fonts&lt;/a&gt;&amp;nbsp;and provide resolution-independent sharp graphics that work on &lt;strong&gt;any-DPI&lt;/strong&gt; display, not just retina displays.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/assetfonts.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2725&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/assetfonts.jpg&#34; alt=&#34;Josh Emerson on asset fonts&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Josh pointed out that, whilst asset fonts are a fantastic solution for vector-style graphics, images that require more than one colour are better served by &lt;a href=&#34;https://en.wikipedia.org/wiki/Scalable_Vector_Graphics&#34;&gt;SVG&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another way of delivering assets through fonts are with ligature asset fonts. Josh talked about &lt;a href=&#34;http://symbolset.com/&#34;&gt;Symbolset&lt;/a&gt;, where words can be converted semantically into icons using the ligature format built into fonts. I previously thought that this would be tricky, as you’d have to use the exact language and exact words in your content to trigger the correct icons, which could result in your copy following your design, not separating content and presentation. Josh pointed out that you can use this same ligature formatting to build ligature asset fonts for yourself, using the words and graphics that you want. Unfortunately, ligature asset fonts do require &lt;a href=&#34;http://caniuse.com/#feat=ttf&#34;&gt;OpenType ligature support which is still slightly patchy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;typography&#34;&gt;Typography&lt;/h2&gt;
+
+&lt;p&gt;There was a lot of talk of typography throughout the day as our excitement with two of the biggest turning points in web development in the last few years; web fonts and responsive web design, were brought together.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-first&#34;&gt;Typography first&lt;/h3&gt;
+
+&lt;p&gt;In my talk, I spoke about how text makes up so much of web design that typography, and your choice of typeface, could be the one thing that makes your design feel consistent across any viewport or device. With the web font support we have nowadays, or even using a basic palette of “web safe” fonts, you could easily give your website a distinctive voice and atmosphere without the need for complex responsive layouts, just embracing the built-in fluidity of the web.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-fonts-and-fallbacks&#34;&gt;Web fonts and fallbacks&lt;/h3&gt;
+
+&lt;p&gt;Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/webfontoptions.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2757&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/webfontoptions.jpg&#34; alt=&#34;Richard Rutters potential solutions for web font loading wait-time&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Richard Rutters potential solutions for web font loading wait-time
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Default: text appears as each web font loads&lt;/li&gt;
+&lt;li&gt;Don’t send web fonts to small screens&lt;/li&gt;
+&lt;li&gt;Show text in the fallback fonts until all the web fonts load&lt;/li&gt;
+&lt;li&gt;Swap out the fallback font as each web font loads&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;After a day of speakers talking about how we can’t guess the performance of a browser based solely on viewport size, it seemed like not sending web fonts to small screens was a very general solution which you would have to weigh up with the probability of narrow viewports equating to low bandwidth.&lt;/p&gt;
+
+&lt;p&gt;Richard talked about the &lt;a href=&#34;http://24ways.org/2010/using-the-webfont-loader-to-make-browsers-behave-the-same/&#34;&gt;WebFont Loader&lt;/a&gt; which gives you JavaScript classes to make all browsers load fonts in the same way, and give you more fine-grained control on when and how the fonts appear.&lt;/p&gt;
+
+&lt;p&gt;Richard emphasised the importance of operating system font fallbacks for web fonts, and how these could be used as a very workable, readable version of a page until the web fonts are loaded. The knack to getting this right is to make the fallback fonts as similar as possible to the web font. This involves researching the most appropriate fallback fonts on different devices, and tweaking the metrics of the fallback font to best match the web font size and shape.&lt;/p&gt;
+
+&lt;h2 id=&#34;layouts-and-navigation&#34;&gt;Layouts and navigation&lt;/h2&gt;
+
+&lt;h3 id=&#34;differentiating-and-uniting&#34;&gt;Differentiating and uniting&lt;/h3&gt;
+
+&lt;p&gt;The main focus of my talk was trying to get our heads round how our visual designs respond to responsiveness, and how we can use this to create good and familiar experiences no matter what the viewport. I spoke about design systems, and how our visual systems are built from typography, layout, colour and shape/form. When considering each of these modules, we should consider what works to unite the feel of our site across different viewports and what we must differentiate in order to optimise the experience for different viewport widths.&lt;/p&gt;
+
+&lt;h3 id=&#34;antiphonal-geometry&#34;&gt;Antiphonal geometry&lt;/h3&gt;
+
+&lt;p&gt;Owen Gregory spoke about how we can’t base web design layouts on print geometry as our materials are just not the same. Print is static, but the web is the complete opposite. Owen pointed out that we can keep using geometric layouts, they just have to be made flexible. Whilst Mark Boulton spoke about not constraining ourselves with frames that we create ourselves, Owen talked about how these frames are ever-present without our input, every device uses frames to deliver content in the form of a screen.&lt;/p&gt;
+
+&lt;p&gt;Owen agreed with Mark in that we can’t use frames as false constraints, we must acknowledge that we can’t possibly guess what size these frames are going to be, but Owen also pointed out that the ratios between the height and width of many devices are roughly the same, so we could potentially use these values in our designs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/control.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2733&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/control.jpg&#34; alt=&#34;Mark Boulton on Control&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On reflection, this was an exciting revelation to many of us (the similarity between the ratios) but I still disagree with this as something to design around. There may well be similarities between the proportions &lt;strong&gt;now&lt;/strong&gt;, but the point of embracing the responsiveness of the web and not focusing on specific devices is that we don’t know what those proportions will be in the near or distant future. For now, this may be the most aesthetically pleasing ratio, but our tastes could well change.&lt;/p&gt;
+
+&lt;p&gt;Owen spoke about the similarities between the ratios of device proportions and the harmony of musical intervals. This is similar to Tim Brown’s talk I saw at Ampersand conference 2011 (also &lt;a href=&#34;http://alistapart.com/article/more-meaningful-typography&#34;&gt;a fantastic article on A List Apart&lt;/a&gt;) about using typography built on a &lt;a href=&#34;http://modularscale.com/&#34;&gt;modular scale based on musical intervals&lt;/a&gt;. These principles use the interval harmonies found in music, which is &lt;a href=&#34;http://en.wikipedia.org/wiki/Fibonacci_number&#34;&gt;can also be found in maths and nature&lt;/a&gt;, to create scales for your typographic hierarchy which has that same harmonious and balanced feel.&lt;/p&gt;
+
+&lt;h3 id=&#34;types-of-navigation&#34;&gt;Types of navigation&lt;/h3&gt;
+
+&lt;p&gt;David Bushell got into the meat of responsive navigation. Despite showing us many different types of navigation, David emphasised that we shouldn’t try to be too clear with our navigation, as we’ll likely just end up confusing the users. We must remember that the reason navigation exists is to make it easy for the user to find what they’re looking for.&lt;/p&gt;
+
+&lt;p&gt;As a general rule, David suggested we should aim for as few menu items as possible. The navigation menu isn’t the only form of discoverability on a site, so we don’t need to cram everything in there. We’re risking all of the site on a single point of failure if we only have a single point of navigation.&lt;/p&gt;
+
+&lt;p&gt;It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/typesofinput.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2753&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/typesofinput.jpg&#34; alt=&#34;David Bushell on types of input&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		David Bushell on types of input
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A few of the different types of navigation David talked about were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a print-style table of contents which makes the content hierarchy very clear&lt;/li&gt;
+&lt;li&gt;jumping to a ‘big footer’, where you’ve no limitations on the amount of navigation as it’s not above, or hiding, the primary content&lt;/li&gt;
+&lt;li&gt;hiding and revealing the navigation, above or to one side of the primary content&lt;/li&gt;
+&lt;li&gt;overlaying the navigation over the primary content, so it’s not pushing the content down&lt;/li&gt;
+&lt;li&gt;multiple tiers of sub-menus, allowing the user to drill down to what they’re looking for&lt;/li&gt;
+&lt;li&gt;just simply using menu items floating side-by-side, with clever breakpoints to optimise their readability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-hamburger-icon&#34;&gt;The “hamburger” icon&lt;/h3&gt;
+
+&lt;p&gt;David’s talk was the first where I’d heard the description of three horizontal lines as the “hamburger” icon. David spoke about this icon as a potential convention that’s arising in responsive design, as it’s used by some very large mainstream sites with a wide audience. However, it’s possibly being used as an easy option for designers looking to hide a menu button in as small a space as possible, without considering whether it’s really the best and easiest-to-understand option for the users.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-matter-of-process&#34;&gt;A matter of process&lt;/h2&gt;
+
+&lt;p&gt;Process is one of the trickiest topics in responsive design. Both Elliot Jay Stocks and I spoke about how hard it is for us to let go of the tried-and-tested processes that worked for us for so long. Sarah Parmenter described our processes themselves as being adaptive, and how our the task of creating good working processes will never truly be done. Sarah said it was a problem of workflow, and we need to find workflows that work for us as individuals. Elliot Jay Stocks pointed out that once we rethink our processes, responsive design will no longer be described as such a time-consuming process.&lt;/p&gt;
+
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+
+&lt;p&gt;In my talk, I tried to emphasise that a lot of our problems with responsive design stem from our focus on the deliverables, and mockups, that we produce for clients. We need to remember &lt;strong&gt;why&lt;/strong&gt; we create these mockups in the first place, that they’re really just tools for communication our ideas and concepts. We need to let go of the perfectionism in our mockups and focus on presenting our ideas to our clients and colleagues in an efficient way which also helps us visualise our own work effectively.&lt;/p&gt;
+
+&lt;h3 id=&#34;designers-who-can-code&#34;&gt;Designers who can code&lt;/h3&gt;
+
+&lt;p&gt;Elliot Jay Stocks pointed out the value in being a designer who can code. Being able to code means that you’re not stuck in the static format of a graphics editor. You may not be an amazing front-end developer, but being able to code will make it so much easier to communicate the responsive elements of your design work to your clients and colleagues.&lt;/p&gt;
+
+&lt;h2 id=&#34;content-content-content&#34;&gt;Content, content, content&lt;/h2&gt;
+
+&lt;p&gt;When he was speaking about designing navigation, David Bushell pointed out that knowing your content hierarchy is incredibly important for understanding the best form of navigation. Placeholder content is not a viable substitute as you just don’t know what you’re designing around.&lt;/p&gt;
+
+&lt;p&gt;Many speakers went back to this point. In my talk I returned to it when I said that the whole purpose of a site is to present the content in an optimal experience, so we really need the content before we can make decisions on the most appropriate form of presentation.&lt;/p&gt;
+
+&lt;p&gt;Sarah Parmenter quoted Mark Boulton saying that you need to know the content structure, not just the content. Sarah spoke about the importance of a content audit, and really knowing your content structure. Sarah had the idea of getting clients to not sign off on visual mockups or wireframes, but on the content hierarchy, where the importance of each element was agreed with the client.&lt;/p&gt;
+
+&lt;p&gt;Paul Robert Lloyd described it as meaning being our baseline. Aesthetic design is just an enhancement. On the most basic level, the HTML page of content is a usable website. Anything we put on top of that basic usability must be carefully considered so that it adds to, rather than damages, the experience.&lt;/p&gt;
+
+&lt;h2 id=&#34;approaches-and-attitudes&#34;&gt;Approaches and attitudes&lt;/h2&gt;
+
+&lt;p&gt;In the month since Responsive Day Out, I’ve heard the term “winging it” over and over. It was Sarah Parmenter kicking the day off saying “we’re winging it” that initiated this kind of group honesty where everyone felt they could share what they &lt;strong&gt;didn’t&lt;/strong&gt; know about responsive design. I’ve noticed people starting to be more free with their ideas and experimentation.&lt;/p&gt;
+
+&lt;h3 id=&#34;not-being-comfortable&#34;&gt;Not being comfortable&lt;/h3&gt;
+
+&lt;p&gt;Mark Boulton ended the day on the point that we need to stop trying to be comfortable with what we’re doing. We need to start feeling comfortable with feeling uncomfortable. We previously gave ourselves false constraints to make our lives easier, and to make our work feel like it fitted. These constraints have done nothing but cause us problems with future compatibility.&lt;/p&gt;
+
+&lt;p&gt;This feeling of uncertainty is here for good, and it’s a valuable part of ensuring we make our sites better for those unpredictable situations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;related-reading&#34;&gt;Related reading&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;anna-debenham-s-game-console-browsers-test-results-site&#34;&gt;Anna Debenham’s Game console browsers test results site&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://console.maban.co.uk/&#34;&gt;http://console.maban.co.uk/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;paul-robert-lloyd-s-responsive-markup-patterns-for-images&#34;&gt;Paul Robert LLoyd’s responsive markup patterns for images&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://prlloyd.com/responsiveconf&#34;&gt;http://prlloyd.com/responsiveconf&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;jeremy-keith-s-tweakpoints&#34;&gt;Jeremy Keith’s ‘Tweakpoints’&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://adactio.com/journal/6044/&#34;&gt;http://adactio.com/journal/6044/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox-basics&#34;&gt;Flexbox basics&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://dev.opera.com/articles/view/flexbox-basics/&#34;&gt;http://dev.opera.com/articles/view/flexbox-basics/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox-syntaxes&#34;&gt;Flexbox syntaxes&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://css-tricks.com/old-flexbox-and-new-flexbox/&#34;&gt;http://css-tricks.com/old-flexbox-and-new-flexbox/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;an-introduction-to-meta-viewport-and-viewport&#34;&gt;An introduction to meta viewport and @viewport&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&#34;&gt;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;cutting-the-mustard-looking-at-device-support-with-responsive-news&#34;&gt;“Cutting the Mustard”, looking at device support with Responsive News&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard/&#34;&gt;http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard/&lt;/a&gt; &lt;a href=&#34;https://twitter.com/andyhume/status/319001952740585472&#34;&gt;Hat tip to Andy Hume.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related-resources&#34;&gt;Related resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;fontforge-an-app-for-creating-fonts-recommended-by-josh-emerson&#34;&gt;Fontforge, an app for creating fonts, recommended by Josh Emerson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fontforge.org/&#34;&gt;http://fontforge.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;symbolset-a-ligature-asset-fonts-service-recommended-by-josh-emerson&#34;&gt;Symbolset, a ligature asset fonts service, recommended by Josh Emerson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://symbolset.com/&#34;&gt;http://symbolset.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;icomoon-a-service-for-creating-asset-fonts-recommended-by-josh-emerson-as-the-simplest-solution&#34;&gt;Icomoon, a service for creating asset fonts, recommended by Josh Emerson as the simplest solution&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://icomoon.io/&#34;&gt;http://icomoon.io/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;webfont-loader-a-javascript-library-to-give-you-more-control-over-font-loading-recommended-by-richard-rutter&#34;&gt;WebFont Loader, a JavaScript library to give you more control over font loading, recommended by Richard Rutter&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/webfonts/docs/webfont_loader&#34;&gt;https://developers.google.com/webfonts/docs/webfont_loader&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;modernizr-a-javascript-library-used-to-detect-browser-capabilities-recommended-by-bruce-lawson&#34;&gt;Modernizr, a JavaScript library used to detect browser capabilities, recommended by Bruce Lawson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://modernizr.com/&#34;&gt;http://modernizr.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;modular-scale-a-tool-built-by-tim-brown-to-design-typographic-ratios-around-musical-intervals&#34;&gt;Modular Scale, a tool built by Tim Brown to design typographic ratios around musical intervals&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;http://modularscale.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;8-comments&#34;&gt;8 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-525&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tushar Sonawane (@tushkiz)&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-525&#34;&gt;&lt;time datetime=&#34;2013-04-02T08:35:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:35am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I was waiting for this one from Responsive Day Out, all at one place.
+
+Thanks Laura!!&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-526&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://simoncox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Simon Cox&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-526&#34;&gt;&lt;time datetime=&#34;2013-04-02T13:13:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Listened to your appearance on Unfinished biz yesterday where you mentioned the hamberger icon. I beleive it’s a morphed stylised list –; without the dots. With the dots the icon actually looks like a list –; which navigation mostly is but without the dots gets people confused –; so a hamburger is appropriate as thats confusing as there is no ham (those these days you can’t really tell) (And for those saying Hamburgers are from Hamberg –; where are beefburgers from?)  
+
+Thanks for doing the write up –; you have picked up (researched) a lot more links than I remember on the day so it will be good to return to this post again and again.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-529&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1f00366a932b14e47ab0c8e0b4a3c293?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1f00366a932b14e47ab0c8e0b4a3c293?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Owen Gregory&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-529&#34;&gt;&lt;time datetime=&#34;2013-04-03T11:06:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:06am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for such a thorough analysis and reflection of Responsive Day Out, and thanks also for engaging with the ideas in my talk, something other correspondents haven’t really done –; I think many commentators didn’t really know what to make of it!
+
+I’d like to respond, however and clarify a few points. If this stuff wasn’t clear from my talk, then I apologize; I had to cram a lot into the twenty minutes and knew very well that I had to simply miss things out or leave them unexplained.
+
+I wouldn’t characterize using the principles and implications of antiphonal geometry as creating “geometric layouts”, more that such an approach encourages web designers to take and use certain aspects of visual design they might think aren’t available to them in a fluid medium: namely, the ratios of the screens that necessarily frame our work.
+
+I certainly didn’t intend to say that the aspect ratios of the screens we use are “roughly the same”. 3:5 isn’t 5:8. But for each distinct ratio there are several different devices, from smartphone to desktop screen; the iPhone 5, for example, shares the same aspect ratio as the Thunderbolt display. Far from “focusing on specific devices”, the principles of antiphonal geometry allow us to use properties that devices share, not set them apart.
+
+I tried to make clear that there is a set of aspect ratios used for web screens (2:3, 3:4, 3:5, and so on) that matches natural musical harmonic intervals, so why not use those values to inform our designs. The main idea is that when the screen aspect ratio is 3:4, for example, we use that to change parts of a visual design. And when the aspect ratio changes, so too can the design. Using musical harmony is merely an interesting (well, I think so!) extension of that.
+
+Of course, you’re right to say that “we don’t know what those proportions will be in the near or distant future”, but I believe we’ll continue to see the same set of proportions in screen aspect ratios for many years to come.
+
+Also, I never intended that these ideas be “something to design around.” I wouldn’t design with these principles in mind from the start, but I might apply some of them where appropriate to help create a resonance between the design and the device it’s displayed on.
+
+I hope that clears a few things up. I might try to write up my complete take on antiphonal geometry eventually, and set it out as clearly as I can, for anyone willing to take the risk! Thank you again for your thoughts.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +526,600 @@ After a whole month of mulling over the talks in my head, and chatting to other 
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/display-none/</guid>
-      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
-display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+      <description>
+
+&lt;h2 id=&#34;or-the-things-you-think-are-common-knowledge-but-really-they-aren-t&#34;&gt;&lt;em&gt;Or&lt;/em&gt; The things you think are common knowledge but really they aren’t.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shoptalkshow.com/episodes/040-with-laura-kalbag/&#34;&gt;I was on the ShopTalk show&lt;/a&gt; a few weeks ago, and a few people have asked me what I meant when I said “&lt;code&gt;display: none;&lt;/code&gt; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;display-none-in-responsive-web-design&#34;&gt;&lt;code&gt;display: none;&lt;/code&gt; in responsive web design&lt;/h2&gt;
+
+&lt;p&gt;When we’re &lt;a href=&#34;http://www.alistapart.com/articles/responsive-web-design&#34;&gt;changing out layouts based on viewport sizes, using media queries&lt;/a&gt;, we tend to switch page elements about a bit. We might make our images display one-on-top-of-the-other for narrower layouts, we might make our text super big to take advantage of bigger spaces.&lt;/p&gt;
+
+&lt;p&gt;There can be a lot of content on one web page, and often there’s a temptation to hide some of it on narrower viewports. This walks hand-in-hand with the assumptions that narrow viewports are mobile devices and people using mobile devices are roving the planet using the web ‘on the go.’&lt;/p&gt;
+
+&lt;h3 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h3&gt;
+
+&lt;p&gt;But those assumptions are exactly that, you’re just &lt;em&gt;assuming&lt;/em&gt; that’s what the user is doing, you’re not basing that on real research or user testing. Why are you hiding so much of your content if you’re assuming it’s also useful to those browsing your site with a wider viewport?&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-be-lazy&#34;&gt;Don’t be lazy&lt;/h3&gt;
+
+&lt;p&gt;Just hiding content is a lazy design solution. Yes, it’s hard designing for smaller screens, but maybe that will help you ensure that every little piece of content you’re putting on that site is worthwhile. Responsive design should be about rearranging, not changing, your page elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;and-then-you-re-actually-just-loading-it-anyway&#34;&gt;And then you’re actually just loading it anyway…&lt;/h3&gt;
+
+&lt;p&gt;When you’re putting content into your page, and &lt;em&gt;then&lt;/em&gt; hiding it with CSS, it’s still there, it’s just not visible. So if you’re using this ‘technique’ across your site in numerous places, you’re likely taking a performance hit. And potentially, for narrower viewports/possible mobile devices, in the one place that a slow-loading page is likely to irritate a user. It’s just not worth that risk.&lt;/p&gt;
+
+&lt;h2 id=&#34;changing-the-display-not-hiding-the-display&#34;&gt;Changing the display, not hiding the display&lt;/h2&gt;
+
+&lt;p&gt;One solution I’ve been using is changing the display of the content. It is a real problem that CSS can’t easily manipulate all types of content into a readable fashion on all devices. This is particularly true for navigation that needs to be displayed in a significantly different way, and often tables need to be reinterpreted into a more digestible format for narrow viewports. And in these cases, javascript can be your friend.&lt;/p&gt;
+
+&lt;h3 id=&#34;mobile-first&#34;&gt;Mobile first&lt;/h3&gt;
+
+&lt;p&gt;I always start mobile first, that’s not just in markup, it’s in content too. We don’t want to load up unnecessary HTML that creates performance problems, or javascript that may not working consistently on mobile devices.&lt;/p&gt;
+
+&lt;p&gt;If I’ve got a data table, and I think it would be better off displayed as a list of data, I would write the list of data into the HTML. This way it’ll load quickly, and those without javascript (or enough bandwidth to load javascript) will get a decent experience.&lt;/p&gt;
+
+&lt;h3 id=&#34;progressively-enhancing-with-javascript&#34;&gt;Progressively enhancing with javascript&lt;/h3&gt;
+
+&lt;p&gt;Then, I would use media queries, or some kind of clever javascript, to load in the fancy content for particular viewport widths. I’ve done this to load in tables of data, replacing data lists, and also for navigation, replacing a vertical list of links with a show/hide button that reveals the menu when tapped (as on this site.) None of this requires &lt;code&gt;display: none;&lt;/code&gt;. No markup is wasted.&lt;/p&gt;
+
+&lt;h3 id=&#34;edit-accessibility&#34;&gt;[Edit]: Accessibility&lt;/h3&gt;
+
+&lt;p&gt;The good &lt;a href=&#34;http://twitter.com/SteveMarshall&#34;&gt;Steve Marshall&lt;/a&gt; has pointed out that there are also accessbility issues related to &lt;code&gt;display: none;&lt;/code&gt;. I didn’t want to cover too much in the post, but in case you want to know more about that too, I recommend &lt;a href=&#34;http://www.alistapart.com/articles/now-you-see-me/&#34;&gt;Aaron Gustafson’s ‘Now You See Me’ on A List Apart&lt;/a&gt; and &lt;a href=&#34;http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/&#34;&gt;Chris Coyier’s ‘Places It’s Tempting To Use Display: None; But Don’t on CSS Tricks&lt;/a&gt;. [/edit]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;writing-about-markup&#34;&gt;Writing about markup&lt;/h2&gt;
+
+&lt;p&gt;I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.&lt;/p&gt;
+
+&lt;p&gt;I also shy away from writing about the ‘easy’ stuff. This post about &lt;code&gt;display: none;&lt;/code&gt; is a fairly simple principle and I really don’t want to patronise anyone.&lt;/p&gt;
+
+&lt;h3 id=&#34;people-do-want-to-hear-about-the-simple-stuff&#34;&gt;People do want to hear about the ‘simple’ stuff&lt;/h3&gt;
+
+&lt;p&gt;Making these assumptions about it being a simple principle, and that everybody would know about it already, was daft. I was quickly proved wrong when people started asking me about it and then I realised how silly it was to think that we all have the same sources of information.&lt;/p&gt;
+
+&lt;h3 id=&#34;scattered-learning&#34;&gt;Scattered learning&lt;/h3&gt;
+
+&lt;p&gt;The web is a big and varied place. To assume that someone else has read something just because you’ve read it is foolish. How do we learn about these resources? When do we all decide that we’re all going to read these particular sites and articles so that we’re all equally informed?&lt;/p&gt;
+
+&lt;p&gt;Even on Twitter, the resources we hear from, and learn from, are wildly different. We may follow completely different individuals and so the resources we learn from are curated by these individuals, and these may not ever crossover. Even if we do follow the same people on Twitter, noone can be expected to read every tweet, and inevitably you’ll miss some, and then you may not know about this other new thing that everybody else has been doing for years.&lt;/p&gt;
+
+&lt;h3 id=&#34;where-i-get-to-the-point&#34;&gt;Where I get to the point…&lt;/h3&gt;
+
+&lt;p&gt;The point I’m trying to make is that we shouldn’t be fearful of writing about what we know. Even if you write from the most basic point of view, about something which has been ‘around for ages’, you’ll likely be saying something new to someone. They might be new to the industry, you might just be filling in the holes in someone’s knowledge.&lt;/p&gt;
+
+&lt;p&gt;Every week I have a revelation on app.net or Twitter where I wonder how I didn’t know about this old technique or tool before… but we can’t be expected to keep up with everything. I hope this post does that for some people. It’s good to share what we know. You needn’t be the first, you’ll just help if you’re the first that somebody finds.&lt;/p&gt;
+
+&lt;h2 id=&#34;63-comments&#34;&gt;63 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-350&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrgwebdev.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Glover&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-350&#34;&gt;&lt;time datetime=&#34;2012-11-06T09:55:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for blogging this Laura, that’s really cleared up the podcast for me. I wasn’t really convinced about starting with mobile first, but using javascript to turn the mobile markup into the desktop markup makes far more sense than using display: none; or, worse, using javascript to turn desktop markup into mobile.
+
+Regarding what people know, I’ve been worrying about the same thing for ages and avoiding writing about things that seem simple to me. I concluded a little while ago that what I’ve learnt so far comes mostly from other people writing about things that seem simple to them. As you say, we all look at different parts of the internet, and not everyone has been doing this job for years. I’m a pretty experienced PHP developer, but I’m perhaps still a little behind the recent changes in frontend development. Other people are probably in the reverse position.
+
+Keep blogging the simple stuff, there will always be someone who needs that piece of knowledge :-) P.S I’d be interested to read a post from you on semantic HTML sometime. I know it’s one of your things, and I feel like I could be doing it a lot better (I still div a lot).
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-351&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.jasonbradberry.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jason Bradberry&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-351&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:12:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:12am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks, definitely a helpful post!
+
+I’ve been working using a desktop first approach, and am considering switching to looking at ‘mobile’ first for my next project. One thing I’d like to hear more about – in the podcast you talked about loading content conditionally as browser window size is increased (using the example of the large illustration on the right hand side of your site). Can you recommend any good articles/links for further reading on this?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-352&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://remy.bach.me.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rémy&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-352&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:17:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last half of this article has really struck a chord with me. In the past, I’ve shelved so many potential blog posts because I think they’re too basic when they might actually have been useful to somebody.
+
+There’s also a lot to be said for how easy something is to Google. Before posting on something, try doing a quick search for what you’re thinking of writing about. I think more often than not, you’ll find that what you want to post about either hasn’t been covered at all, is not visible enough using the search terms you used (which anyone else might easily have searched for as well), or you do it slightly differently. Either way, sharing even the smallest bit of knowledge only makes the web community stronger.
+
+Thanks for the great thoughts (and inspiration) Laura!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-353&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Richard Lewis&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-353&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:26:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        very informative laura, no one should assume that everyone knows a certain piece of info. Something that I have learned though is if you have an image for example and display :none on that then yes it still renders, however if you wrap that element in a div and then display none on that parent element the img doesn’t actually load&amp;#8230; thought it may help
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-388&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://sarasoueidan.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sara&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-388&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:36:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:36am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is a great tip! thanks for mentioning it :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-395&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jason&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-395&#34;&gt;&lt;time datetime=&#34;2012-12-10T18:01:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I’d be cautious with this approach as from my testing the images still get loaded.
+
+[http://jsfiddle.net/jlaeser/pCbav/](http://jsfiddle.net/jlaeser/pCbav/&#34; rel=&#34;nofollow)&lt;/p&gt;
+This could potentially make for a larger initial page load.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-400&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;James&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-400&#34;&gt;&lt;time datetime=&#34;2013-03-06T15:37:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Yes I tested this also and it does indeed load. Shame though as this could have been an ideal solution.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-354&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://graphiceyedea.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Prisca&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-354&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:42:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Laura :)
+
+thanks for this post –; well explained :)
+
+Also, just wanted to say that I agree: writing about what might simple is always a good idea. Teaching webdesign is changing all the time and there’s so much out there that it can be a tricky endeavour to point students to good resources. By now, I recommend people and high quality sites as good resources to follow ~ which essentially means that you writing about something simple will always have an audience, from students starting out with learning webdesign to the students of the web who we all are :)&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-355&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-355&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:26:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hold on. “display: none;” is naughty? In all situations?
+
+Then you Laura, are very naughty. For that’s exactly how you display your top menu at lower resolutions, no?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-356&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-356&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:42:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Heh. Only in the form of a good old dropdown menu. So whilst `display: none;` is used to *temporarily* hide the sub navigation, it is visible on hover.
+
+To be fair, I’m sure there are a lot of use cases where `display: none;` has its uses. As with every rule, there are always exceptions :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-357&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-357&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:57:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well, actually at lower resolutions, both menus are only available on click :)
+
+I agree there are many use cases –; but this isn’t what’s implied here. I actually believe for performant web apps, using “display:none;” and modifying markup through js absolutely essential.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-4&#34; id=&#34;li-comment-385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Harry Mansworth&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-385&#34;&gt;&lt;time datetime=&#34;2012-11-29T16:04:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Using display:none has other disadvantages. In the (rare) case that javascript has been turned off or the device has insufficient resources to run the script, using something like `$(&#39;#element&#39;).hide();` will ensure that, should JS be turned off the elements will still be visible. **Essential**for things like navigation!
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-358&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://twitter.com/crisgarner&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Cristian Garner&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-358&#34;&gt;&lt;time datetime=&#34;2012-11-07T16:37:13+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I don’t think she meant on all situations, display:none is a useful tool, if it were really bad no one would use it, I believe what Laura wants to explain is that it must be used only in what it is needed and to stop over using it.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-359&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Dean&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-359&#34;&gt;&lt;time datetime=&#34;2012-11-07T20:45:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most people in this industry seem to fear that they will be found out and ridiculed by those with more experience. I am thankful that there are some of those people who write blog posts, and put themselves in the ‘firing line’ for us unassured types to lap up. I’m yet to see the ridiculing of anybody though, and that’s another thing to be thankful for! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-360&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Chris&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-360&#34;&gt;&lt;time datetime=&#34;2012-11-08T00:09:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Nice article :)
+
+Like Jason mentioned in the comments I too would like to hear more about how you approach using JS for conditionally loading content.
+
+Cheers&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-362&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ayoungh.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Anthony Young&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-362&#34;&gt;&lt;time datetime=&#34;2012-11-08T21:43:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:43pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post :) Very encouraging for me as I want to start blogging about little bits like this, although I doubt it will be as good as yours! Keep up the great articles
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-364&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.markdixon.ca/design/blog/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Dixon&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-364&#34;&gt;&lt;time datetime=&#34;2012-11-09T22:58:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:58pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I agree. It is fine to write about web design and front-end stuff even if you are not an “expert”. I have recently launched my new portfolio website and have included a blog section where I plan on writing about web design.
+
+While doing client work we straddle a lot of areas and cannot be expected to know everything about everything.
+
+Mea Culpa –; on my first responsive design I did a fair amount of display:none.
+
+Cheers from Montreal,
+
+Mark&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-366&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://rockfishdigital.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Jacobsen&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-366&#34;&gt;&lt;time datetime=&#34;2012-11-12T16:55:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent post. Very applicable across design, dev, and content creation. Thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-368&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://carlhallberg.se&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Carl Hallberg&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-368&#34;&gt;&lt;time datetime=&#34;2012-11-13T09:46:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Love the part on ‘Scattered learning’! Very important insight that not many of us think of from day to day. I feel safe to say that i’m learning new stuff each and every day, even the most basic tech but also on completely different topics that in hindsight definitely could have been worth blogging about.
+
+Great post!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-370&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://iloveresponsivedesign.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Fredrik Christensson&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-370&#34;&gt;&lt;time datetime=&#34;2012-11-14T08:27:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:27am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, and thx for the post. I feel when we designing we dont get enough test time to see how the user are using the site. This is one of the biggest problems that I have encountered when iam design a responsive site.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-371&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Skweekah&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-371&#34;&gt;&lt;time datetime=&#34;2012-11-14T23:29:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very interesting article. I guess there’s always a better way of doing things, and if you can incorporate a little bit of better in each of the projects you are working on, you are challenging yourself and growing as a designer/developer.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-372&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://velonomad.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-372&#34;&gt;&lt;time datetime=&#34;2012-11-15T20:51:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        How about a concrete example workaround?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-374&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://lenanghai.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Hai Web&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-374&#34;&gt;&lt;time datetime=&#34;2012-11-16T15:36:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:36pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks bro.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-377&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-377&#34;&gt;&lt;time datetime=&#34;2012-11-20T00:46:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Thanks for your encouragement.
+
+Hiding images by display none is a big issue, because they load anyway. The following research breaks the ice by documenting that “background images attached to elements that are inside a element with display none are NOT loaded”: [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+
+Loading images with a common 1x1px src (because the attribute cannot be empty) AND inline styling its background-image to the ‘original’ src you are able to control the load by conditionally replacing the src with the background-image src – and showing the parent element. Only then will the image load.&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-381&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Rob&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-381&#34;&gt;&lt;time datetime=&#34;2012-11-22T22:57:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Good post, but I don’t see a concrete alternative solution here. An example would be beneficial.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-383&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-383&#34;&gt;&lt;time datetime=&#34;2012-11-23T11:51:54+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Rob. Please see my replied suggestion on how to avoid caching images for a slideshow if viewport &amp;lt; 480, on [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-384&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.daydesignz.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dayana&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-384&#34;&gt;&lt;time datetime=&#34;2012-11-27T16:45:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post, I always thought the same to myself about posting about things that should be “common knowledge” when indeed there can be several layers of knowledge to uncover. Loading mobile first is a great tip! Thanks for the post
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-386&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://player.fm&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael Mahemoff&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-386&#34;&gt;&lt;time datetime=&#34;2012-12-10T03:46:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;03:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very familiar with this issue as I’ve strived to do RWD without having to customise much of the server-side or the JS. And doing so means display: none; is almost a necessity.
+
+In an upcoming iteration, I’ve resorted to using more Ajax requests with checks for the user-agent. It’s arguably more naughty than just “display: none;”, because now there’s a bit of JS coupled to the stylesheet, but since it improves performance, it’s a net gain.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-387&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://balupton.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Benjamin Lupton&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-387&#34;&gt;&lt;time datetime=&#34;2012-12-10T05:08:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:08am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last part raises a very interesting point, and is definitely something I find myself falling into a lot. Although, my train of thought feels that writing another blog post is just adding more noise to an already saturated library of good content –; if I figured it out already, then the answer is already there, what help does it do myself adding yet another article about it?
+
+Perhaps the difference is how people get their learnings in the first place. A pre-supposition of this article appears that learning primarily occurs via blog posts and other forms of subscription based learning. I wonder how this mode of transport contrasts against learning when one encounters a problem then seeks an answer via google and stack overflow.
+
+For instance, stack overflow is a fantastic place to ensure the content that is posted is of top notch quality, whereas with blog posts you do not have that guarantee that what you are reading is correct. However, with blog posts, you do get the subscription benefit.
+
+Perhaps the solution to this dilemma is figuring out a way of combining stack exchange’s peer review and archival for searching abilities with blog posts careful curation, subscription and celebrity benefits.
+
+Thoughts?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-390&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-390&#34;&gt;&lt;time datetime=&#34;2012-12-10T07:19:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:19am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        While I think places like Stack Overflow are very useful and important, you really have to know the question that you want to ask. What if you just want to know tips and tricks?
+
+I agree that me writing this on a blog doesn’t necessarily mean I’m right, or that I know what I’m talking about, but neither do I have that guarantee when I read blog posts written by other people. The ‘peer review’ element seems to come via social networks. If someone that I respect posts a link to a blog post, then they give that post credibility.
+
+I think that learning on the web means we all need to doubt the credibility of what we read. We build up knowledge by reading a lot around these topics and then making judgments on what we choose to believe. These aren’t always black-and-white facts, there are a lot of grey areas where we rely on ‘opinion’ pieces to understand the ‘why’s to help us make more informed decisions about our work.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-389&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://christianheilmann.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chris Heilmann&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-389&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:42:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent points! What fascinates me more is that people are not taking advantage of matchmedia() enough –; it is the JS equivalent of mediaqueries. This means you can happily use the same query in CSS and JS to lazy-load content only when it is applicable. [https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/](https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/&#34; rel=&#34;nofollow)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-394&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://NoTwoTheSame.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Elliot Lewis&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-394&#34;&gt;&lt;time datetime=&#34;2012-12-10T17:22:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        That is a great little function. But I didn’t think it worked in IE? I’m sure I tried it before and ended up using work arounds to stop IE exploding at unknown function.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-391&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.maltonwebdesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dave Andrew&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-391&#34;&gt;&lt;time datetime=&#34;2012-12-10T09:05:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:05am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great points Laura about sharing. IMO the more info the better. If think the more we share the more kudos you’ll gain and that respect may hopefully turn into business.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-393&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.feliciafortes.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Felicia Fortes&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-393&#34;&gt;&lt;time datetime=&#34;2012-12-10T16:31:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I like your thoughts and I’ve decided to share more of my newbie learnings.
+
+I think every project has an individual path. For me blogging about things I’ve learnt during a project is a way to remember what I did  and at the same time being able to learn new stuff through the comments. &lt;/p&gt;
+Just look at all the new knowledge coming through this blog posts comments.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-396&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://overthecounterdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chatman R.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-396&#34;&gt;&lt;time datetime=&#34;2012-12-11T12:55:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I haven’t actually been using `display: none;` very often on its own. I’ve mainly used JavaScript to hide elements I manipulate through a situational `.hide` class. I’ve gotten into a habit of using temporary classes for states to applied through JavaScript. This way, if something effs up, I won’t be hiding critical information from the user. 
+
+If I ever find I’m hiding an element indefinitely, it usually means it’s time to figure out if it’s needed at all. And I liked your last point over not being afraid to contribute something to the pool of knowledge. My reluctance to write blog posts comes from the fact that I’m entirely self-taught, so I have a tendency to assume everything I know IS common knowledge and I have nothing to add. I may have to rethink that.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-402&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.lockedowndesign.com/blog&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Locke&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-402&#34;&gt;&lt;time datetime=&#34;2013-06-09T09:26:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Best practices are made up of all these little bits of information that we collect from people we trust in web development, and we don’t always listen the first time we hear things. But when we keep seeing the same things written over and over, then those standards and best practices begin to take hold in our own workflows.
+
+I’m always looking for better ways to do things on the front-end, to make things faster loading, or smoother for the user. 
+
+Thanks for being one of the voices of reason and being a mentor to many in the web industry.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-404&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.catalystdesigns.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-404&#34;&gt;&lt;time datetime=&#34;2013-07-21T18:04:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Really well written post! Was looking into the use of display none to hide some elements on a responsive design and you’ve persuaded me to think otherwise! 
+
+An article on how to do the JavaScript side of things would be great! Thanks.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-7385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.kintoweb.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kintoweb&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-7385&#34;&gt;&lt;time datetime=&#34;2014-01-11T01:48:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It may be also possible to use iFrame and display:none on that to stop data downloading
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-33064&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.elmnt.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Greg Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-33064&#34;&gt;&lt;time datetime=&#34;2014-06-18T00:38:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:38am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;“I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.”
+
+I bet most people feel the same way, so don’t worry. I’ve been designing &amp;amp; (front-end) coding for more than 10 years, and I still read about &amp;amp; play with the fundamentals all the time. I think it’s always important to keep re-visiting the basics, not just the very difficult stuff. Well done. Keep up the great work!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-37332&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://blog.ki6i.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kalina&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-37332&#34;&gt;&lt;time datetime=&#34;2014-07-09T13:45:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most browsers like Chrome and Firefox doesn’t actually spend time on the display none content on page load. In other words the load time it about the same as if the content isn’t there.The only browsers that have this issues are IE&amp;lt;11
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-150438&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://korosheh.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;korosheh&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150438&#34;&gt;&lt;time datetime=&#34;2016-09-19T21:13:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Is nice article thanks
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -48,8 +1128,174 @@ display: none; in responsive web design When we’re changing out layouts based 
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
       
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
-      <description>I bought Jonathan Snook’s Scalable and Modular Architecture for CSS five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
-   Last month I was lucky enough to see Jonathan speak about State-Based Design (a concept which he covers in SMACSS) at theFromTheFront conference and it reminded me to put the book at the top of my to-read pile.</description>
+      <description>
+
+&lt;p&gt;I bought &lt;a href=&#34;http://smacss.com/&#34;&gt;Jonathan Snook’s Scalable and Modular Architecture for CSS&lt;/a&gt; five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter  wp-image-1252&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/IMG_5259.jpg&#34; alt=&#34;SMACSS book cover&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+Last month I was lucky enough to see Jonathan speak about &lt;a href=&#34;http://2012.fromthefront.it/&#34;&gt;State-Based Design&lt;/a&gt; (a concept which he covers in SMACSS) at the&lt;a href=&#34;http://2012.fromthefront.it/&#34;&gt; FromTheFront conference&lt;/a&gt; and it reminded me to put the book at the top of my to-read pile. It’s not a long book, it’s about the same easy-to-digest length as &lt;a href=&#34;http://www.abookapart.com/&#34;&gt;the A Book Apart series&lt;/a&gt;, which meant I got through it (whilst taking notes) in a couple of hours. I also love that there’s a &lt;a href=&#34;http://smacss.com/&#34;&gt;mailing list&lt;/a&gt; that keeps you updated with the latest methods and other relevant news.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-m-an-html-and-css-girl&#34;&gt;I’m an HTML and CSS girl&lt;/h2&gt;
+
+&lt;p&gt;As a front-end developer, I’ve long been obsessed about writing really good clean and semantic HTML and CSS. Frameworks and boilerplates tend to make me cringe. Accessibility and &lt;a href=&#34;http://www.alistapart.com/articles/understandingprogressiveenhancement/&#34;&gt;progressive enhancement&lt;/a&gt; are what I value the most. It was lovely to read a book about CSS that was from a practical point of view but still held those ideals. The SMACSS core goals are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Increase the semantic value of a section of HTML and content&lt;/li&gt;
+&lt;li&gt;Decrease the expectation of a specific HTML structure&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Jonathan walks you through the way that he lays out his stylesheets, informs you the reasons behind his decisions and backs these up with solid examples. There’s no “you must do this” or “you’re not standards-based if you don’t do that.” Jonathan reiterates throughout that his way isn’t the only way, but it works for him.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is the exact opposite of what frameworks do&lt;/strong&gt;. &lt;a href=&#34;http://en.wikipedia.org/wiki/CSS_frameworks&#34;&gt;Frameworks&lt;/a&gt; tend to do the thinking for you, and encourage lazy blanket usage (perhaps not intentionally, but that’s what they tend to result in.) Jonathan teaches you the background that you need in order to make your own informed decisions.&lt;/p&gt;
+
+&lt;p&gt;Throughout the book, Jonathan also refers to how this structuring of CSS affects older browsers, and how it works with &lt;a href=&#34;http://www.alistapart.com/articles/responsive-web-design/&#34;&gt;newer development techniques such as those using media queries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;really-thinking-about-your-css&#34;&gt;Really thinking about your CSS&lt;/h2&gt;
+
+&lt;p&gt;One thing that really stood out for me in SMACSS is the importance of process when structuring your CSS:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With a module-based system, it is important to consider state-based design as applied to each of the modules. When you actively ask yourself “what us the default state,” then you’ll find yourself thinking proactively about progressive enhancement. It also can have you approaching issues slightly differently.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This systems-based way of thinking really appeals to me as I’ve been thinking a lot about design systems as part of &lt;a href=&#34;http://www.alistapart.com/articles/responsive-web-design/&#34;&gt;responsive design&lt;/a&gt;. It’s great to read about the usefulness of patterns in both development and design, making our planning a lot smarter and considering future use to create &lt;em&gt;maintainable&lt;/em&gt; stylesheets.&lt;/p&gt;
+
+&lt;h2 id=&#34;starting-from-the-beginning&#34;&gt;Starting from the beginning&lt;/h2&gt;
+
+&lt;p&gt;The structure of the book works really well and should help someone fairly new to CSS as well as more advanced masters of markup. It starts with the basics of structuring (ordering) your CSS, then moves on to more advanced details with selectors and performance. After the main SMACSS principles are covered, Jonathan goes on to explain the role of &lt;a href=&#34;http://www.vanseodesign.com/css/css-preprocessors/&#34;&gt;pre-processors&lt;/a&gt; and how they could work with the SMACSS principles. His explanation of &lt;a href=&#34;http://sass-lang.com/&#34;&gt;Sass&lt;/a&gt; actually helped me understand how to use it more efficiently (and I already use Sass on all my projects) and would do well as a primer for someone who is completely new to pre-processors.&lt;/p&gt;
+
+&lt;h2 id=&#34;finding-the-balance&#34;&gt;Finding the balance&lt;/h2&gt;
+
+&lt;p&gt;Whilst reading SMACSS I’ve managed to pinpoint the biggest problem in my CSS; I have a tendency to use overly qualified selectors (such as &lt;code&gt;body.home div#content h3.entry-title&lt;/code&gt;.) I’m not sure why I do it, though I suspect it’s because it looks more visually balanced than &lt;code&gt;.entry-title&lt;/code&gt;. And also I’m an idiot.&lt;/p&gt;
+
+&lt;p&gt;Jonathan points out that structuring your selectors in this way is tying your CSS behaviour to your HTML structure (and hierarchy.) Of course, as someone obsessed with semantics and hell-bent on avoiding ‘classitis,’ I’ve tended to rely heavily on the structure of my HTML (and the unique nature of HTML5 elements) to hook my CSS but it does not make for modular or scalable CSS.&lt;/p&gt;
+
+&lt;p&gt;I’ve learnt a great deal from SMACSS and I believe that writing good CSS is about finding that balance between writing clean, reusable HTML (written independently of CSS) and clean, reusable CSS (making use of HTML element classnames.) I feel like this book has made me understand a lot more about CSS and I really recommend it if you’re striving to be more efficient. I don’t often collaborate on markup, but I can imagine that SMACSS could help make team projects considerably easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;9-comments&#34;&gt;9 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-341&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3fe9db0e9123cc01797b65a8564f9e27?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3fe9db0e9123cc01797b65a8564f9e27?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Abbaty Kori&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-341&#34;&gt;&lt;time datetime=&#34;2012-10-31T09:40:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:40am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Great! :D Sounds like what I’ve been looking for&amp;#8230;
+
+I’m definitely getting a copy soon :)&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-342&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/579562979b2f9229f1c8c5d300c72676?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/579562979b2f9229f1c8c5d300c72676?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://dannybaggs.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Danny Baggs&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-342&#34;&gt;&lt;time datetime=&#34;2012-10-31T09:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Thanks for the reminder&amp;#8230; just bought for my train ride.
+
+Nice review.&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-343&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrgwebdev.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Glover&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-343&#34;&gt;&lt;time datetime=&#34;2012-10-31T09:58:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hey Laura,
+
+Thanks for posting this great review. There are a lot of CSS books out there and I’m not often tempted to buy one, but your writeup has pushed all my CSS buttons, so now I might have to&amp;#8230;
+
+Cheers&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-344&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8972424a01b25a343b664d5b8ff75a45?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8972424a01b25a343b664d5b8ff75a45?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://pankajparashar.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Pankaj Parashar&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-344&#34;&gt;&lt;time datetime=&#34;2012-10-31T09:58:51+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Wow! Even i tend to use overly qualified selectors most of the time, but never realized that I am actually making my css dependent on the HTML structure.
+
+Thanks for this article!&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-345&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8f858a4d2a149894dd30c4d1a72833ac?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8f858a4d2a149894dd30c4d1a72833ac?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://michaelwoodruff.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael Woodruff&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-345&#34;&gt;&lt;time datetime=&#34;2012-10-31T12:56:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:56pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        “I have a tendency to use overly qualified selectors (such as body.home div#content h3.entry-title.) I’m not sure why I do it, though I suspect it’s because it looks more visually balanced than .entry-title.”
+
+My exact feeling as well.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-346&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/174df6d4445633cb5698e2c046ff7961?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/174df6d4445633cb5698e2c046ff7961?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.rachil.li&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rachel&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-346&#34;&gt;&lt;time datetime=&#34;2012-10-31T13:15:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:15pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Like you, I’ve had SMACSS for quite a while now but have never got around to reading it. Reading this really just tells me that I need to *make* the time and get reading it. I’m sure it’ll help my process with CSS massively. Thanks :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-347&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6db663240610773f134b9711193a607c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6db663240610773f134b9711193a607c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;hannes&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-347&#34;&gt;&lt;time datetime=&#34;2012-11-01T09:42:27+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;‘And also I’m an idiot.’ :D
+
+no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-348&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a875214ef52a0868ff836df077af2ebe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a875214ef52a0868ff836df077af2ebe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://tempertemper.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Martin Underhill&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-348&#34;&gt;&lt;time datetime=&#34;2012-11-01T22:31:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great article! I’ve just gone to Mr. Snook’s site and bought the ebook– now to get stuck in! Thanks :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-349&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7bc4c5263bd87380a775d22aa165b9f1?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7bc4c5263bd87380a775d22aa165b9f1?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://cupofvoodoo.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dan Robert&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-349&#34;&gt;&lt;time datetime=&#34;2012-11-02T23:16:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great review! I’ve also purchased the book quite a while back and still haven’t read it. This post prompted me to put it next on my list! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -58,8 +1304,101 @@ display: none; in responsive web design When we’re changing out layouts based 
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
-      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
-  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+      <description>
+
+&lt;p&gt;I had ordered &lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34; title=&#34;Responsive Web Design on the A Book Apart store&#34;&gt;Responsive Web Design&lt;/a&gt; by &lt;a href=&#34;http://ethanmarcotte.com/&#34;&gt;Ethan Marcotte&lt;/a&gt; as soon as it came out, but being at &lt;a href=&#34;https://laurakalbag.com/digest-from-ampersand-conf/&#34; title=&#34;Notes from Ampersand conference — My Digest&#34;&gt;Ampersand conference&lt;/a&gt;, and hearing &lt;em&gt;so many&lt;/em&gt; people recommend it, really spurred me to take a few hours out to get on and read it.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_474 wp-caption aligncenter size-large wp-image-474 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/07/web-716x960.jpg&#34; alt=&#34;Responsive Web Design by Ethan Marcotte&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Responsive web design&lt;/strong&gt; is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences. This might be low levels of detail for mobile devices, big readable layouts for massive projector screens or dumbed-down CSS for old-fashioned browsers. I’m so sure that Responsive Web Design will be our bible for flexible web design for years to come.&lt;/p&gt;
+
+&lt;p&gt;The reason why I say ‘*for years to come*‘ is that Responsive Web Design doesn’t just furnish you with markup examples but &lt;em&gt;actual reasons&lt;/em&gt; to do it. Much like its predecessor, &lt;a href=&#34;https://laurakalbag.com/html5-for-web-designers/&#34; title=&#34;HTML5 For Web Designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt; by Jeremy Keith, Ethan Marcotte walks you through how to think responsively, integrating flexibility into the design and development processes, and what might trip you up on the way.&lt;/p&gt;
+
+&lt;p&gt;The book is split into five easily-digested chapters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Our Responsive Web&lt;/li&gt;
+&lt;li&gt;The Flexible Grid&lt;/li&gt;
+&lt;li&gt;Flexible Images&lt;/li&gt;
+&lt;li&gt;Media Queries&lt;/li&gt;
+&lt;li&gt;Becoming Responsive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These make for great reading if you can only fit one in at a time, but I reckon you could get the whole book read in front of a computer, trying examples as you go, in an afternoon.&lt;/p&gt;
+
+&lt;p&gt;I can tell you how useful this book is from how it’s helped me on a recent site design. I have always struggled with creating fluid CSS layouts using percentages. The maths has always boggled my mind and I tend to give it a go then give up when everything falls to bits as soon as I resize my browser window. The thorough explanation of using the magical formula, &lt;strong&gt;target ÷ context = result&lt;/strong&gt;, had me working out percentage-based margins and paddings with very little effort. Now my designs can be more than just ‘mobile version’ and ‘desktop version’!&lt;/p&gt;
+
+&lt;p&gt;Part of what makes this book so valuable is the Bot Blog example site walkthrough. Being able to see how you can apply an original fixed-width design to a fluid-width site really helped me understand the restraints and opportunities created by working responsively. The breakdown of media queries is incredibly handy, especially as they’re explained first from the position of starting with an average-width screen design, adapting down to small screens and up to larger screens using *max-width *rules, and then from the position of ‘mobile first,’ adding styles for gradually larger screens using *min-width *rules.&lt;/p&gt;
+
+&lt;p&gt;My favourite part of the book was where ‘Mobile First’ was introduced. This is the concept of developing first for a mobile browsing experience, then building upon that experience for bigger, more-advanced browsers. It’s pretty much a mobile-focused version of the progressive enhancement approach. It’s a great alternative to starting big and adjusting your CSS for small browsers as it means you’re not delivering huge long stylesheet files to phones that may have a slow or limited connection. Quite a few developers on the more mobile-side of the web industry have been talking about ‘mobile first’ for years,  but it’s great to see it really pulled into mainstream consideration.&lt;/p&gt;
+
+&lt;p&gt;Ethan Marcotte writes in a style that is casual but smart and funny in sweet, geeky way. His writing makes you feel like you’re learning from the easy-going class assistant rather than the boring teacher. It’s definitely made me opt to buy the two titles in between &lt;a href=&#34;http://www.abookapart.com/products/html5-for-web-designers&#34; title=&#34;HTML5 For Web Designs on the A Book Apart store&#34;&gt;HTML5 For Web Designers&lt;/a&gt; and Responsive Web Design, &lt;a href=&#34;http://www.abookapart.com/products/css3-for-web-designers&#34; title=&#34;CSS3 For Web Designers on the A Book Apart store&#34;&gt;CSS3 For Web Designers&lt;/a&gt; and &lt;a href=&#34;http://www.abookapart.com/products/the-elements-of-content-strategy&#34; title=&#34;The Elements Of Content Strategy on the A Book Apart store&#34;&gt;The Elements Of Content Strategy&lt;/a&gt;, as both books I’ve read so far are so informative and inspiring. There’s also &lt;a href=&#34;http://www.abookapart.com/products&#34; title=&#34;A Book Apart products&#34;&gt;&lt;em&gt;Designing for Emotion&lt;/em&gt; and &lt;em&gt;Mobile First&lt;/em&gt;&lt;/a&gt; to look forward to in the autumn!&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-245&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;martcol&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-245&#34;&gt;&lt;time datetime=&#34;2011-07-05T21:13:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for this. It’s a title now on my most wanted list.  I do think that building for the web is getting more complicated more quickly.  Hopefully this will help stop me feeling I’m falling too far behind. d(&amp;gt;_&amp;lt;)b
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-246&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Andy&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-246&#34;&gt;&lt;time datetime=&#34;2011-07-05T22:13:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I found the book really useful, but my biggest issue was that the entire book was written desktop first, and then the final chapter introduces mobile first, which means reversing not only all the logic, but also how you think and build in the first place. If mobile first is the way to go –; and I agree that it is, why didn’t Ethan introduce that from the start ?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-248&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-248&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:51:20+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m not sure if I’m right, but I’d think it was probably because it’s more useful to the majority of readers to introduce something that isn’t such a huge leap from their current process first. The non-mobile-first approach could be easily used on an existing site to enhance it, but you really need to be starting a project afresh to begin with mobile first.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-247&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://clawg.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charlie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-247&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:48:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The book is a good, lightweight read.   My only criticism of the book is that Ethan has already published most of chapters 1-4 via sites like a list apart, so there was nothing in there that isn’t freely available.  That said its still a good read and his suggestions of how to incorporate responsive design into the design workflow with developers was useful.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

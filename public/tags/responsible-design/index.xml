@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Responsible Design on Laura Kalbag</title>
+    <title>Posts from Responsible Design on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/responsible-design/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 03 Apr 2015 14:31:57 +0000</lastBuildDate>
@@ -17,7 +17,17 @@
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
-      <description>Last week, my column on The Illusion Of Free was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around Ind.ie. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.</description>
+      <description>&lt;p&gt;Last week, &lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;my column on The Illusion Of Free&lt;/a&gt; was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4639&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/04/Illusion-of-Free.png&#34; alt=&#34;Screenshot of column on The Illusion of Free&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

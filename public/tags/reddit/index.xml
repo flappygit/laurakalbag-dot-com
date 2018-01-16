@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reddit on Laura Kalbag</title>
+    <title>Posts from Reddit on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/reddit/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 24 Jul 2015 18:00:55 +0000</lastBuildDate>
@@ -17,7 +17,17 @@
       <pubDate>Fri, 24 Jul 2015 18:00:55 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-social-web-a-glorious-dystopia/</guid>
-      <description>Lots of good quotes and a book recommendation in this week’s Ind.ie roundup.</description>
+      <description>&lt;p&gt;Lots of good quotes and a book recommendation in &lt;a href=&#34;https://ind.ie/blog/the-social-web-a-glorious-dystopia/&#34;&gt;this week’s Ind.ie roundup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie/blog/the-social-web-a-glorious-dystopia/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-4785&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/07/Ind.ie-Blog-%E2%80%94-The-Social-Web-A-Glorious-Dystopia-Friday-Roundup-24th-July-2015-898x1024.png&#34; alt=&#34;Screenshot of Ind.ie Roundup: The Social Web: A Glorious Dystopia - Friday Roundup - 24th July 2015&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

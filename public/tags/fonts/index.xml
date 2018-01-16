@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fonts on Laura Kalbag</title>
+    <title>Posts from Fonts on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/fonts/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 10 Apr 2017 10:18:28 +0000</lastBuildDate>
@@ -17,9 +17,48 @@
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/site-adjustments/</guid>
-      <description>My site is looking a little different, I’m now using the lovely Recia for the type. Fontdeck recently retired, and while they gave loads of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.
-  My site with web-safe backup fonts, Georgia and Helvetica   
-I have a redesign in the works. But I’ve no idea when it’ll be finished.</description>
+      <description>&lt;p&gt;My site is looking a little different, I’m now using the lovely &lt;a href=&#34;https://www.indiantypefoundry.com/fonts/recia&#34;&gt;Recia&lt;/a&gt; for the type. &lt;a href=&#34;http://blog.fontdeck.com/post/133794978966/why-fontdeck-is-retiring&#34;&gt;Fontdeck recently retired&lt;/a&gt;, and while they gave &lt;em&gt;loads&lt;/em&gt; of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2017/04/Screen-Shot-2017-04-10-at-12.11.55.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-4858&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/04/Screen-Shot-2017-04-10-at-12.11.55-1024x555.png&#34; alt=&#34;screenshot of old homepage with Georgia and Helvetica fonts&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My site with web-safe backup fonts, Georgia and Helvetica
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a redesign in the works. But I’ve no idea when it’ll be finished. It requires a major reworking in the focus of the site itself. Since I’ve been full time with &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;, the portfolio element of the site is a bit redundant. Although it’s nice to have a history of work, and I’d really like to use it for case studies of the design work for Ind.ie and &lt;a href=&#34;https://better.fyi&#34;&gt;Better&lt;/a&gt;. Most of my writing has also appeared on Ind.ie, or on other sites, but needs to be linked to from here. It’s also time I got my head around all the WordPress theming changes from the last couple of years.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2017/04/Screen-Shot-2017-04-10-at-12.13.09.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-4859&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/04/Screen-Shot-2017-04-10-at-12.13.09-1024x555.png&#34; alt=&#34;Screenshot of the homepage as it is on this date&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The site as it is today, with Recia replacing Georgia and Helvetica
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For now, I thought I’d take a step towards the new design with an update in fonts. The typography otherwise remains the same, so apologies for any wonkiness or poor layout!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +67,311 @@ I have a redesign in the works. But I’ve no idea when it’ll be finished.</
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
-      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
-And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+      <description>
+
+&lt;p&gt;I’ve tried to condense &lt;a href=&#34;https://laurakalbag.com/notes-from-ampersand-conf/&#34;&gt;my notes from Ampersand conference&lt;/a&gt; into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.&lt;/p&gt;
+
+&lt;p&gt;And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!)&lt;/p&gt;
+
+&lt;h2 id=&#34;using-typography&#34;&gt;Using typography&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography-is-about-context-context-is-about-content&#34;&gt;Typography is about context, context is about content&lt;/h3&gt;
+
+&lt;p&gt;The web ‘industry’ is starting to focus more on content strategy, and that the whole reason our sites are there is generally to showcase content, and this was reflected in the &lt;em&gt;importance of content&lt;/em&gt; being continually brought up throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare was the first speaker of the conference. As the creator of Comic Sans, Vincent was the perfect person to explain the significance of fonts being created for a purpose, for a specific context.&lt;/p&gt;
+
+&lt;p&gt;Comic Sans was created for Microsoft Home software, when computers were starting to become used in the home. Its fun, casual, comic-book style was based on comics like Watchmen and Batman Returns and was successfully used in speech bubbles and children’s software. It’s the prolific abuse of Comic Sans in inappropriate signage, documents, and many other places that has made it so well-known and unpopular (&lt;em&gt;or inappropriately popular!&lt;/em&gt;) As Jason Santa Maria said when talking about choosing an appropriate typeface:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;No type is born evil, it’s the context that dictates if it works.
+&lt;a href=&#34;http://www.flickr.com/photos/xxv/5446317470/&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-466&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/comicsans.jpg&#34; alt=&#34;Comic Sans on an Antiques shop sign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Comic Sans on an Antiques shop sign (credit xxv, Flickr)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-465&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34; alt=&#34;a sample of Bell Centennial&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		a sample of Bell Centennial
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;#### Content first&lt;/p&gt;
+
+&lt;p&gt;Tim Brown and Jason Santa Maria both spoke about how the context of the content gives them meaning when choosing a suitable font and how vital it is to compose your design with accountability. Some points they focused on for selecting a suitable typeface were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The content&lt;/strong&gt;, its message, its reason for being&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The audience&lt;/strong&gt;, who will read it? and how? for how long?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The culture&lt;/strong&gt;, the historical and cultural significance of the content, whether it will be read in other languages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The context of the typeface itself&lt;/strong&gt;, its resumé, what it signifies to others, how its production affects its appearance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;content-out&#34;&gt;Content-out&lt;/h4&gt;
+
+&lt;p&gt;Mark Boulton got us designers thinking around content in a new way which is less concentrated on the limitations of our canvas (the size of the browser, the device) and discussed possible solutions for designing from the content-outwards. Mark suggested that as designers became fixated on web standards, we started to take the separation of content and style too literally which meant we created meaningless designs separated from our content. The content-out route really involves knowing the content first, which prompted a brilliant quote from Mark:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you don’t know your content or audience, go to the pub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Admitting he didn’t yet know any solid solutions, but wanted to encourage discourse, Mark suggested processes such as working on the details first then assembling a modular design from the details. This process is one that complements the &lt;strong&gt;responsive web design&lt;/strong&gt; approach which almost every speaker hailed as a new way of working on the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;responsive-design&#34;&gt;Responsive design&lt;/h4&gt;
+
+&lt;p&gt;Jon Tan explained how typography is one of the elements we can keep consistent across responsive design that reconfigures itself to suit different scenarios. No matter what the layout, screen size or device, the typography (along with colour) can instantly identify a design.&lt;/p&gt;
+
+&lt;p&gt;Tim Brown explained his process for building responsive design systems around type. The web, with its inherent flexibility, resists the rigid traditional print frameworks using ratios and fixed grids that previously gave designers a structure to work within. Tim suggests creating a modular scale, with the layout and every other element following the type, allowing it to work consistently regardless of device. This is based on the principle that we need a constant to work from in our designs, and type is a perfect constant to use. This is a way of thinking that designers can easily practise and exercise without affecting any of our current processes.&lt;/p&gt;
+
+&lt;p&gt;Tim went on to describe how using a &lt;em&gt;modular&lt;/em&gt; scale, rather than arbitrary numbers, we can create a design system that is visibly cleaner and more harmonious. He suggested choosing sizes and spaces, such as type, borders, margins, padding, based on a pattern or scale. A couple of examples of ratios that Tim provided were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;golden ration 1 : 1.618&lt;/li&gt;
+&lt;li&gt;musical fifth 1 : 1.5
+&lt;a href=&#34;http://modularscale.com&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-467&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png&#34; alt=&#34;A modular scale created using Tim&amp;#39;s website modularscale.com&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A golden ratio modular scale created using Tim’s website modularscale.com
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Different ratios traditionally have meaning or significance to different types of people, so these contexts can even be used to choose an *appropriate *scale. This also gives designers a reason and justification to backup our design decisions.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-more-than-text&#34;&gt;Typography is more than text&lt;/h3&gt;
+
+&lt;p&gt;Jason Santa Maria talked about how typography has a dual life. It’s about both the &lt;strong&gt;aesthetic&lt;/strong&gt; and the &lt;strong&gt;readability&lt;/strong&gt;. As designers we can often get caught up in how the text looks as a whole, but in reality users see the whole as texture and they skim across it. Users are more likely to stop and fixate on a small area for a moment, and this is where they will notice the typography and if it makes the text difficult to read. Jason emphasised the well-known idea that &lt;strong&gt;good typography is invisible&lt;/strong&gt;, it’s about not making the user think or struggle to read.&lt;/p&gt;
+
+&lt;p&gt;Jason also made the point that readability isn’t always *can I read it? *but also *do I want to read it? *It’s in these scenarios that good typography can help create emotional experiences.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-can-create-emotional-experiences&#34;&gt;Typography can create emotional experiences&lt;/h3&gt;
+
+&lt;p&gt;Jon Tan really expanded on his &lt;em&gt;New Adventures in Web Design&lt;/em&gt; talk about the lizard brain by emphasising how typography can influence the subconscious. A typeface can convey emotion beyond the words in the text. Jon Tan quoted Paul Rand saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A logo derives meaning from the quality of the thing it symbolizes [&amp;#8230;] what it represents is more important than what it looks like.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is controlled by a part of our brain called the amygdala which can evoke emotional responses without verbal or linguistic input. Jon explained how this means as designers, we need to understand how the brain works, how we need to understand how design makes us &lt;em&gt;feel&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-468 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34; alt=&#34;MS Sans and Tahoma samples&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		MS Sans (left) and Tahoma (right) samples
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-hard&#34;&gt;Typography is hard&lt;/h3&gt;
+
+&lt;p&gt;As someone who often feels that typography can be overwhelming, and that it’s very difficult to know when you’re making the right decisions, it was great to hear Jason Santa Maria say that &lt;strong&gt;typography is hard&lt;/strong&gt;. Jason went on to explain that a designer doesn’t need to know *absolutely everything *about typography to use it well, you just need to know how to estimate a font.&lt;/p&gt;
+
+&lt;h3 id=&#34;guidelines-for-choosing-and-using-type&#34;&gt;Guidelines for choosing and using type&lt;/h3&gt;
+
+&lt;p&gt;Jason went into great depth on how to choose typefaces. He explained that there are no rules in typography, its imperfect precision where you can only be guided by basic principles and understanding the constraints. Some of the top tips that Jason gave were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Choose workhorse typefaces&lt;/strong&gt;. We shouldn’t feel obliged to choose a new typeface for every project. Create a personal palette of typeface families that work well in display as well as body text. Use different styles from the same family to save having to find multiple typefaces that work well together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid overly themed typefaces&lt;/strong&gt;. These ready-mades show a lack of imagination. Subtle fonts can promote different emotions more effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a list of attributes and feelings that you want to convey, then find typefaces that convey that feeling&lt;/strong&gt;. This also works for looking for typefaces that are similar, but not the same, to a standard that you use (perhaps such as Helvetica or Georgia.)&lt;/li&gt;
+&lt;li&gt;**Test your fonts in context **and in the right space. Choose your font appropriately to the line height, line length and size required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web-fonts&#34;&gt;Web Fonts&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-benefits-of-web-fonts&#34;&gt;The Benefits of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Everyone at Ampersand was evangelising web fonts. It’s impossible to not do so with all the exciting possibilities playing with lovely new fonts can bring.&lt;/p&gt;
+
+&lt;p&gt;Jon Tan described it as a time of &lt;strong&gt;renaissance&lt;/strong&gt; considering we were previously forced to use such a minimal font palette, and we’re now being given a chance to prove our skills in design using these new tools. We can now choose type that’s *perfect *for purpose.&lt;/p&gt;
+
+&lt;p&gt;Jason Santa Maria echoed what I think everybody else was feeling in that it’s a good time to be a designer. Jason shot down the cynical idea that pople are misusing or abusing fonts and emphasised the benefits that we’re gaining in accessibility through no longer having to provide non-standard fonts through dodgy font replacement techniques.&lt;/p&gt;
+
+&lt;p&gt;Jon and Jason both spoke about how type can define a brand and how web fonts are helping unify the identity of brands across print and the web, helping convey a voice, facilitate an emotion, and create a relationship between the user and the design.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-downside-of-web-fonts&#34;&gt;The Downside of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Along with the eagerness to try new web fonts, there was a lot of talk of the downside of web fonts, but with a positive outlook on how the awkward issues can be solved.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-back-at-font-engineering&#34;&gt;Looking back at font engineering&lt;/h3&gt;
+
+&lt;h4 id=&#34;metal-typesetting-bitmap-font-creation-and-os-safe-fonts&#34;&gt;Metal typesetting, bitmap font creation and OS-safe fonts&lt;/h4&gt;
+
+&lt;p&gt;David Berlow harked back to working in font engineering when fonts were first needed to look consistent from computer software to printer, explaining how this relates to the web fonts emerging today. One of David’s main considerations is how poor fonts can look at very small sizes. Bearing his experience with metal case type and bitmap fonts in mind, David focuses on how to make web fonts easier to read including basing them on specific size grids, using large x-heights with generally large amounts of whitespace and simplifying fiddly and complicated details.&lt;/p&gt;
+
+&lt;h3 id=&#34;rendering&#34;&gt;Rendering&lt;/h3&gt;
+
+&lt;p&gt;Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler spoke about how the type designers at Hoefler and Frere-Jones are creating insane amounts of newly hinted glyphs in order to make their web fonts work as well as they possibly can across the web. Many web fonts are just bad translations of fonts created for print and consequently barely work on the web. A few speakers discussed the difficulties in the differences in fonts across Windows and OSX, with some users preferring Windows’ ‘*crispness*‘ and others preferring Apple’s ‘*soft detail*‘.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;http://typekit.com/fonts/museo-slab&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-469 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/museo-slab.gif&#34; alt=&#34;Museo Slab as seen in Safari on OSX and Internet Explorer on Windows&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Tim Brown emphasised how important it is to check your web font choices live, and repeating these checks across the different environments that will use those fonts.&lt;/p&gt;
+
+&lt;p&gt;John Daggett described the issues created by web browsers choosing their own fallbacks, such as creating awful synthesised bold fonts through smearing or drawing the letters twice, or obliqueing fonts to give them an italic appearance. Jonathan Hoefler expressed how the lack of being able to distinguish unusual font styles can be an issue, especially for those that have a back slant or are number-only fonts.&lt;/p&gt;
+
+&lt;h3 id=&#34;css-working-draft-for-fonts&#34;&gt;CSS Working Draft for Fonts&lt;/h3&gt;
+
+&lt;p&gt;John Daggett’s talk was an intense look at the potential future of web fonts being controlled through CSS. It was at this point that I felt particularly hopeful. There’s something amazing about how quickly the web seems to have gone from a miserable collection of ‘web-safe’ fonts to being able to see how we can potentially use alternate glyphs and handle kerning.&lt;/p&gt;
+
+&lt;p&gt;I don’t think my notes cover all the fantastic features that John described, so for those I recommend you see the &lt;a href=&#34;http://www.w3.org/TR/css3-fonts/&#34;&gt;CSS Working Draft for Fonts&lt;/a&gt;, but here are some of the exciting tidbits I fancy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Using opentype font features through ‘font-variant:’&lt;/strong&gt;. This means having loads of different font features such as multiple glyphs per character in an easy-to-use package giving us fine-grain control all through CSS. At the moment &lt;em&gt;font-variant&lt;/em&gt; is used predominantly to select small-caps (with limited success.) The potential in &lt;em&gt;font-variant&lt;/em&gt; means we could eventually select font features such as petite caps and automatic fractions, have more control over fallbacks, kerning, ligatures, language support and numerals, as well as supplementing other CSS properties such as &lt;em&gt;text-transform&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security for web fonts&lt;/strong&gt;. Rather than DRM, the idea is to restrict the origin of the font through http headers and the like, requiring a particular protocol, site or port. This could prevent other sites hot-linking your fonts or sniffing your font URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-day-listening-to-clever-people-talk-about-fonts&#34;&gt;A day listening to clever people talk about fonts&lt;/h2&gt;
+
+&lt;p&gt;I think that me bothering to write a massive blog post about the themes of Ampersand conference really shows what an amazing day it was. I felt completely inspired, enthused and almost exhausted by the ideas and feelings being expressed by the speakers. I hope this rather disjointed digest might have helped bring some of this excitement to you lot who couldn’t be there on the day!&lt;/p&gt;
+
+&lt;h2 id=&#34;recommended-reading-and-plugins&#34;&gt;Recommended Reading and Plugins&lt;/h2&gt;
+
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34;&gt;Responsive Web Design by Ethan Marcotte&lt;/a&gt; (via &lt;strong&gt;everybody&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codexmag.com/&#34;&gt;Codex magazine&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-sites&#34;&gt;Recommended Sites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fontsmith.com/&#34;&gt;Fontsmith&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;li&gt;Google ‘font font focus’ for Font Font Focus sites (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typography.com/&#34;&gt;Hoefler &amp;amp; Frere-Jones at Typography.com&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paulshawletterdesign.com/&#34;&gt;Paul Shaw Letter Design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fontsinuse.com/&#34;&gt;Fonts in Use&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webfontspecimen.com/&#34;&gt;Web Font Specimen&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;Modular Scale&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.typekit.com/category/font-events/&#34;&gt;Using Typekit font events for responsive and fallback design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-plugins&#34;&gt;Recommended Plugins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://letteringjs.com/&#34;&gt;Lettering.js&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fittextjs.com/&#34;&gt;Fit Text&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-241&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.adamwintledesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Adam Wintle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-241&#34;&gt;&lt;time datetime=&#34;2011-06-22T17:52:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Superb writeup! Makes me really wish I could have been there!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-243&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-243&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:49:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:49am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Adam! Hopefully if there’s a next time you’ll be there :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-242&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jontangerine.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jon Tan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-242&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:46:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, so glad you enjoyed it! Fantastic, detailed write-up. Here’s a couple of more links you might find useful:
+
+Nick Sherman’s history of [Bell Centennial](http://nicksherman.com/articles/bellCentennial.html&#34; rel=&#34;nofollow). [Wikipedia article on Peter Behrens](http://en.wikipedia.org/wiki/Peter_Behrens&#34; rel=&#34;nofollow), consultant artist for AEG, and designer of arguably the world’s first corporate typeface. There’s also a [gallery of Behren’s work](https://picasaweb.google.com/ID100Y/TheVirtualPeterBehrensExhibition&#34; rel=&#34;nofollow). All about the London Underground typefaces, [Johnston and New Jonhston](http://londonreconnections.blogspot.com/2009/09/typeface-for-underground.html&#34; rel=&#34;nofollow). Finally, a huge collection of [Blue Note covers](http://www.gokudo.co.jp/Record/BlueNote3/nnblue2.html&#34; rel=&#34;nofollow) that includes many by Reid Miles.
+
+See you next year I hope!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-244&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-244&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:51:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Cheers Jon, those links are great! Some lovely reads to start the morning&amp;#8230;
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +380,498 @@ And of course in the spirit of the web and all things good, I may as well share 
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
       
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
-      <description>This little post is based around the talk I gave at Bathcamp. Rich Quick came up with the great idea that, whilst Bathcamp attendees are mostly developers, a talk on design for developers was probably appropriate.
-And you might have seen on my post from last week, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.</description>
+      <description>
+
+&lt;p&gt;This little post is based around the talk I gave at Bathcamp. &lt;a href=&#34;http://twitter.com/richquick&#34;&gt;Rich Quick&lt;/a&gt; came up with the great idea that, whilst &lt;a href=&#34;http://bathcamp.org&#34;&gt;Bathcamp&lt;/a&gt; attendees are mostly developers, a talk on design for developers was probably appropriate.&lt;/p&gt;
+
+&lt;p&gt;And you might have seen on &lt;a href=&#34;https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/&#34;&gt;my post from last week&lt;/a&gt;, I was looking for a case study to use in my talk. As happens with everything, I just didn’t have time to include the case study in the talk, so I thought I would blog it here as a follow-up from Bathcamp.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-original&#34;&gt;The original&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/timperrett&#34;&gt;Tim Perrett&lt;/a&gt; had been asking me for a while to help redesign &lt;a href=&#34;http://liftweb.net&#34;&gt;liftweb.net&lt;/a&gt;. Even though the design isn’t awful, and I’m not even sure whether it was done by a developer, it did need some designery love.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-246&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original.png&#34; alt=&#34;liftweb.net original homepage design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-redesign&#34;&gt;My redesign&lt;/h2&gt;
+
+&lt;p&gt;I wasn’t aiming for a full-on redesign, more of a re-alignment of the existing design. I tried to take all the elements that I thought were successful, and continue using those, and try to improve on the areas that I thought had issues.&lt;/p&gt;
+
+&lt;p&gt;I’ll explain my decisions below, based on my design tips for developers. I’m only including the most relevant tips from my talk, as very few designs would cover all of them!&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/01.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-248&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/01.png&#34; alt=&#34;my redesign of liftweb.net&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-design-tips-for-developers&#34;&gt;My Design Tips For Developers&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Design isn’t all about having an ‘eye’&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A lot of people just have an ‘eye’ for design. Knowing what looks good to the masses comes fairly easily. This doesn’t mean that if you don’t have that ‘eye’, you can’t design. A lot of design principles are based on simple theories and rules that anybody can follow.&lt;/p&gt;
+
+&lt;p&gt;All good designers know the rules, the best designers know how to break them effectively.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Colour&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;contrast-is-the-most-important-aspect-of-colour-when-you-re-trying-to-make-text-readable&#34;&gt;Contrast is the most important aspect of colour when you’re trying to make text readable&lt;/h4&gt;
+
+&lt;p&gt;The inconsistency in colour contrast was fairly noticeable on the original Lift page. In some places, it was dark on light and in some places it was light on dark, this makes sense.&lt;/p&gt;
+
+&lt;p&gt;However, in the ‘Taking Off’, ‘Flying in Formation’, ‘Team’ and ‘Wiki’ pages, the descriptions are black on a dark gradient background. This makes the text harder to read, as well as drawing attention to this part of the text as it’s significantly different from the contrast patterns on the rest of the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-249&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34; alt=&#34;Black on a coloured gradient is quite hard to read&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Black on a coloured gradient is quite hard to read
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Contrast is something that loads of designers get wrong, as well as developers. Silly things like light grey text on a white background, a big hit with print designers. Screens are incredibly inconsistent, and our eyesight is better saved for more important things than squinting at text on a screen.&lt;/p&gt;
+
+&lt;p&gt;I really recommend using &lt;a href=&#34;http://www.snook.ca/technical/colour_contrast/colour.html&#34;&gt;Jonathan Snook’s Colour Contrast Check&lt;/a&gt;. This analyses the contrast between your foreground and background colours against the WCAG guidelines. Everybody knows that guidelines are just for guidance, so I wouldn’t stress if you’re colours aren’t AAA compliant (this produces very extreme contrasts that are pretty hard on the eyes) but if you make sure your colours are AAA compliant at 18pt+ then you should be on to a readable winner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/snook-colour-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-250 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/snook-colour-contrast.png&#34; alt=&#34;Checking my redesign colour contrast on the quotes section&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Checking my redesign colour contrast on the quotes section
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;if-you-re-going-to-use-a-strong-colour-just-use-one&#34;&gt;If you’re going to use a strong colour, just use one&lt;/h4&gt;
+
+&lt;p&gt;With a lot of purples and blues teamed with white, the Lift page was suffering from a bit of a 90s colour scheme. The trick is to stay away from using multiple strong colours (the dark blue and purpley blue) together.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original-scheme.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-252&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original-scheme.png&#34; alt=&#34;The original Lift main colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The original Lift main colours
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To calm a design like this down, I tried using less of the extreme colour contrasts (dark blue and white) and more of the in-between, softer and more muted colours. Where I felt the purpley blues and dark blues were a bit harsh, I just toned them down to a slightly greyer version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/my-scheme.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-253&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/my-scheme.png&#34; alt=&#34;My Lift redesign main colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My Lift redesign main colours
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used these colours to help differentiate between areas of content. The original Lift design did a good job of emphasising the quotes at the top of the page through using dark text on a light background, where the rest of the page used the inverse. I took this theory further.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/light-on-dark.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-255&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/light-on-dark.png&#34; alt=&#34;On the original design, you can see how the quote area stands out&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		On the original design, you can see how the quote area stands out
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Whilst I thought it was good to keep the quotes at the top of the page, as they’re vital to helping sell the benefits of Lift to potential high-profile groups, they’re not really as valuable as the four links below to ‘Get Started’, ‘Lift community’ etc.&lt;/p&gt;
+
+&lt;p&gt;As this content, and the content immediately below is most useful to the page visitors, I used the dark-on-light contrast to draw the user to those areas. It stands out more than the light-on-dark areas above as it is a greater contrast against the overall page background.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/dark-on-ligt.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-256&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/dark-on-ligt.png&#34; alt=&#34;At this small size, you can see how my redesign draws the eye to the most important content&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;At this small size, you can see how my redesign colours draw the eye to the most important content
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Layout&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;give-everything-more-space-and-share-the-space-equally-between-the-elements&#34;&gt;Give everything more space, and share the space equally between the elements&lt;/h4&gt;
+
+&lt;p&gt;When you look at the original design, what really jumps out is the huge amount of space in the middle of the page. This is caused by the amount of ‘Latest Happenings’ appearing down the right hand column. Obviously, this wouldn’t have been originally designed like this, but it emphasises the importance of imagining how the content on a page may evolve.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/original-middle.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-258&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/original-middle.png&#34; alt=&#34;the main page content on the original Lift page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the main page content on the original Lift page
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/middle.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-259&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/middle.png&#34; alt=&#34;my redesigned main content area&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		my redesigned main content area
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I felt that the ‘What is Scala?’ and ‘Lift Books’ information was also a little hidden-away at the bottom of the ‘Latest Happenings’ sidebar. I brought this out into its own area underneath the main content and gave it a light-on-dark contrast to clearly separate it from the content above. This also makes the text look less intimidating. As the areas are clearly separated, it doesn’t look like a huge amount to read.&lt;/p&gt;
+
+&lt;h4 id=&#34;try-to-base-your-design-around-a-grid&#34;&gt;Try to base your design around a grid&lt;/h4&gt;
+
+&lt;p&gt;With some large areas of white space and some slightly squashed looking text in boxes, the structure of the original page design doesn’t look like it is based on a grid. However it is fairly simply laid-out and does have gridded elements to it.&lt;/p&gt;
+
+&lt;p&gt;Using a grid makes a lot of the design decisions less of a decision, as your grid will help dictate where the elements belong. Little details like having all the bottom of the text line up against a base grid, and main content areas having the same proportions, make a design look a lot cleaner and much classier.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/gridded.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-261&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/gridded.png&#34; alt=&#34;The grid I used for my redesign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The grid I used for my redesign
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Above you can see how I used a grid to line up all of my elements. I started with a main content area width of 960px. This is a useful value as it’s divisible by many different multiples, giving you nice round numbers to work with. It doesn’t really matter if you’re using pixels, ems or percentages, it’s just working from one value to get your proportions that helps.&lt;/p&gt;
+
+&lt;p&gt;The yellow grid lines are where I started, I divided my main content area into four, as this suited the four main calls-to-action (‘Get Started’, ‘Lift Community’) well. Usually, I’d probably design around three columns as this corresponds well with the &lt;a href=&#34;http://en.wikipedia.org/wiki/Golden_section&#34;&gt;golden section&lt;/a&gt; which creates a very harmonious balance in your design. You can combine three and four column grids in one, but this is probably a bit complicated for this post!&lt;/p&gt;
+
+&lt;p&gt;All of my main content areas sit within these yellow columns. The logo is in the first column, the navigation in the next three columns. The testimonials sit in all four columns, and the calls-to-action each sit in their own column. The main content areas are split into two sets of two columns.&lt;/p&gt;
+
+&lt;p&gt;What might stand out to you is that the ‘Demo’ and ‘Download’ buttons don’t sit entirely comfortably into columns. This is intentional. By moving some elements out of the column structure, it creates a tension against those that are within the columns, and draws attention to them.&lt;/p&gt;
+
+&lt;p&gt;The orange lines are an example of how I divided the columns further to decide where the margins should be. Each column of about 240px is divided by 4 and then those columns are divided by 2 again to get 30px, which is the width of the margin.&lt;/p&gt;
+
+&lt;p&gt;For areas like the width of the selected testimonial link, I just split the column by two as I needed a wider space to hold that text.&lt;/p&gt;
+
+&lt;p&gt;I also used the yellow grid lines for rows. It’s hard designing with rows on a web design as the content is always liable to change and no longer fit within those rows if there’s more or less text or an image gets put in. You can see that the content roughly sits on these rows by not completely.&lt;/p&gt;
+
+&lt;p&gt;I actually work on all web designs with a 10px square grid underneath as a baseline for all content, especially text. As most of the text has a line-height of 25px, every other line of text sits on the 10px grid. Below is what a small segment of the design looks like sitting on a 10px grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-14.07.13.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-262&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-14.07.13.png&#34; alt=&#34;my redesign on 10px grid&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		my redesign on 10px grid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s where the bananas go. &lt;em&gt;Just seeing if you’re still here!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;imagery&#34;&gt;Imagery&lt;/h3&gt;
+
+&lt;h4 id=&#34;avoid-generic-stock-photography&#34;&gt;Avoid generic stock photography&lt;/h4&gt;
+
+&lt;p&gt;I know the original page didn’t have any stock photography. In fact, I think that was the problem. There wasn’t any kind of imagery to break up the text. The closest it came was quote marks and gradients.&lt;/p&gt;
+
+&lt;p&gt;So first off I found some appropriate images to illustrate the content. A quick bit of Googling and I located the book covers for the Lift books. This will make the books easier to identify in passing, and really work to break up that text-heavy area at the bottom.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-15.41.35.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-267&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/Screen-shot-2010-11-04-at-15.41.35.png&#34; alt=&#34;Book information with book images on my redesigned page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Book information with book images on my redesigned page
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The difficulty in sites about web development and other non-visual subjects is there isn’t much in the way of obvious imagery you can use to illustrate your pages. But stay away from the stock photos! These are never the solution as they mostly look generic, cheesy and cheap.&lt;/p&gt;
+
+&lt;p&gt;Illustrations can be expensive, though stock illustrations are often better than stock photos. However there are a lot of high quality free icon sets out there. If you find icons relevant to the content, they can serve to break up a very text-heavy site &lt;em&gt;and&lt;/em&gt; act as signifiers to help the user understand what the text, call-to-action or button is for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/icons.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-268&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/icons.png&#34; alt=&#34;the icons I used to illustrate my redesign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the icons I used to illustrate my redesign
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a look through my icon collections and found some &lt;a href=&#34;http://www.iconeden.com/icon/shine.html&#34;&gt;Shine icons&lt;/a&gt; that suited the content and were the right sizes for button links and bigger calls-to-action.&lt;/p&gt;
+
+&lt;h4 id=&#34;use-subtle-patterns-and-textures-to-add-depth-to-a-page&#34;&gt;Use subtle patterns and textures to add depth to a page&lt;/h4&gt;
+
+&lt;p&gt;I’d almost completed my design, and it felt like it was looking a bit flat. This is usually the way when you’re using a different solid colours. To combat this effect, I added some subtle noise and shadows to give it a more ‘real’ feeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/noise2.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-272&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/noise2.png&#34; alt=&#34;the background of my redesign without (above) and with (below) noise textured background&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		the background of my redesign without (above) and with (below) noise textured background
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;I know I’d usually say that something like ‘noise’ is &lt;a href=&#34;http://dribbble.com/search?q=noise&amp;amp;amp;x=0&amp;amp;amp;y=0&#34; title=&#34;Search noise on Dribbble&#34;&gt;possibly a current trend&lt;/a&gt;, but I think it’s more of a recent discovery. It’s all very well using grungy textures if it’s appropriate to your site, but it really wouldn’t be for most software, corporate or family sites. Subtle noise is a great way to add some texture and definition without theming a site. Just make sure it’s very gentle. It looks best when not instantly visible, it should be &lt;em&gt;that&lt;/em&gt; subtle.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Light&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;choose-one-imaginary-light-source-and-make-the-shadows-follow-that-source&#34;&gt;Choose one imaginary light source, and make the shadows follow that source&lt;/h4&gt;
+
+&lt;p&gt;The thing that people forget when they use gradients, box shadows and text shadows on websites is that these elements are all used to recreate the illusion of light. Having light and dark on a site imitates real life, it makes your design more ‘real’, it makes it easier for your users to identify with it.&lt;/p&gt;
+
+&lt;p&gt;The incoming problems with &lt;a href=&#34;http://www.css3.info/&#34;&gt;CSS3&lt;/a&gt; is that people are using shadows willy-nilly, chucking them in to make their design look fancy without thinking about the effect they’re creating. This is visible on the random text-shadow on the original Lift design.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-249&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/odd-contrast.png&#34; alt=&#34;Random text-shadow on the Lift original design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Random text-shadow on the Lift original design
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If  you want to use gradients and shadows to make your site feel more real, and give it more depth, the trick is to choose a natural-style imaginary light source, and make all your shadows follow that.&lt;/p&gt;
+
+&lt;p&gt;There could be two light sources, though that could quickly get complicated, and beyond the realms of CSS, so I just went with the simplest possible for my design–;top-down. I imagined there was a light behind/above me and so it was projecting shadows that were equal sizes on each side of the boxes. It might not be completely scientifically sound, but it’s close-enough to feel real.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/11/shadows.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-273&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/11/shadows.png&#34; alt=&#34;Light shadows visible around the boxes&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Light shadows visible around the boxes
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Colour is also important. Since when have you seen a white shadow? Pure black shadows are also very rare unless it’s very very dark. A shadow is usually just a darker shade of the surface it’s casting on to, follow that principle and you’ll have realism in no time.&lt;/p&gt;
+
+&lt;h4 id=&#34;make-your-light-source-subtle&#34;&gt;Make your light source subtle&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;The other issue with the text shadow on the original Lift design is that it’s really screamingly obvious. From day-to-day we don’t really notice or comment on shadows much, even though they’re used &lt;em&gt;everywhere&lt;/em&gt;, occurring in real life and almost every piece of software. The reason we barely notice is them is because they’re so subtle. I know I’ve used the ‘subtle’ word about a million times now but it really is the key to making a design look sophisticated.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### If in doubt, keep it simple&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;less-looks-more-sophisticated&#34;&gt;Less looks more sophisticated&lt;/h4&gt;
+
+&lt;p&gt;There’s no crime in creating a site with a white background, and no crime in being ‘basic.’ All the best sites are noted for their simplicity and how clean they look and not how garish and full-of-stuff (my particular design weakness) they are.&lt;/p&gt;
+
+&lt;p&gt;I really hope these tips and this sort-of walkthrough has been helpful. I’ll be happy to do more in the future if anybody wants them, or further explain any more elements of this design if anybody asks.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-159&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://matt-fuller.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Matt&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-159&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:34:19+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        first.
+
+x
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jackfranklin.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack Franklin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:38:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I think Lift should get in touch with you! I loved your talk and this follow up is superb. I&amp;#039;m loving your blog more and more every time I visit!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-161&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo avatar-default&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/jamienewman&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;@jamienewman&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-161&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:41:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post. Love the new design and some very useful tips here!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-162&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://experimentsincode.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mike&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-162&#34;&gt;&lt;time datetime=&#34;2010-11-04T16:54:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:54pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks great article!! Shame I missed your talk at BathCamp.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-163&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://levibreederland.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Levi&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-163&#34;&gt;&lt;time datetime=&#34;2010-11-08T20:39:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:39pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I totally agree with the other comments (except for that first one). Very good summary of handy tips!
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -48,9 +880,216 @@ And you might have seen on my post from last week, I was looking for a case stud
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
       
       <guid>https://laurakalbag.com/picking-fonts/</guid>
-      <description>This little post is an extension of my post on Web Fonts.
-Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
-I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+      <description>
+
+&lt;p&gt;This little post is an extension of my post on Web Fonts.&lt;/p&gt;
+
+&lt;p&gt;Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.&lt;/p&gt;
+
+&lt;p&gt;I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:&lt;/p&gt;
+
+&lt;h3 id=&#34;use-appropriate-fonts&#34;&gt;Use appropriate fonts&lt;/h3&gt;
+
+&lt;p&gt;Easily said, I know, but some fonts are clearly more suitable for particular designs than others. For example, you wouldn’t use a font that looks like it’s dripping blood on a corporate site, and you’d not use a handwriting-style font on a site about computer programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-92 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png&#34; alt=&#34;Firey font isn&amp;#39;t really suitable for Daisy&amp;#39;s Darling Cake shop&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Firey font isn’t really suitable for Daisy’s Darling Cake shop
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;If you’re aiming for clean and modern, go sans-serif. If you’re looking for a slightly more traditional feel, go serif.&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-use-more-than-two-fonts&#34;&gt;Don’t use more than two fonts&lt;/h3&gt;
+
+&lt;p&gt;With all these cool fonts around, it’s easy to go over-the-top and try out loads at once. Unless you’re going for a Victorian poster style, I’d steer clear of the multi-font look.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Circus_Montreal_9_March_1812.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-medium wp-image-97&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Circus_Montreal_9_March_1812-253x320.jpg&#34; alt=&#34;Old Victorian circus poster, lots and lots of fonts&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to find two fonts that match each other well. You want to look for as similar shapes as possible, round fonts with other circle-based fonts, condensed fonts with other tall, thin fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-93&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png&#34; alt=&#34;Kaffeesatz as a header font with Droid Sans as the body font&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re really struggling to combine two, just use a different weight or style for the heading, like bold or all uppercase.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-94&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png&#34; alt=&#34;Georgia as header and body font&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Mark Boulton covers these kinds of combinations in his fantastic book, A Practical Guide to Designing For The Web.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-it-in-the-family&#34;&gt;Keep it in the family&lt;/h3&gt;
+
+&lt;p&gt;The easiest way to find two fonts that suit each other is to take two from the same family. These are always designed around the same shapes so you know they’ll look good next to each other. This is particularly useful if you want to mix serif and sans-serif fonts. For example, the Museo family. Museo Sans, Museo Serif and Museo Slab all look great used in any combination.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-95 aligncenter&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png&#34; alt=&#34;The Museo Family&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;use-simple-fonts-for-body-text&#34;&gt;Use simple fonts for body text&lt;/h3&gt;
+
+&lt;p&gt;Whatever you do, leave the fancy fonts for the headings. With body text (paragraph text,) you’re aiming for readability above all else. Using any kind of fancy, looping, scrawly, drippy, firey font here will make it hard to read and really distract the reader.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-96 aligncenter&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png&#34; alt=&#34;A paragraph in Papyrus&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;use-lovely-long-font-stacks&#34;&gt;Use lovely long font stacks&lt;/h3&gt;
+
+&lt;p&gt;Bear in mind that, whatever fancy web font method you use, there will always be a user that can’t see that font. It might be because their browser doesn’t have javascript turned on, or doesn’t support @font-face or doesn’t have the system font you specified. Solve this problem by using as many similar fonts as possible in your font stack.&lt;/p&gt;
+
+&lt;p&gt;For example, I want to use Museo Sans as my body font on this page. My code would look like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;body { font-family: &amp;quot;Museo Sans&amp;quot;, &amp;quot;Perspective Sans&amp;quot;, Helvetica, Arial, sans-serif; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Typekit will provide Museo Sans for me, so I’ll put that first in my font stack.&lt;/li&gt;
+&lt;li&gt;In case the user doesn’t have javascript enabled (or uses Opera!) I’ll specify an @font-face font I found on Font Squirrel, Perspective Sans.&lt;/li&gt;
+&lt;li&gt;For the rare case that don’t support Typekit or @font-face, I’ll specify the system font Helvetica.&lt;/li&gt;
+&lt;li&gt;Just in case a user doesn’t even have Helvetica, I’ll also specify the wildly popular system font, Arial.&lt;/li&gt;
+&lt;li&gt;And for the user who for some reason has only weird fonts I’ve never heard of on their computer, I’ll specify sans-serif, so at least I know that they’re not being delivered a serif font when I really fancied sans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not much effort, maximum kindness to the user.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-the-poor-windows-users-in-mind&#34;&gt;Keep the poor Windows users in mind&lt;/h3&gt;
+
+&lt;p&gt;Whichever fonts you choose, you want to make sure it looks good in as many browsers as possible. For us lucky mac users, the fonts tend to normally look smooth and light and lovely. Unfortunately many Windows users aren’t so lucky. Craggy, pixelly and oddly squashed-looking fonts are very common.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-98&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg&#34; alt=&#34;Typodermic&amp;#39;s Bouffant font in Mac&amp;#39;s Safari (top) and Windows&amp;#39; Internet Explorer 6 (bottom) &#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Typodermic’s Bouffant font in Mac’s Safari (top) and Windows’ Internet Explorer 6 (bottom)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Many Windows people aren’t as fussy as me, or just don’t notice, but it’s really worth checking that what the Windows’ users see is actually &lt;em&gt;legible&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This quick little guide is just the beginning of all the things I try to consider when I’m choosing fonts to use on the web. A lot of it feels automatic, but when I really think about it, there’s all sorts of rules and theory I’m trying to apply to my choices. And that’s still not saying I always get it right. To a degree, it is still a subjective choice.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-4&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ashinyworld.blogspot.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Loulouk&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-4&#34;&gt;&lt;time datetime=&#34;2010-07-05T19:48:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:48pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve absolutely no clue about fonts and about to be thrown into a web dev job. To say this is helpful would be a small understatement but in lieu of gushing I’ll simply say thank you.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-5&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-5&#34;&gt;&lt;time datetime=&#34;2010-07-06T16:35:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m so pleased you found it helpful! Your comment made my day :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-6&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.cvwdesign.com/txp&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Clive Walker&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-6&#34;&gt;&lt;time datetime=&#34;2010-07-13T12:27:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The Windows font thing is a real bugbear of mine. I have seen lots of websites using ‘new’ fonts where the display on Windows is almost illegible. Perhaps this is because of Windows font rendering issues (ClearType vs non-ClearType vs Vista vs XP?) or perhaps the font chosen does not have very good hinting for the web, I don’t know. Either way, it seems like poor testing/implementation.
+
+OK, rant over :-)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-7&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Yulie&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-7&#34;&gt;&lt;time datetime=&#34;2010-07-17T23:29:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Laura! Your tips are simple and to the point :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -59,7 +1098,206 @@ I don’t think this is totally fair, but I’m sure some people might get confu
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
       
       <guid>https://laurakalbag.com/web-fonts/</guid>
-      <description>I’ve got a new infatuation; web fonts. Since the second I heard about Typekit (and Fontdeck) last year I’ve been giddy with excitement about being able to use more fonts on the web. Georgia just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.</description>
+      <description>
+
+&lt;p&gt;I’ve got a new infatuation; web fonts. Since the second I heard about &lt;a href=&#34;http://typekit.com&#34;&gt;Typekit&lt;/a&gt; (and &lt;a href=&#34;http://fontdeck.com/&#34;&gt;Fontdeck&lt;/a&gt;) last year I’ve been giddy with excitement about being able to use more fonts on the web. &lt;a href=&#34;http://en.wikipedia.org/wiki/Georgia_font&#34; title=&#34;Georgia on Wikipedia&#34;&gt;Georgia&lt;/a&gt; just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.&lt;/p&gt;
+
+&lt;h2 id=&#34;font-face-and-font-squirrel&#34;&gt;@font-face and Font Squirrel&lt;/h2&gt;
+
+&lt;p&gt;Before Typekit, the situation around the &lt;a href=&#34;http://www.alistapart.com/articles/cssatten/&#34;&gt;CSS @font-face declaration&lt;/a&gt; started getting more attention. There was good support across all major browsers (and some of the oldies like Internet Explorers 6 &amp;amp; 7) for this cunning little declaration that allowed you to embed any font into your website. @font-face displayed fonts like we needed, displaying as real selectable text that remains accessible and index-able by search engines.&lt;/p&gt;
+
+&lt;p&gt;Despite being far easier to use, and more reliable, than the truly hideous (though handy at the time) Flash text-replacement methods like &lt;a href=&#34;http://wiki.novemberborn.net/sifr3/&#34;&gt;sIFR&lt;/a&gt; and &lt;a href=&#34;http://cufon.shoqolate.com/generate/&#34;&gt;Cufón&lt;/a&gt;, @font-face is a bit of a pain to implement. The CSS declarations themselves are fairly simple, but the amount of different font formats you need to include is pretty insane. You need to include .eot, .woff, .ttf and .svg formats of each font face. Not to mention that there’s no piracy protection on these font faces so, not only do you have to find all those different font formats, but you had to make sure you had the rights to distribute them as well (’cause everybody knows that piracy is mean.)&lt;/p&gt;
+
+&lt;p&gt;Then came along &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.31.14.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-75 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.31.14.png&#34; alt=&#34;Quicksand font at Font Squirrel&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Quicksand font at Font Squirrel
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A wickedly cool site that shows you a huge array of fonts that are licensed for @font-face use, complete with @font-face kits containing the fonts, the license, a demo HTML file and the CSS you need to implement great-looking web fonts using @font-face.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.32.52.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-76 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.32.52.png&#34; alt=&#34;Font Squirrel @font-face kit download&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Font Squirrel @font-face kit download
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.37.41.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-77&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.37.41.png&#34; alt=&#34;All the files in the Font Squirrel @font-face kit&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		All the files in the Font Squirrel @font-face kit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All you need to do is copy all the font files on to your site, and copy the CSS into your stylesheet:&lt;/p&gt;
+
+&lt;p&gt;```@font-face {&lt;/p&gt;
+
+&lt;p&gt;font-family: &amp;lsquo;QuicksandBook&amp;rsquo;;&lt;/p&gt;
+
+&lt;p&gt;src: url(&amp;lsquo;Quicksand_Book-webfont.eot&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;src: local(&amp;lsquo;☺&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.woff&amp;rsquo;) format(&amp;lsquo;woff&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.ttf&amp;rsquo;) format(&amp;lsquo;truetype&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.svg#webfontozh2o7Cr&amp;rsquo;) format(&amp;lsquo;svg&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;font-weight: normal;&lt;/p&gt;
+
+&lt;p&gt;font-style: normal;&lt;/p&gt;
+
+&lt;p&gt;}```&lt;/p&gt;
+
+&lt;p&gt;and put the font into your font-family font stack:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;h1 { font-family: &#39;QuicksandBook&#39;, Helvetica, Arial, sans-serif; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;typekit&#34;&gt;Typekit&lt;/h2&gt;
+
+&lt;p&gt;Font Squirrel was great but as most of the fonts are free, a large amount of the fonts are lacking a bit in quality. They just lack the care and attention a font gets from a very skilled type designer.&lt;/p&gt;
+
+&lt;p&gt;And that’s where Typekit makes things awesome.&lt;/p&gt;
+
+&lt;p&gt;I rarely buy fonts. I try to get away with system fonts, or free fonts, &lt;em&gt;a lot&lt;/em&gt; of the time. As I mostly work on the web, it never made sense to use fonts that weren’t web-safe. I’d only indulge in paid fonts (and still pretty cheap ones) when I was doing logo or print design. I would have loved to use the beautiful, unusual and quality fonts from proper font foundries. I subscribed to &lt;a href=&#34;http://www.fontshop.com/&#34;&gt;FontShop&lt;/a&gt;‘s newsletters just so I could gaze longingly at the fonts that felt too good for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.43.02.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-78&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.43.02.png&#34; alt=&#34;One of FontShop&amp;#39;s lovely e-mail newsletters&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		One of FontShop’s lovely e-mail newsletters
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Typekit brings those to-die-for fonts from top quality foundries to the web with a teensy bit of javascript. Typekit showcases &lt;a href=&#34;http://typekit.com/foundries/veer&#34;&gt;some of the most stunning fonts&lt;/a&gt; I’ve ever seen and allows you to use them on your site in a way that is quick and easy, but still preserves the licensing and distribution control that the foundries and font designers need to keep them going.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.46.36.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-79 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.46.36.png&#34; alt=&#34;Proper nice fonts from Typekit&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Proper nice fonts from Typekit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since Typekit has launched, they have added loads more fonts, and they just keep getting better. The libraries are easy to browse, using tags and your own text samples, and you can even view browser samples of each font so you can see how bad it’s going to look in Windows’ browsers ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.50.10.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-80 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.50.10.png&#34; alt=&#34;Typekit preview of Atrament Web on Windows XP Internet Explorer 6&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Typekit preview of Atrament Web on Windows XP Internet Explorer 6
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I use Typekit on my personal site, and this blog, and an increasing amount of client sites. The only downside is that, because the fonts are only licensed for the web, you can’t use them in Photoshop mockups or logo designs unless you buy the correct licensed version. However, if you’re like me, and trying to design in-browser more often, it’s absolutely perfect from start to finish.&lt;/p&gt;
+
+&lt;h2 id=&#34;google-web-fonts-fontdeck-and-fonts-com&#34;&gt;Google Web Fonts, Fontdeck and Fonts.com&lt;/h2&gt;
+
+&lt;p&gt;There are other services around offering the same kind of solution as Typekit. One is &lt;a href=&#34;http://code.google.com/webfonts&#34;&gt;Google Web Fonts&lt;/a&gt;, &lt;a href=&#34;http://blog.typekit.com/2010/05/19/typekit-and-google/&#34; title=&#34;Typekit and Google Announce Open Source Collaboration&#34;&gt;who are working in collaboration&lt;/a&gt; with Typekit, and another is Fontdeck. I haven’t got an invite to Fontdeck yet, so I reckon that one will remain a mystery for a while longer, and I took a quick look at Google Web Fonts, which only serves open source fonts, and it looks pretty similar to Typekit but only has a limited amount of fonts at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.55.27.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-81 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.55.27.png&#34; alt=&#34;Google Font Directory&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Google Font Directory
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a quick go on &lt;a href=&#34;http://webfonts.fonts.com/&#34;&gt;Fonts.com web fonts&lt;/a&gt;, and whilst the site design is a bit much, the service seems reasonable. It was a very straight-forward process picking and publishing the font I’d chosen to a site. However, the rendering of the font (Century Gothic) looked awful on Windows, despite being a system font that usually looked pretty decent. I’m not assuming that this is the situation with all fonts on Fonts.com, but not being able to preview it cross-browser at a glance seems like a disadvantage after the excellent previews on Typekit.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.57.05.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-82&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.57.05-960x459.png&#34; alt=&#34;Fonts.com Web Fonts using about a million fonts&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Fonts.com Web Fonts using about a million fonts
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, my preferred web font solution is definitely Typekit. The exciting thing is that new solutions keep popping up all time, so I’m sure the best is yet to come. For now, I have to do a complicated mix of Typekit, @font-face and standard system fonts to cover all bases so I’m really looking forward to the day we have a robust solution that does it all for me!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

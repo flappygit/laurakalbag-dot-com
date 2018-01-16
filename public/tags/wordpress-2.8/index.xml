@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordpress 2.8 on Laura Kalbag</title>
+    <title>Posts from Wordpress 2.8 on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/wordpress-2.8/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 16 Jul 2010 21:49:42 +0000</lastBuildDate>
@@ -17,9 +17,153 @@
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
       
       <guid>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</guid>
-      <description>This post has three parts. This is part one. Visit the other parts below:
- Part 2: WordPress 3.0—Really WordPress 3.0 Part 3: WordPress 3.0—Theme Development and the Design  I’m a big fat WordPress fan. I love the people behind it, I love the ethicsand I love how it makes it easy for me to make cool sites that my clients can update themselves.
-Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients.</description>
+      <description>
+
+&lt;p&gt;This post has three parts. This is part one. Visit the other parts below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 2: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-really-wordpress-3&#34;&gt;WordPress 3.0—Really WordPress 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part 3: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design&#34;&gt;WordPress 3.0—Theme Development and the Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’m a big fat WordPress fan. I love the &lt;a href=&#34;http://automattic.com/&#34; title=&#34;Automattic, the people behind WordPress&#34;&gt;people behind it&lt;/a&gt;, I love &lt;a href=&#34;http://www.google.com/hostednews/afp/article/ALeqM5igVn4hcj6ZNWlawSvzLvgEMkZmkQ&#34; title=&#34;AFP News--Blogging guru chips away at Great Firewall of China&#34;&gt;the ethics&lt;/a&gt;and I love how it makes it easy for me to make cool sites that my clients can update themselves.&lt;/p&gt;
+
+&lt;p&gt;Not really being much of a PHP developer, I can still get by and can make fairly capable themes from-scratch for my clients. However, it was getting to the point where I couldn’t offer clients an easy way to input content that wasn’t a standard page or a standard blog post without getting a bit hacky with posts, categories and tags.&lt;/p&gt;
+
+&lt;p&gt;These solutions were OK, but really far too much of a workaround for clients who were only fairly basic computer users in the first.&lt;/p&gt;
+
+&lt;p&gt;Then along came the wondrous…&lt;/p&gt;
+
+&lt;h2 id=&#34;wordpress-3-0&#34;&gt;WordPress 3.0&lt;/h2&gt;
+
+&lt;p&gt;Actually, it started a bit before that with WordPress 2.9 with the infinitely useful post thumbnails.&lt;/p&gt;
+
+&lt;h3 id=&#34;featured-images&#34;&gt;Featured Images&lt;/h3&gt;
+
+&lt;p&gt;But I’ll carry on by calling ‘post thumbnails’ by their new name, ‘featured images’, as this is what they’ve become known as since WordPress 3.0.&lt;/p&gt;
+
+&lt;p&gt;Featured images were a selling point in many magazine-style themes for a long time. The ability to have an image that was a visual representation of a post was incredibly sought-after, especially if those images could also be shown in some kind of javascript carousel that rotated the images on the front page of the site. As a result, a huge amount of post-image carousel-type themes exist using all kinds of hacky ways to select a post’s image as the ‘featured’ one.&lt;/p&gt;
+
+&lt;p&gt;I used the excellent &lt;a href=&#34;http://wordpress.org/extend/plugins/get-the-image/faq/&#34; title=&#34;Get The Image plugin in the WordPress plugin repository&#34;&gt;Get The Image plugin&lt;/a&gt; by (the equally excellent) &lt;a href=&#34;http://justintadlock.com/&#34;&gt;Justin Tadlock&lt;/a&gt; when I wanted to use a featured image in a theme. Get The Image cycled through images linked to your post through custom fields, then through the attachments to the post, and even setting a default image, making it really easy to implement featured images in a way that all clients could understand. I still would recommend Get The Image if you want to pick images straight from your posts, rather than setting a specific featured image.&lt;/p&gt;
+
+&lt;p&gt;However, setting a specific featured image couldn’t be easier, and I see very few occasions where it wouldn’t be perfect for the job.&lt;/p&gt;
+
+&lt;p&gt;First, you’ll need to enable featured images in your functions.php file. This prevents a ‘Featured Image’ box appearing in themes which don’t support the use of featured images (which could cause a lot of confusion for users.) All this requires is a little:&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;add_theme_support( &amp;lsquo;post-thumbnails&amp;rsquo; );&lt;/pre&gt;
+Then you can see the Featured Image box appear in your post and page editors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-121&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png&#34; alt=&#34;Featured Image box in the WordPress Post editor&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Featured Image box in the Post editor
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The image selection process is identical to that of adding standard images into the post. You can choose to select from your computer, from a URL or from the Media Library. All you need to make sure is that, instead of hitting the ‘Insert into Post’ button, you select ‘Use as featured image’.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-123&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png&#34; alt=&#34;When adding a featured image to a WordPress post, ensure you select &amp;#39;Use as featured image&amp;#39; when selecting an image&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Ensure you select ‘Use as featured image’
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you only want to allow Featured Images for posts in your theme, you can specify this through:&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;add_theme_support( &amp;lsquo;post-thumbnails&amp;rsquo;, array( &amp;lsquo;post&amp;rsquo; ) );&lt;/pre&gt;
+Or for just pages:&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;add_theme_support( &amp;lsquo;post-thumbnails&amp;rsquo;, array( &amp;lsquo;page&amp;rsquo; ) );&lt;/pre&gt;
+Then when it comes to including the Featured Image in your theme, you’ll just need to include:&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;&amp;lt;?php the_post_thumbnail(); ?&amp;gt;&lt;/pre&gt;
+Really nice and simple!&lt;/p&gt;
+
+&lt;p&gt;Even better, you can have more fine-grained control over the sizes of the images, and have different types of image sizes through a few more lines in your functions.php file:&lt;/p&gt;
+
+&lt;p&gt;&lt;pre&gt;set_post_thumbnail_size( 100, 100, true );
+// Set the standard size for your featured images&lt;/pre&gt;
+&lt;pre&gt;add_image_size( &amp;lsquo;magazine-column-image&amp;rsquo;, 400, 300 );
+//Specify a custom image size, you can do this as many
+times as you want&lt;/pre&gt;
+This is great if you want to output small thumbnail images on your homepage template and large feature images on your article pages.&lt;/p&gt;
+
+&lt;p&gt;For more depth on featured images I recommend you read Mark Jaquith’s pro writeup &lt;a href=&#34;http://markjaquith.wordpress.com/2009/12/23/new-in-wordpress-2-9-post-thumbnail-images/&#34;&gt;New in WordPress 2.9: Post Thumbnail images&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;custom-taxonomies&#34;&gt;Custom Taxonomies&lt;/h3&gt;
+
+&lt;p&gt;As early as WordPress 2.8 also came custom taxonomies, a sneak peek into something beyond bloggy categories and bloggy tags. For those who blog on specialist subjects you can do without categories and have different hierarchical taxonomies (category trees to people like me), such as ‘genres’ for your film reviews.&lt;/p&gt;
+
+&lt;p&gt;If you wanted to tag your film reviews with different actors names, but still keep standard tags to describe your review, you can do this. If you still wanted to organise your fashion blog by different types of articles, using categories, but also wanted to choose from a list of  items of clothes to describe your article, you can do this as well.&lt;/p&gt;
+
+&lt;p&gt;These are a bit trickier to implement than post thumbnails. Not much, but there’s a bit more to explain in the functions.php file, so if you want to know more I’d recommend that you visit one (or all) of the fantastic resources that I use, below:&lt;/p&gt;
+
+&lt;p&gt;1.&lt;a href=&#34;http://codex.wordpress.org/Custom_Taxonomies&#34;&gt;Custom Taxonomies on the WordPress Codex&lt;/a&gt;
+2. &lt;a href=&#34;http://justintadlock.com/archives/2009/05/06/custom-taxonomies-in-wordpress-28&#34;&gt;Custom Taxonomies in WordPress 2.8 by Justin Tadlock&lt;/a&gt;
+3. &lt;a href=&#34;http://justintadlock.com/archives/2009/05/02/creating-a-page-template-that-lists-all-of-your-wordpress-taxonomies&#34;&gt;Creating a page template that lists all your custom taxonomies by Justin Tadlock&lt;/a&gt;
+4. &lt;a href=&#34;http://net.tutsplus.com/tutorials/wordpress/introducing-wordpress-3-custom-taxonomies/&#34;&gt;Introducing WordPress 3 Custom Taxonomies on NetTuts&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This post has three parts. This is part one. Visit the other parts below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 2: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-really-wordpress-3&#34;&gt;WordPress 3.0—Really WordPress 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part 3: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design&#34;&gt;WordPress 3.0—Theme Development and the Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-8&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;bookmeister&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-8&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:13:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag good effort on the wordpress blog posts. You could write a book :-)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-9&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-9&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:17:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:17pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @bookmeister thanks but barely! You see how much the language plugin shouts at me. Apparently I can barely string a sentence together ;)
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

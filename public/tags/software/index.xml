@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Laura Kalbag</title>
+    <title>Posts from Software on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/software/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 18 Dec 2013 11:59:17 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
       
       <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
-      <description>A few weeks ago I answered some questions for Workspiration on my hardware and software setup, inspiration and dreams.
-Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!</description>
+      <description>&lt;p&gt;A few weeks ago &lt;a href=&#34;http://workspiration.org/laura-kalbag&#34;&gt;I answered some questions&lt;/a&gt; for &lt;a href=&#34;http://workspiration.org&#34;&gt;Workspiration&lt;/a&gt; on my hardware and software setup, inspiration and dreams.&lt;/p&gt;
+
+&lt;p&gt;Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://workspiration.org/laura-kalbag&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-4157&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/12/Workspiration-774x1024.png&#34; alt=&#34;/images/2013/12/Workspiration.png&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

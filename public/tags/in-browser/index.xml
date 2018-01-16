@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>In Browser on Laura Kalbag</title>
+    <title>Posts from In Browser on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/in-browser/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 10 Jun 2012 18:17:14 +0000</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
       
       <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
-      <description>A new post from me, this time at .net magazine. Keep it creative! There’s some pretty cool comments over there too.</description>
+      <description>&lt;p&gt;A new post from me, &lt;a href=&#34;http://www.netmagazine.com/opinions/keep-it-creative&#34; title=&#34;Keep it Creative! by Laura Kalbag on .net magazine&#34;&gt;this time at .net magazine. Keep it creative!&lt;/a&gt; There’s some pretty cool comments over there too.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

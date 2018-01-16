@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on Laura Kalbag</title>
+    <title>Posts from Personal on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/personal/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 23 May 2015 16:12:38 +0000</lastBuildDate>
@@ -17,8 +17,10 @@
       <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
       
       <guid>https://laurakalbag.com/subjective-podcast/</guid>
-      <description>At the beginning of the week, I had fun talking to Victor Johnson on Episode 9 of the Subjective podcast, ‘Free As In Liberty.’ I ranted a lot, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.
-Subjective is also a great podcast in its infancy, with Victor at the helm, it’s definitely one to watch (or listen!)</description>
+      <description>&lt;p&gt;At the beginning of the week, I had fun talking to Victor Johnson on &lt;a href=&#34;http://subjective.fm/episodes/9&#34;&gt;Episode 9 of the Subjective podcast, ‘Free As In Liberty.’&lt;/a&gt; I ranted &lt;strong&gt;a lot&lt;/strong&gt;, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://subjective.fm&#34;&gt;Subjective&lt;/a&gt; is also a great podcast in its infancy, with Victor at the helm, it’s definitely one to watch (or listen!)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

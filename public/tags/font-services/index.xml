@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Font Services on Laura Kalbag</title>
+    <title>Posts from Font Services on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/font-services/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 20 Feb 2015 16:34:52 +0000</lastBuildDate>
@@ -17,10 +17,39 @@
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</guid>
-      <description>Another fab and in-depth article from Craig Grannell on Digital Arts, this time on Web fonts: what designers need to know in 2015. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.
- 
-My full answers to Craig’s original questions are below:
-What do you consider the current best options for working with web fonts? I’m forever changing my mind, but I tend to prefer to host fonts on the site itself.</description>
+      <description>
+
+&lt;p&gt;Another fab and in-depth article from Craig Grannell on Digital Arts, this time on &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/&#34;&gt;Web fonts: what designers need to know in 2015&lt;/a&gt;. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-4621&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/02/Digital-Arts-Web-fonts-2015-1024x707.png&#34; alt=&#34;Digital Arts - Web fonts 2015&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My full answers to Craig’s original questions are below:&lt;/p&gt;
+
+&lt;h2 id=&#34;what-do-you-consider-the-current-best-options-for-working-with-web-fonts&#34;&gt;What do you consider the current best options for working with web fonts?&lt;/h2&gt;
+
+&lt;p&gt;I’m forever changing my mind, but I tend to prefer to host fonts on the site itself. That way you usually have more control over the font itself, and you’re not beholden to a font service that could slow your site down, or even go down completely. I also like paying a one-off fee for fonts where possible, even if it’s a bit more expensive. A one-off fee is a more predictable cost than paying for a subscription for the foreseeable future.&lt;/p&gt;
+
+&lt;h2 id=&#34;for-newcomers-what-key-differences-are-there-in-using-a-web-font-service-of-hosting-fonts-themselves&#34;&gt;For newcomers, what key differences are there in using a web font service of hosting fonts themselves?&lt;/h2&gt;
+
+&lt;p&gt;When a web font service hosts the fonts themselves, it usually results in a great selection of typefaces for a very reasonable price. Most font services also handle a lot of the trickier technical stuff, so you can easily pick out the weights and subset you want, and you’re good to go.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-use-a-particular-service-what-differentiates-it-for-you&#34;&gt;If you use a particular service, what differentiates it for you?&lt;/h2&gt;
+
+&lt;p&gt;I always pick the service based on the typeface I want to use. When I’m designing the typography, I’ll hunt down a few typefaces to choose from, then shop around a few services to see which gives me the most freedom and control at the most reasonable price.&lt;/p&gt;
+
+&lt;p&gt;The only service I always avoid is Google Web Fonts. When you install a script from a third party on your site, including web fonts, you need to trust that third party to deliver its goods, and only track the page data in a way that’s appropriate to their services. Google makes money from tracking data, and is providing the font services for free. I wouldn’t be happy exchanging the data of my visitors in return for free fonts. It’s worth reading &lt;a href=&#34;http://fontfeed.com/archives/google-webfonts-the-spy-inside/&#34;&gt;Yves Peters’ post on about Google Web Fonts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-changes-in-tech-are-likely-during-the-first-half-of-2015-and-how-do-you-think-this-will-benefit-designers&#34;&gt;What changes in tech are likely during the first half of 2015, and how do you think this will benefit designers?&lt;/h2&gt;
+
+&lt;p&gt;Whether its net neutrality, the snoopers charter, or rights to encryption, equal access and privacy keep coming up as primary concerns in tech. These important issues with rights and ethics on the web give designers great opportunities to create work that can make a difference to the future of our platform. With new problems, designers get the chance to work with new constraints and user experience challenges that could stand the test of time, rather than just making more commercial brochureware for a brand that’ll disappear in a couple of years.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

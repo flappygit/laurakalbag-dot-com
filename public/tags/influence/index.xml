@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Influence on Laura Kalbag</title>
+    <title>Posts from Influence on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/influence/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 24 Mar 2014 10:37:24 +0000</lastBuildDate>
@@ -17,7 +17,17 @@
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
       
       <guid>https://laurakalbag.com/inspiration-on-a-list-apart/</guid>
-      <description>Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as the talk I gave at Design + Banter a few weeks ago.</description>
+      <description>&lt;p&gt;Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as &lt;a href=&#34;https://speakerdeck.com/laurakalbag/inspiration&#34; title=&#34;slides from my talk at Design + Banter&#34;&gt;the talk&lt;/a&gt; I gave at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design + Banter&lt;/a&gt; a few weeks ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/inspiration&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4286&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/03/inspiration.png&#34; alt=&#34;Column on Inspiration on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

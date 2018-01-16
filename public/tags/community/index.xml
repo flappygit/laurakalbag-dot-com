@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community on Laura Kalbag</title>
+    <title>Posts from Community on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/community/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 01 Apr 2013 10:17:14 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
       
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
-      <description>Last week I was guest co-host on one of my most favourite podcasts, Unfinished Business. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
-We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.</description>
+      <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
+
+&lt;p&gt;We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/12&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2345&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/unfinished-bz.png&#34; alt=&#34;Andy &amp;amp;amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +38,89 @@ We talked about smoking chimps, mentoring and how we can try to help newcomers i
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
       
       <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
-      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
-Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+      <description>
+
+&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/&#34; title=&#34;Using Dribbble and Forrst for feedback on a client project&#34;&gt;discussing Dribbble and Forrst&lt;/a&gt;, and &lt;a href=&#34;https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/&#34; title=&#34;Good old designer snobbery is alive and kicking&#34;&gt;my latest post that looked at criticism in design&lt;/a&gt;, I’ve been thinking a lot more about how feedback features in my design process.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-stuck&#34;&gt;Getting stuck&lt;/h2&gt;
+
+&lt;p&gt;When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.&lt;/p&gt;
+
+&lt;p&gt;Somehow it didn’t feel right though, I didn’t feel like I was working for myself, asking other designers could feel a bit like cheating. I didn’t like how detached it made me feel from the design when I started to follow the ideas of other designers that have completely different approaches and styles from my own. I decided I don’t feel comfortable sharing work in those stages with other designers as they can be a negative influence on me. Not because they make bad suggestions, but because I work to satisfy them.&lt;/p&gt;
+
+&lt;p&gt;No longer craving that kind of approval, I’ve realised that I make extensive use of two new types of feedback, client feedback and ‘boyfriend’ feedback.&lt;/p&gt;
+
+&lt;h2 id=&#34;client-feedback&#34;&gt;Client Feedback&lt;/h2&gt;
+
+&lt;p&gt;So it might sound totally obvious. Inevitably, you will always get feedback from the client at &lt;em&gt;some&lt;/em&gt; point. However I’ve found myself doing this at earlier and earlier stages since I starting working freelance.&lt;/p&gt;
+
+&lt;p&gt;Lately I’ve been going straight into talking to the client as soon as the design slows down or is coming suspiciously quickly (usually a sign that I’ve jumped on a bandwagon or just acted on my first, badly thought-out idea.) I came to the conclusion that there’s no point searching for answers so far away from the problem. The client is the one person who set the brief and will approve the results, they’re the beginning and the end, so why not involve them more in the middle as well?&lt;/p&gt;
+
+&lt;h3 id=&#34;feedback-now-polish-later&#34;&gt;Feedback now, polish later&lt;/h3&gt;
+
+&lt;p&gt;Number one newbie mistake is showing a client a 100% complete mockup (or even live) page design. I’ve done it, and kicked myself for it. Chances are you’ll have really jumped on an idea and run with it. The problem is that the client might not like your angle or approach. You’ve just wasted a huge amount of hours on something that is rejected outright.&lt;/p&gt;
+
+&lt;h4 id=&#34;you-re-designing-for-the-client&#34;&gt;You’re designing for the client&lt;/h4&gt;
+
+&lt;p&gt;There’s no need to be fearful of showing something incomplete. Clients aren’t stupid, and if you explain that the work is unfinished but you’re looking for their input on what you’ve done so far, they’re likely to be grateful that you’re keeping them in the loop.&lt;/p&gt;
+
+&lt;p&gt;Unfinished work doesn’t necessarily mean bad work either. You’re not posting your work online for the world to see, you’re sharing progress and developing designs.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-benefits-of-feedback-now&#34;&gt;The benefits of feedback now&lt;/h4&gt;
+
+&lt;p&gt;If the client is finding it hard to understand your approach, or flatly hates it, you’ve got time to discuss, justify, rework and whatever else is needed to create something that your client loves and you know will work for the user.&lt;/p&gt;
+
+&lt;p&gt;Design is just creative problem solving. If the client isn’t keen on what you’ve shown them and you’ve got some useful criticism, you’re further refining the problem which will help get you closer to the answer.&lt;/p&gt;
+
+&lt;h2 id=&#34;boyfriend-feedback&#34;&gt;Boyfriend Feedback&lt;/h2&gt;
+
+&lt;p&gt;As a freelance designer, I’m very lucky to have another person around me while I work. My boyfriend &lt;a href=&#34;http://twitter.com/MatthewFuller&#34; title=&#34;Matt Fuller on Twitter&#34;&gt;Matt&lt;/a&gt; works in the same room at home and is an honest critic of everything I do, whether I want his opinion or not!&lt;/p&gt;
+
+&lt;h3 id=&#34;non-client-and-non-designer-feedback&#34;&gt;Non-client and non-designer feedback&lt;/h3&gt;
+
+&lt;p&gt;Matt is great at giving me reactionary critiques. In this way, he’s far more like a client or a user. He’ll tell me he thinks it’s rubbish, and give a vague idea of why, usually based on reactions and associations such as “it reminds me of X.” Matt’s reasons are never because it’s not on trend, or it doesn’t make use of available technologies. In fact, he often hates the fashionable styles and can convince me to be more reasonable and not succumb to “but this looks pretty.”&lt;/p&gt;
+
+&lt;p&gt;One thing that struck me about the discussions about criticism on Dribbble, and the Gap logo, is that the type of feedback a designer gives is totally unlike the thoughts and opinions of clients and users. Those thoughts and opinions are exactly that. They’re not necessarily put in context or very constructive but they are the emotions and associations which are so hard to put into words but have a huge impact on your design’s effectiveness.&lt;/p&gt;
+
+&lt;h2 id=&#34;community-helps-and-hinders&#34;&gt;Community helps and hinders&lt;/h2&gt;
+
+&lt;p&gt;I love the amount of apps and tools showing up to help designers communicate more effectively with other designers. It’s fun to share, and it’s fun to have a bit of mutual-appreciation going on. However I think I’m likely to fall into the trap of designing for these communities, for approval of other designers and developers, and totally forgetting the blindingly obvious user needs and client necessities.&lt;/p&gt;
+
+&lt;p&gt;Am I the only one? I think it’s hard to tell from the outside. Some people are very capable of creating work that is incredibly satisfying to users, clients, other designers and themselves. The order in which they aimed to please isn’t obvious!&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-149&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.robotregime.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dennis Kardys&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-149&#34;&gt;&lt;time datetime=&#34;2010-10-15T19:44:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+I also find it challenging to ask for feedback early on since there are so many different directions a design might take. For me, changing the way in which I frame my request for feedback has been a big help, both when talking to clients and with other designers. Instead of an entirely open invitation for critique (which may come later when the design is more complete), I usually try to pose very direct questions that identify the problems as opposed to recommending the solution. &amp;quot;Do you think the call to action should be more prominent?&amp;quot; or &amp;quot;What type of feeling does this color scheme evoke&amp;quot;, etc.
+
+Your post also made me think about ownership of a design, and how there is a pride that goes along with coming up with the ideas and inventing the solutions. I think it&amp;#039;s important to be aware of times when that sense of pride may conflict with the best interest of the project. Does that make sense?
+
+I also totally agree that it&amp;#039;s helpful to have someone who is not the client or another designer, but who can be brutally honest to tell you what they think.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-150&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;damilare&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150&#34;&gt;&lt;time datetime=&#34;2010-10-16T00:06:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:06am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag I think a huge difference between client feedback and designer feedback is aesthetic vs business goals, the latter, the better.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources on Laura Kalbag</title>
+    <title>Posts from Resources on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/resources/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 03 Jan 2013 15:47:58 +0000</lastBuildDate>
@@ -17,8 +17,18 @@
       <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
       
       <guid>https://laurakalbag.com/new-to-design/</guid>
-      <description>Following my learning design post, I’ve started a little project called “new to design.” At the moment it just consists of a learn-design tag on my Pinboard bookmarks and a Twitter account @newtodesign so that I can share useful design resources (especially for those new to design.)
-In the future, I hope it can be useful in other ways. Any suggestions or anything you want to see? You know how to get in touch…  </description>
+      <description>&lt;p&gt;Following my &lt;a href=&#34;https://laurakalbag.com/learning-design/&#34; title=&#34;Learning Design&#34;&gt;learning design post&lt;/a&gt;, I’ve started a little project called “new to design.” At the moment it just consists of &lt;a href=&#34;https://pinboard.in/u:laurakalbag/t:learn-design/&#34;&gt;a learn-design tag on my Pinboard bookmarks&lt;/a&gt; and a &lt;a href=&#34;http://twitter.com/newtodesign&#34;&gt;Twitter account @newtodesign &lt;/a&gt;so that I can share useful design resources (especially for those new to design.)&lt;/p&gt;
+
+&lt;p&gt;In the future, I hope it can be useful in other ways. Any suggestions or anything you want to see? &lt;a href=&#34;https://laurakalbag.com/contact-me/&#34; title=&#34;Contact Me&#34;&gt;You know how to get in touch…&lt;/a&gt;
+
+&lt;figure class=&#34;aligncenter size-full wp-image-1753&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/01/avatar.png&#34; alt=&#34;new to design avatar&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

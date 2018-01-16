@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security on Laura Kalbag</title>
+    <title>Posts from Security on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/security/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 13 Apr 2015 09:18:46 +0000</lastBuildDate>
@@ -17,8 +17,10 @@
       <pubDate>Mon, 13 Apr 2015 09:18:46 +0000</pubDate>
       
       <guid>https://laurakalbag.com/europe-fights-back/</guid>
-      <description>Last Friday’s Ind.ie roundup had more on corporate surveillance, a couple of great videos with Edward Snowden, and Europe fighting back against Google and Facebook.
-It took me a long time to pull it all together. I’m going to have to start writing my Friday roundups on Thursday! If you know of any interesting or relevant links, please let me know :)</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ind.ie/blog/roundup-15-04-10/&#34;&gt;Last Friday’s Ind.ie roundup&lt;/a&gt; had more on corporate surveillance, a couple of great videos with Edward Snowden, and Europe fighting back against Google and Facebook.&lt;/p&gt;
+
+&lt;p&gt;It took me a long time to pull it all together. I’m going to have to start writing my Friday roundups on Thursday! If you know of any interesting or relevant links, please &lt;a href=&#34;mailto:laura@ind.ie&#34; title=&#34;Email Laura at Ind.ie&#34;&gt;let me know&lt;/a&gt; :)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +29,10 @@ It took me a long time to pull it all together. I’m going to have to start wri
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
       
       <guid>https://laurakalbag.com/my-friday-roundup-for-ind-ie/</guid>
-      <description>Every Friday I write a roundup of great links we at Ind.ie have seen over the last week. I’m not going to lie, it’s a lot of fun. I finally have an excuse to sit and properly read articles that are related to independence, privacy, human rights, democracy, diversity and more. I feel more well-informed as a result!
-The roundups started out as just lists of links, but have now evolved into a little article each week where I collect the best reads together under common themes and occasionally a bit of analysis.</description>
+      <description>&lt;p&gt;Every Friday I write a roundup of great links we at &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt; have seen over the last week. I’m not going to lie, it’s a lot of fun. I finally have an excuse to sit and properly read articles that are related to independence, privacy, human rights, democracy, diversity and more. I feel more well-informed as a result!&lt;/p&gt;
+
+&lt;p&gt;The roundups started out as just lists of links, but have now evolved into a little article each week where I collect the best reads together under common themes and occasionally a bit of analysis. &lt;a href=&#34;https://ind.ie/blog/roundup-15-04-04/&#34;&gt;Read today’s Friday Roundup&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

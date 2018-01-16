@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Css3 on Laura Kalbag</title>
+    <title>Posts from Css3 on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/css3/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 05 Jul 2011 19:05:02 +0000</lastBuildDate>
@@ -17,8 +17,101 @@
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
-      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
-  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+      <description>
+
+&lt;p&gt;I had ordered &lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34; title=&#34;Responsive Web Design on the A Book Apart store&#34;&gt;Responsive Web Design&lt;/a&gt; by &lt;a href=&#34;http://ethanmarcotte.com/&#34;&gt;Ethan Marcotte&lt;/a&gt; as soon as it came out, but being at &lt;a href=&#34;https://laurakalbag.com/digest-from-ampersand-conf/&#34; title=&#34;Notes from Ampersand conference — My Digest&#34;&gt;Ampersand conference&lt;/a&gt;, and hearing &lt;em&gt;so many&lt;/em&gt; people recommend it, really spurred me to take a few hours out to get on and read it.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_474 wp-caption aligncenter size-large wp-image-474 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/07/web-716x960.jpg&#34; alt=&#34;Responsive Web Design by Ethan Marcotte&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Responsive web design&lt;/strong&gt; is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences. This might be low levels of detail for mobile devices, big readable layouts for massive projector screens or dumbed-down CSS for old-fashioned browsers. I’m so sure that Responsive Web Design will be our bible for flexible web design for years to come.&lt;/p&gt;
+
+&lt;p&gt;The reason why I say ‘*for years to come*‘ is that Responsive Web Design doesn’t just furnish you with markup examples but &lt;em&gt;actual reasons&lt;/em&gt; to do it. Much like its predecessor, &lt;a href=&#34;https://laurakalbag.com/html5-for-web-designers/&#34; title=&#34;HTML5 For Web Designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt; by Jeremy Keith, Ethan Marcotte walks you through how to think responsively, integrating flexibility into the design and development processes, and what might trip you up on the way.&lt;/p&gt;
+
+&lt;p&gt;The book is split into five easily-digested chapters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Our Responsive Web&lt;/li&gt;
+&lt;li&gt;The Flexible Grid&lt;/li&gt;
+&lt;li&gt;Flexible Images&lt;/li&gt;
+&lt;li&gt;Media Queries&lt;/li&gt;
+&lt;li&gt;Becoming Responsive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These make for great reading if you can only fit one in at a time, but I reckon you could get the whole book read in front of a computer, trying examples as you go, in an afternoon.&lt;/p&gt;
+
+&lt;p&gt;I can tell you how useful this book is from how it’s helped me on a recent site design. I have always struggled with creating fluid CSS layouts using percentages. The maths has always boggled my mind and I tend to give it a go then give up when everything falls to bits as soon as I resize my browser window. The thorough explanation of using the magical formula, &lt;strong&gt;target ÷ context = result&lt;/strong&gt;, had me working out percentage-based margins and paddings with very little effort. Now my designs can be more than just ‘mobile version’ and ‘desktop version’!&lt;/p&gt;
+
+&lt;p&gt;Part of what makes this book so valuable is the Bot Blog example site walkthrough. Being able to see how you can apply an original fixed-width design to a fluid-width site really helped me understand the restraints and opportunities created by working responsively. The breakdown of media queries is incredibly handy, especially as they’re explained first from the position of starting with an average-width screen design, adapting down to small screens and up to larger screens using *max-width *rules, and then from the position of ‘mobile first,’ adding styles for gradually larger screens using *min-width *rules.&lt;/p&gt;
+
+&lt;p&gt;My favourite part of the book was where ‘Mobile First’ was introduced. This is the concept of developing first for a mobile browsing experience, then building upon that experience for bigger, more-advanced browsers. It’s pretty much a mobile-focused version of the progressive enhancement approach. It’s a great alternative to starting big and adjusting your CSS for small browsers as it means you’re not delivering huge long stylesheet files to phones that may have a slow or limited connection. Quite a few developers on the more mobile-side of the web industry have been talking about ‘mobile first’ for years,  but it’s great to see it really pulled into mainstream consideration.&lt;/p&gt;
+
+&lt;p&gt;Ethan Marcotte writes in a style that is casual but smart and funny in sweet, geeky way. His writing makes you feel like you’re learning from the easy-going class assistant rather than the boring teacher. It’s definitely made me opt to buy the two titles in between &lt;a href=&#34;http://www.abookapart.com/products/html5-for-web-designers&#34; title=&#34;HTML5 For Web Designs on the A Book Apart store&#34;&gt;HTML5 For Web Designers&lt;/a&gt; and Responsive Web Design, &lt;a href=&#34;http://www.abookapart.com/products/css3-for-web-designers&#34; title=&#34;CSS3 For Web Designers on the A Book Apart store&#34;&gt;CSS3 For Web Designers&lt;/a&gt; and &lt;a href=&#34;http://www.abookapart.com/products/the-elements-of-content-strategy&#34; title=&#34;The Elements Of Content Strategy on the A Book Apart store&#34;&gt;The Elements Of Content Strategy&lt;/a&gt;, as both books I’ve read so far are so informative and inspiring. There’s also &lt;a href=&#34;http://www.abookapart.com/products&#34; title=&#34;A Book Apart products&#34;&gt;&lt;em&gt;Designing for Emotion&lt;/em&gt; and &lt;em&gt;Mobile First&lt;/em&gt;&lt;/a&gt; to look forward to in the autumn!&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-245&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;martcol&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-245&#34;&gt;&lt;time datetime=&#34;2011-07-05T21:13:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for this. It’s a title now on my most wanted list.  I do think that building for the web is getting more complicated more quickly.  Hopefully this will help stop me feeling I’m falling too far behind. d(&amp;gt;_&amp;lt;)b
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-246&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Andy&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-246&#34;&gt;&lt;time datetime=&#34;2011-07-05T22:13:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I found the book really useful, but my biggest issue was that the entire book was written desktop first, and then the final chapter introduces mobile first, which means reversing not only all the logic, but also how you think and build in the first place. If mobile first is the way to go –; and I agree that it is, why didn’t Ethan introduce that from the start ?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-248&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-248&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:51:20+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m not sure if I’m right, but I’d think it was probably because it’s more useful to the majority of readers to introduce something that isn’t such a huge leap from their current process first. The non-mobile-first approach could be easily used on an existing site to enhance it, but you really need to be starting a project afresh to begin with mobile first.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-247&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://clawg.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charlie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-247&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:48:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The book is a good, lightweight read.   My only criticism of the book is that Ethan has already published most of chapters 1-4 via sites like a list apart, so there was nothing in there that isn’t freely available.  That said its still a good read and his suggestions of how to incorporate responsive design into the design workflow with developers was useful.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +120,311 @@
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
-      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
-And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+      <description>
+
+&lt;p&gt;I’ve tried to condense &lt;a href=&#34;https://laurakalbag.com/notes-from-ampersand-conf/&#34;&gt;my notes from Ampersand conference&lt;/a&gt; into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.&lt;/p&gt;
+
+&lt;p&gt;And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!)&lt;/p&gt;
+
+&lt;h2 id=&#34;using-typography&#34;&gt;Using typography&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography-is-about-context-context-is-about-content&#34;&gt;Typography is about context, context is about content&lt;/h3&gt;
+
+&lt;p&gt;The web ‘industry’ is starting to focus more on content strategy, and that the whole reason our sites are there is generally to showcase content, and this was reflected in the &lt;em&gt;importance of content&lt;/em&gt; being continually brought up throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare was the first speaker of the conference. As the creator of Comic Sans, Vincent was the perfect person to explain the significance of fonts being created for a purpose, for a specific context.&lt;/p&gt;
+
+&lt;p&gt;Comic Sans was created for Microsoft Home software, when computers were starting to become used in the home. Its fun, casual, comic-book style was based on comics like Watchmen and Batman Returns and was successfully used in speech bubbles and children’s software. It’s the prolific abuse of Comic Sans in inappropriate signage, documents, and many other places that has made it so well-known and unpopular (&lt;em&gt;or inappropriately popular!&lt;/em&gt;) As Jason Santa Maria said when talking about choosing an appropriate typeface:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;No type is born evil, it’s the context that dictates if it works.
+&lt;a href=&#34;http://www.flickr.com/photos/xxv/5446317470/&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-466&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/comicsans.jpg&#34; alt=&#34;Comic Sans on an Antiques shop sign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Comic Sans on an Antiques shop sign (credit xxv, Flickr)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-465&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34; alt=&#34;a sample of Bell Centennial&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		a sample of Bell Centennial
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;#### Content first&lt;/p&gt;
+
+&lt;p&gt;Tim Brown and Jason Santa Maria both spoke about how the context of the content gives them meaning when choosing a suitable font and how vital it is to compose your design with accountability. Some points they focused on for selecting a suitable typeface were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The content&lt;/strong&gt;, its message, its reason for being&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The audience&lt;/strong&gt;, who will read it? and how? for how long?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The culture&lt;/strong&gt;, the historical and cultural significance of the content, whether it will be read in other languages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The context of the typeface itself&lt;/strong&gt;, its resumé, what it signifies to others, how its production affects its appearance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;content-out&#34;&gt;Content-out&lt;/h4&gt;
+
+&lt;p&gt;Mark Boulton got us designers thinking around content in a new way which is less concentrated on the limitations of our canvas (the size of the browser, the device) and discussed possible solutions for designing from the content-outwards. Mark suggested that as designers became fixated on web standards, we started to take the separation of content and style too literally which meant we created meaningless designs separated from our content. The content-out route really involves knowing the content first, which prompted a brilliant quote from Mark:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you don’t know your content or audience, go to the pub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Admitting he didn’t yet know any solid solutions, but wanted to encourage discourse, Mark suggested processes such as working on the details first then assembling a modular design from the details. This process is one that complements the &lt;strong&gt;responsive web design&lt;/strong&gt; approach which almost every speaker hailed as a new way of working on the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;responsive-design&#34;&gt;Responsive design&lt;/h4&gt;
+
+&lt;p&gt;Jon Tan explained how typography is one of the elements we can keep consistent across responsive design that reconfigures itself to suit different scenarios. No matter what the layout, screen size or device, the typography (along with colour) can instantly identify a design.&lt;/p&gt;
+
+&lt;p&gt;Tim Brown explained his process for building responsive design systems around type. The web, with its inherent flexibility, resists the rigid traditional print frameworks using ratios and fixed grids that previously gave designers a structure to work within. Tim suggests creating a modular scale, with the layout and every other element following the type, allowing it to work consistently regardless of device. This is based on the principle that we need a constant to work from in our designs, and type is a perfect constant to use. This is a way of thinking that designers can easily practise and exercise without affecting any of our current processes.&lt;/p&gt;
+
+&lt;p&gt;Tim went on to describe how using a &lt;em&gt;modular&lt;/em&gt; scale, rather than arbitrary numbers, we can create a design system that is visibly cleaner and more harmonious. He suggested choosing sizes and spaces, such as type, borders, margins, padding, based on a pattern or scale. A couple of examples of ratios that Tim provided were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;golden ration 1 : 1.618&lt;/li&gt;
+&lt;li&gt;musical fifth 1 : 1.5
+&lt;a href=&#34;http://modularscale.com&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-467&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png&#34; alt=&#34;A modular scale created using Tim&amp;#39;s website modularscale.com&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A golden ratio modular scale created using Tim’s website modularscale.com
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Different ratios traditionally have meaning or significance to different types of people, so these contexts can even be used to choose an *appropriate *scale. This also gives designers a reason and justification to backup our design decisions.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-more-than-text&#34;&gt;Typography is more than text&lt;/h3&gt;
+
+&lt;p&gt;Jason Santa Maria talked about how typography has a dual life. It’s about both the &lt;strong&gt;aesthetic&lt;/strong&gt; and the &lt;strong&gt;readability&lt;/strong&gt;. As designers we can often get caught up in how the text looks as a whole, but in reality users see the whole as texture and they skim across it. Users are more likely to stop and fixate on a small area for a moment, and this is where they will notice the typography and if it makes the text difficult to read. Jason emphasised the well-known idea that &lt;strong&gt;good typography is invisible&lt;/strong&gt;, it’s about not making the user think or struggle to read.&lt;/p&gt;
+
+&lt;p&gt;Jason also made the point that readability isn’t always *can I read it? *but also *do I want to read it? *It’s in these scenarios that good typography can help create emotional experiences.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-can-create-emotional-experiences&#34;&gt;Typography can create emotional experiences&lt;/h3&gt;
+
+&lt;p&gt;Jon Tan really expanded on his &lt;em&gt;New Adventures in Web Design&lt;/em&gt; talk about the lizard brain by emphasising how typography can influence the subconscious. A typeface can convey emotion beyond the words in the text. Jon Tan quoted Paul Rand saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A logo derives meaning from the quality of the thing it symbolizes [&amp;#8230;] what it represents is more important than what it looks like.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is controlled by a part of our brain called the amygdala which can evoke emotional responses without verbal or linguistic input. Jon explained how this means as designers, we need to understand how the brain works, how we need to understand how design makes us &lt;em&gt;feel&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-468 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34; alt=&#34;MS Sans and Tahoma samples&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		MS Sans (left) and Tahoma (right) samples
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-hard&#34;&gt;Typography is hard&lt;/h3&gt;
+
+&lt;p&gt;As someone who often feels that typography can be overwhelming, and that it’s very difficult to know when you’re making the right decisions, it was great to hear Jason Santa Maria say that &lt;strong&gt;typography is hard&lt;/strong&gt;. Jason went on to explain that a designer doesn’t need to know *absolutely everything *about typography to use it well, you just need to know how to estimate a font.&lt;/p&gt;
+
+&lt;h3 id=&#34;guidelines-for-choosing-and-using-type&#34;&gt;Guidelines for choosing and using type&lt;/h3&gt;
+
+&lt;p&gt;Jason went into great depth on how to choose typefaces. He explained that there are no rules in typography, its imperfect precision where you can only be guided by basic principles and understanding the constraints. Some of the top tips that Jason gave were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Choose workhorse typefaces&lt;/strong&gt;. We shouldn’t feel obliged to choose a new typeface for every project. Create a personal palette of typeface families that work well in display as well as body text. Use different styles from the same family to save having to find multiple typefaces that work well together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid overly themed typefaces&lt;/strong&gt;. These ready-mades show a lack of imagination. Subtle fonts can promote different emotions more effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a list of attributes and feelings that you want to convey, then find typefaces that convey that feeling&lt;/strong&gt;. This also works for looking for typefaces that are similar, but not the same, to a standard that you use (perhaps such as Helvetica or Georgia.)&lt;/li&gt;
+&lt;li&gt;**Test your fonts in context **and in the right space. Choose your font appropriately to the line height, line length and size required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web-fonts&#34;&gt;Web Fonts&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-benefits-of-web-fonts&#34;&gt;The Benefits of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Everyone at Ampersand was evangelising web fonts. It’s impossible to not do so with all the exciting possibilities playing with lovely new fonts can bring.&lt;/p&gt;
+
+&lt;p&gt;Jon Tan described it as a time of &lt;strong&gt;renaissance&lt;/strong&gt; considering we were previously forced to use such a minimal font palette, and we’re now being given a chance to prove our skills in design using these new tools. We can now choose type that’s *perfect *for purpose.&lt;/p&gt;
+
+&lt;p&gt;Jason Santa Maria echoed what I think everybody else was feeling in that it’s a good time to be a designer. Jason shot down the cynical idea that pople are misusing or abusing fonts and emphasised the benefits that we’re gaining in accessibility through no longer having to provide non-standard fonts through dodgy font replacement techniques.&lt;/p&gt;
+
+&lt;p&gt;Jon and Jason both spoke about how type can define a brand and how web fonts are helping unify the identity of brands across print and the web, helping convey a voice, facilitate an emotion, and create a relationship between the user and the design.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-downside-of-web-fonts&#34;&gt;The Downside of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Along with the eagerness to try new web fonts, there was a lot of talk of the downside of web fonts, but with a positive outlook on how the awkward issues can be solved.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-back-at-font-engineering&#34;&gt;Looking back at font engineering&lt;/h3&gt;
+
+&lt;h4 id=&#34;metal-typesetting-bitmap-font-creation-and-os-safe-fonts&#34;&gt;Metal typesetting, bitmap font creation and OS-safe fonts&lt;/h4&gt;
+
+&lt;p&gt;David Berlow harked back to working in font engineering when fonts were first needed to look consistent from computer software to printer, explaining how this relates to the web fonts emerging today. One of David’s main considerations is how poor fonts can look at very small sizes. Bearing his experience with metal case type and bitmap fonts in mind, David focuses on how to make web fonts easier to read including basing them on specific size grids, using large x-heights with generally large amounts of whitespace and simplifying fiddly and complicated details.&lt;/p&gt;
+
+&lt;h3 id=&#34;rendering&#34;&gt;Rendering&lt;/h3&gt;
+
+&lt;p&gt;Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler spoke about how the type designers at Hoefler and Frere-Jones are creating insane amounts of newly hinted glyphs in order to make their web fonts work as well as they possibly can across the web. Many web fonts are just bad translations of fonts created for print and consequently barely work on the web. A few speakers discussed the difficulties in the differences in fonts across Windows and OSX, with some users preferring Windows’ ‘*crispness*‘ and others preferring Apple’s ‘*soft detail*‘.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;http://typekit.com/fonts/museo-slab&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-469 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/museo-slab.gif&#34; alt=&#34;Museo Slab as seen in Safari on OSX and Internet Explorer on Windows&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Tim Brown emphasised how important it is to check your web font choices live, and repeating these checks across the different environments that will use those fonts.&lt;/p&gt;
+
+&lt;p&gt;John Daggett described the issues created by web browsers choosing their own fallbacks, such as creating awful synthesised bold fonts through smearing or drawing the letters twice, or obliqueing fonts to give them an italic appearance. Jonathan Hoefler expressed how the lack of being able to distinguish unusual font styles can be an issue, especially for those that have a back slant or are number-only fonts.&lt;/p&gt;
+
+&lt;h3 id=&#34;css-working-draft-for-fonts&#34;&gt;CSS Working Draft for Fonts&lt;/h3&gt;
+
+&lt;p&gt;John Daggett’s talk was an intense look at the potential future of web fonts being controlled through CSS. It was at this point that I felt particularly hopeful. There’s something amazing about how quickly the web seems to have gone from a miserable collection of ‘web-safe’ fonts to being able to see how we can potentially use alternate glyphs and handle kerning.&lt;/p&gt;
+
+&lt;p&gt;I don’t think my notes cover all the fantastic features that John described, so for those I recommend you see the &lt;a href=&#34;http://www.w3.org/TR/css3-fonts/&#34;&gt;CSS Working Draft for Fonts&lt;/a&gt;, but here are some of the exciting tidbits I fancy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Using opentype font features through ‘font-variant:’&lt;/strong&gt;. This means having loads of different font features such as multiple glyphs per character in an easy-to-use package giving us fine-grain control all through CSS. At the moment &lt;em&gt;font-variant&lt;/em&gt; is used predominantly to select small-caps (with limited success.) The potential in &lt;em&gt;font-variant&lt;/em&gt; means we could eventually select font features such as petite caps and automatic fractions, have more control over fallbacks, kerning, ligatures, language support and numerals, as well as supplementing other CSS properties such as &lt;em&gt;text-transform&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security for web fonts&lt;/strong&gt;. Rather than DRM, the idea is to restrict the origin of the font through http headers and the like, requiring a particular protocol, site or port. This could prevent other sites hot-linking your fonts or sniffing your font URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-day-listening-to-clever-people-talk-about-fonts&#34;&gt;A day listening to clever people talk about fonts&lt;/h2&gt;
+
+&lt;p&gt;I think that me bothering to write a massive blog post about the themes of Ampersand conference really shows what an amazing day it was. I felt completely inspired, enthused and almost exhausted by the ideas and feelings being expressed by the speakers. I hope this rather disjointed digest might have helped bring some of this excitement to you lot who couldn’t be there on the day!&lt;/p&gt;
+
+&lt;h2 id=&#34;recommended-reading-and-plugins&#34;&gt;Recommended Reading and Plugins&lt;/h2&gt;
+
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34;&gt;Responsive Web Design by Ethan Marcotte&lt;/a&gt; (via &lt;strong&gt;everybody&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codexmag.com/&#34;&gt;Codex magazine&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-sites&#34;&gt;Recommended Sites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fontsmith.com/&#34;&gt;Fontsmith&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;li&gt;Google ‘font font focus’ for Font Font Focus sites (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typography.com/&#34;&gt;Hoefler &amp;amp; Frere-Jones at Typography.com&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paulshawletterdesign.com/&#34;&gt;Paul Shaw Letter Design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fontsinuse.com/&#34;&gt;Fonts in Use&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webfontspecimen.com/&#34;&gt;Web Font Specimen&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;Modular Scale&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.typekit.com/category/font-events/&#34;&gt;Using Typekit font events for responsive and fallback design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-plugins&#34;&gt;Recommended Plugins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://letteringjs.com/&#34;&gt;Lettering.js&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fittextjs.com/&#34;&gt;Fit Text&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-241&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.adamwintledesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Adam Wintle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-241&#34;&gt;&lt;time datetime=&#34;2011-06-22T17:52:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Superb writeup! Makes me really wish I could have been there!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-243&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-243&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:49:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:49am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Adam! Hopefully if there’s a next time you’ll be there :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-242&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jontangerine.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jon Tan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-242&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:46:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, so glad you enjoyed it! Fantastic, detailed write-up. Here’s a couple of more links you might find useful:
+
+Nick Sherman’s history of [Bell Centennial](http://nicksherman.com/articles/bellCentennial.html&#34; rel=&#34;nofollow). [Wikipedia article on Peter Behrens](http://en.wikipedia.org/wiki/Peter_Behrens&#34; rel=&#34;nofollow), consultant artist for AEG, and designer of arguably the world’s first corporate typeface. There’s also a [gallery of Behren’s work](https://picasaweb.google.com/ID100Y/TheVirtualPeterBehrensExhibition&#34; rel=&#34;nofollow). All about the London Underground typefaces, [Johnston and New Jonhston](http://londonreconnections.blogspot.com/2009/09/typeface-for-underground.html&#34; rel=&#34;nofollow). Finally, a huge collection of [Blue Note covers](http://www.gokudo.co.jp/Record/BlueNote3/nnblue2.html&#34; rel=&#34;nofollow) that includes many by Reid Miles.
+
+See you next year I hope!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-244&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-244&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:51:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Cheers Jon, those links are great! Some lovely reads to start the morning&amp;#8230;
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +433,264 @@ And of course in the spirit of the web and all things good, I may as well share 
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
       
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
-      <description>My history with Transcending CSS In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading Web Standards Solutions.
-I was already well on my way to being a standards fiend, but Transcending CSS by Andy Clarke did, literally, transcend the standards and made me utterly mad about pushing the boundaries of CSS.</description>
+      <description>
+
+&lt;h2 id=&#34;my-history-with-transcending-css&#34;&gt;My history with Transcending CSS&lt;/h2&gt;
+
+&lt;p&gt;In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading &lt;a href=&#34;http://www.amazon.co.uk/gp/product/1430219203?ie=UTF8&amp;amp;amp;tag=laurkalb-21&amp;amp;amp;linkCode=as2&amp;amp;amp;camp=1634&amp;amp;amp;creative=19450&amp;amp;amp;creativeASIN=1430219203&#34;&gt;Web Standards Solutions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was already well on my way to being a standards fiend, but &lt;a href=&#34;http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&amp;amp;amp;location=http%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_ss_i_3_16%26y%3D0%26field-keywords%3Dtranscending%2520css%26url%3Dsearch-alias%253Dstripbooks%26sprefix%3Dtranscending%2520css&amp;amp;amp;tag=laurkalb-21&amp;amp;amp;linkCode=ur2&amp;amp;amp;camp=1634&amp;amp;amp;creative=19450&#34;&gt;Transcending CSS&lt;/a&gt; by &lt;a href=&#34;http://www.stuffandnonsense.co.uk/&#34; title=&#34;Stuff And Nonsense&#34;&gt;Andy Clarke&lt;/a&gt; &lt;strong&gt;did&lt;/strong&gt;, &lt;em&gt;literally&lt;/em&gt;, transcend the standards and made me utterly mad about pushing the boundaries of CSS.&lt;/p&gt;
+
+&lt;p&gt;Transcending CSS covered properties I’d never heard of before, like z-index, and Andy Clarke wrote it with such complete conviction that you couldn’t argue with his points for progressive enhancement. I read it twice over and kept it on my desk for about two years. My only issue was that there wasn’t any index, so I wrote my own contents for the frequently-referenced pages in the front of the book in pencil.&lt;/p&gt;
+
+&lt;h2 id=&#34;anticipating-hardboiled-web-design&#34;&gt;Anticipating Hardboiled Web Design&lt;/h2&gt;
+
+&lt;p&gt;In the early days of Transcending CSS, I wasn’t on Twitter and I didn’t much follow the ‘industry’ around web design. I wasn’t really sure who Andy Clarke was, I just knew that he wrote this book I really liked.&lt;/p&gt;
+
+&lt;p&gt;Three years later and I’m a full time freelance designer, always on Twitter, and always trying to keep up with the latest and greatest in the most practical way possible. When Hardboiled Web Design was announced by Five Simple Steps, I’ll admit I was pretty excited. I loved &lt;a href=&#34;http://fivesimplesteps.com/books/practical-guide-designing-for-the-web&#34;&gt;A Practical Guide to Designing For The Web&lt;/a&gt; (also by &lt;a href=&#34;http://fivesimplesteps.com/&#34;&gt;Five Simple Steps&lt;/a&gt;) which only made me keener.&lt;/p&gt;
+
+&lt;p&gt;I followed all of &lt;a href=&#34;http://twitter.com/malarkey&#34; title=&#34;Andy Clarke on Twitter&#34;&gt;Andy’s tweets&lt;/a&gt; about &lt;a href=&#34;http://twitter.com/#!/search/%23hardboiledwebdesign&#34; title=&#34;Twitter search for #hardboiledwebdesign&#34;&gt;#hardboiledwebdesign&lt;/a&gt; so I knew what to expect from the book. As I’m now following the goings-on of HTML5 and CSS3 a lot closer, I knew it probably wouldn’t have the same appeal as my &lt;em&gt;wow-this-is-what-the-web-can-really-do&lt;/em&gt; awe of Transcending CSS, but it still didn’t disappoint.&lt;/p&gt;
+
+&lt;h2 id=&#34;hardboiled-web-design&#34;&gt;Hardboiled Web Design&lt;/h2&gt;
+
+&lt;p&gt;The book is predictably well-written. It’s not too formal, not overly-instructional and very friendly. That’s already an improvement on the majority of books about web development. Sometimes the tone is a bit &lt;em&gt;scary-in-a-good-way&lt;/em&gt;, you can really tell how much Andy cares about pushing the web forward.&lt;/p&gt;
+
+&lt;p&gt;The book is themed around detective stories. I found the detective novel references a bit much at times, but that’s because I’ve never read any (not that I wouldn’t, I just haven’t!) It started to feel a bit like an in-joke I wasn’t a part of, but did make for lovely illustrations and content examples.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web-2.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-297&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-2.jpg&#34; alt=&#34;Beautiful front cover illustration&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Beautiful front cover illustration
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;worth-it-for-the-inspiration-alone&#34;&gt;Worth it for the inspiration alone&lt;/h3&gt;
+
+&lt;p&gt;The first quarter of the book is dedicated to telling you &lt;em&gt;why&lt;/em&gt; you bother with new innovations in web development. You’re loaded with ways to persuade your clients or bosses to go along with it too. If you’ve been um-ing and ah-ing about using HTML5 or CSS3 then this chapter is for you. Even if you haven’t, like I hadn’t, it’s really valuable to have someone else put forward the arguments in an easy-to-understand way.&lt;/p&gt;
+
+&lt;h3 id=&#34;html5-css3-and-the-rest&#34;&gt;HTML5, CSS3 and the rest&lt;/h3&gt;
+
+&lt;p&gt;The HTML5 and CSS3 examples are great. I found some of the CSS a bit hard to follow through reading alone, as not every code example had an accompanying image to illustrate it, but it was great to read in front of a text editor. As soon as you try out the examples in the book yourself, it all becomes much clearer.&lt;/p&gt;
+
+&lt;p&gt;What really was the big thing for me was the inclusion of &lt;a href=&#34;http://microformats.org&#34; title=&#34;Microformats Wiki&#34;&gt;microformats&lt;/a&gt;. I’ve been working with microformats for a couple of years and I’m smitten. Anything that helps me write better, more semantic, more useful markup is my thing. It’s really good to see microformats getting the attention and explanation they deserve. Andy does them justice and gives some really useful examples, especially on combining different specifications.&lt;/p&gt;
+
+&lt;h3 id=&#34;different-formats&#34;&gt;Different formats&lt;/h3&gt;
+
+&lt;p&gt;I bought &lt;a href=&#34;http://fivesimplesteps.com/books/hardboiled-web-design&#34; title=&#34;Buy Hardboiled Web Design from Five Simple Steps&#34;&gt;the bundle package from Five Simple Steps&lt;/a&gt; that included the book itself, a PDF version (available for instant download) and a poster.&lt;/p&gt;
+
+&lt;p&gt;I liked the idea of having the PDF for reading using &lt;a href=&#34;http://www.apple.com/ipad/features/ibooks.html&#34; title=&#34;Apple&#39;s iBooks&#34;&gt;iBooks&lt;/a&gt; on my iPhone and iPad. This was a bit of an issue, as the PDF has the same layout as the book itself, including very wide margins. This made for easy reading at full size on my mac, slightly eye-straining use on my iPad and a right nightmare on the iPhone. To read the text on iPhone, you have to zoom about a lot. Alongside constant scrolling to read the full width in the page, it’s not the most comfortable reading experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-295 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web.png&#34; alt=&#34;reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t necessarily think it should have been designed for these small devices! I’m just saying that I wouldn’t buy the PDF if iPhone usage (or even iPad, really) was what you had in mind.&lt;/p&gt;
+
+&lt;h3 id=&#34;no-index-again&#34;&gt;No index again!&lt;/h3&gt;
+
+&lt;p&gt;Again, the biggest issue for me was the absence of an index. With a book so full of useful examples, I’m constantly flicking through trying to find the example I remembered from the first read. Having the PDF is useful, as you can use a search function to find what you’re looking for, but fiddling about opening PDF files isn’t really for me when I could just grab the book from next to my desk. So, I’ve gone back to the old-school and have started sticking postits in as bookmarks. I like the idea that it looks like a much-loved textbook!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-medium wp-image-296&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-320x238.jpg&#34; alt=&#34;old-school postit bookmarks&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		old-school postit bookmarks
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;should-you-buy-hardboiled-web-design&#34;&gt;Should you buy Hardboiled Web Design?&lt;/h2&gt;
+
+&lt;h3 id=&#34;absolutely-without-a-doubt-yes&#34;&gt;Absolutely, without a doubt, yes.&lt;/h3&gt;
+
+&lt;p&gt;Alongside &lt;a href=&#34;https://laurakalbag.com/html5-for-web-designers/&#34; title=&#34;Review of HTML5 For Web Designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt;, I think that Hardboiled Web Design would go a very long way to prepare a web designer (designer-developer) for all these amazing new technologies.&lt;/p&gt;
+
+&lt;p&gt;Not only do you get the low-down on how to use it, you get the most important arguments of &lt;strong&gt;why&lt;/strong&gt; and &lt;strong&gt;when&lt;/strong&gt; that seem to be holding so many designers back.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web-3.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-298&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-3.jpg&#34; alt=&#34;Hardboiled Web Design by Andy Clarke&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Hardboiled Web Design by Andy Clarke
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;11-comments&#34;&gt;11 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-167&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jack Franklin&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-167&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:32:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:32pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        My copy has been sitting on my desk for 2 weeks now&amp;#8230;whilst I have to revise for this bloody exam *mumbles*. And the poster is right on the wall just to remind me! I will have to find time for this, great review Laura.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-169&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;juliancheal&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-169&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:34:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Thinking you should read some Philip Marlowe books :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-168&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.lukejones.me/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Luke Jones&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-168&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:38:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Definitely going to grab it once I’ve finished reading my pile of books. In fact, the only reason I haven’t is because my pile of books has grown over the past few months rather than shrunk. I still have A Practical Guide to Information Architecture waiting to be read from August.
+
+Thanks for the nice little review Laura — I prefer reading things like this rather than from the “in-group”. For example, guys like Mark Boulton, Jeremy Keith etc, I’m sure they’d be more biased.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-170&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.stevelacey.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Lacey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-170&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:34:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for sharing this, I was considering purchasing a copy a few weeks ago, and you may have swayed me.
+
+Having had a flick through a friends copy, I feel it’s mostly the more obscure content such as the hcard/hlisting/hevent use-case examples and improving mark-up semantics/accessibility with the role attribute that I’d find useful. That, and more complex CSS3 animations / explanations of how border images and multiple backgrounds work.
+
+Do you feel the book goes into enough depth? I’ve only toyed with HTML5 and CSS3- and I found the basics i.e. the new structural elements, shadows and border-radius pretty easy to get to grips within a couple of minutes of Googling. Having skimmed the book I found a lot of this being seemingly laboured. Whilst I understand that this is beneficial to some, I’d have thought the kinds of people buying the book would have at least had a bit of a play with the various new technologies emerging.
+
+I guess what I’m trying to assess is how much &lt;i&gt;new&lt;/i&gt; content I’m getting for my buck and whether I’d keep referring back to it or would it inevitably join the pile of books propping up my monitor?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-171&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-171&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:42:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I agree that some developers will already know a lot about HTML5 and CSS3 and how to use them, there’s loads of generators and references out there. 
+
+However I’d say the value is more in the inspiration of what you can do with these new technologies. You can be given the tools but if you haven’t got a good idea of how to use them tastefully, all sorts of hideous stuff can come about (like the wide misuse of text-shadow!!)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-172&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.stevelacey.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Lacey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-172&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:47:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:47pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A good point, well made.
+
+I figure I’m not the only one fed up of seeing text-shadow: 1px 1px 1px #FFF then, I mean, yawn.
+
+I think I’ll be forking out for the book in the near future.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-173&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.rarescosma.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rares&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-173&#34;&gt;&lt;time datetime=&#34;2011-01-18T20:55:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;100 pages to go ;-)
+
+Priceless information on microformats.&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-174&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://miralize.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sean O&#39;Grady&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-174&#34;&gt;&lt;time datetime=&#34;2011-01-18T20:56:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:56pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        You’ve written my exact sentiments towards Hardboiled Web Design. Its a great book so far, I think I may have to read it again as soon as I finish it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-175&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://redeyedesigner.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;David B.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-175&#34;&gt;&lt;time datetime=&#34;2011-01-18T22:00:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:00pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It’s such a good book. I’ve only read the pdf and can’t wait to get my printed copy. I ordered it on day one and still nothing :(
+
+Once I get it I’ll go through another read through and will probably have it on my desk most of the time.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-176&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-176&#34;&gt;&lt;time datetime=&#34;2011-01-27T15:10:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write-up Laura. I’m currently reading through it now and finding it really enjoyable and “scary-in-a-good-way” too. It has really got me thinking how I can better my code semantically and design more creatively for advanced browsers and not worry about the latter. I really want a cool project come my way where I can put this new knowledge to use!
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

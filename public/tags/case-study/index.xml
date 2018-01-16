@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case Study on Laura Kalbag</title>
+    <title>Posts from Case Study on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/case-study/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 26 Jul 2013 09:00:10 +0000</lastBuildDate>
@@ -17,8 +17,42 @@
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
       
       <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
-      <description>Yesterday I gave a talk at the fantastic online conference CSS Summit on ‘Sass for designers’. It uses my new site Web Talk Dog Walk as a case study, and explains the basics of Sass and how to get started using CodeKit.
-Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:</description>
+      <description>
+
+&lt;p&gt;Yesterday I gave a talk at the &lt;a href=&#34;http://environmentsforhumans.com/2013/css-summit/&#34;&gt;fantastic online conference CSS Summit&lt;/a&gt; on ‘Sass for designers’. It uses &lt;a href=&#34;http://webtalkdogwalk.in/brighton/&#34;&gt;my new site Web Talk Dog Walk&lt;/a&gt; as a case study, and explains the basics of Sass and how to get started using &lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;CodeKit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Usually I wouldn’t recommend checking out my slides, as they’re useless without me explaining them, but as this was an online conference and I wanted the slides to be extra clear in case of technical problems, they hopefully read in a fairly easy-to-follow way:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/conferences/#post-3873&#34;&gt;See the Sass for designers slides on my Conferences page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve also made &lt;a href=&#34;https://github.com/laurakalbag/webtalkdogwalk&#34;&gt;most of the site code (the stuff not covered by other people’s licenses!) available on GitHub&lt;/a&gt;. I’ve tried to make the commits fit in with the slides as much as possible.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Edits: the very kind &lt;a href=&#34;https://twitter.com/roy/status/360670152855011328&#34;&gt;Roy Tomeij&lt;/a&gt; wrote a post about &lt;a href=&#34;http://roytomeij.com/2013/should-you-use-a-sass-mixin-or-extend.html&#34;&gt;when to use mixins vs @extend in Sass&lt;/a&gt; following my talk. I didn’t know much about @extend, but now I do! So &lt;a href=&#34;http://roytomeij.com/2013/should-you-use-a-sass-mixin-or-extend.html&#34;&gt;this is some additional recommended reading&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Andy Spicer also asked if I could share my &lt;a href=&#34;http://www.bohemiancoding.com/sketch/&#34;&gt;Sketch&lt;/a&gt; mockups for the site design. &lt;a href=&#34;https://www.dropbox.com/s/13tfiy8xzworplz/Web%20talk%20dog%20walk%20mockup.zip&#34;&gt;You can download the zipped .sketch file here&lt;/a&gt;. I use &lt;a href=&#34;http://www.bohemiancoding.com/sketch/beta/&#34;&gt;the latest version of the Sketch beta&lt;/a&gt;, so you’ll need to use this to open the file as it may not be compatible with older versions.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-566&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/32f64168571caa3020b81676974a70f0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://digitalevangelist.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steven Grant&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-566&#34;&gt;&lt;time datetime=&#34;2013-07-26T10:52:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:52am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A good wee article Laura. Always interested in seeing other workflows. The more I read about Sass, the more powerful it gets. 
+
+Until recently I didn’t know about placeholder selectors. Also, with RWD projects I’ve moved my breakpoint calls into a mixin and passing the breakpoint by a variable.
+
+So many great tools out there at the moment :-)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

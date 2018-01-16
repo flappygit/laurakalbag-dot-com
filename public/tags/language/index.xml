@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Language on Laura Kalbag</title>
+    <title>Posts from Language on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/language/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 08 Aug 2013 18:59:17 +0000</lastBuildDate>
@@ -17,8 +17,52 @@
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
       
       <guid>https://laurakalbag.com/browser-windows/</guid>
-      <description>In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.
-“Devices” It started out with talking about devices. “This design will use X on a mobile phone, Y on a tablet and Z on a desktop computer.” Then it seemed that, as a web community, we realised that the lines between these devices were fairly blurry.</description>
+      <description>
+
+&lt;p&gt;In the same way that we continually evolve the processes we use when working with clients, I’ve now found myself evolving and refining the language I use with clients when discussing responsive web design.&lt;/p&gt;
+
+&lt;h2 id=&#34;devices&#34;&gt;“Devices”&lt;/h2&gt;
+
+&lt;p&gt;It started out with talking about devices. “This design will use X on a mobile phone, Y on a tablet and Z on a desktop computer.” Then it seemed that, as a web community, we realised that the lines between these devices were fairly blurry. There’s no way of telling which device is being used without testing for user agents, and then &lt;a href=&#34;http://farukat.es/journal/2011/02/499-lest-we-forget-or-how-i-learned-whats-so-bad-about-browser-sniffing&#34;&gt;it’s likely that the user agent string is lying to us anyway&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;screen-sizes&#34;&gt;“Screen sizes”&lt;/h2&gt;
+
+&lt;p&gt;Next, many of us started talking about device-agnostic “screen sizes”. Being device-agnostic meant we’d hopefully stop trying to make assumptions about user behaviour based on the particular type of device they were using. Mobile phone users could be “mobile” but it wouldn’t make a difference to use because we were basing our designs on screen sizes and using the knowledge that some people could possibly be “mobile” to improve usability and performance for all our users.&lt;/p&gt;
+
+&lt;p&gt;But then we still keep hanging on to those devices.&lt;/p&gt;
+
+&lt;p&gt;We know that smart phones tend to start at around 320px, tablets possibly around 760px and then we often count anything upward of 900px as if it’s a desktop computer. If we talk about screen sizes like this, they still correspond to the screens on particular types of devices.&lt;/p&gt;
+
+&lt;h2 id=&#34;browser-windows&#34;&gt;“Browser windows”&lt;/h2&gt;
+
+&lt;p&gt;Nowadays I talk about “browser windows”. Yeah, these are often non-resizable fullscreen apps on the screens of various portable devices, but on desktop operating systems, a browser window could be &lt;em&gt;any&lt;/em&gt; size.&lt;/p&gt;
+
+&lt;p&gt;If I check out my own site’s analytics, there are visitors from 24 different browser window widths upward of 800px. And my responsive media queries are responding to those browser window sizes. Not the device, not the size of the screen, but the width of the browser window.&lt;/p&gt;
+
+&lt;p&gt;And that’s only counting browser sizes at 800px and above. Who’s to say that a user doesn’t resize their browser window so that it’s narrower than 800px? They might be using two windows side-by-side. This would mean that they’re viewing a narrow version of a site, responding to media queries we may have designed with mobile phones in mind…&lt;/p&gt;
+
+&lt;h2 id=&#34;trying-to-be-clear&#34;&gt;Trying to be clear&lt;/h2&gt;
+
+&lt;p&gt;Whilst we’re explaining what we’re doing as designers working on responsive sites, speaking in terms of “browser windows” helps clients (bosses, stakeholders, coworkers, whatever…) understand what we’re really doing. It helps them understand what we can and can’t detect, what we do and do not have control over and help us collectively truly embrace a responsive device-agnostic approach. We need to take care with the language we use, and choose accuracy, even if it means we sometimes have to educate others, over the dumbing-down which inevitably results in expectations we can’t, and don’t want to, meet.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-567&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/980339c2fa3195876f7389fa0db3ed3e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://kruegerdesigns.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Adam Krueger&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-567&#34;&gt;&lt;time datetime=&#34;2013-08-08T19:23:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:23pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Great post, referring to the browser when talking about RWD makes a lot of sense. I’ve heard “mobile-first” miss used a lot at my office. This post should help clear up some confusion.
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

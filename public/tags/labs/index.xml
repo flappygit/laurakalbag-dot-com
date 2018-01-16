@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Labs on Laura Kalbag</title>
+    <title>Posts from Labs on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/labs/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 29 Mar 2016 14:55:34 +0000</lastBuildDate>
@@ -17,8 +17,38 @@
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
       
       <guid>https://laurakalbag.com/diary-29th-march-2016/</guid>
-      <description>Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)
-Friday and today, I’ve been getting our Labs and source.ind.ie in tip-top shape. Now with our own logo in the corner, it feels more like home, and Aral has added single sign-on so you can sign up with your GitHub account, as well as adding some new copy on the source homepage to explain a little more about what is housed on source.</description>
+      <description>
+
+&lt;p&gt;Back in the office today and we’re working hard and getting a lot done. We can’t wait to share what we’re working on with you all. (Soon, I promise!)&lt;/p&gt;
+
+&lt;p&gt;Friday and today, I’ve been getting our &lt;a href=&#34;https://ind.ie/labs&#34;&gt;Labs&lt;/a&gt; and &lt;a href=&#34;https://source.ind.ie/&#34;&gt;source.ind.ie&lt;/a&gt; in tip-top shape. Now with our own logo in the corner, it feels more like home, and Aral has added single sign-on so you can sign up with your GitHub account, as well as adding some new copy on &lt;a href=&#34;https://source.ind.ie/&#34;&gt;the source homepage&lt;/a&gt; to explain a little more about what is housed on source.ind.ie. (It’s only visible if you’re signed out.)&lt;/p&gt;
+
+&lt;p&gt;We’ve added &lt;a href=&#34;https://source.ind.ie/project/timer&#34;&gt;Timer&lt;/a&gt; and &lt;a href=&#34;https://source.ind.ie/project/swiftyfilemanager&#34;&gt;Swifty File Manager&lt;/a&gt; to &lt;a href=&#34;https://ind.ie/labs&#34;&gt;Ind.ie Labs&lt;/a&gt; too. These have new logo/icons along with updated and new logo/icons for &lt;a href=&#34;https://source.ind.ie/project/indie-labs&#34;&gt;Ind.ie Labs&lt;/a&gt;, &lt;a href=&#34;https://source.ind.ie/project/set&#34;&gt;Set&lt;/a&gt;, and a couple of internal projects. Where Labs projects have demo iOS apps, these apps now have proper icons when you run them on your device or on the Simulator, so you can easily tell them apart.&lt;/p&gt;
+
+&lt;p&gt;I’ve been working to create a more consistent style language across our logos and icons. As we go along, certain rules and patterns are emerging that helps everything feel a bit more &lt;em&gt;Ind.ie&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;oskar-status&#34;&gt;Oskar status&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-29-at-16.50.33.png&amp;quot; rel=&amp;quot;attachment wp-att-4833&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter wp-image-4833 size-large&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-29-at-16.50.33-1024x642.png&#34; alt=&#34;Oskar the dog lying curled up on his raised canvas camping-style bed&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Cosy on his fancy office bed…
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This diary entry was originally posted &lt;a href=&#34;https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-2016/1129&#34;&gt;on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-&lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1129&lt;/sub&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

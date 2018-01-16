@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Criticism on Laura Kalbag</title>
+    <title>Posts from Criticism on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/criticism/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
@@ -17,7 +17,118 @@
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
       
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
-      <description>I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.</description>
+      <description>
+
+&lt;p&gt;I’d been a freelance web designer/developer full-time, working for myself, for six years. I love working with clients, and working with small businesses is a very sustainable business model. You can make a big difference to a small business. You can get paid fairly well. And you can forge long-term relationships with people whose businesses you really care about. I always said I’d never give it up, unless it was for something I really believed in.&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;And that’s what happened. In June, I wrote about &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;becoming part of Indie Phone&lt;/a&gt; for 50% of my time. Then some time in August I became full time. &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4556&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/indie-stratosphere1.png&#34; alt=&#34;ind.ie balloon leaving stratosphere&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;indie-phone-became-ind-ie&#34;&gt;Indie Phone became Ind.ie&lt;/h2&gt;
+
+&lt;p&gt;At some point over those months, as we started to brainstorm our crowdfunding campaign. We realised that running a campaign for an all-new phone with new hardware, software and “cloud” services, would be a mammoth task. We’d have to look at raising at least $1 million, and would need people to trust us to deliver a phone after two whole years. The phone is really the summit of the Ind.ie mountain. The phone will only be of value if it’s part of a larger foundation platform that equips people to own their own data. It needs to work with existing platforms, such as social networks and computer operating systems. Otherwise we’d be expecting people to switch to an all-new system, cutting themselves off from the existing technology they use with their friends and family. That’s just not practical. We quickly realised that Ind.ie phone had to be part of an ecosystem that allows people to share their data with each other and nobody else (using &lt;a href=&#34;https://ind.ie/pulse/&#34;&gt;Pulse&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/heartbeat&#34;&gt;Heartbeat&lt;/a&gt; as part of the &lt;a href=&#34;https://ind.ie/stratosphere/&#34;&gt;Indienet&lt;/a&gt;.) We also need part of that ecosystem to help people find each other in the first place (&lt;a href=&#34;https://ind.ie/waystone&#34;&gt;Waystone&lt;/a&gt;.) That ecosystem is most of the mountain. And then &lt;a href=&#34;https://ind.ie/phone/&#34;&gt;the phone&lt;/a&gt; will be the ideal way to use the ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;flexibility-and-change&#34;&gt;Flexibility and change&lt;/h2&gt;
+
+&lt;p&gt;The change from Indie Phone to Ind.ie emphasised how flexible Ind.ie needs to be as a company and a team. We can’t be scared to change our minds and iterate on our ideas and goals. As a freelancer, I learned how I needed to continually learn new development techniques, and adapt to understand the modern web. The same applies to Ind.ie, but on a bigger scale. And I’d be lying if I said it isn’t a bit terrifying.&lt;/p&gt;
+
+&lt;h2 id=&#34;always-learning&#34;&gt;Always learning&lt;/h2&gt;
+
+&lt;p&gt;As with freelancing, staying on top of new technologies and techniques are important, but even more so when you’re a small team under a lot of scrutiny. When you ask for money, people want to know that you’re trustworthy. We have to pay attention to all the little details, and do everything right. Of course we make mistakes. I’ve screwed up bits of the website and a couple of email newsletters, and probably a whole lot more… But we have to own our mistakes, admit the blame, don’t take it personally, and fix it as quickly as possible. The upside of the fast-moving pace of the business is that I get to learn loads of cool and challenging things. As my job requires me to understand the entirety of my platform, I’m looking into areas I’ve not needed to investigate before. I’m facing design challenges for completely different types of content and interactions. In the last week alone, I’ve written the hardest JavaScript I’ve ever tried, learned how to create and implement Git submodules, and learned how to set up Grunt. It’s pretty thrilling.&lt;/p&gt;
+
+&lt;p&gt;It also means doing things that feel new and pit-of-your-stomach daunting. Like when &lt;a href=&#34;https://border-none.net/2014/scene-setters#c81&#34;&gt;I gave my first talk and workshop around Ind.ie&lt;/a&gt;. And facing some of the challenging feedback we’ve got through social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;handling-feedback&#34;&gt;Handling feedback&lt;/h2&gt;
+
+&lt;p&gt;Whilst the work is physically and mentally exhausting, the hardest part of working for Ind.ie is the feedback. As a designer, I’m a firm believer in critique and constructive feedback. I’m a leave-your-ego-at-the-door designer (at least I try my best.) But sometimes the feedback isn’t so constructive, and sometimes the comments are a bit personal. Occasionally they’re from people you considered friends and it’s very very difficult to not feel upset, let down, and emotionally drained. It takes time to process and get past hurtful comments, but it’s unavoidable when you want to get past the junk to the criticism that’ll help you do things better.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-is-it-worth-it&#34;&gt;Why is it worth it?&lt;/h2&gt;
+
+&lt;p&gt;But to me, Ind.ie is worth it. The technology industry is broken in so many ways (diversity, accessibility, first world priorities…) Unethical business is at the heart of most of the problems. A lot of designers and developers talk about the difficulty of running a business because everyone expects something for free. Free mobile apps and free web services have given consumers the impression that good stuff needn’t cost anything. Very few people realise that they’re not getting these apps and services for free, but in exchange for the data provided when they upload photos, write to each other, play games, track their activities. (What the companies do with this data varies, but it’s very rarely in the best interests of the user.) We’re paying with our privacy.&lt;/p&gt;
+
+&lt;p&gt;I’m frightened of how this could escalate. I’m frightened of how companies operate today. As far as I know, I’m a normal, law-abiding citizen, and I’m not doing anything wrong. But that doesn’t matter. All the data I’ve shared combined could tell strangers things I don’t know about myself. It could tell strangers things about my friends and family too. &lt;a href=&#34;http://www.un.org/en/documents/udhr/index.shtml/index.shtml#a12&#34;&gt;Privacy is a human right&lt;/a&gt;, and it shouldn’t be traded for consumer goods.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to make a difference for the sake of being good. I want to work on Ind.ie because I don’t see enough people putting time and effort into fighting these infringements on our human rights. If I can’t dedicate my time and energy into creating alternatives, then how important can it be?&lt;/p&gt;
+
+&lt;h3 id=&#34;please-support-us&#34;&gt;Please support us&lt;/h3&gt;
+
+&lt;p&gt;Ind.ie is hard work and costs money. We’re frugal. We’re small enough that we can work from a home office, we have only the equipment we need, and nothing more. We use free and open technology wherever we can. But we need human resources. I cost around £28,800 per year to Ind.ie. I worked out the lowest amount that Oskar and I can live comfortably on, and that’s all I need. It’s a lot less than what I earned as a freelancer. The others on the team take similar pay. But we’re only four people, and we’re limited to our expertise and time. We want a Mac and iOS developer, a Node.js developer, and an Android developer. These people will help us create a platform that will help people own their own data on the current platforms. This platform will become a sustainable business which we can then use to extend to more platforms, and work on the phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie&#34; title=&#34;Ind.ie crowdfunding campaign&#34;&gt;Please support us&lt;/a&gt;. Ind.ie is my life and livelihood, and a deserving cause.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-104613&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e413d1ff46673b711a764fb35ab90517?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.shkintyboda.org/braindump&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Austin Prior&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104613&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:05:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:05pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Seeing as you you’ve found the negative feedback tough at times, allow me to give you some positive feedback:&lt;/p&gt;
+Ind.ie is the most exciting, inspiring project I’ve ever followed. My wife and I have both donated and are looking forward to participating in the pre-alpha.
+
+Your work is reaching people and is already helping before you’ve even released anything. You’re helping people understand the issues around privacy and freedom and in no time at all, you’ll be empowering people of diverse backgrounds and abilities by putting beautiful, free and open tools in their hands.
+
+Thank you for all of your great work. You are appreciated. :-)
+
+Austin
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laurakalbag bypostauthor odd alt depth-2&#34; id=&#34;li-comment-104661&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1fdeaf38709c0e27b603515b052903f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-104661&#34;&gt;&lt;time datetime=&#34;2014-11-28T20:34:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you so much, Austin. You’ve completely made my day. And please pass my thanks on to your wife as well :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-105098&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b6e6ddb455beb7eb1dc63992422cb9dd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Darina Prior&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-105098&#34;&gt;&lt;time datetime=&#34;2014-11-29T01:54:32+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Your thanks and your tireless work to make our digital world a better place are gratefully accepted :-)
+
+Darina (Austin’s wife)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-108763&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a57b423c87dc2ee04fa896fc3c957c30?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Matthijs&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-108763&#34;&gt;&lt;time datetime=&#34;2014-12-02T10:54:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:54am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Fully agree with Austin. The indie project and what you are doing is very exciting and inspiring. Really looking forward to what is coming. And will try to help or provide feedback where I can.
+
+Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -26,7 +137,17 @@
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
       
       <guid>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</guid>
-      <description>Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, my most recent column, I Don’t Like It, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the Clients From Hell attitude that poor communication is a client’s fault, when it’s more often a designer’s fault.</description>
+      <description>&lt;p&gt;Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, &lt;a href=&#34;http://alistapart.com/column/i-dont-like-it&#34;&gt;my most recent column, I Don’t Like It&lt;/a&gt;, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the &lt;a href=&#34;http://clientsfromhell.net/&#34;&gt;Clients From Hell&lt;/a&gt; attitude that poor communication is a client’s fault, when &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34; title=&#34;Column on Good Designers, Good Clients&#34;&gt;it’s more often a designer’s fault&lt;/a&gt;. It might be easier to talk about these situations in the abstract than give solid advice on how to behave better. So I gave it a try, with some example interactions in my column.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2014/07/I-Dont-Like-It-ALA.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4511&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/07/I-Dont-Like-It-ALA.png&#34; alt=&#34;I Don&amp;#39;t Like It column on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,8 +156,19 @@
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
       
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
-      <description>Last week I was guest co-host on one of my most favourite podcasts, Unfinished Business. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.
-We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.</description>
+      <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
+
+&lt;p&gt;We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/12&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2345&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/unfinished-bz.png&#34; alt=&#34;Andy &amp;amp;amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +177,142 @@ We talked about smoking chimps, mentoring and how we can try to help newcomers i
       <pubDate>Tue, 18 Dec 2012 14:40:40 +0000</pubDate>
       
       <guid>https://laurakalbag.com/we-read-with-our-own-contexts/</guid>
-      <description>Oh Twitter. Yesterday was another day where I accidentally incited another riot with a poorly-worded tweet. Nobody is perfect, but it’s starting to happen with alarming frequency, and I wanted to understand why I keep doing this.
-The ever-present ego We read everything through our own ego filter. It’s how we apply new knowledge to our own situations. Whenever we read a tweet, blog post, article, book, watch a TV show, a film, a play, we take in what we’re reading and hearing and apply it to ourselves.</description>
+      <description>
+
+&lt;p&gt;Oh Twitter. Yesterday was another day where I accidentally incited another riot with a poorly-worded tweet. Nobody is perfect, but it’s starting to happen with alarming frequency, and I wanted to understand &lt;em&gt;why&lt;/em&gt; I keep doing this.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-ever-present-ego&#34;&gt;The ever-present ego&lt;/h2&gt;
+
+&lt;p&gt;We read everything through our own ego filter. It’s how we apply new knowledge to our own situations. Whenever we read a tweet, blog post, article, book, watch a TV show, a film, a play, we take in what we’re reading and hearing and apply it to ourselves. How does this affect me? What do I think of this? Does this mean that what I do is right or what I do is wrong? It’s not that we’re entirely intentionally selfish, it’s just how we comprehend the world around us.&lt;/p&gt;
+
+&lt;p&gt;Specifically, if we’re working on the web, we tend to filter what we read through our own specialisms. If an article doesn’t mention what we think is incredibly important, we deride it as thoughtless. If a tweet doesn’t include that exception that we feel makes all the difference, we jump around, compulsively feeling the need to add our own opinions or defend our own positions.&lt;/p&gt;
+
+&lt;h3 id=&#34;forgetting-over-and-over&#34;&gt;Forgetting over and over&lt;/h3&gt;
+
+&lt;p&gt;Somehow we manage to forget over and over what we’re constantly saying to each other: 140 characters is not enough for context. A blog post or article is just one facet of a topic, or a facet of a facet of a fragment of a subject. To always include every detail would take forever (and would make for a dull read) and, you know what, &lt;strong&gt;you don’t have to always be right&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t introduce my blog posts saying “I am speaking from a position of authority here…” Because that would be a lie. In fact, I often do the opposite, but it’s still not necessary. Who is anyone to decide what is ‘right’ and what is ‘wrong’? All we can advise are the widely-accepted standards, and even those won’t be right forever.&lt;/p&gt;
+
+&lt;p&gt;One person’s point of view is exactly that. The wonder of the web is that we can put our ideas out there and others can help us refine them. We have creative and journeying discussions. We make progress. A lot can be learned and shared from something written about a controversial subject. If we don’t discuss these subjects, how do we expect people to learn? Even if we’re sure we’re “right,” how better can we help others to see our points of view? I value every comment left on my blog. If you look back through my posts, almost every one has a comment that has taught me something new, even if it’s just how other people approach things from a different angle.&lt;/p&gt;
+
+&lt;h2 id=&#34;criticism-comes-in-two-forms&#34;&gt;Criticism comes in two forms&lt;/h2&gt;
+
+&lt;p&gt;When we disagree with something that someone else has written, we must take the most care to express ourselves possible. Here I’m providing myself as an example of what not to do:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurakalbag/status/280613649289211904&#34;&gt;Tweet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;we-write-with-our-own-contexts-too&#34;&gt;We write with our own contexts too&lt;/h3&gt;
+
+&lt;p&gt;Now if you’ve never read another one of my tweets, that does come across as a rather unpleasant criticism of the author, 24ways and Bootstrap. And for that I’m really sorry and I’ve been regretting it ever since. Enveloped in my ego, I wrote it as if all my previous tweets about Bootstrap (from days and weeks and months ago, not prior to that tweet) were context. Not only does that assume that people will read all my tweets, but also that they’d remember them.&lt;/p&gt;
+
+&lt;p&gt;We must remember that we write with our contexts shut up in our own heads, and we should really provide them where possible. Linking to something that you’ve written on that topic, or just writing with a little more consideration, you can prevent yourself coming across as unkind when you really didn’t mean to appear that way.&lt;/p&gt;
+
+&lt;p&gt;I went on to write twelve follow-up tweets. Each trying to clarify, yet back-pedalling, on the last. And that doesn’t even include the multitude of @replies. I just made a big mess.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurakalbag/status/280613817245892610&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280615326759141376&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280615659702976513&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280616724200566784&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280618421647986689&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280620547593875456&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280620742075367424&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280621858624253952&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280622345029287936&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280645260152029184&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280645513949351937&#34;&gt;Tweet&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/laurakalbag/status/280710303199674368&#34;&gt;Tweet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;constructive-criticism-is-aware-of-context&#34;&gt;Constructive criticism is aware of context&lt;/h3&gt;
+
+&lt;p&gt;Constructive criticism is when you may be negative about something, but your criticism explains &lt;em&gt;why&lt;/em&gt; you think something isn’t right, and what could be done to resolve it. You don’t have to have the solutions to everything in order to criticise, but it shows respect to show that your opinion is relevant and considered rather than just a knee-jerk reaction.&lt;/p&gt;
+
+&lt;h3 id=&#34;if-it-s-not-constructive-then-it-s-the-other-thing&#34;&gt;If it’s not constructive, then it’s the other thing&lt;/h3&gt;
+
+&lt;p&gt;If your criticism isn’t constructive, then chances are it’ll come across as personal, rude, unkind and possibly even trolling. There’s no wry smiles at the end of tweets, no sarcasm tags, and for all we try with emoticons and expressive animated GIFs, the nuances of face-to-face communication are completely lost on the web.&lt;/p&gt;
+
+&lt;h3 id=&#34;play-nice&#34;&gt;Play nice&lt;/h3&gt;
+
+&lt;p&gt;Of course criticism is important, if we all just go around telling each other how fantastic we are, we probably wouldn’t try anything new. The web community is a caring and protective place, but we need to make sure we’re contributing in a positive way.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-comments&#34;&gt;5 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-421&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/76f881f8cd63e66837aeb26023e9dd69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/Niaccurshi&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Lee Griffin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-421&#34;&gt;&lt;time datetime=&#34;2012-12-18T14:53:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:53pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The problem yesterday wasn’t your views, whether they were “right” or “wrong”, it was that people have entrenched views. In the web world, as I’m sure it is for many other professions and industries, we find ourselves wedded to techniques and ways of working. When someone questions these things we don’t see it as “Oh, someone doesn’t see this as useful”, we take it to mean “They think it’s a stupid thing to do, and by proxy that I’m stupid for doing it&amp;#8230;but I’m not stupid!”
+
+I think I agreed with the feelings you seemed to project, and discussion around these things is positive. Who knows how many people read about the spat not knowing about bootstrap, or even grid systems, and left with a more balanced view of the pro’s and con’s of how to approach a site?
+
+I think Bootstrap is a crappy way to work, but then I also hate WordPress too, I’d never recommend to people *like me* to use those things&amp;#8230;but that doesn’t mean I don’t regularly recommend them to people that have different backgrounds and requirements. I think maybe that’s what we should all have in our mind when we read something&amp;#8230;
+
+“This isn’t them saying my way, and my beliefs, are wrong&amp;#8230;just that they have a (probably) valid reason why it’s not always suitable”
+
+As long as we try to be respectful, and I hope no-one truly fell out with each other over this (it’s all to easy to think people have got fully annoyed with you when really they just have passionate views!), then these kinds of things are good for the community, because everyone taking part is a slightly different flavour of developer, with a little bit more or less designer in them, or designer with a little bit more or less developer in them. 
+
+It’s this spectrum that can really help us focus on best practices, plural, that apply dependent on our situation and skills.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-422&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/13616b6551a3854378f9e6fea964e519?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://james.brooks.so&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;James Brooks&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-422&#34;&gt;&lt;time datetime=&#34;2012-12-18T15:01:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura, recently I’ve seen a couple of designers, Paul Adam Davis, Amber Weinberg and yourself criticising Bootstrap. Coming from a development only backgrounds seems to have left me with whitenoise when it comes to design. Whilst I’m capable of deciding if something looks good or not, I’m unable to design myself, so I rely on design frameworks such as Bootstrap and Foundation to give me a head start. My blog for example is built on Bootstrap however I paid for a theme via &lt;a href=&#39;https://wrapbootstrap.com/?ref=jbrooksuk&#39; rel=&#34;nofollow&#34;&gt;WrapBootstrap&lt;/a&gt; to take the standard Bootstrap theme and change it into something beautiful and different. I don’t see the harm in doing that? It’s like you taking a website structure you use on every site and applying custom colours on top. Is that just as bad?
+
+I know we’re coming to a point with bootstrapped websites where a lot of developers are leaving them as the default styles, but many of us work by shipping function over design. With you, perhaps that’s different.
+
+I have a lot of respect for you Laura –; this comment isn’t meant as a stab at yourself or anybody mentioned above. :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-423&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://deanbirkett.name&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dean&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-423&#34;&gt;&lt;time datetime=&#34;2012-12-18T17:12:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:12pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hey Laura,
+
+Don’t beat yourself up. I think it is also important to realise that everybody is in the same 140char limit as you, and many can (and do) read between the lines. I saw your tweet and wrongly or rightly put 2+2 together, and drew my own conclusion, as I’m sure other people will have. My personal opinion is that frameworks are fantastic for quick prototypes and putting ideas together, but I still prefer to start with a blank template when it comes down to it&amp;#8230;. so yes, those few characters you wrote will always say something different to the reader, wrong or right.&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-424&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e165723531f696f9706fefc2ca78d287?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://louisbullock.com.au&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Louis Bullock&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-424&#34;&gt;&lt;time datetime=&#34;2012-12-19T03:01:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;03:01am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Fantastic article, Laura, I’ve now re-evaluated how I talk to others online, when to give critique and constructive criticism etc.
+
+I don’t know about you, but one my favourite things in this community is when a dev or designer takes on something I’ve suggested or improves after listening to my criticism, or even respects it and acknowledges it. It’s an absolute delight, and what makes this community a wonderful place; I hope that it will continue to be a place of positivity, and supportiveness.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-425&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2b4421b2aa8931592c57b61ca3b39d45?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://next-nexus.info/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-425&#34;&gt;&lt;time datetime=&#34;2012-12-21T13:30:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:30pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for the interesting and thoughtful post. I think you make some good points about criticism and context. It is not just about our personal context. It is also our culture, our society and so on. People forget or don’t realise that knowledge they take for granted is often not there in other people. 
+
+Also, I think you provide a good example of some of what I don’t like about Twitter.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -55,8 +321,89 @@ The ever-present ego We read everything through our own ego filter. It’s how w
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
       
       <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
-      <description>After discussing Dribbble and Forrst, and my latest post that looked at criticism in design, I’ve been thinking a lot more about how feedback features in my design process.
-Getting stuck When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.</description>
+      <description>
+
+&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/&#34; title=&#34;Using Dribbble and Forrst for feedback on a client project&#34;&gt;discussing Dribbble and Forrst&lt;/a&gt;, and &lt;a href=&#34;https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/&#34; title=&#34;Good old designer snobbery is alive and kicking&#34;&gt;my latest post that looked at criticism in design&lt;/a&gt;, I’ve been thinking a lot more about how feedback features in my design process.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-stuck&#34;&gt;Getting stuck&lt;/h2&gt;
+
+&lt;p&gt;When I used to get stuck on a design, from ‘creative block’ or a complete lack of inspiration, I would frantically brainstorm, then browse inspiration sites, then ask the opinions of other designers. Usually the feedback from other designers would form the basis of my amendments, I’d gain inspiration from those changes and continue work from there.&lt;/p&gt;
+
+&lt;p&gt;Somehow it didn’t feel right though, I didn’t feel like I was working for myself, asking other designers could feel a bit like cheating. I didn’t like how detached it made me feel from the design when I started to follow the ideas of other designers that have completely different approaches and styles from my own. I decided I don’t feel comfortable sharing work in those stages with other designers as they can be a negative influence on me. Not because they make bad suggestions, but because I work to satisfy them.&lt;/p&gt;
+
+&lt;p&gt;No longer craving that kind of approval, I’ve realised that I make extensive use of two new types of feedback, client feedback and ‘boyfriend’ feedback.&lt;/p&gt;
+
+&lt;h2 id=&#34;client-feedback&#34;&gt;Client Feedback&lt;/h2&gt;
+
+&lt;p&gt;So it might sound totally obvious. Inevitably, you will always get feedback from the client at &lt;em&gt;some&lt;/em&gt; point. However I’ve found myself doing this at earlier and earlier stages since I starting working freelance.&lt;/p&gt;
+
+&lt;p&gt;Lately I’ve been going straight into talking to the client as soon as the design slows down or is coming suspiciously quickly (usually a sign that I’ve jumped on a bandwagon or just acted on my first, badly thought-out idea.) I came to the conclusion that there’s no point searching for answers so far away from the problem. The client is the one person who set the brief and will approve the results, they’re the beginning and the end, so why not involve them more in the middle as well?&lt;/p&gt;
+
+&lt;h3 id=&#34;feedback-now-polish-later&#34;&gt;Feedback now, polish later&lt;/h3&gt;
+
+&lt;p&gt;Number one newbie mistake is showing a client a 100% complete mockup (or even live) page design. I’ve done it, and kicked myself for it. Chances are you’ll have really jumped on an idea and run with it. The problem is that the client might not like your angle or approach. You’ve just wasted a huge amount of hours on something that is rejected outright.&lt;/p&gt;
+
+&lt;h4 id=&#34;you-re-designing-for-the-client&#34;&gt;You’re designing for the client&lt;/h4&gt;
+
+&lt;p&gt;There’s no need to be fearful of showing something incomplete. Clients aren’t stupid, and if you explain that the work is unfinished but you’re looking for their input on what you’ve done so far, they’re likely to be grateful that you’re keeping them in the loop.&lt;/p&gt;
+
+&lt;p&gt;Unfinished work doesn’t necessarily mean bad work either. You’re not posting your work online for the world to see, you’re sharing progress and developing designs.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-benefits-of-feedback-now&#34;&gt;The benefits of feedback now&lt;/h4&gt;
+
+&lt;p&gt;If the client is finding it hard to understand your approach, or flatly hates it, you’ve got time to discuss, justify, rework and whatever else is needed to create something that your client loves and you know will work for the user.&lt;/p&gt;
+
+&lt;p&gt;Design is just creative problem solving. If the client isn’t keen on what you’ve shown them and you’ve got some useful criticism, you’re further refining the problem which will help get you closer to the answer.&lt;/p&gt;
+
+&lt;h2 id=&#34;boyfriend-feedback&#34;&gt;Boyfriend Feedback&lt;/h2&gt;
+
+&lt;p&gt;As a freelance designer, I’m very lucky to have another person around me while I work. My boyfriend &lt;a href=&#34;http://twitter.com/MatthewFuller&#34; title=&#34;Matt Fuller on Twitter&#34;&gt;Matt&lt;/a&gt; works in the same room at home and is an honest critic of everything I do, whether I want his opinion or not!&lt;/p&gt;
+
+&lt;h3 id=&#34;non-client-and-non-designer-feedback&#34;&gt;Non-client and non-designer feedback&lt;/h3&gt;
+
+&lt;p&gt;Matt is great at giving me reactionary critiques. In this way, he’s far more like a client or a user. He’ll tell me he thinks it’s rubbish, and give a vague idea of why, usually based on reactions and associations such as “it reminds me of X.” Matt’s reasons are never because it’s not on trend, or it doesn’t make use of available technologies. In fact, he often hates the fashionable styles and can convince me to be more reasonable and not succumb to “but this looks pretty.”&lt;/p&gt;
+
+&lt;p&gt;One thing that struck me about the discussions about criticism on Dribbble, and the Gap logo, is that the type of feedback a designer gives is totally unlike the thoughts and opinions of clients and users. Those thoughts and opinions are exactly that. They’re not necessarily put in context or very constructive but they are the emotions and associations which are so hard to put into words but have a huge impact on your design’s effectiveness.&lt;/p&gt;
+
+&lt;h2 id=&#34;community-helps-and-hinders&#34;&gt;Community helps and hinders&lt;/h2&gt;
+
+&lt;p&gt;I love the amount of apps and tools showing up to help designers communicate more effectively with other designers. It’s fun to share, and it’s fun to have a bit of mutual-appreciation going on. However I think I’m likely to fall into the trap of designing for these communities, for approval of other designers and developers, and totally forgetting the blindingly obvious user needs and client necessities.&lt;/p&gt;
+
+&lt;p&gt;Am I the only one? I think it’s hard to tell from the outside. Some people are very capable of creating work that is incredibly satisfying to users, clients, other designers and themselves. The order in which they aimed to please isn’t obvious!&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-149&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.robotregime.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dennis Kardys&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-149&#34;&gt;&lt;time datetime=&#34;2010-10-15T19:44:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+I also find it challenging to ask for feedback early on since there are so many different directions a design might take. For me, changing the way in which I frame my request for feedback has been a big help, both when talking to clients and with other designers. Instead of an entirely open invitation for critique (which may come later when the design is more complete), I usually try to pose very direct questions that identify the problems as opposed to recommending the solution. &amp;quot;Do you think the call to action should be more prominent?&amp;quot; or &amp;quot;What type of feeling does this color scheme evoke&amp;quot;, etc.
+
+Your post also made me think about ownership of a design, and how there is a pride that goes along with coming up with the ideas and inventing the solutions. I think it&amp;#039;s important to be aware of times when that sense of pride may conflict with the best interest of the project. Does that make sense?
+
+I also totally agree that it&amp;#039;s helpful to have someone who is not the client or another designer, but who can be brutally honest to tell you what they think.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-150&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;damilare&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150&#34;&gt;&lt;time datetime=&#34;2010-10-16T00:06:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:06am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag I think a huge difference between client feedback and designer feedback is aesthetic vs business goals, the latter, the better.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

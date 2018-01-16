@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Laura Kalbag</title>
+    <title>Posts from Education on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/education/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 23 Jan 2013 09:44:38 +0000</lastBuildDate>
@@ -17,9 +17,49 @@
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-sharers-on-the-branch/</guid>
-      <description>I’ve written a post over on The Branch.
- James Dinsdale emailed me about a new project he was starting out, called The Branch, a site collecting posts about what inspires people. I love these kinds of posts, so I was really keen to be involved.
-As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘inspiration’ is often described as particular styles of design and the work of individual designers.</description>
+      <description>
+
+&lt;p&gt;I’ve written &lt;a href=&#34;http://thebran.ch/articles/the-sharers&#34;&gt;a post over on The Branch&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter size-full wp-image-1861&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/01/the-sharers.png&#34; alt=&#34;Screenshot from The Branch website: The Sharers - Laura Kalbag shares how a sense of community helped her to grow into a career she loves.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;James Dinsdale emailed me about a new project he was starting out, called The Branch, a site collecting posts about what inspires people. I love these kinds of posts, so I was really keen to be involved.&lt;/p&gt;
+
+&lt;p&gt;As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘inspiration’ is often described as particular styles of design and the work of individual designers. I think these are less ‘inspiration’ and more idolatry.&lt;/p&gt;
+
+&lt;p&gt;To me, inspiration is in ideas and approaches. Inspiration is the what drives me to do the best, most meaningful, work that I can. Yes, these gallery sites might show very technically able designs and inspire me to become a more technically proficient designer, but I find the context of the design, the reasons behind &lt;em&gt;why&lt;/em&gt; the designer made those decisions so much more motivational.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-452&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e8d78915b8bd79cb6225bdd97782c03e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://molovo.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;James Dinsdale&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-452&#34;&gt;&lt;time datetime=&#34;2013-01-23T13:20:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Laura,
+
+Thanks for your great contribution, and continued support.
+
+I’m glad you share my enthusiasm for the project. Hopefully, given a little time to grow, it will become an invaluable resource for those not yet lucky enough to have found their calling in life.
+
+Cheers,
+
+James
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +68,173 @@ As a designer, inspiration is a much-discussed topic. Unfortunately, this ‘ins
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
       
       <guid>https://laurakalbag.com/learning-design/</guid>
-      <description>Every now and again someone will email me asking how they should go about learning design. After reading Aral Balkan’s fantastic post on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.
-First off, read Aral’s post.</description>
+      <description>
+
+&lt;p&gt;Every now and again someone will email me asking how they should go about learning design. After reading &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral Balkan’s fantastic post&lt;/a&gt; on how design is not veneer, a few developers also expressed frustration at there not being many resources telling you how to get started with design. So I thought I’d post a few of my favourite links, books and ways of approaching design.&lt;/p&gt;
+
+&lt;p&gt;First off, read &lt;a href=&#34;http://aralbalkan.com/notes/design-is-not-veneer/&#34;&gt;Aral’s post&lt;/a&gt;. It might seem intimidating. Aral emphasises the importance of considering every tiny design decision you make. There’s no easy-in. But really there’s no easy-in to doing anything well. Development might appear to be something with a low barrier to entry, but in order to do development with web standards, or to any level of efficiency, you need to take the time to learn the best techniques and working processes.&lt;/p&gt;
+
+&lt;p&gt;Considering every tiny design decision might also make design seem like a much more arduous process than it needs to be. In truth, if you are considering your users, their experience, and your overall design vision in the back of your mind, every decision you make whilst designing will be considered. It can feel somewhat subconscious at times. If you have the ‘feeling’ that your choice of typography suits the project, then chances are, if you analyse the cognitive and emotional impact on the user, you’ll find your subconscious actually made those decisions for a reason. Design isn’t instinct. This ‘instinct’ is really something that we’ve built up from the experience of millions of different design decisions, and evaluating their success and failure.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-how-to-design&#34;&gt;Learning &lt;em&gt;how&lt;/em&gt; to design&lt;/h2&gt;
+
+&lt;p&gt;Design is a pretty tricky thing to just ‘learn’; it doesn’t happen overnight. Following a tutorial on how to create a photo-realistic SLR camera in Photoshop is about as useful as following a tutorial on how to create an SLR camera in CSS; it teaches you how to use the tools but not about why you’d want to use an SLR camera illustration in your design. The best thing is to try as many different design tasks as possible to test yourself and gain experience on what does and doesn’t work. I also find looking at other people’s design work and considering its effectiveness really helps develop an understanding of design principles in relation to your own personal taste. This is what a lot of art and design education is built around; interpreting and understanding the work of other people. Blog posts where people tell you about their inspiration and how they designed their sites are the best sources for this kind of learning as you get real insight into the decisions of the designer.&lt;/p&gt;
+
+&lt;p&gt;The opposite of this are sites that showcase trends, ‘beautiful’ websites or lists of a particular type of site as ‘inspiration.’ These tend to be examples of what are very aesthetically-pleasing designs, but not necessarily successful designs in terms of a good user experience. Of course convention can be a trend of sorts. If one designer establishes a really easy-to-use type of navigation, then it’s inevitable that those working on similar projects may use that standard as a basis for their own navigation, but only &lt;em&gt;similar&lt;/em&gt; projects. It’s so easy to mimic a lovely visual aesthetic to make your project look good, but you really need to consider if that’s an &lt;em&gt;appropriate&lt;/em&gt; aesthetic style.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+
+&lt;p&gt;Blog-wise, I prefer the more ideasy and critical thinking blogs, as I find ‘how to design xyz’ is never terribly useful unless you’re working on an identical project.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-list-apart-design-category-http-www-alistapart-com-topics-design&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/topics/design/&#34;&gt;A List Apart design category&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Very few magazine sites curate design content so well. It’s all too easy to fall into posts that are just lists of ‘inspiration.’ A List Apart is one of the most tightly-curated and edited magazines around, and their design articles are always worth a read.&lt;/p&gt;
+
+&lt;h4 id=&#34;paul-robert-lloyd-http-www-paulrobertlloyd-com-journal&#34;&gt;&lt;a href=&#34;http://www.paulrobertlloyd.com/journal/&#34;&gt;Paul Robert Lloyd&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you’re looking to learn more about design thinking, especially a focus on how responsiveness fits into design, Paul Robert Lloyd’s posts are must-reads.&lt;/p&gt;
+
+&lt;h4 id=&#34;usabilitypost-http-www-usabilitypost-com&#34;&gt;&lt;a href=&#34;http://www.usabilitypost.com/&#34;&gt;UsabilityPost&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A very insightful blog focused on usability, often discussing design in terms of successful user experiences.&lt;/p&gt;
+
+&lt;h4 id=&#34;sidebar-io-http-sidebar-io&#34;&gt;&lt;a href=&#34;http://sidebar.io/&#34;&gt;Sidebar.io&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Sidebar.io is crowd-sourced by a select group, so has a slightly curated more zeitgeist-y feel to it. The links aren’t always long-form articles on design, but if there’s a good post going around, they’ll pick up on it.&lt;/p&gt;
+
+&lt;h4 id=&#34;mark-boulton-http-www-markboulton-co-uk-journal&#34;&gt;&lt;a href=&#34;http://www.markboulton.co.uk/journal&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Mark has always been talking about more traditional design theory as a part of web design, and his approach has always inspired me.&lt;/p&gt;
+
+&lt;h3 id=&#34;people&#34;&gt;People&lt;/h3&gt;
+
+&lt;p&gt;Twitter is a great way to keep up with good designers. I find these snippets of insight can often provide bite-size inspiration when I really need it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bastianallgeier&#34;&gt;Bastian Allgeier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/armstrong&#34;&gt;Chris Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/aral&#34;&gt;Aral Balkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/markboulton&#34;&gt;Mark Boulton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simplebits&#34;&gt;Dan Cederholm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/malarkey&#34;&gt;Andy Clarke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sachagreif&#34;&gt;Sacha Greif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/owltastic&#34;&gt;Meagan Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hellofisher&#34;&gt;Steve Fisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/mishunov&#34;&gt;Denys Mishunov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/vpieters&#34;&gt;Veerle Pieters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+
+&lt;p&gt;I’m always disappointed that there aren’t more design theory books with a focus on web design. The few I’ve found are here, but also books on usability and graphic design where you can combine the knowledge to create a great design background.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-the-invisible-by-robert-mills-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-the-invisible&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible&#34;&gt;A Practical Guide to Designing the Invisible by Robert Mills&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Understanding design as a language, and how design is more than just the visual decoration. &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;I’ve reviewed Rob’s book in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-practical-guide-to-designing-for-the-web-by-mark-boulton-http-www-fivesimplesteps-com-products-a-practical-guide-to-designing-for-the-web&#34;&gt;&lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web&#34;&gt;A Practical Guide to Designing for the Web by Mark Boulton&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A great grounding in many of the different areas of design theory in relation to the web. I’m very eagerly awaiting Mark’s next book on grid theory.&lt;/p&gt;
+
+&lt;h4 id=&#34;ordering-disorder-grid-principles-for-web-design-by-khoi-vinh-http-grids-subtraction-com&#34;&gt;&lt;a href=&#34;http://grids.subtraction.com/&#34;&gt;Ordering Disorder: Grid Principles for Web Design by Khoi Vinh&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Pre-dating responsive design, but still a very valuable book for learning about applying grids to web design in a practical way.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-elements-of-user-experience-by-jesse-james-garrett-http-www-jjg-net-elements&#34;&gt;&lt;a href=&#34;http://www.jjg.net/elements/&#34;&gt;The Elements of User Experience by Jesse James Garrett&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An oldie but a goodie. These founding principles really molded the way I view design for the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;designing-for-emotion-by-aarron-walter-http-www-abookapart-com-products-designing-for-emotion&#34;&gt;&lt;a href=&#34;http://www.abookapart.com/products/designing-for-emotion&#34;&gt;Designing for Emotion by Aarron Walter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Considering not just the user experience, but the user emotions. A quick but brilliant read which &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;I’ve reviewed in more depth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-how-could-i-forget-this-first-time-round-elements-of-typographic-style-by-robert-bringhurst-http-www-amazon-co-uk-elements-typographic-style-robert-bringhurst-dp-0881792063&#34;&gt;[Edit: How could I forget this first time round?!] &lt;a href=&#34;http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063&#34;&gt;Elements of Typographic Style by Robert Bringhurst&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;An incredibly in-depth guide to typography, giving you all the basic principles you need and more.[/edit]&lt;/p&gt;
+
+&lt;h4 id=&#34;edit-2-8faces-magazine-http-8faces-com&#34;&gt;[Edit 2:] &lt;a href=&#34;http://8faces.com/&#34;&gt;8faces Magazine&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Not quite a book, but a beautiful typography magazine with new releases a few times a year. 8faces introduces you to great quality typefaces and provides plenty of insight into design with its feature interviews.[/edit]&lt;/p&gt;
+
+&lt;h2 id=&#34;i-ll-try-to-keep-them-coming&#34;&gt;I’ll try to keep them coming&lt;/h2&gt;
+
+&lt;p&gt;Resources on learning design aren’t necessarily those I keep a lookout for, but I’m going to make a conscious effort to do so from now on. I’ll &lt;a href=&#34;http://twitter.com/laurakalbag&#34;&gt;post on Twitter&lt;/a&gt; and maybe do a round-up post later on, so let me know if you know of any good resources I should check out.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-427&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1e53d1a8f4acaabe47413603e31f3314?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ntljk.tumblr.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;natalie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-427&#34;&gt;&lt;time datetime=&#34;2012-12-31T15:28:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you Laura! This is fantastic :). Happy New Year!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-429&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tushar&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-429&#34;&gt;&lt;time datetime=&#34;2013-01-01T19:44:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Awesome, Resourceful
+
+Thanks Laura !!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-430&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e0cd14edfe9c90bb5791d70ac194cd63?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Sibylle&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-430&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:34:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very useful, Laura, thanks! Know/have read most of the books but need to look at some of those online resources and people :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-431&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/903487b177ca81b363d7815780505a03?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.bikehound.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charles BH&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-431&#34;&gt;&lt;time datetime=&#34;2013-01-02T23:20:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        What do you think about the Smashing Magazine books, especially volume 1&amp;amp;2?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-432&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-432&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:45:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:45am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m afraid I’ve not read them. I shamefully only own Volume 3, and haven’t read much of it yet.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-433&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.studentguidewebdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Janna Hagan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-433&#34;&gt;&lt;time datetime=&#34;2013-01-29T21:51:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura, Love what you’re doing here. I myself am a college student and I created [Student Guide Web Design](http://www.studentguidewebdesign.com&#34; rel=&#34;nofollow) simply out of frustration with the material I was being presented during my design education. I love helping others because it’s a great way for me to learn myself, but also helps others out who are also trying to overcome the same challenges (because I was there at one point!).
+
+Cheers from Canada :)&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,7 +243,75 @@ First off, read Aral’s post.</description>
       <pubDate>Mon, 14 May 2012 09:09:10 +0000</pubDate>
       
       <guid>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</guid>
-      <description>Funnily enough, a couple of days before Mark Boulton said to critique design effectively.&amp;quot; says Mark Boulton on Twitter&amp;rdquo;) and wrote his piece on design critiques, I’d been thinking about that same topic. I’ve been struggling through an iPhone app icon design, and had asked Twitter for help. I&amp;rsquo;ve got an app icon design that needs some criticism as I&amp;rsquo;ve lost sight of it. Anyone free to give me some time via email today?</description>
+      <description>
+
+&lt;p&gt;Funnily enough, a couple of days before &lt;a href=&#34;http://twitter.com/markboulton/status/200509667384885250 &amp;quot;&amp;amp;quot;Theory: Web designers lack the ability (through practice and traditional schooling&#34;&gt;Mark Boulton said&lt;/a&gt; to critique design effectively.&amp;quot; says Mark Boulton on Twitter&amp;rdquo;) and &lt;a href=&#34;http://www.markboulton.co.uk/journal/comments/its-not-working-for-me-crit&#34; title=&#34;It’s Not Working For Me by Mark Boulton&#34;&gt;wrote his piece on design critiques&lt;/a&gt;, I’d been thinking about that same topic. I’ve been struggling through an iPhone app icon design, and &lt;a href=&#34;https://twitter.com/#!/laurakalbag/status/199846580407377921 &amp;quot;&amp;amp;quot;2&#34;&gt;had asked Twitter for help.&lt;/a&gt; I&amp;rsquo;ve got an app icon design that needs some criticism as I&amp;rsquo;ve lost sight of it. Anyone free to give me some time via email today?&amp;quot; by Laura Kalbag on Twitter&amp;rdquo;) Knowing that the 160 character limit wasn’t going to help me much, I emailed everyone who offered me assistance and sat back waiting for the criticism.&lt;/p&gt;
+
+&lt;p&gt;I wasn’t expecting in-depth critique. I wasn’t quite sure where I was going wrong, and some gut reactions on what might be the problem was the kind of feedback I really wanted.&lt;/p&gt;
+
+&lt;p&gt;What I was surprised to receive was quite a few responses just telling me exactly what to do. This wasn’t ‘feedback’, it was direction. There is a great difference between someone asking ‘why’ and someone asking ‘how’. Design critiques aim to give the receiver a wider understanding of their work, and design in general, there really are no magic rules in design whereby you follow them and your project becomes an instant ‘success.’&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-encouraged-poor-feedback&#34;&gt;How I encouraged poor feedback&lt;/h2&gt;
+
+&lt;p&gt;A critique isn’t all in what the other side says to you. In order to allow the ‘giver’ to deliver useful feedback, you need to explain the context of the work. Very rarely does design work stand without requiring any explanation. The more the giver understands about your work, the greater insight they are likely to give you.&lt;/p&gt;
+
+&lt;p&gt;There are numerous elements that may have affected your outcome and will need explaining to the giver so that they might understand your decisions (and these are just a few!):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the client&lt;/li&gt;
+&lt;li&gt;the audience&lt;/li&gt;
+&lt;li&gt;your task as a designer&lt;/li&gt;
+&lt;li&gt;your role within the team (if any)&lt;/li&gt;
+&lt;li&gt;any constraints&lt;/li&gt;
+&lt;li&gt;what you aim to achieve&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, when presenting your work it may help to give your justification behind the design of particular elements that stand out. If you think someone is likely to comment on it, and you can see the problem, then explain it so that people can help you with that problem rather than just telling you something you already know.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t mean start with a load of excuses! Often I’m inclined to say “the client told me to do this, and I don’t really want to argue with them…” which is really an excuse for me not standing up for my design work or my principles.&lt;/p&gt;
+
+&lt;h2 id=&#34;giving-useful-feedback&#34;&gt;Giving useful feedback&lt;/h2&gt;
+
+&lt;p&gt;Most important when giving useful feedback is trying to understand the context of the project. It’s ok to ask questions before giving any advice! If someone has asked for your opinion, then they are likely to value it, but this does not mean that you should blindly give feedback without understanding the work.&lt;/p&gt;
+
+&lt;p&gt;The design is the designer’s project. They may be sharing their work with you, but they ask for feedback in the hope of understanding better how to improve their work, not to be told what to do. The key to this is really trying to concentrate on understanding the problems together as best you possibly can, rather than offering quick solutions.&lt;/p&gt;
+
+&lt;p&gt;However this doesn’t mean that it’s bad to help the designer with ideas. Try to give examples to help illustrate potential solutions, but always back these up with rationalisation, and the reason &lt;strong&gt;&lt;em&gt;why&lt;/em&gt;&lt;/strong&gt; you think this would work.&lt;/p&gt;
+
+&lt;p&gt;Always be honest, but polite. Egos are no use in critiques, but you don’t want to upset people. Those cruel art school scenarios may be good for destroying the ego that is overly protective of their work, but in a working situation we’re not out to hurt each other. If you find it difficult to honestly convey negative opinions, for fear of hurting a sensitive person, try sandwiching the negative between positive feedback. Negative feedback is definitely more useful, but it can be heartening for a struggling designer to hear the elements of their work that are successful.&lt;/p&gt;
+
+&lt;h2 id=&#34;receiving-feedback&#34;&gt;Receiving feedback&lt;/h2&gt;
+
+&lt;p&gt;Listen listen listen. Forget that ego in the back of your mind that is automatically coming up with defensive excuses and try to &lt;strong&gt;&lt;em&gt;learn&lt;/em&gt;&lt;/strong&gt; from the experience. People are taking the time to help you, it is only polite to listen to what they have to say.&lt;/p&gt;
+
+&lt;p&gt;Take note of everything they tell you, even if you don’t understand it or think it is right. You may come to understand later, and it’s not necessarily the comment that is useful, but the interpretation of your work that helps you understand how potential users may see your designs.&lt;/p&gt;
+
+&lt;p&gt;If you keep getting the same comments over and over again, don’t dismiss the additional comments as unhelpful. One person may have further insight, and the fact that so many people are reinforcing the same point should really hammer home any improvements you need to make.&lt;/p&gt;
+
+&lt;h2 id=&#34;not-having-an-art-education-isn-t-the-end-of-the-world&#34;&gt;Not having an art education isn’t the end of the world&lt;/h2&gt;
+
+&lt;p&gt;If you know me, then chances are you’ll have heard me rant about my experiences in formal art/design education. Needless to say, it isn’t always a positive way to start your design career, and I fear it is often a source of snobbery in the design/web design industry.&lt;/p&gt;
+
+&lt;p&gt;This kind of education may give people a head-start in critiques because they’ve taken part before, but that really is the only head-start. How does anyone get experience asides from trying something for themselves?&lt;/p&gt;
+
+&lt;p&gt;I love &lt;a href=&#34;http://twitter.com/wrightmartin/status/200604612074536960&#34; title=&#34;&amp;amp;quot;You know what would be good? #crit meet ups. Bring some work, get some feedback from other designers. Oh yeah and beer.&amp;amp;quot; by Martin Wright on Twitter&#34;&gt;Martin’s idea of meeting up for group critiques&lt;/a&gt;. I think it would be something that could benefit a lot of designers if we do it regularly, and get an opportunity to understand each other and our ways of working better. So if anyone is local-ish to the Surrey area (and I’m willing to travel for this kind of interaction!) please let me know. For those of us who are also frequent conference attendees, maybe we should have post-conference crits together?! Let’s get on with it!&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-262&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a8789741e8476e1b3b7b7e80e89cddf9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a8789741e8476e1b3b7b7e80e89cddf9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://kimberleytew.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kim&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-262&#34;&gt;&lt;time datetime=&#34;2012-05-20T22:10:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve been thinking about this since Mark’s talk too. I’d be up for a meetup group to critique work, although I don’t do much design at the moment, but I do work as a usability consultant so I guess I critique people’s work everyday! I’ve been having occasional thoughts about an online critiquing platform for a while since somebody on an e-campaigning list I subscribe to mentioned it but with the focus on critiquing digital campaigns. I started scribbling down more ideas on this during Mark’s talk. What do you think of a website where people could submit designs and ask for honest feedback? I’ve seen people do it on other forums, but nothing specific. Would you use such a site? (and maybe be interested in a little collaboration project on it :) )
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -47,8 +320,106 @@ First off, read Aral’s post.</description>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
       
       <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
-      <description>Insites is a mini tour of four cities in the UK where Keir Whitaker and Elliot Jay Stocks present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where Aral Balkan, Sarah Parmenter and Jeremy Keith were the guests.
-The Format The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience.</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://insitestour.com/&#34;&gt;Insites&lt;/a&gt; is a mini tour of four cities in the UK where &lt;a href=&#34;http://keirwhitaker.com/&#34;&gt;Keir Whitaker&lt;/a&gt; and &lt;a href=&#34;http://elliotjaystocks.com/&#34;&gt;Elliot Jay Stocks&lt;/a&gt; present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where &lt;a href=&#34;http://aralbalkan.com/&#34;&gt;Aral Balkan&lt;/a&gt;, &lt;a href=&#34;http://www.sazzy.co.uk/&#34;&gt;Sarah Parmenter&lt;/a&gt; and &lt;a href=&#34;http://adactio.com/&#34;&gt;Jeremy Keith&lt;/a&gt; were the guests.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-format&#34;&gt;The Format&lt;/h2&gt;
+
+&lt;p&gt;The format of the evening was something unfamiliar to most of us. Each guest was interviewed by either Keir or Elliot and then there were questions from the audience. Except it was much less formal than that. There were breaks in between and a comfortably small amount of people (I’m rubbish at estimating amounts of people so I’ll save you the pain) so there was a really relaxed and casual environment where everybody seemed happy to chat about anything.&lt;/p&gt;
+
+&lt;p&gt;The genius was really in the way it was run. Keir and Elliot asked really interesting and leading questions and Aral, Sarah and Jeremy were all open and honest so they genuinely did provide insight into their lives in the web/tech industry. I don’t think it would have worked had the interviewers been unfamiliar with the guests, and with Keir and Elliot both working in the industry doing similar jobs to most people in the audience, their questions always felt appropriate and had something of the &lt;em&gt;that’s-just-what-I-wanted-to-ask&lt;/em&gt; about them.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-actual-insights&#34;&gt;The Actual Insights&lt;/h2&gt;
+
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;The first thing that struck me about each of the guests (and a lot of people I spoke to) was that everybody was self-taught in some way. That’s really inspiring for anybody wanting to work with the web or iOS. Each of the guests hadn’t studied design or development formally yet they’re helping lead the way and set the standards in user experience, iOS design and development.&lt;/p&gt;
+
+&lt;p&gt;Funnily enough, despite not having formal education, Aral, Sarah and Jeremy each teach workshops. It goes to show how well they know their subject matter in order to host successful workshops, but also how the semi-formalisation of education can work and enough people seem to enjoy learning that way (rather than self-teaching through books or the web.) And a lot of people must prefer this way of learning as the amount of workshops seem to be on the up.&lt;/p&gt;
+
+&lt;h3 id=&#34;client-work&#34;&gt;Client Work&lt;/h3&gt;
+
+&lt;p&gt;One of the directions that a lot of web industry professionals seem to be taking lately is moving away from client work and towards making their own products. Aral was incredibly passionate about how much more he enjoyed working for himself in every sense, rather than having ever-changing clients for bosses.&lt;/p&gt;
+
+&lt;p&gt;Sarah provided some great advice on the warning signs when starting work with potential clients, as she’s had her fair share of painful client relationships, and relayed that she thinks she’s just* too* nice and so clients take advantage. As someone who completely identifies with the niceness approach, it was heartening to see that Sarah has found such great clients that she’s considering working for two exclusively. This is also interesting as it shows more of that same direction of moving away from working with different clients and towards maintaining products as a career.&lt;/p&gt;
+
+&lt;p&gt;Jeremy was honest in saying he preferred to just get on with the development, and is very fortunate to work as part of an agency where Andy Budd enjoys handling the clients and accounts sides of a project. I think many freelancers find the sales and admin are the worst part of the job so it made sense that forming an agency with like-minded people would be a good idea, but Jeremy pointed out that this does only really work if there is one individual who is happy to work on the ‘business’ side whilst the others work on the project itself.&lt;/p&gt;
+
+&lt;h3 id=&#34;outlooks&#34;&gt;Outlooks&lt;/h3&gt;
+
+&lt;p&gt;What I took away in summary to these talks was really one big point, &lt;strong&gt;everybody there was following a career path based around what makes them happy and fulfilled over what might make them rich&lt;/strong&gt;. And this really emphasises what I love so much about the industry. People are there because they enjoy it, people want to make a difference and make the web a really cool place.&lt;/p&gt;
+
+&lt;h2 id=&#34;and-the-rest&#34;&gt;And The Rest&lt;/h2&gt;
+
+&lt;p&gt;Due to the nature of the Insites tour, people came with a willingness to discuss work, process and dealing with clients rather than focusing on the techniques and technologies that we go on about during the working day. This lead to a few good discussions outside of the talks with the guests where I felt my brain buzzing from finally starting to understand a bit more about how we work.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-am-endlessly-lucky-with-the-clients-i-have&#34;&gt;I am endlessly lucky with the clients I have&lt;/h3&gt;
+
+&lt;p&gt;I assumed that most people had good clients. From the various discussions it does look like I am very lucky in having ended up with *predominantly* lovely, responsive, &lt;strong&gt;paying-on-time&lt;/strong&gt; clients. After talking to the &lt;a href=&#34;http://mrqwest.co.uk/cc/&#34;&gt;Croydon Creatives&lt;/a&gt; bunch (and also something Sarah mentioned,) we really seemed to conclude that having a top contract is one of the most important aspects of client work. Not necessarily a boring law-speak contract, but something that appealed to the client and showed that you’re a human who deserves to be paid for your hard work, as well as laying out some &lt;em&gt;just-in-case&lt;/em&gt; terms.&lt;/p&gt;
+
+&lt;h3 id=&#34;labels-and-titles&#34;&gt;Labels and Titles&lt;/h3&gt;
+
+&lt;p&gt;And the final fascinating conversation that was really ongoing throughout the evening outside of the talks was about labelling. It stemmed from Aral and &lt;a href=&#34;http://www.andybudd.com/&#34;&gt;Andy Budd&lt;/a&gt;‘s disagreement on what makes a UX Designer, but lead to discussing how we describe ourselves to clients and each other.&lt;/p&gt;
+
+&lt;p&gt;I finally learnt the different between ‘&lt;strong&gt;indie&lt;/strong&gt;‘ and ‘&lt;strong&gt;freelance&lt;/strong&gt;‘ (indie means you produce work for yourself or customers, freelance means you work for clients) and that Jeremy Keith works somewhere between a rotating job title and none whatsoever because it’s the work that do that speaks for you, rather than what you call yourself.&lt;/p&gt;
+
+&lt;p&gt;The conclusion that I came to was that labels are a pain. Everybody is judged on what they call themselves and, within the industry, it doesn’t really matter as soon as you’re familiar with somebody’s work. What we &lt;em&gt;do&lt;/em&gt; need labels and job titles for is accurately communicating what we do to potential clients. This means we should forget about the acronyms and jargon and sometimes the most appropriate description is ‘&lt;strong&gt;I make websites&lt;/strong&gt;.’&lt;/p&gt;
+
+&lt;h2 id=&#34;so-if-you-re-in-manchester-or-bristol-this-week-go&#34;&gt;So if you’re in Manchester or Bristol this week, go!&lt;/h2&gt;
+
+&lt;p&gt;I took a day to write this post, so I’m a bit late in telling people to go to the London leg of the Insites tour, but Manchester is tonight and Bristol is tomorrow night.&lt;/p&gt;
+
+&lt;p&gt;It was definitely one of the best events I’ve attended in a while, and one that just gave me faith in how the industry and community is &lt;em&gt;just&lt;/em&gt; &lt;strong&gt;brilliant&lt;/strong&gt; (and probably the best ever.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Note: please forgive my enthusiasm in this post, I hope it’s not &lt;strong&gt;&lt;em&gt;too&lt;/em&gt;&lt;/strong&gt; annoying, but I had a really good time!&lt;/p&gt;
+
+&lt;h2 id=&#34;3-comments&#34;&gt;3 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-249&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e447058d3157368c3919157905bd8de3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e447058d3157368c3919157905bd8de3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrqwest.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Anthony&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-249&#34;&gt;&lt;time datetime=&#34;2011-07-20T13:20:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:20pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write up Laura, and pretty much summed up the way I felt after the evening too! 
+
+@MrQwest
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-250&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.simoncox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Simon Cox&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-250&#34;&gt;&lt;time datetime=&#34;2011-07-20T17:07:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:07pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write up Laura –; captured the essence very well. Excellent evening and a pleasure to meet you.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-251&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b47e4f9448a175c868e8088abe08f778?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b47e4f9448a175c868e8088abe08f778?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.georgewiscombe.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;George Wiscombe&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-251&#34;&gt;&lt;time datetime=&#34;2011-07-20T18:33:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:33pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I couldn’t agree more with your thoughts on labels &amp;amp; titles, I think the same applies to CV’s (in the creative industries at least).  A list of academic achievements or awesome companies you’ve worked at doesn’t matter to me, it’s all about the quality of work *you* produce and the way in which you can articulate your ideas. 
+
+The merits from working with great people &amp;amp; big brands definitely go some way to helping with that, but it’s not everything.
+
+Great post, thanks for sharing –; sounds like a great evening! I’ll write the London night up when I get a chance to breathe :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -57,8 +428,126 @@ The Format The format of the evening was something unfamiliar to most of us. Eac
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
       
       <guid>https://laurakalbag.com/new-adventures-2011/</guid>
-      <description>Conferences are my social life As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.
-Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with.</description>
+      <description>
+
+&lt;h2 id=&#34;conferences-are-my-social-life&#34;&gt;Conferences are my social life&lt;/h2&gt;
+
+&lt;p&gt;As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.&lt;/p&gt;
+
+&lt;p&gt;Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with. It was such a packed-out venue that it was easy to lose people in the crowds!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-location-and-venue&#34;&gt;The location and venue&lt;/h2&gt;
+
+&lt;p&gt;It didn’t take too long to get to Nottingham from Surrey. We were lucky that the motorways were reasonably clear and we spent most of our time trying to navigate Nottingham’s one way systems when we got there! It was good to go to a conference outside London but the resulting hotel and petrol costs for me (I can commute to London easily) made it almost as expensive as attending more expensive conferences in London.&lt;/p&gt;
+
+&lt;p&gt;The venue, Albert Hall, looked beautiful and made it easy to hear and see the speakers wherever you were sat. For me, the downside to the venue was that I was really cold for most of the day. I know I feel the cold more than most, but it was a bit uncomfortable sitting there in a scarf and gloves. Often conferences are warm environments due to the amount of people in one room so I admit I was probably under-prepared for the wintry day!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-talks&#34;&gt;The talks&lt;/h2&gt;
+
+&lt;h3 id=&#34;twitter&#34;&gt;Twitter&lt;/h3&gt;
+
+&lt;p&gt;There wasn’t any wi-fi at the conference, which was great because there were less faces hidden behind laptops (it’s really distracting when you’re sitting behind someone writing code!) However, this did mean there was less back channel discussion on Twitter, it was mostly people quoting favourite quotes. It was a bit of a shame as I like the back channel. It gives people the confidence to bring up issues and questions that they wouldn’t necessary ask the speakers in front of the crowd.&lt;/p&gt;
+
+&lt;p&gt;I made use of the 3G signal on my phone to make notes on Twitter about the conference, it’s the way I learn and helps me digest ideas (I’m a complete fidget.) I know I’m likely to irritate people by doing it, but a few said they liked to hear some of what was going on so I think it’s much more worthwhile than keeping it to myself. These notes, along with the great tweets from the brilliant &lt;a href=&#34;http://twitter.com/#!/ubelly&#34; title=&#34;ubelly on Twitter&#34;&gt;@ubelly&lt;/a&gt;, helped me form some connections between the ideas and help me understand them better.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;You might want to click the image to see it larger so you can read the really dinky text.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/new-adventures-in-web-design.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-308 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/new-adventures-in-web-design.gif&#34; alt=&#34;My notes from New Adventures in Web Design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My notes from New Adventures in Web Design (click to view full size)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unlike &lt;a href=&#34;https://laurakalbag.com/dconstruct-2010/&#34; title=&#34;dConstruct 2010&#34;&gt;my notes on dConstruct&lt;/a&gt;, I wanted to connect the different themes running through the talks as they made the day so much more than just random talks.&lt;/p&gt;
+
+&lt;h3 id=&#34;running-themes&#34;&gt;Running themes&lt;/h3&gt;
+
+&lt;p&gt;So many of the talks felt as though they were revolving around connected themes. This made the day feel as though you were getting different sides of the story which suited the half hour slots which might have otherwise felt brief. Particular themes such as user experiences, emotional design, narratives and content-aware design made me feel very grown up. Much like dConstruct, it seems like the conference circuit is moving on from the slightly patronising show-and-tell and instructional talks to more inspiring, motivating and thoughtful discussions on how we can be better and make the industry move forward.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-favourite-talk-the-new-language-of-web-design&#34;&gt;My favourite talk: The New Language of Web Design&lt;/h3&gt;
+
+&lt;p&gt;I’d say my favourite talk (though I enjoyed them all) of the day was &lt;a href=&#34;http://twitter.com/#!/danrubin&#34; title=&#34;Dan Rubin on Twitter&#34;&gt;Dan Rubin&lt;/a&gt;‘s. The topics of language, communication and terms in the industry felt just right for the audience and the maturity of the conference. Dan is a consistently fantastic speaker and his was the one talk that really stood out as being the perfect amount of exploration into the subjects for the half hour slot.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-ll-be-looking-out-for-new-adventures-next-year-8230&#34;&gt;I’ll be looking out for New Adventures next year&amp;#8230;&lt;/h2&gt;
+
+&lt;p&gt;One thing can be sure, &lt;a href=&#34;http://twitter.com/colly&#34; title=&#34;Simon Collison on Twitter&#34;&gt;Simon Collison&lt;/a&gt; put on a great conference. There was a really friendly, we’re-all-in-it-together, casual atmosphere that was fun and in no way intimidating to new conference goers.&lt;/p&gt;
+
+&lt;p&gt;As a lot of the bigger conferences are becoming more expensive with little added value, less expensive conferences like New Adventures are in competition to provide a great time at a freelancer’s price tag. It definitely achieved that, feeling like a premium conference on a very affordable budget.&lt;/p&gt;
+
+&lt;p&gt;If there’s a New Adventures next year, I’ll definitely try to be there.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-179&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;alpower&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-179&#34;&gt;&lt;time datetime=&#34;2011-02-04T10:21:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:21am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag great set of notes!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-178&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://beneverard.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ben Everard&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-178&#34;&gt;&lt;time datetime=&#34;2011-02-04T10:26:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write-up Laura, the conference notes are pretty damn cool, great for recapping the points made throughout the day!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-180&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-180&#34;&gt;&lt;time datetime=&#34;2011-02-04T11:58:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great synopsis and the conference notes image is very useful thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-181&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;gicela&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-181&#34;&gt;&lt;time datetime=&#34;2011-02-04T11:58:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag I love your notes on your new adventures post :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-182&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;johanbakken&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-182&#34;&gt;&lt;time datetime=&#34;2011-02-04T20:41:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Your conference notes from #naconf and #deconstruct are supreme. So beautiful.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

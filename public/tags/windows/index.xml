@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Windows on Laura Kalbag</title>
+    <title>Posts from Windows on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/windows/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 05 Jul 2010 19:23:32 +0000</lastBuildDate>
@@ -17,9 +17,216 @@
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
       
       <guid>https://laurakalbag.com/picking-fonts/</guid>
-      <description>This little post is an extension of my post on Web Fonts.
-Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.
-I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:</description>
+      <description>
+
+&lt;p&gt;This little post is an extension of my post on Web Fonts.&lt;/p&gt;
+
+&lt;p&gt;Of late, some of the snobbier designers are whining that more fonts available will mean the web will get covered in horrible mis-use of fonts, unreadable body text and general ugliness.&lt;/p&gt;
+
+&lt;p&gt;I don’t think this is totally fair, but I’m sure some people might get confused by the variety of fonts that are around, so I thought I’d share a few things I try to keep in mind when choosing fonts:&lt;/p&gt;
+
+&lt;h3 id=&#34;use-appropriate-fonts&#34;&gt;Use appropriate fonts&lt;/h3&gt;
+
+&lt;p&gt;Easily said, I know, but some fonts are clearly more suitable for particular designs than others. For example, you wouldn’t use a font that looks like it’s dripping blood on a corporate site, and you’d not use a handwriting-style font on a site about computer programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-92 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png&#34; alt=&#34;Firey font isn&amp;#39;t really suitable for Daisy&amp;#39;s Darling Cake shop&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Firey font isn’t really suitable for Daisy’s Darling Cake shop
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;If you’re aiming for clean and modern, go sans-serif. If you’re looking for a slightly more traditional feel, go serif.&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-use-more-than-two-fonts&#34;&gt;Don’t use more than two fonts&lt;/h3&gt;
+
+&lt;p&gt;With all these cool fonts around, it’s easy to go over-the-top and try out loads at once. Unless you’re going for a Victorian poster style, I’d steer clear of the multi-font look.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Circus_Montreal_9_March_1812.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-medium wp-image-97&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Circus_Montreal_9_March_1812-253x320.jpg&#34; alt=&#34;Old Victorian circus poster, lots and lots of fonts&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to find two fonts that match each other well. You want to look for as similar shapes as possible, round fonts with other circle-based fonts, condensed fonts with other tall, thin fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-93&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png&#34; alt=&#34;Kaffeesatz as a header font with Droid Sans as the body font&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re really struggling to combine two, just use a different weight or style for the heading, like bold or all uppercase.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-94&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png&#34; alt=&#34;Georgia as header and body font&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Mark Boulton covers these kinds of combinations in his fantastic book, A Practical Guide to Designing For The Web.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-it-in-the-family&#34;&gt;Keep it in the family&lt;/h3&gt;
+
+&lt;p&gt;The easiest way to find two fonts that suit each other is to take two from the same family. These are always designed around the same shapes so you know they’ll look good next to each other. This is particularly useful if you want to mix serif and sans-serif fonts. For example, the Museo family. Museo Sans, Museo Serif and Museo Slab all look great used in any combination.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-95 aligncenter&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png&#34; alt=&#34;The Museo Family&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;use-simple-fonts-for-body-text&#34;&gt;Use simple fonts for body text&lt;/h3&gt;
+
+&lt;p&gt;Whatever you do, leave the fancy fonts for the headings. With body text (paragraph text,) you’re aiming for readability above all else. Using any kind of fancy, looping, scrawly, drippy, firey font here will make it hard to read and really distract the reader.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-96 aligncenter&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png&#34; alt=&#34;A paragraph in Papyrus&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;use-lovely-long-font-stacks&#34;&gt;Use lovely long font stacks&lt;/h3&gt;
+
+&lt;p&gt;Bear in mind that, whatever fancy web font method you use, there will always be a user that can’t see that font. It might be because their browser doesn’t have javascript turned on, or doesn’t support @font-face or doesn’t have the system font you specified. Solve this problem by using as many similar fonts as possible in your font stack.&lt;/p&gt;
+
+&lt;p&gt;For example, I want to use Museo Sans as my body font on this page. My code would look like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;body { font-family: &amp;quot;Museo Sans&amp;quot;, &amp;quot;Perspective Sans&amp;quot;, Helvetica, Arial, sans-serif; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Typekit will provide Museo Sans for me, so I’ll put that first in my font stack.&lt;/li&gt;
+&lt;li&gt;In case the user doesn’t have javascript enabled (or uses Opera!) I’ll specify an @font-face font I found on Font Squirrel, Perspective Sans.&lt;/li&gt;
+&lt;li&gt;For the rare case that don’t support Typekit or @font-face, I’ll specify the system font Helvetica.&lt;/li&gt;
+&lt;li&gt;Just in case a user doesn’t even have Helvetica, I’ll also specify the wildly popular system font, Arial.&lt;/li&gt;
+&lt;li&gt;And for the user who for some reason has only weird fonts I’ve never heard of on their computer, I’ll specify sans-serif, so at least I know that they’re not being delivered a serif font when I really fancied sans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not much effort, maximum kindness to the user.&lt;/p&gt;
+
+&lt;h3 id=&#34;keep-the-poor-windows-users-in-mind&#34;&gt;Keep the poor Windows users in mind&lt;/h3&gt;
+
+&lt;p&gt;Whichever fonts you choose, you want to make sure it looks good in as many browsers as possible. For us lucky mac users, the fonts tend to normally look smooth and light and lovely. Unfortunately many Windows users aren’t so lucky. Craggy, pixelly and oddly squashed-looking fonts are very common.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-98&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg&#34; alt=&#34;Typodermic&amp;#39;s Bouffant font in Mac&amp;#39;s Safari (top) and Windows&amp;#39; Internet Explorer 6 (bottom) &#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Typodermic’s Bouffant font in Mac’s Safari (top) and Windows’ Internet Explorer 6 (bottom)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Many Windows people aren’t as fussy as me, or just don’t notice, but it’s really worth checking that what the Windows’ users see is actually &lt;em&gt;legible&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This quick little guide is just the beginning of all the things I try to consider when I’m choosing fonts to use on the web. A lot of it feels automatic, but when I really think about it, there’s all sorts of rules and theory I’m trying to apply to my choices. And that’s still not saying I always get it right. To a degree, it is still a subjective choice.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-4&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ashinyworld.blogspot.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Loulouk&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-4&#34;&gt;&lt;time datetime=&#34;2010-07-05T19:48:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:48pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve absolutely no clue about fonts and about to be thrown into a web dev job. To say this is helpful would be a small understatement but in lieu of gushing I’ll simply say thank you.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-5&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-5&#34;&gt;&lt;time datetime=&#34;2010-07-06T16:35:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m so pleased you found it helpful! Your comment made my day :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-6&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.cvwdesign.com/txp&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Clive Walker&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-6&#34;&gt;&lt;time datetime=&#34;2010-07-13T12:27:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The Windows font thing is a real bugbear of mine. I have seen lots of websites using ‘new’ fonts where the display on Windows is almost illegible. Perhaps this is because of Windows font rendering issues (ClearType vs non-ClearType vs Vista vs XP?) or perhaps the font chosen does not have very good hinting for the web, I don’t know. Either way, it seems like poor testing/implementation.
+
+OK, rant over :-)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-7&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Yulie&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-7&#34;&gt;&lt;time datetime=&#34;2010-07-17T23:29:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Laura! Your tips are simple and to the point :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +235,132 @@ I don’t think this is totally fair, but I’m sure some people might get confu
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
       
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
-      <description>I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.
-I understand their concern. I really do. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.</description>
+      <description>
+
+&lt;p&gt;I’ve been working with a client who wants every external link on their site to open in a new window. They dislike the idea of users leaving their site for somebody else’s and not being able to find their way back.&lt;/p&gt;
+
+&lt;p&gt;I understand their concern. &lt;em&gt;I really do&lt;/em&gt;. It seems like a perfectly rational feeling but there are a few reasons why this generally isn’t the right thing to do.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### The Back button is the second most-used form of navigation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If a user wants to go back to your site, they can. If you open in a new window or tab, you make the ‘Back’ button useless. Don’t treat your users like they’re idiots that need to be led-around by the nose. (It helps to be helpful, but not patronising!)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### By opening a link in a new window, you’re not giving the user any other choice.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is my personal pet hate. If I want to open a link in another window or tab, I can do so easily by right-clicking the link and selecting that option (and I’m sure there’s numerous shortcuts for such behaviour.) However, if you specify that the link &lt;em&gt;must&lt;/em&gt; open in another window, there’s nothing I can do about it. You shouldn’t force users into situations that are uncomfortable against their usual browsing patterns. They will end up associating that discomfort with your site.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Some users just won’t understand what’s happening.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As more and more people get cheap access to the internet, there will be more users who have very basic skills, aren’t wholly computer-literate, but will browse your site anyway! If you’d never used a computer before, and were presented with a link that opened in a new window, are you sure you’d understand what just happened? These users may not understand that they’re now in a new window or tab. They’ll have a great big ‘Back’ button screaming at them, not a ‘Close this window or tab and then select the relevant window or tab to view it again’ button.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### There’s no guarantee that, when the user closes that window, they’ll go back to your site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If I open a page in a new tab on Safari, it gets added to the end of my list of tabs. If I’ve already got another tab open that has the BBC website in, when I close the new tab, it’ll go back to the BBC website, not your website.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### It’s irritating for mobile browsers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Some mobile browsers may just ignore your ‘Open in New Window’ suggestion as they don’t support multiple windows. If you’re browsing using Mobile Safari, it will do this very dramatic shrink-this-window open-another-window animation. The back button is much less fiddly. People using mobile browsers are more likely to be on-the-go and less likely to put up with switching windows all the time when browsing your site.&lt;/p&gt;
+
+&lt;p&gt;Please be considerate of your users, and don’t treat them like they don’t know what they’re doing. For those that &lt;em&gt;really&lt;/em&gt; don’t know what they’re doing, keep it simple. If users remember yours as the site that was easy to use, that’s going to make you a lot more popular than forcing them to look at your content ever will.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Some other handy articles I found on this subject:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.problogdesign.com/blog-usability/new-window-for-a-new-link/&#34;&gt;Should Links Open In A New Window Or Not?—Pro Blog Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.useit.com/alertbox/open_new_windows.html&#34;&gt;Open New Windows for PDF and other Non-Web Documents—Jakob Nielsen’s Alertbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dubroy.com/blog/my-chi2010-talk-a-study-of-tabbed-browsing/&#34;&gt;My CHI2010 talk: A Study of Tabbed Browsing—Patrick Dubroy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webnauts.net/new-window.html&#34;&gt;Avoid Forcing To Open In A New Window—Webnauts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.useit.com/alertbox/990530.html&#34;&gt;The Top Ten Web Design Mistakes of 1999—Jakob Nielsen’s Alertbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://robertnyman.com/2006/02/13/how-evil-is-the-target-attribute/&#34;&gt;How Evil Is The Target Attribute?—Robert’s Talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-93&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d6d7a74af65923df9030944188a90ef5?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;ChrisC&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-93&#34;&gt;&lt;time datetime=&#34;2010-06-16T14:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I can’t believe a client would suggest that, personally I’d hammer hard to explain that it’ll drive people away rather than keep them there.
+
+I always remember the story of old people, they think when a new window opens the other one closes. So they’ll never work out whats going on!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-94&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.meatfreedesign.co.uk/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tom&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-94&#34;&gt;&lt;time datetime=&#34;2010-06-16T15:02:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:02pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Interesting article, to the point and very good points&amp;#8230; only one I slightly disagree or maybe differ on is the opening in new windows on safari/iPhone, if I’m googling and on the move I tend to open everything in a new window so I don’t have to go back to the previous page and load it again&amp;#8230; often takes ages if the connection is bad so I tend to be window crazy!
+
+Good stuff! =0)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-95&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-95&#34;&gt;&lt;time datetime=&#34;2010-06-16T15:44:27+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Actually sometimes I do that as well! Still, I think that, like opening new windows on a desktop browser, the important part is that you choose to do it rather than being forced to do it!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-96&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://levibreederland.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Levisan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-96&#34;&gt;&lt;time datetime=&#34;2010-06-16T17:49:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:49pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well, now that I finally understand the other side of the argument, I think I’ll get rid of the opening of new windows for my site.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-97&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-97&#34;&gt;&lt;time datetime=&#34;2010-06-16T17:58:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:58pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Wow, I’m well pleased I managed to convince somebody :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-98&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5cce99e9bf6154703d8ecdf474a750bd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5cce99e9bf6154703d8ecdf474a750bd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jitendravyas.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;jitendra vyas&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-98&#34;&gt;&lt;time datetime=&#34;2012-11-01T06:17:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Even if your client still want link to be open in new window. You can give clue to sighted and non-sighted user both by appending this to link “World Wide Web Consortium (links to external site)”
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

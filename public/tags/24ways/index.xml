@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>24ways on Laura Kalbag</title>
+    <title>Posts from 24ways on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/24ways/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 22 Dec 2017 18:59:08 +0100</lastBuildDate>
@@ -17,9 +17,19 @@
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
       
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
-      <description>It’s been a few years since I wrote something for 24ways, but this year I’m back, making the case for semantic HTML.
- 
-As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on Better. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web.</description>
+      <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;
+&lt;figure &gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/12/screenshot.png&#34; alt=&#34;Screenshot of the article on 24ways including the title “Accessibility Through Semantic HTML” and an avatar of me with a pen in my mouth.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on &lt;a href=&#34;https://better.fyi&#34;&gt;Better&lt;/a&gt;. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web. It doesn’t take much to better understand how to use it effectively, and it can make a huge difference to the accessibility of a web page.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

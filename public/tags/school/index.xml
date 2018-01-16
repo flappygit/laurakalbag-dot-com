@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>School on Laura Kalbag</title>
+    <title>Posts from School on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/school/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 23 Nov 2010 16:31:50 +0000</lastBuildDate>
@@ -17,8 +17,62 @@
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
       
       <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
-      <description>After I finished my last post about Design Tips for Developers, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.
-When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’.</description>
+      <description>
+
+&lt;p&gt;After I finished my last post about &lt;a href=&#34;https://laurakalbag.com/design-tips-for-developers/&#34;&gt;Design Tips for Developers&lt;/a&gt;, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.&lt;/p&gt;
+
+&lt;p&gt;When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’. I really have no idea if I’m the only one that does this? I assume not. I know a lot of people don’t, they just send static images. Does this mean it’s not worthwhile?&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-do-justifications&#34;&gt;How I do justifications&lt;/h2&gt;
+
+&lt;p&gt;Here’s an excerpt from my last post, giving a classic example of how I write justifications:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I try to cover all the basics of the design. I explain my choices regarding layout, typography, colour and imagery. I summarise any other methods or angles I tried that didn’t work, and explain why I thought they didn’t work. If I’m not actually sure why I did something on impulse, I’ll really think about it, analyse my decision and explain it to the client.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-write-justifications&#34;&gt;Why I write justifications&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Not all design work can speak for itself&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;p&gt;Clients aren’t design specialists so you can’t expect them to ‘get’ your thinking behind a design just by looking at it (And you probably couldn’t expect most other designers to ‘get’ it either!)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### I don’t often get to speak to the client in person&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s fairly easy to quickly summarise your design when you can look at a person’s face and see if they understand you. When you’re lacking face-to-face communication, you really have to make up for it in writing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Even if I do see a client face-to-face, I’ll often forget something&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sitting down and writing a proper explanation helps me look over the design from top to bottom and take it apart. It also takes a while for a client to mull over a design. They might be unsure of part of it later on at home. Having your justification there to reassure them can be helpful.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-was-also-taught-how&#34;&gt;I was also taught how&lt;/h3&gt;
+
+&lt;p&gt;Every now and again I realise the huge value in being taught art and graphics at school, college and university. From secondary school art lessons onwards, one-third of the work was research, one-third was the practical application and the final third was evaluation. Even if the rest of the work wasn’t perfect, if the evaluation was good then you’d be on to a winner. It wasn’t about being skilled with a pencil or paintbrush, it was about being able to reflect, evaluate and actually understand what you were trying to achieve.&lt;/p&gt;
+
+&lt;h2 id=&#34;being-able-to-give-a-reason&#34;&gt;Being able to give a reason&lt;/h2&gt;
+
+&lt;p&gt;I believe a huge part of your ability as a designer is understanding why you do what you do. In order to create an appropriate and usable design, you’ve got to be able to do better than ‘pretty.’&lt;/p&gt;
+
+&lt;p&gt;I think a designer &lt;em&gt;should&lt;/em&gt; be able to tell a client the reasoning behind their design decisions. There’s nothing worse than the ‘professional’ who says “&lt;em&gt;I like it best like this and I’m the professional so you should respect my opinion&lt;/em&gt;.” Of course, everybody has their own preferences, theories and leanings, but if you can’t come up with a reason beyond “I like it” or “everybody’s doing it”, then what service are you actually providing?&lt;/p&gt;
+
+&lt;h2 id=&#34;value-for-a-client&#34;&gt;Value for a client&lt;/h2&gt;
+
+&lt;p&gt;Reading a description about your design decisions lets a client know you’ve really thought their design through. I’m hoping I show my clients that I spend a long time considering my design work and trying to make something that will work for them. When you’re providing a service, rather than a physical product, it’s good to remind people that you’re good value for money.&lt;/p&gt;
+
+&lt;h2 id=&#34;value-for-a-designer&#34;&gt;Value for a designer&lt;/h2&gt;
+
+&lt;p&gt;After sending a justification I find there are fewer arguments. Full stop. As I’ve got better at writing them, I’ve found more clients agree with my decisions. I hope I’m also improving as a designer, but it’s also incredibly difficult to disagree with a design element when someone has given you a very good logical reason why it works.&lt;/p&gt;
+
+&lt;p&gt;I don’t get “make my logo bigger”, “can you do another version?” or “I want it in Papyrus”. I know I’m fantastically fortunate to work with lovely people, but I reckon explaining yourself (and maybe being a bit persuasive) might also have something to do with it.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

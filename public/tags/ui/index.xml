@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ui on Laura Kalbag</title>
+    <title>Posts from Ui on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/ui/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 12 Dec 2011 09:14:54 +0000</lastBuildDate>
@@ -17,8 +17,32 @@
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mobile-first/</guid>
-      <description>Continuing on with my chapter-a-day, last week I finished reading the brilliant Mobile First by Luke Wroblewski.
-   Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!</description>
+      <description>&lt;p&gt;Continuing on with my chapter-a-day, last week I finished reading the brilliant &lt;a href=&#34;http://www.abookapart.com/products/mobile-first&#34; title=&#34;Mobile First on A Book Apart&#34;&gt;Mobile First&lt;/a&gt; by Luke Wroblewski.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-513&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/12/mobile-first.jpg&#34; alt=&#34;Mobile First by Luke Wroblewski&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!)&lt;/p&gt;
+
+&lt;p&gt;Luke Wroblewski’s Mobile First makes for a refreshing change. Luke talks about *designing* for mobile experiences. He shares case studies and ideas behind UI design, including loads of concepts that had never even crossed my (admittedly slightly limited) mind. (&lt;em&gt;Should the navigation be moved to the bottom of the page on mobile screens so it doesn’t get in the way of the main page content?!&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;If you work for a company or clients who are reluctant to consider mobile solutions, this book is perfect for you. Luke arms you with stats aplenty to back up why the mobile experience is a very current issue and the immense gains that can be had by paying attention to smaller screens. I’m lucky to work with clients who consider mobile as important as the desktop experience, but I still found these statistics valuable in reminding me why I bother!&lt;/p&gt;
+
+&lt;p&gt;As a (perhaps-overly) frequent attendee of conferences, I’m sick of the “native vs web” debate (panel go-to question where the answer is always ‘it depends on the context!’) Fortunately, Luke is very much agnostic to web or device in this book, discussing the merits of both in depth, but then showing design approaches that would work equally well on the web or in a native app.&lt;/p&gt;
+
+&lt;p&gt;And of course, there is the very important concept of &lt;strong&gt;Mobile First&lt;/strong&gt;. A principle I had first learnt about on the &lt;a href=&#34;http://www.w3.org/Mobile/training/MobiWeb108/&#34; title=&#34;Introduction to W3C Mobile Web and Application Best Practices by the W3C&#34;&gt;W3C Mobile Web Best Practices course&lt;/a&gt;, which has such a positive impact on design with minimal negatives. The ideas that making your content suitable for mobile consumption will make it a better experience for desktop users, and that mobile first results in lightweight (both visually and technically) pages that are easy to download and browse are impossible to argue against. You’ll come out of this book feeling as much an evangelist of the mobile first approach as Luke himself.&lt;/p&gt;
+
+&lt;p&gt;As with other &lt;a href=&#34;http://www.abookapart.com/&#34; title=&#34;A Book Apart&#34;&gt;A Book Apart Books&lt;/a&gt;, Mobile First is written in a light, readable style with a good dose of humour. Even with all the stats and graphs, each chapter is a breeze and I really enjoyed the whole book.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interface on Laura Kalbag</title>
+    <title>Posts from Interface on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/interface/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 27 May 2011 17:52:37 +0000</lastBuildDate>
@@ -17,9 +17,726 @@
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
       
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
-      <description>There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.
-Example:
-   There might be some pros Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.</description>
+      <description>
+
+&lt;p&gt;There’s something that’s been bothering me lately. It seems to be some kind of form interface trend where the labels for text inputs are placed inside the fields themselves.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+
+&lt;figure class=&#34;size-full wp-image-422 alignleft&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-16.48.49.png&#34; alt=&#34;a form field where the label is shown inside the text input field&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;there-might-be-some-pros&#34;&gt;There might be some pros&lt;/h2&gt;
+
+&lt;p&gt;Admittedly, this makes an interface slicker. It saves space where you’d usually have a label, then some padding, then the input field and probably a load of padding around the lot.&lt;/p&gt;
+
+&lt;p&gt;But what you’re gaining in a clean look, you’re completely losing through a total lack of usability.&lt;/p&gt;
+
+&lt;h2 id=&#34;so-i-m-an-interface-idiot&#34;&gt;So, I’m an interface idiot&lt;/h2&gt;
+
+&lt;p&gt;You know the lowest common denominator, idiot users that we design easy interfaces for? The ones that need to be led by the hand, step by step, across your design to get to the call-to-action?&lt;/p&gt;
+
+&lt;p&gt;That’s me, that is. I am an incredibly naïve user. I skim read, I’m forgetful, I barely pay attention and when I do I’m easily confused.&lt;/p&gt;
+
+&lt;h2 id=&#34;this-is-what-i-see&#34;&gt;This is what I see&lt;/h2&gt;
+
+&lt;p&gt;Here’s an example from a site that is otherwise a shimmering beacon of awesomeness over the wasteland that is the web:&lt;/p&gt;
+
+&lt;h3 id=&#34;project-noah&#34;&gt;Project Noah&lt;/h3&gt;
+
+&lt;p&gt;As part of Project Noah, you upload photos of nature. The aim is to identify the creature or plant in your photo, and part of that is providing the relevant links to that species’ page on Wikipedia and the Encyclopedia of Life.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://projectnoah.org&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-423&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-16.55.42.png&#34; alt=&#34;Reference URLs on Project Noah, where the label is shown inside the text input&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;It’s a beautiful interface, but I have an issue. I’ll go and paste in a URL, then I’ll select the other text box:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-424&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-16.59.40.png&#34; alt=&#34;Reference URL input on Project Noah, where one URL input is filled in and the other is focused but empty&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+Then I have this thought:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Did I put the URL in the right box? Is Encyclopedia of Life the top input or the bottom input? How do I find out?!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It seems pedantic, but I &lt;em&gt;genuinely do&lt;/em&gt; get this sense of panic that I’m entering it wrong and there’s no way to check that I’m doing it right. I have to click back outside the input box, so it no longer has focus, to check what the label was again.&lt;/p&gt;
+
+&lt;h3 id=&#34;wordpress&#34;&gt;WordPress&lt;/h3&gt;
+
+&lt;p&gt;Another example from an interface that I use on a regular basis and generally love. In the 2.8 redesign of the WordPress admin, which is generally a huge amount better than before, the post editor title lost it’s label.&lt;/p&gt;
+
+&lt;p&gt;Before:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-425&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-1-960x617.png&#34; alt=&#34;WordPress 2.7 post editor&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+After:&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter size-large wp-image-429&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-17.19.17-960x624.png&#34; alt=&#34;WordPress 3.1 post editor&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;The problem is that the first input box you’ll click into is the top title input. It actually auto-focuses, and some clever script means that it puts the label back in after the auto-focus, but then the second you start typing you’ve lost that label. If you start typing, then backspace because you made a mistake, you’ve lost that label:&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-431&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-17.18.48.png&#34; alt=&#34;WordPress 3.1 post editor with no title label&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;designers-often-make-assumptions&#34;&gt;Designers often make assumptions&lt;/h4&gt;
+
+&lt;p&gt;It’s all very well to assume that the user will remember that the title belongs in that box, but what if it’s somebody has cognitive difficulties? What if it’s someone that’s just an idiot like me who clicks into boxes without paying attention to the label first?&lt;/p&gt;
+
+&lt;h3 id=&#34;it-started-as-an-example&#34;&gt;It started as an example&lt;/h3&gt;
+
+&lt;p&gt;Originally we used pre-entered text in an input field as an example, to help users understand the input required. WordPress itself has a great example of this on the Writing Settings page in the WordPress admin:&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter size-full wp-image-433&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-17.30.53.png&#34; alt=&#34;WordPress Writing Settings uses text inside input boxes to help users understand the input required&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;These fantastic triggers mean that users who aren’t necessary technically minded can see the type of input that’s required to set up post via email, match that to the information they have and easily enter it into the boxes.&lt;/p&gt;
+
+&lt;p&gt;When did these useful triggers become a way to hinder users, instead of help them?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-rise-of-the-html5-placeholder-leaves-room-for-abuse&#34;&gt;The rise of the HTML5 placeholder leaves room for abuse&lt;/h2&gt;
+
+&lt;p&gt;HTML5 has a fantastic new form input attribute for adding placeholder information into the input boxes so that you can easily give your users cues without the need for JavaScript or CSS hacks:&lt;/p&gt;
+
+
+&lt;figure class=&#34;aligncenter size-full wp-image-434&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-17.38.39.png&#34; alt=&#34;HTML5 form snippet&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks &lt;a href=&#34;https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/#comment-2794&#34;&gt;Mike&lt;/a&gt;, for the heads up)&lt;/p&gt;
+
+
+&lt;figure class=&#34;size-full wp-image-435 aligncenter&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/05/Screen-shot-2011-05-27-at-17.39.00.png&#34; alt=&#34;HTML5 form preview&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;But it’s not the same thing!&lt;/p&gt;
+
+&lt;p&gt;A label tells you what a form input requires, a placeholder gives you an example of the input required.&lt;/p&gt;
+
+&lt;p&gt;I’m no accessibility expert, but I can imagine the loss of a label isn’t going to help with screen readers. Forgetful people and people with cognitive disabilities will also struggle.&lt;/p&gt;
+
+&lt;h2 id=&#34;please-think-of-daft-people-like-me&#34;&gt;Please think of daft people like me&lt;/h2&gt;
+
+&lt;p&gt;It might beautify your interface and make you look modern and cool, but a label isn’t the same as a prompt. We need to keep our forms as clear as possible and not let cool technology take over the understanding of basic user behaviour.&lt;/p&gt;
+
+&lt;p&gt;I don’t know if I’m alone in struggling with using these inputs, but I’d love to know everybody else’s opinions.&lt;/p&gt;
+
+&lt;h2 id=&#34;48-comments&#34;&gt;48 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-200&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2d65a81054bdc80fc05dc74f2740b4c9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://dbushell.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;David Bushell&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-200&#34;&gt;&lt;time datetime=&#34;2011-05-27T18:06:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:06pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post Laura! I’ve experimented with placeholders instead of labels but any aesthetic gain is totally lost in usability. I have exactly the same problems you’ve highlighted. If us web designers/developers can’t handle it –; what about everyone else? I say use both labels and placeholders.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-221&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3394cf25ac096698c680916a3c6cf336?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3394cf25ac096698c680916a3c6cf336?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://meteoracle.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Westley Knight&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-221&#34;&gt;&lt;time datetime=&#34;2012-12-14T10:16:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:16am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I agree that the use of both labels and placeholders is the way to go. If you are going to drop one, it should be the placeholder and the label should be more descriptive. But ALWAYS have a label. And don’t forget the ‘for’ attribute.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-201&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/f202503f0ea3118e596f40fdaf8fb3f8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.cliffpro.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Cliff Huizenga&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-201&#34;&gt;&lt;time datetime=&#34;2011-05-27T18:30:02+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:30pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m definitely on the camp of using both labels and placeholders, but not placeholders by themselves. I recently tried manipulating a search field on my blog to remove the search button and place the word “Search” as a label inside the field. While it looked clean, it was confusing as to what it was after you click inside the box, and it wasn’t obvious how to send the search query (mainly because…well, there was no longer a search button). 
+
+Not everything is obvious to everyone. Even though the design *could* look nicer without labels, a true designer will find a way to make them work visually.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-202&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9be8367907d042cb538af6697549e47e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9be8367907d042cb538af6697549e47e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/markedup&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Pete Fairhurst&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-202&#34;&gt;&lt;time datetime=&#34;2011-05-27T21:05:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:05pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        As an Interaction Designer, I’ve been tackling and retackling this very problem in my forms for a while now.
+
+The current solution to the “activated, anonymous” problem involves standard HTML features, with a dash of jQuery to smarten things up.
+
+&lt;p&gt;1. Layout your form with paired label and input combinations as normal.
+
+2. Use a safe offscreening technique on your labels to maintain accessibility and satisfy your visual requirements.
+
+3. Add the label text to each input as a ‘title’.
+
+4. Add a class of “hint” to each input.
+
+5. Use a bit of jQuery that, on load:
+
+a) sets the “value” of all your “hint” inputs to their title text,
+
+b) adds a class of “hinted” for that light grey text effect,
+
+c) set the “focus” event to remove the “hinted” class and clear the “value” *if* it’s the same as the title on focus,
+
+d) set the “blur” event to reinstate both the “hinted” class and the “title” as value *only* if the value is empty.&lt;/p&gt;
+It’s a little bit of faff, but I think it’s worth it for the experience benefits. If your user mouses over an input, they’ll get a tool tip (because of the title). And if they click out of the input without entering anything, they’ll get the hint back again.
+
+And, for an added nicety, you could set a corresponding icon as a background on each input on focus, too –; particularly effective if you need to have several hinted fields close together.
+
+Anyway, hope some of all that is of use. :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-203&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9be8367907d042cb538af6697549e47e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9be8367907d042cb538af6697549e47e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitter.com/markedup&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Pete Fairhurst&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-203&#34;&gt;&lt;time datetime=&#34;2011-05-27T21:14:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Oh, and one final step!
+
+6. When your form submits, make sure you empty every “hint” input if its value matches its title; otherwise you may cock up any validation you might otherwise have on your form.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-205&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-205&#34;&gt;&lt;time datetime=&#34;2011-05-27T22:21:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:21pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Pete, that’s brilliant. Definitely something I’ll think of using in the future!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-204&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://zed1.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mike Little&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-204&#34;&gt;&lt;time datetime=&#34;2011-05-27T22:15:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:15pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+I’m passionate about accessibility and usability, and I agree completely; this trend for ultra clean interfaces is causing problems for people who might struggle with this thing called the web.&lt;/p&gt;
+These days some of the newest users are those who have been reluctant to do this “internet thing” because it is “complicated and scary”. We shouldn’t be making it any harder than it is. There is huge value in keeping things familiar, especially when it requires non-trivial interaction from the user.
+
+Thanks for raising the subject, it’s important not to forget the user in the pursuit for beauty!
+
+Mike
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-206&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.cvwdesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Clive Walker&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-206&#34;&gt;&lt;time datetime=&#34;2011-05-28T10:20:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:20am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        In these cases, using the title attribute on input fields helps (in a small way) since that is seen on hover. Quite simple to do but not always done (I admit I forget sometimes!)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-207&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laura&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-207&#34;&gt;&lt;time datetime=&#34;2011-06-01T17:12:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:12pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        You’re right! I don’t think I ever knew that. Definitely helps the usability of the form if the user holds their mouse over for long enough.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-209&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://zed1.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mike Little&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-209&#34;&gt;&lt;time datetime=&#34;2011-06-01T17:36:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:36pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It will also be read out for those using screen readers.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-233&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7aa2f48d088eb88d5c65e203cbc5f24c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7aa2f48d088eb88d5c65e203cbc5f24c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://irresponsibleart.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jer Brand&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-233&#34;&gt;&lt;time datetime=&#34;2013-02-20T19:11:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:11pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I used to think this as well, however the guys at WebAIM schooled me: Reading of the title attribute is OPTIONAL and can be turned off entirely in most app’s settings. You can’t depend on it.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-208&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4279716d19699a421a5ad1d532fc9a08?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://zed1.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mike Little&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-208&#34;&gt;&lt;time datetime=&#34;2011-06-01T17:34:28+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        By the way, the HTML5 example has an error. 
+
+The `for` attribute of the `label` can only take an `id` as a value. But the corresponding `input` doesn’t have an `id`. See the [HTML5 specification](http://www.w3.org/TR/html5/forms.html#attr-label-for&#34; rel=&#34;nofollow).
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-210&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laura&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-210&#34;&gt;&lt;time datetime=&#34;2011-06-01T17:38:51+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Yes! I realised this when I wrote out a massive form with every single input using `name=` instead of `id=`. Always get those two mixed up :s
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-225&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e6a042553edc475cda59f8f62df2a86c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e6a042553edc475cda59f8f62df2a86c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;dotnetCarpenter&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-225&#34;&gt;&lt;time datetime=&#34;2012-12-18T02:49:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;02:49am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Someone noted on some website that I forgot, but it’s pretty damn useful. Put your &lt;b&gt;&lt;/b&gt; inside your &lt;b&gt;&lt;/b&gt; and use don’t have to specify &lt;b&gt;for=”[id of input]”&lt;/b&gt;. And never have to remember the difference between name and id. Except that the server guy receiving the form data will appreciate you and give you coffee if you have sane &lt;b&gt;name&lt;/b&gt; properties.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-211&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ded01cdab114abe4ec13511e4c25b9bb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ded01cdab114abe4ec13511e4c25b9bb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://andyhume.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Andy Hume&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-211&#34;&gt;&lt;time datetime=&#34;2011-06-04T23:37:02+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Good post –; and I agree! There’s a worrying trend of people conflating label and placeholder, and an even more worrying one of people thinking that having placeholder text is in any way a replacement for a label *element*.
+
+I checked the WordPress example you mentioned, and they do include the input element which is good. In fact it looks like quite a clever implementation. The label element is actually absolutely positioned on top of the text input, rather than text written to the input’s value property. Then when you click on the label it focuses you into the input.
+
+Having said that it looks like they handle the no JavaScript situation less well. The label element is hidden and there is no visual hint as to what the field is for at all. I tried it with Voice Over switched on and it does read the label for the title input which is good, but then there is no label at all associated with the textarea for the body of the post, and the screen reader is completely lost.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-212&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/32e397a45f37a7102f5bd8c8eff54112?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/32e397a45f37a7102f5bd8c8eff54112?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Mats Svensson&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-212&#34;&gt;&lt;time datetime=&#34;2012-02-16T15:15:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:15pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Putting help-texts or labels INSIDE the texfields,
+
+either with HTML5 placeholder, or some hack,
+
+ is F useless and should NEVER be used.&lt;/p&gt;
+I have never EVER ever seen it done in a way that doesn’t break when you fill a field by drag&amp;amp;drop.
+
+&lt;p&gt;Example:
+
+The help text in the field says “Name”.
+
+You select the text “Smith” somewhere and drag it and drop it in the field.
+
+It now says “NaSmithme” or similar.&lt;/p&gt;
+I guess you could build something that makes the field transparent , puts the help-text under (lower z-index), and then hides the help-text  when the user start to fill it out.
+
+&lt;p&gt;But NEVER actually put the help-text inside the field itself, like its always done now .
+
+This madness must be stopped!&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-213&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/be750826c14d16592d7f44fa8f952990?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/be750826c14d16592d7f44fa8f952990?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.belron.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Craig Sullivan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-213&#34;&gt;&lt;time datetime=&#34;2012-03-19T07:38:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:38am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi,
+
+One other thing missing is the ‘affordance’ of the field –; during scanning behaviour.
+
+For example, adding text into a search box simply makes it less visible on the screen so you’re hobbling your interface discoverability.   
+
+We’ve found the best balance is out of field help text –; supporting but not interfering with people’s ability to evaluate the size, information required and type from the input box itself (seen in eye tracking + see [http://www.lukew.com](http://www.lukew.com&#34; rel=&#34;nofollow) work).
+
+I think that if you test this stuff, you’ll find all sorts of problems.  Visual clarity in the designers eyes does not translate to usability or conversion in a product –; this stuff often looks nice and clever but can suffer from interrupting already known patterns for using an interface that people look for (e.g. an empty bloody box, not something filled with text).
+
+I had a similar discussion regarding phone formatting recently –; splitting it all into nice little boxes for USA phone numbers looks pretty but imposes work and friction on the viewer –; regardless of your design intentions.  In that case, lots of  clicks and eye focus work would have been imposed on the user, even though it looked ‘nice’.
+
+C.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-216&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://remy.bach.me.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rémy&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-216&#34;&gt;&lt;time datetime=&#34;2012-04-12T18:35:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I totally agree with your POV here. It’s the whole reason I made this jQuery plugin! [https://github.com/remybach/jQuery.superLabels](https://github.com/remybach/jQuery.superLabels&#34; rel=&#34;nofollow)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-217&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/94434f1e43403f5c1bf620565f0027cb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/94434f1e43403f5c1bf620565f0027cb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.goodsignal.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Blair Keen&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-217&#34;&gt;&lt;time datetime=&#34;2012-04-13T14:23:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:23pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+Great post.  I’d be interested to hear what your point of view would be regarding the use of tool tips to display the form label in the event that the placeholder label is either replaced with input text or removed as in your WordPress example?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-218&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/666570c00e7598fbf0090bf4f76f860e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/666570c00e7598fbf0090bf4f76f860e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Stomme poes&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-218&#34;&gt;&lt;time datetime=&#34;2012-04-14T09:21:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:21am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Blair,
+
+you also mean this tooltip is available to keyboarders using CSS or JS (in the case of IE and similar)?&lt;/p&gt;     &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-219&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2366090ac3624ea0bbb7e9c04ae5b2da?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2366090ac3624ea0bbb7e9c04ae5b2da?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://koenahn.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Koen Ahn&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-219&#34;&gt;&lt;time datetime=&#34;2012-11-30T22:39:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:39pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Excellent article!
+
+Forms are always a struggle. I’ll keep this in mind when making one.
+
+Thank you :)&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-220&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a1a15f489279744da38547e1a8d8ae19?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a1a15f489279744da38547e1a8d8ae19?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://danmalarkey.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dan Malarkey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-220&#34;&gt;&lt;time datetime=&#34;2012-12-13T17:30:19+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:30pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great article! “Web Form Design” by Luke Wroblewski goes over many of these exact examples!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-222&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/f85dd90f263cc1d9a86a727fb26c21dc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/f85dd90f263cc1d9a86a727fb26c21dc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.artsocket.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dmitri&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-222&#34;&gt;&lt;time datetime=&#34;2012-12-17T22:57:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Sorry guys I just didn’t have time to read all the comments to post mine, so my apologies if it’s a repost of someone else’s idea.
+
+&lt;p&gt;I think this is a review of unfinished or undersigned examples. Or they are just buggy, and those bugs are the problem, not the design. Here’s why:
+* When I focus on the field, this should not make the label go away, the label should go away only when I start typing.
+
+*After not entering any text in that field and removing the focus, the label would remain, according to the above. Thus confusion cleared.
+
+*This design will obviously be not a good idea where all the fields look the same and there are plenty of them. It works best on login forms, where you can save some space and make people feel great about using your app.&lt;/p&gt;
+To sum it up, if the bugs are fixed and this concept is not over abused, it is a good idea :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-234&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/87a9c125448afeb9108a8b8cf56fd658?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/87a9c125448afeb9108a8b8cf56fd658?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jarment.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jim Arment&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-234&#34;&gt;&lt;time datetime=&#34;2013-02-26T19:07:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:07pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        +1 on that.
+
+Include labels for accessibility reason, but visibility of them isn’t necessary if you’re using the placeholder attribute. The placeholder text is preset on :focus, but hides after you start typing.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-223&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a8c2ce39b271184ff4c10c9e971f8bc9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a8c2ce39b271184ff4c10c9e971f8bc9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jamiefarrelly.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jamie Farrelly&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-223&#34;&gt;&lt;time datetime=&#34;2012-12-17T23:14:15+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Good read, I thought I was the only person who does things like this!
+
+A few weeks ago something similar happened to me and I just had to refresh the page to double check that I knew what was going on.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-224&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0c734018957cef85042f5e4c58ceaadd?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0c734018957cef85042f5e4c58ceaadd?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.timothywhalin.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Timothy Whalin&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-224&#34;&gt;&lt;time datetime=&#34;2012-12-17T23:21:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:21pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura,
+
+I agree with you 90%. The label is a much needed element that seems to be missing from a lot of web content. However, I would also like to comment that I think there are cases in which a label is not needed. For example, if a search field has a “search” placeholder and a search icon, a user will know what they’ve typed in there even once the placeholder text is gone. This would be similar to anytime a form contains icons.
+
+Another example is when the fields are very straightforward. For example, the contact form on my site has name, email, message. Once a user types in their name, for example, they would remember and know that the field was their name.
+
+I totally agree with the sentiment of your article that form labels are still needed and shouldn’t be removed just for aesthetics. Hope you don’t mind my devil’s advocate comment. :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-226&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1ea75377e8f31300a35d459391be2373?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1ea75377e8f31300a35d459391be2373?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.zivmeltzer.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ziv Meltzer&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-226&#34;&gt;&lt;time datetime=&#34;2012-12-18T14:44:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Well, thank you! Finally, someone writes it down, as simple as it should be.
+
+Win! :)&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-227&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/598b7b1a8f45f2a8ed4e3000fa955b14?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/598b7b1a8f45f2a8ed4e3000fa955b14?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.vasiljevski.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Nikola Vasiljevski&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-227&#34;&gt;&lt;time datetime=&#34;2012-12-18T16:17:45+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:17pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice point, people tend to forget that technology should help people :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-229&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8486c9e4d3ef6024f449bf9de54b1330?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8486c9e4d3ef6024f449bf9de54b1330?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://carlorizzante.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Carlo Rizzante&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-229&#34;&gt;&lt;time datetime=&#34;2012-12-27T14:51:20+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice article, Laura (and nice blog). It actually inspired me today while polishing a backend interface (in WordPress). You made me realize that it’s likely time to finally fix my own contact page ^__^ Thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-230&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8486c9e4d3ef6024f449bf9de54b1330?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8486c9e4d3ef6024f449bf9de54b1330?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://carlorizzante.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Carlo Rizzante&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-230&#34;&gt;&lt;time datetime=&#34;2012-12-27T14:55:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice article, Laura, thanks for sharing. It inspired me right today while polishing a backend interface I’m developing (in WordPress). And it made me realize that it may be finally time to rethink my contact page! :-o Cheers!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-235&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ad1368d5f36d84983fd58ebdbb90172d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ad1368d5f36d84983fd58ebdbb90172d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Aaron&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-235&#34;&gt;&lt;time datetime=&#34;2013-02-27T06:24:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:24am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I agree with this post but always liked the clean look of using placeholders.
+
+I wrote a jQuery plugin that I think largely solves this problem. It works by dropping the label down below the field after it has focus or a value so the label is still visible, while maintaing the clean look of placeholders before the form is used.
+
+You can find it here along with a demo: &lt;a href=&#39;http://jacware.github.com/fancyplaceholder/&#39; rel=&#34;nofollow&#34;&gt;http://jacware.github.com/fancyplaceholder/&lt;/a&gt;
+
+Let me know what you all think!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-237&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/bf2b0d6a0f46d26d5cb5168285107816?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/bf2b0d6a0f46d26d5cb5168285107816?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jfeliweb.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jeazy&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-237&#34;&gt;&lt;time datetime=&#34;2013-03-04T19:39:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:39pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great Article! This makes complete sense to me and you hit the points well. I can’t count how many times I forget what to put into a form.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-239&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/92340eafa4400eae2b68798a47e077bf?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/92340eafa4400eae2b68798a47e077bf?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://kolor-designs.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;razvan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-239&#34;&gt;&lt;time datetime=&#34;2013-05-25T05:08:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:08am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It always drives me crazy when a form only has placeholders that go away on focus. 
+
+I really like the aesthetic of having the label inside the input field –; just don’t hide it on focus. Here’s an example of how I implemented it on one of the projects I worked on: goo.gl/pzdkg
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-240&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ff5098abb715ee41beda5c4239a3f2f4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ff5098abb715ee41beda5c4239a3f2f4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Spencer Edwards&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-240&#34;&gt;&lt;time datetime=&#34;2013-06-11T16:53:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:53pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent post!  I agree that this rising trend of only using placeholders as labels is actually knocking down the usability of a form.  I tend to use both as well, as one does accent the other.  There are ways to get a slick design while using both.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-2780&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laura Kalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-2780&#34;&gt;&lt;time datetime=&#34;2013-10-25T07:09:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A quick update on this subject: [Brad Frost has written up a great potential float label pattern (designed by Matt D Smith) on his website](http://bradfrostweb.com/blog/post/float-label-pattern/&#34; rel=&#34;nofollow).
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-140588&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/000da50f19db5e37a65c29b87fd30956?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/000da50f19db5e37a65c29b87fd30956?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Ken Pierce&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-140588&#34;&gt;&lt;time datetime=&#34;2015-04-22T04:13:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;04:13am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Some good ideas in the comments, but don’t forget that any solution that involves hovering the mouse literally does not exist for any user who lives on a smart phone rather then parked in front of a nice big monitor.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-145915&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3d27a2811e4f7db144ee521ea05ebfcb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3d27a2811e4f7db144ee521ea05ebfcb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;loeffel&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-145915&#34;&gt;&lt;time datetime=&#34;2016-03-17T10:03:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:03am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This can be done without using placeholder text with pure css. The markup needs to include the label after the input field then just position the label absolutely and resize and move it a few pixels up with something like `input-text:focus + label`. Add a transition and voilà –; no need for a jquery plugin.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

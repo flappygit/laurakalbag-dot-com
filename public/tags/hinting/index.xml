@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hinting on Laura Kalbag</title>
+    <title>Posts from Hinting on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/hinting/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 25 Jun 2012 12:06:43 +0000</lastBuildDate>
@@ -17,9 +17,12 @@
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
       
       <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
-      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
-This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
-Typography and the web at Ampersand conference</description>
+      <description>&lt;p&gt;I’ve written &lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;a big old writeup for ubelly&lt;/a&gt; from my notes at &lt;a href=&#34;http://2012.ampersandconf.com/&#34;&gt;Ampersand conference&lt;/a&gt; earlier in the month.&lt;/p&gt;
+
+&lt;p&gt;This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;Typography and the web at Ampersand conference&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

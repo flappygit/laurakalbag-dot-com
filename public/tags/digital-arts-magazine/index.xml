@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digital Arts Magazine on Laura Kalbag</title>
+    <title>Posts from Digital Arts Magazine on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/digital-arts-magazine/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 20 Feb 2015 16:34:52 +0000</lastBuildDate>
@@ -17,10 +17,39 @@
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</guid>
-      <description>Another fab and in-depth article from Craig Grannell on Digital Arts, this time on Web fonts: what designers need to know in 2015. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.
- 
-My full answers to Craig’s original questions are below:
-What do you consider the current best options for working with web fonts? I’m forever changing my mind, but I tend to prefer to host fonts on the site itself.</description>
+      <description>
+
+&lt;p&gt;Another fab and in-depth article from Craig Grannell on Digital Arts, this time on &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/&#34;&gt;Web fonts: what designers need to know in 2015&lt;/a&gt;. Craig asked a load of smart designers (and me) about web fonts, web font services, and how to choose web fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-4621&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/02/Digital-Arts-Web-fonts-2015-1024x707.png&#34; alt=&#34;Digital Arts - Web fonts 2015&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My full answers to Craig’s original questions are below:&lt;/p&gt;
+
+&lt;h2 id=&#34;what-do-you-consider-the-current-best-options-for-working-with-web-fonts&#34;&gt;What do you consider the current best options for working with web fonts?&lt;/h2&gt;
+
+&lt;p&gt;I’m forever changing my mind, but I tend to prefer to host fonts on the site itself. That way you usually have more control over the font itself, and you’re not beholden to a font service that could slow your site down, or even go down completely. I also like paying a one-off fee for fonts where possible, even if it’s a bit more expensive. A one-off fee is a more predictable cost than paying for a subscription for the foreseeable future.&lt;/p&gt;
+
+&lt;h2 id=&#34;for-newcomers-what-key-differences-are-there-in-using-a-web-font-service-of-hosting-fonts-themselves&#34;&gt;For newcomers, what key differences are there in using a web font service of hosting fonts themselves?&lt;/h2&gt;
+
+&lt;p&gt;When a web font service hosts the fonts themselves, it usually results in a great selection of typefaces for a very reasonable price. Most font services also handle a lot of the trickier technical stuff, so you can easily pick out the weights and subset you want, and you’re good to go.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-use-a-particular-service-what-differentiates-it-for-you&#34;&gt;If you use a particular service, what differentiates it for you?&lt;/h2&gt;
+
+&lt;p&gt;I always pick the service based on the typeface I want to use. When I’m designing the typography, I’ll hunt down a few typefaces to choose from, then shop around a few services to see which gives me the most freedom and control at the most reasonable price.&lt;/p&gt;
+
+&lt;p&gt;The only service I always avoid is Google Web Fonts. When you install a script from a third party on your site, including web fonts, you need to trust that third party to deliver its goods, and only track the page data in a way that’s appropriate to their services. Google makes money from tracking data, and is providing the font services for free. I wouldn’t be happy exchanging the data of my visitors in return for free fonts. It’s worth reading &lt;a href=&#34;http://fontfeed.com/archives/google-webfonts-the-spy-inside/&#34;&gt;Yves Peters’ post on about Google Web Fonts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-changes-in-tech-are-likely-during-the-first-half-of-2015-and-how-do-you-think-this-will-benefit-designers&#34;&gt;What changes in tech are likely during the first half of 2015, and how do you think this will benefit designers?&lt;/h2&gt;
+
+&lt;p&gt;Whether its net neutrality, the snoopers charter, or rights to encryption, equal access and privacy keep coming up as primary concerns in tech. These important issues with rights and ethics on the web give designers great opportunities to create work that can make a difference to the future of our platform. With new problems, designers get the chance to work with new constraints and user experience challenges that could stand the test of time, rather than just making more commercial brochureware for a brand that’ll disappear in a couple of years.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,8 +58,19 @@ What do you consider the current best options for working with web fonts? I’m 
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
-      <description>Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called Designing for the unknown: how to design templates and frameworks, and has contributions from some really smart people.
-The title image is from my writeup of the Default Perch Theme project I did with Perch.</description>
+      <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
+
+&lt;p&gt;The title image is from my writeup of the &lt;a href=&#34;https://laurakalbag.com/project/default-perch-theme/&#34; title=&#34;Default Perch Theme&#34;&gt;Default Perch Theme project&lt;/a&gt; I did with Perch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4520&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/digital-arts-designing-for-the-unknown.png&#34; alt=&#34;Digital Arts: Designing for the unknown&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -39,8 +79,19 @@ The title image is from my writeup of the Default Perch Theme project I did with
       <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
-      <description>Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!
-In April, I spoke to Neil Bennett about the future of web design, and the challenges we face. There were some good questions, and it’s interesting to see the answers of difference people from different areas side-by-side.</description>
+      <description>&lt;p&gt;Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!&lt;/p&gt;
+
+&lt;p&gt;In April, I spoke to Neil Bennett about &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/whats-future-of-web-design/&#34;&gt;the future of web design&lt;/a&gt;, and the challenges we face. There were some good questions, and it’s interesting to see the answers of difference people from different areas side-by-side.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/interactive-design/whats-future-of-web-design/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4514&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/Digital-Arts-future-of-web-design.png&#34; alt=&#34;Digital Arts - The future of web design: leading creatives discuss what&amp;#39;s coming next&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

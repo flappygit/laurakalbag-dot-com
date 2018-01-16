@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transcending Css on Laura Kalbag</title>
+    <title>Posts from Transcending Css on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/transcending-css/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 18 Jan 2011 16:28:19 +0000</lastBuildDate>
@@ -17,8 +17,264 @@
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
       
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
-      <description>My history with Transcending CSS In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading Web Standards Solutions.
-I was already well on my way to being a standards fiend, but Transcending CSS by Andy Clarke did, literally, transcend the standards and made me utterly mad about pushing the boundaries of CSS.</description>
+      <description>
+
+&lt;h2 id=&#34;my-history-with-transcending-css&#34;&gt;My history with Transcending CSS&lt;/h2&gt;
+
+&lt;p&gt;In 2006/early 2007 I read this amazing book. I was half way through my first year studying Digital Design, and I’d only been experimenting with standards-based web design for about six months after reading &lt;a href=&#34;http://www.amazon.co.uk/gp/product/1430219203?ie=UTF8&amp;amp;amp;tag=laurkalb-21&amp;amp;amp;linkCode=as2&amp;amp;amp;camp=1634&amp;amp;amp;creative=19450&amp;amp;amp;creativeASIN=1430219203&#34;&gt;Web Standards Solutions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was already well on my way to being a standards fiend, but &lt;a href=&#34;http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&amp;amp;amp;location=http%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_ss_i_3_16%26y%3D0%26field-keywords%3Dtranscending%2520css%26url%3Dsearch-alias%253Dstripbooks%26sprefix%3Dtranscending%2520css&amp;amp;amp;tag=laurkalb-21&amp;amp;amp;linkCode=ur2&amp;amp;amp;camp=1634&amp;amp;amp;creative=19450&#34;&gt;Transcending CSS&lt;/a&gt; by &lt;a href=&#34;http://www.stuffandnonsense.co.uk/&#34; title=&#34;Stuff And Nonsense&#34;&gt;Andy Clarke&lt;/a&gt; &lt;strong&gt;did&lt;/strong&gt;, &lt;em&gt;literally&lt;/em&gt;, transcend the standards and made me utterly mad about pushing the boundaries of CSS.&lt;/p&gt;
+
+&lt;p&gt;Transcending CSS covered properties I’d never heard of before, like z-index, and Andy Clarke wrote it with such complete conviction that you couldn’t argue with his points for progressive enhancement. I read it twice over and kept it on my desk for about two years. My only issue was that there wasn’t any index, so I wrote my own contents for the frequently-referenced pages in the front of the book in pencil.&lt;/p&gt;
+
+&lt;h2 id=&#34;anticipating-hardboiled-web-design&#34;&gt;Anticipating Hardboiled Web Design&lt;/h2&gt;
+
+&lt;p&gt;In the early days of Transcending CSS, I wasn’t on Twitter and I didn’t much follow the ‘industry’ around web design. I wasn’t really sure who Andy Clarke was, I just knew that he wrote this book I really liked.&lt;/p&gt;
+
+&lt;p&gt;Three years later and I’m a full time freelance designer, always on Twitter, and always trying to keep up with the latest and greatest in the most practical way possible. When Hardboiled Web Design was announced by Five Simple Steps, I’ll admit I was pretty excited. I loved &lt;a href=&#34;http://fivesimplesteps.com/books/practical-guide-designing-for-the-web&#34;&gt;A Practical Guide to Designing For The Web&lt;/a&gt; (also by &lt;a href=&#34;http://fivesimplesteps.com/&#34;&gt;Five Simple Steps&lt;/a&gt;) which only made me keener.&lt;/p&gt;
+
+&lt;p&gt;I followed all of &lt;a href=&#34;http://twitter.com/malarkey&#34; title=&#34;Andy Clarke on Twitter&#34;&gt;Andy’s tweets&lt;/a&gt; about &lt;a href=&#34;http://twitter.com/#!/search/%23hardboiledwebdesign&#34; title=&#34;Twitter search for #hardboiledwebdesign&#34;&gt;#hardboiledwebdesign&lt;/a&gt; so I knew what to expect from the book. As I’m now following the goings-on of HTML5 and CSS3 a lot closer, I knew it probably wouldn’t have the same appeal as my &lt;em&gt;wow-this-is-what-the-web-can-really-do&lt;/em&gt; awe of Transcending CSS, but it still didn’t disappoint.&lt;/p&gt;
+
+&lt;h2 id=&#34;hardboiled-web-design&#34;&gt;Hardboiled Web Design&lt;/h2&gt;
+
+&lt;p&gt;The book is predictably well-written. It’s not too formal, not overly-instructional and very friendly. That’s already an improvement on the majority of books about web development. Sometimes the tone is a bit &lt;em&gt;scary-in-a-good-way&lt;/em&gt;, you can really tell how much Andy cares about pushing the web forward.&lt;/p&gt;
+
+&lt;p&gt;The book is themed around detective stories. I found the detective novel references a bit much at times, but that’s because I’ve never read any (not that I wouldn’t, I just haven’t!) It started to feel a bit like an in-joke I wasn’t a part of, but did make for lovely illustrations and content examples.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web-2.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-297&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-2.jpg&#34; alt=&#34;Beautiful front cover illustration&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Beautiful front cover illustration
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;worth-it-for-the-inspiration-alone&#34;&gt;Worth it for the inspiration alone&lt;/h3&gt;
+
+&lt;p&gt;The first quarter of the book is dedicated to telling you &lt;em&gt;why&lt;/em&gt; you bother with new innovations in web development. You’re loaded with ways to persuade your clients or bosses to go along with it too. If you’ve been um-ing and ah-ing about using HTML5 or CSS3 then this chapter is for you. Even if you haven’t, like I hadn’t, it’s really valuable to have someone else put forward the arguments in an easy-to-understand way.&lt;/p&gt;
+
+&lt;h3 id=&#34;html5-css3-and-the-rest&#34;&gt;HTML5, CSS3 and the rest&lt;/h3&gt;
+
+&lt;p&gt;The HTML5 and CSS3 examples are great. I found some of the CSS a bit hard to follow through reading alone, as not every code example had an accompanying image to illustrate it, but it was great to read in front of a text editor. As soon as you try out the examples in the book yourself, it all becomes much clearer.&lt;/p&gt;
+
+&lt;p&gt;What really was the big thing for me was the inclusion of &lt;a href=&#34;http://microformats.org&#34; title=&#34;Microformats Wiki&#34;&gt;microformats&lt;/a&gt;. I’ve been working with microformats for a couple of years and I’m smitten. Anything that helps me write better, more semantic, more useful markup is my thing. It’s really good to see microformats getting the attention and explanation they deserve. Andy does them justice and gives some really useful examples, especially on combining different specifications.&lt;/p&gt;
+
+&lt;h3 id=&#34;different-formats&#34;&gt;Different formats&lt;/h3&gt;
+
+&lt;p&gt;I bought &lt;a href=&#34;http://fivesimplesteps.com/books/hardboiled-web-design&#34; title=&#34;Buy Hardboiled Web Design from Five Simple Steps&#34;&gt;the bundle package from Five Simple Steps&lt;/a&gt; that included the book itself, a PDF version (available for instant download) and a poster.&lt;/p&gt;
+
+&lt;p&gt;I liked the idea of having the PDF for reading using &lt;a href=&#34;http://www.apple.com/ipad/features/ibooks.html&#34; title=&#34;Apple&#39;s iBooks&#34;&gt;iBooks&lt;/a&gt; on my iPhone and iPad. This was a bit of an issue, as the PDF has the same layout as the book itself, including very wide margins. This made for easy reading at full size on my mac, slightly eye-straining use on my iPad and a right nightmare on the iPhone. To read the text on iPhone, you have to zoom about a lot. Alongside constant scrolling to read the full width in the page, it’s not the most comfortable reading experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-295 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web.png&#34; alt=&#34;reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t necessarily think it should have been designed for these small devices! I’m just saying that I wouldn’t buy the PDF if iPhone usage (or even iPad, really) was what you had in mind.&lt;/p&gt;
+
+&lt;h3 id=&#34;no-index-again&#34;&gt;No index again!&lt;/h3&gt;
+
+&lt;p&gt;Again, the biggest issue for me was the absence of an index. With a book so full of useful examples, I’m constantly flicking through trying to find the example I remembered from the first read. Having the PDF is useful, as you can use a search function to find what you’re looking for, but fiddling about opening PDF files isn’t really for me when I could just grab the book from next to my desk. So, I’ve gone back to the old-school and have started sticking postits in as bookmarks. I like the idea that it looks like a much-loved textbook!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-medium wp-image-296&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-320x238.jpg&#34; alt=&#34;old-school postit bookmarks&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		old-school postit bookmarks
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;should-you-buy-hardboiled-web-design&#34;&gt;Should you buy Hardboiled Web Design?&lt;/h2&gt;
+
+&lt;h3 id=&#34;absolutely-without-a-doubt-yes&#34;&gt;Absolutely, without a doubt, yes.&lt;/h3&gt;
+
+&lt;p&gt;Alongside &lt;a href=&#34;https://laurakalbag.com/html5-for-web-designers/&#34; title=&#34;Review of HTML5 For Web Designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt;, I think that Hardboiled Web Design would go a very long way to prepare a web designer (designer-developer) for all these amazing new technologies.&lt;/p&gt;
+
+&lt;p&gt;Not only do you get the low-down on how to use it, you get the most important arguments of &lt;strong&gt;why&lt;/strong&gt; and &lt;strong&gt;when&lt;/strong&gt; that seem to be holding so many designers back.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/web-3.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-298&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/web-3.jpg&#34; alt=&#34;Hardboiled Web Design by Andy Clarke&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Hardboiled Web Design by Andy Clarke
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;11-comments&#34;&gt;11 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-167&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jack Franklin&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-167&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:32:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:32pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        My copy has been sitting on my desk for 2 weeks now&amp;#8230;whilst I have to revise for this bloody exam *mumbles*. And the poster is right on the wall just to remind me! I will have to find time for this, great review Laura.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-169&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;juliancheal&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-169&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:34:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Thinking you should read some Philip Marlowe books :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-168&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b9f6d00bc870d14a990d40731a255bbf?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.lukejones.me/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Luke Jones&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-168&#34;&gt;&lt;time datetime=&#34;2011-01-18T16:38:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Definitely going to grab it once I’ve finished reading my pile of books. In fact, the only reason I haven’t is because my pile of books has grown over the past few months rather than shrunk. I still have A Practical Guide to Information Architecture waiting to be read from August.
+
+Thanks for the nice little review Laura — I prefer reading things like this rather than from the “in-group”. For example, guys like Mark Boulton, Jeremy Keith etc, I’m sure they’d be more biased.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-170&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.stevelacey.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Lacey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-170&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:34:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:34pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for sharing this, I was considering purchasing a copy a few weeks ago, and you may have swayed me.
+
+Having had a flick through a friends copy, I feel it’s mostly the more obscure content such as the hcard/hlisting/hevent use-case examples and improving mark-up semantics/accessibility with the role attribute that I’d find useful. That, and more complex CSS3 animations / explanations of how border images and multiple backgrounds work.
+
+Do you feel the book goes into enough depth? I’ve only toyed with HTML5 and CSS3- and I found the basics i.e. the new structural elements, shadows and border-radius pretty easy to get to grips within a couple of minutes of Googling. Having skimmed the book I found a lot of this being seemingly laboured. Whilst I understand that this is beneficial to some, I’d have thought the kinds of people buying the book would have at least had a bit of a play with the various new technologies emerging.
+
+I guess what I’m trying to assess is how much &lt;i&gt;new&lt;/i&gt; content I’m getting for my buck and whether I’d keep referring back to it or would it inevitably join the pile of books propping up my monitor?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-171&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-171&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:42:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I agree that some developers will already know a lot about HTML5 and CSS3 and how to use them, there’s loads of generators and references out there. 
+
+However I’d say the value is more in the inspiration of what you can do with these new technologies. You can be given the tools but if you haven’t got a good idea of how to use them tastefully, all sorts of hideous stuff can come about (like the wide misuse of text-shadow!!)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-172&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d31e3ba459fef7d0d5994291c3ef8b69?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.stevelacey.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Lacey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-172&#34;&gt;&lt;time datetime=&#34;2011-01-18T17:47:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:47pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A good point, well made.
+
+I figure I’m not the only one fed up of seeing text-shadow: 1px 1px 1px #FFF then, I mean, yawn.
+
+I think I’ll be forking out for the book in the near future.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-173&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1a8330c6a0c01095c6ff7422b6d4faef?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.rarescosma.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rares&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-173&#34;&gt;&lt;time datetime=&#34;2011-01-18T20:55:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;100 pages to go ;-)
+
+Priceless information on microformats.&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-174&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/add28f03b831ce421dc4845961a7fe90?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://miralize.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sean O&#39;Grady&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-174&#34;&gt;&lt;time datetime=&#34;2011-01-18T20:56:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:56pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        You’ve written my exact sentiments towards Hardboiled Web Design. Its a great book so far, I think I may have to read it again as soon as I finish it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-175&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ae7294b9e77d676b1940e0e0c4315599?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://redeyedesigner.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;David B.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-175&#34;&gt;&lt;time datetime=&#34;2011-01-18T22:00:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:00pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It’s such a good book. I’ve only read the pdf and can’t wait to get my printed copy. I ordered it on day one and still nothing :(
+
+Once I get it I’ll go through another read through and will probably have it on my desk most of the time.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-176&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-176&#34;&gt;&lt;time datetime=&#34;2011-01-27T15:10:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write-up Laura. I’m currently reading through it now and finding it really enjoyable and “scary-in-a-good-way” too. It has really got me thinking how I can better my code semantically and design more creatively for advanced browsers and not worry about the latter. I really want a cool project come my way where I can put this new knowledge to use!
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

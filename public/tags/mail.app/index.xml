@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mail.app on Laura Kalbag</title>
+    <title>Posts from Mail.app on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/mail.app/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 10 Feb 2013 15:31:54 +0000</lastBuildDate>
@@ -17,9 +17,139 @@
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
       
       <guid>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</guid>
-      <description>After reading this brilliant Mac App Storm post on Turning Mail.app Into the Best Mac Email App, I was inspired to follow a lot of the tips to make my emails easier to handle.
-I made three Smart Mailboxes, following the tips I chose:
- ‘Follow Up’ which contains emails flagged with a green flag, using the shortcut of ⌘⇧g ‘Needs Reply’ which contains emails flagged with a blue flag, using the shortcut of ⌘⇧b ‘Needs Attention’ which contains emails flagged with a red flag, using the shortcut of ⌘⇧r  The benefit of using the red flag for ‘Needs Attention’ as a way of noting emails which need organising into either of the other smart mailboxes is that Mail.</description>
+      <description>
+
+&lt;p&gt;After reading this brilliant &lt;a href=&#34;http://mac.appstorm.net/how-to/internet-howto/turning-mail-app-into-the-best-mac-email-app/&#34;&gt;Mac App Storm post on Turning Mail.app Into the Best Mac Email App&lt;/a&gt;, I was inspired to follow a lot of the tips to make my emails easier to handle.&lt;/p&gt;
+
+&lt;p&gt;I made three Smart Mailboxes, following the tips I chose:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;‘Follow Up’ which contains emails flagged with a green flag, using the shortcut of ⌘⇧g&lt;/li&gt;
+&lt;li&gt;‘Needs Reply’ which contains emails flagged with a blue flag, using the shortcut of ⌘⇧b&lt;/li&gt;
+&lt;li&gt;‘Needs Attention’ which contains emails flagged with a red flag, using the shortcut of ⌘⇧r&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The benefit of using the red flag for ‘Needs Attention’ as a way of noting emails which need organising into either of the other smart mailboxes is that Mail.app on the iPhone only supports the red flag. This means I can easily flag something for later with a red flag on my phone, and deal with it properly when I get to my laptop.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+
+&lt;p&gt;However, I have a terrible memory for shortcut keys. I couldn’t remember which colours related to which mailboxes, and so couldn’t remember the relevant keyboard shortcuts (as these used the first letter of the name of the colour).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.10.31.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2217&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.10.31.png&#34; alt=&#34;Mail.app smart mailboxes in the Favourites bar&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Mail.app smart mailboxes in the Favourites bar
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
+
+&lt;p&gt;I knew Mail.app wasn’t hugely customisable, but I thought I could try using &lt;a href=&#34;http://en.wikipedia.org/wiki/Emoji&#34;&gt;emoji characters&lt;/a&gt; in the names of the smart mailboxes as you can have coloured characters, rather than the one-colour characters in most fonts.&lt;/p&gt;
+
+&lt;h3 id=&#34;getting-emoji&#34;&gt;Getting Emoji&lt;/h3&gt;
+
+&lt;p&gt;After some quick web searches, I couldn’t find any sites or apps that allowed me to grab the emoji I wanted. So I just wrote myself an iMessage with the emoji characters I thought might worked and send it to myself. With iMessage’s unreliability, I didn’t get it for ages, so in the meantime I copied and pasted the emoji into an email and sent it to myself.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.16.35.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2221&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.16.35.png&#34; alt=&#34;Emailing myself emoji characters&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Emailing myself emoji characters
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, a few of the characters didn’t quite work as they’re mapped to other characters in OSX.&lt;/p&gt;
+
+&lt;h3 id=&#34;copy-paste-and-ta-da&#34;&gt;Copy, paste and ta-da&lt;/h3&gt;
+
+&lt;p&gt;I then just copied and pasted the characters into the smart mailbox names.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.17.16.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2225&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.17.16.png&#34; alt=&#34;Pasting emoji into smart mailbox names&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Pasting emoji into smart mailbox names
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It worked exactly as I wanted. I now have little coloured visual indicators that show me which shortcuts I need to use to send mail into those mailboxes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.17.58.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2229&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/Screen-Shot-2013-02-10-at-15.17.58.png&#34; alt=&#34;Mail.app Favourites bar with emoji smart mailbox names&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Mail.app Favourites bar with emoji smart mailbox names
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-485&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://evanlovely.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Evan Lovely&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-485&#34;&gt;&lt;time datetime=&#34;2013-02-10T19:24:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:24pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice job! I like it! The human mind works better (and faster) with imagery than words as words still need to get processed over to their meaning whereas imagery can have inherent meaning. Thanks for sharing the good idea!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-486&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/850841aafedc98039c55ee125b7525e4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://evanlovely.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Evan Lovely&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-486&#34;&gt;&lt;time datetime=&#34;2013-02-10T21:09:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        So I was implementing this and found an easier way: Put your cursor in the name field, then go to Edit &amp;gt; Special Characters &amp;gt; Emoji then double click the one you want.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

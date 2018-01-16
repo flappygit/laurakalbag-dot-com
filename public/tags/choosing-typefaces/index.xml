@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Choosing Typefaces on Laura Kalbag</title>
+    <title>Posts from Choosing Typefaces on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/choosing-typefaces/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 12 Oct 2012 21:39:30 +0000</lastBuildDate>
@@ -17,7 +17,410 @@
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
       
       <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
-      <description>First steps: choosing a typeface The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?</description>
+      <description>
+
+&lt;h2 id=&#34;first-steps-choosing-a-typeface&#34;&gt;First steps: choosing a typeface&lt;/h2&gt;
+
+&lt;p&gt;The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?!) before completely falling for Avenir. &lt;a href=&#34;http://www.fonts.com/font/linotype/avenir?QueryFontType=Web&#34; title=&#34;Avenir web font on fonts.com&#34;&gt;Avenir was only available (with the delivery method I preferred) as a web font from fonts.com&lt;/a&gt; so that made choosing the font service much easier.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1171 wp-caption aligncenter size-full wp-image-1171&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/72.png&#34; alt=&#34;Avenir typeface sample&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Avenir typeface sample
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;basic-setting-of-the-typeface&#34;&gt;Basic setting of the typeface&lt;/h3&gt;
+
+&lt;p&gt;Playing with Avenir in &lt;a href=&#34;http://beta.typecastapp.com/&#34;&gt;Typecast&lt;/a&gt; gave me an idea of the size I wanted to use it. Making it pretty big allowed its character to show whilst maximising readability. I’m also keen on a bigger line height on rounded sans serif type faces as their spacious counters can make their lines harder to distinguish if the leading is tighter.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1172 wp-caption aligncenter size-full wp-image-1172&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/Screen-Shot-2012-10-12-at-19.58.47.png&#34; alt=&#34;Playing with content set in Avenir in Typecast&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Playing with content set in Avenir in Typecast
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;base-units-and-vertical-rhythm&#34;&gt;Base units and vertical rhythm&lt;/h2&gt;
+
+&lt;p&gt;It was then time to decide on the base unit I was going to use as the foundation for my grid. Admittedly, I did this somewhat arbitrarily; I tend to go with multiples of 10 (occasionally using 5) as it makes the maths easier, so this time I challenged my maths with multiples of 12 (using 6 for detail.) Another justification I had was that it would be more harmonious working with what would probably become a three column grid, thus roughly using “thirds” as a concept. To create a consistent vertical rhythm I used multiples of my base unit on all vertical measurements, including line-heights, margins and padding.&lt;/p&gt;
+
+&lt;h2 id=&#34;horizontal-grids&#34;&gt;Horizontal grids&lt;/h2&gt;
+
+&lt;p&gt;When I was creating the grid design for this site I was dying to play more with &lt;a href=&#34;https://gridsetapp.com/&#34;&gt;Gridset&lt;/a&gt;. My content was fairly flexible; most pages consisted of a large amount of body text, which just needed to be as readable and digestible as possible, and some meta information which could sit to one side or above the content depending on the space available in the viewport.&lt;/p&gt;
+
+&lt;p&gt;Having this flexibility in my content meant the fancy grids in Gridset were mine to try out. I chose grid A as my primary grid to stick to for as many of the layouts as suited the content, and B as my secondary grid when the content better fitted to points between the grid A’s columns. Using the grids overlaid in this way gave me consistency whilst still maintaining a level of flexibility.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1173 wp-caption aligncenter size-full wp-image-1173&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/grid-a-and-grid-b.png&#34; alt=&#34;Grid A and Grid B overlaid on my base unit grid&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Grid A and Grid B overlaid on my base unit grid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1174 wp-caption aligncenter size-full wp-image-1174&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/grids-a-and-b-overlaid.png&#34; alt=&#34;Grids A and B overlaid&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Grids A and B overlaid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;flexible-grids&#34;&gt;Flexible grids&lt;/h3&gt;
+
+&lt;p&gt;Now I don’t really believe in creating a fully (often based entirely on percentages) horizontal grid &lt;em&gt;along with&lt;/em&gt; a fixed vertical grid (usually described through line-heights and vertical margins/padding.) If you do this, the ratio/proportions relating the horizontals and verticals change every time the page is loaded in a different width viewport. This can have far less than harmonious results.&lt;/p&gt;
+
+&lt;p&gt;Instead, as my viewport reduces in width, I remove the columns from the right end of the grid and re-distribute the content where relevant in order to achieve readable content and consistent, structured feel. So this might be me as designer ‘not letting go’ of fixed constraints or embracing fluidity as much as I possibly can, but I believe that it’s this structure that allows us to maintain a level of control over the measure (line length) necessary for pleasurable reading experience. If you’re going to create breakpoints at arbitrary positions in order to keep your text readable, why not fit it around a balanced grid layout instead?&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1175 wp-caption aligncenter size-full wp-image-1175&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/about-large.png&#34; alt=&#34;Wide About page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Wide About page, utilising the full grid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1179 wp-caption aligncenter size-full wp-image-1179&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/blog-large.png&#34; alt=&#34;Wide Blog page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Wide Blog page, utilising the full grid
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1176 wp-caption aligncenter size-full wp-image-1176&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/about-medium.png&#34; alt=&#34;Medium-width About page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Medium-width About page, moved one column to the left
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1180 wp-caption aligncenter size-full wp-image-1180&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/blog-medium.png&#34; alt=&#34;Medium-width blog page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Medium-width blog page, with meta content shown below the main content rather than in left column
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1177 wp-caption aligncenter size-full wp-image-1177&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/about-small.png&#34; alt=&#34;Smaller-width About page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Smaller-width About page, not using the grid structure but using padding based on the base unit size
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;attachment_1181 wp-caption aligncenter size-full wp-image-1181&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/blog-small.png&#34; alt=&#34;Smaller-width Blog page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Smaller-width Blog page, not using the grid structure but using padding based on the base unit size
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;paddings-and-margins&#34;&gt;Paddings and margins&lt;/h3&gt;
+
+&lt;p&gt;Just like in my vertical rhythm my column padding, and with any horizontal margins in the layout, I stuck to multiples of my base unit. This helps keep the balance between the horizontal and vertical elements of the layout and prevents it from feeling stretched or condensed in some viewports, which I think is often an unfortunate side effect of a truly fluid layout with a stingy lack of breakpoints.&lt;/p&gt;
+
+&lt;h3 id=&#34;breaking-the-grid-content-comes-first&#34;&gt;Breaking the grid (content comes first)&lt;/h3&gt;
+
+&lt;p&gt;There were points at which I broke from my grid structure in order to better serve my content: project archive pages. These are more optimised for the viewport width to keep the images big enough to identify their subject but small enough that they’re not creating excessive page length (or indeed weight.) But these image/column widths are still multiples of the base unit grid, so subtly remain consistent and true to my grid design.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1182 wp-caption aligncenter size-full wp-image-1182&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/past-projects.png&#34; alt=&#34;Past projects page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Past projects page breaks the grid by having a more content-appropriate layout
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;left-aligning-the-grid&#34;&gt;Left-aligning the grid&lt;/h3&gt;
+
+&lt;p&gt;For a long time, I had centred my page layouts in the browser window, believing that it was the most optimal use of space (or rather broke up large expanses of white space!) However, for this design I decided that I’d left-align the grid to the viewport. This kept my grid looking structured as it didn’t leave an infinitely resizable column on the left side of the browser, and also preserved the rigidity of that left-aligned grid as I removed right-hand columns as the viewport width was reduced.&lt;/p&gt;
+
+&lt;p&gt;Often the whitespace resulting from a left-aligned page layout would could feel gaping, so I decided (on pages that didn’t otherwise have much imagery) I would use that space for a background illustration that I hoped would be better use of otherwise redundant space.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1178 wp-caption aligncenter size-full wp-image-1178&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/about-wide.png&#34; alt=&#34;Very wide About page&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Very wide About page showing the background illustration
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;tweaks&#34;&gt;Tweaks&lt;/h2&gt;
+
+&lt;p&gt;A few days after the launch of my site I made a few tweaks. The most significant to my grid being adjusting the main content font size and line height on narrower viewports. I didn’t want to go with that awful trend of shrinking text to an unreadable size just because the screen is smaller. As &lt;a href=&#34;http://simonfosterdesign.com/&#34;&gt;Simon Foster&lt;/a&gt; said in his great Responsive Designer talk at &lt;a href=&#34;http://webexpoguildford.co.uk/&#34;&gt;Web Expo Guildford&lt;/a&gt; just today; it’s about balancing measure with a readable font size and a readable font size should always win. I shrunk the font size by only 1 (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt;) unit , but shrunk the line-height by 6 (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;) units. This made the measure a little better whilst still preserving a (hopefully) readable font size, but also fitted considerably more text into smaller viewports making it a little less distracting to read.&lt;/p&gt;
+
+&lt;h2 id=&#34;evaluating&#34;&gt;Evaluating&lt;/h2&gt;
+
+&lt;p&gt;This approach to grid design works for me. I’m not saying I will use it for every project in the future, but at the moment it feels like it has the right balance of flexibility and control with content- and experienced-based priorities. Perhaps I could make my base unit em-based, or even percentage based (that’s got to be one hell of a Sass mixin) to make it even more ‘responsively’ flexible, I’m still exploring what’s possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;15-comments&#34;&gt;15 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-308&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ddd8d891066d9e31a3ee7b1ea4d8d4ab?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ddd8d891066d9e31a3ee7b1ea4d8d4ab?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.clintonbeattie.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Clinton&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-308&#34;&gt;&lt;time datetime=&#34;2012-10-14T18:10:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice insight into your workflow when considering grids in a responsive sight. Great final product!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-310&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-310&#34;&gt;&lt;time datetime=&#34;2012-10-15T09:41:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:41am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you Clinton!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-309&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0f0a06c9bd1abfd7d77d43419c2d1ee4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0f0a06c9bd1abfd7d77d43419c2d1ee4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.renaissance-design.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chris&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-309&#34;&gt;&lt;time datetime=&#34;2012-10-14T21:06:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:06pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I like your thinking there. Comment form fields butt against the right of the container for me, btw. Firefox/Android/800*480 portrait. Shamefully unsure of logical pixels, sorry.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-311&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-311&#34;&gt;&lt;time datetime=&#34;2012-10-15T09:42:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for the heads-up, Chris. It was on my radar but your comment finally pushed me to deploy a fix!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-312&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4eda1192a9edcae9c871352ef3d36910?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4eda1192a9edcae9c871352ef3d36910?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Steve&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-312&#34;&gt;&lt;time datetime=&#34;2012-10-16T14:14:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Really great article&amp;#8230;one of the best I’ve seen on the subject this year.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-313&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/68e3021411e20a569331fadd3c1dd114?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/68e3021411e20a569331fadd3c1dd114?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://Cloudacre.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Daniel&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-313&#34;&gt;&lt;time datetime=&#34;2012-10-17T13:09:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;A great article Laura, I’ve always wanted to try using grids and after reading about your workflow am certain to give it a try. I love seeing how other people approach their layouts. :)
+
+P.S. I’m still a sucker for centre aligning! :D
+
+Thank you for the insight. :)&lt;/p&gt;   &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-315&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/78de844f58c7802850fd81dbec312b4d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/78de844f58c7802850fd81dbec312b4d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Wayne&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-315&#34;&gt;&lt;time datetime=&#34;2012-10-19T20:32:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:32pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Brilliant to read about your thought process! Thanks so much. One of your image captions confused me –; “Medium-width blog page, with meta content shown above the main content rather than in left column”.
+
+It appears that the meta content is shown &lt;i&gt;below&lt;/i&gt; the main content, actually b/w the main content and the comments.
+
+I also see you fixed the Menu bounce problem on iOS 4 (at least it now works on my iPhone 4). Are you going to write about that as well?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-317&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-317&#34;&gt;&lt;time datetime=&#34;2012-10-21T18:59:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Wayne, I’ve now fixed that caption.
+
+And yes, I fixed the menu bounce problem. It was actually thanks to the lovely [Berklee](http://alpha.app.net/berklee&#34; title=&#34;Berklee on app.net&#34; rel=&#34;nofollow), who rewrote my function slightly and had the ability to test it on iOS5 (something I was struggling with!)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-318&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9a084c9c6f85b04026a9253828b6fe0e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9a084c9c6f85b04026a9253828b6fe0e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Reinier Kaper&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-318&#34;&gt;&lt;time datetime=&#34;2012-11-08T18:27:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for this insightful article, it’s always good to see how other approach it.
+
+One thing I have noticed recently is that using ’em’s for media queries seems to be working a little better than pixel values. You can view what happens when you zoom in to the page with the browser (CTRL + usually) and see that the media query ‘breaks’. By using ’em’s, which are relative, they will keep working, which is great if content should decide the breakpoints and you value your users settings.
+
+My 2 cents on this subject!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-319&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-319&#34;&gt;&lt;time datetime=&#34;2012-11-09T11:52:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:52am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I completely agree. I just find it really hard to work in ems, the maths breaks my brain. I use rems based on a root % value, but all the while I’m falling back to px, it’s not quite the same.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-320&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b32b96a09533a09b1511b650602767d7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b32b96a09533a09b1511b650602767d7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://llucas.org&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Lucas&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-320&#34;&gt;&lt;time datetime=&#34;2012-12-09T20:12:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:12pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Great article, Laura :)
+
+I really like the design of you site, so simple and beautiful.&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -26,9 +429,12 @@
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
       
       <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
-      <description>I’ve written a big old writeup for ubelly from my notes at Ampersand conference earlier in the month.
-This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.
-Typography and the web at Ampersand conference</description>
+      <description>&lt;p&gt;I’ve written &lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;a big old writeup for ubelly&lt;/a&gt; from my notes at &lt;a href=&#34;http://2012.ampersandconf.com/&#34;&gt;Ampersand conference&lt;/a&gt; earlier in the month.&lt;/p&gt;
+
+&lt;p&gt;This was an event I decided not to live-tweet, as the content is usually more involved and in-depth, making for a better big writeup and less tweetable quotes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;Typography and the web at Ampersand conference&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

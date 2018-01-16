@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordpress Templates on Laura Kalbag</title>
+    <title>Posts from Wordpress Templates on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/wordpress-templates/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 16 Jul 2010 21:50:50 +0000</lastBuildDate>
@@ -17,9 +17,275 @@
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
       
       <guid>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</guid>
-      <description>This post has three parts. This is part two. Visit the other parts below:
- Part 1: WordPress 3.0—Pre 3.0 and Beyond Part 3: WordPress 3.0—Theme Development and the Design  Really WordPress 3.0 Custom Post Types Custom Post Types are my new best friends. I have used new post types on every client project since the beta of WordPress 3.0. That’s how valuable I think they are.
-For any content that you need to act like a post, but not actually be a post, custom post types are there for you.</description>
+      <description>
+
+&lt;p&gt;This post has three parts. This is part two. Visit the other parts below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 1: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond&#34;&gt;WordPress 3.0—Pre 3.0 and Beyond&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part 3: &lt;a href=&#34;https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design&#34;&gt;WordPress 3.0—Theme Development and the Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;really-wordpress-3-0&#34;&gt;Really WordPress 3.0&lt;/h2&gt;
+
+&lt;h3 id=&#34;custom-post-types&#34;&gt;Custom Post Types&lt;/h3&gt;
+
+&lt;p&gt;Custom Post Types are my new best friends. I have used new post types on every client project since the beta of WordPress 3.0. That’s how valuable I think they are.&lt;/p&gt;
+
+&lt;p&gt;For any content that you need to act like a post, but not &lt;em&gt;actually&lt;/em&gt; &lt;strong&gt;be&lt;/strong&gt; a post, custom post types are there for you. If you already have a news section that uses posts, but also want an articles section separate from your posts, custom post types are what you need.&lt;/p&gt;
+
+&lt;p&gt;One of my latest site designs, stuartclayton.com, I used no fewer than four different custom post types:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.36.02.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-124 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.36.02.png&#34; alt=&#34;Custom post types in the WordPress admin&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Custom post types menus in use in the WordPress admin
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Discography&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s pretty self-explanatory, I used the custom post types to list a new CD in each post.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Books&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Each one of Stuart’s books has its own post in the ‘Books’ post type.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Features&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a bit less obvious. In the sidebar or footer on every page is a feature that shows a latest book, video or audio track.&lt;/p&gt;
+
+&lt;p&gt;For this I used a custom post type of ‘Feature’ with a featured image to show the image and using the title and text content (even though it’s very little text) as standard. The ‘Buy Now’ button is created by entering a URL and button text into a &lt;a href=&#34;http://www.deluxeblogtips.com/2010/04/how-to-create-meta-box-wordpress-post.html&#34;&gt;custom write panel&lt;/a&gt; (also known as &lt;a href=&#34;http://codex.wordpress.org/Function_Reference/add_meta_box&#34;&gt;meta boxes&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Gear&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The gear is pretty special as I made use of a ‘Gear’ custom post type with a ‘Type of gear’ custom taxonomy. You certainly couldn’t do that a few versions ago!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.37.20.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-125&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-20.37.20.png&#34; alt=&#34;Types of gear custom taxonomy panel in the WordPress editor&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Types of gear custom taxonomy panel
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Each item of musical gear that Stuart has is (or will be) listed under the ‘Gear’ section. Then to group the different gear by whether it’s a bass, an amp, strings or effects, a category-style custom taxonomy is used. This helps dictate how the pages are laid out.&lt;/p&gt;
+
+&lt;p&gt;I struggled a bit with custom post types at first. I think it It was probably because the developers hadn’t quite ironed out all the quirks and I was too keen on trying out everything during the beta. I could create custom post types that showed up in the admin with no problem, but had issues with choosing which features showed in the editors.&lt;/p&gt;
+
+&lt;p&gt;If you, like me, get a bit confused with the huge amount of options for custom post types in the functions.php file, I really would recommend you give &lt;a href=&#34;http://wordpress.org/extend/plugins/custom-post-type-ui/?compatibility%5Bversion%5D=3.0&amp;amp;amp;compatibility%5Btopic_version%5D=0.5.2&amp;amp;amp;compatibility%5Bcompatible%5D=1&#34;&gt;Custom Post Type UI&lt;/a&gt; by &lt;a href=&#34;http://webdevstudios.com/&#34;&gt;WebDevStudios&lt;/a&gt; a go. This excellent plugin does just what you would do in your functions.php file but gives it a friendly checkbox and text input interface in your WordPress admin so you needn’t write any code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-19.27.32.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-126&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-16-at-19.27.32-960x433.png&#34; alt=&#34;Custom Post Types UI in action&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Custom Post Types UI in action
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For those that more confident, these are the best resources I’ve found on creating custom post types straight into your themes (or plugins):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://justintadlock.com/archives/2010/04/29/custom-post-types-in-wordpress&#34;&gt;Custom Post Types in WordPress by Justin Tadlock&lt;/a&gt; (I know, I’m a fan!)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codex.wordpress.org/Custom_Post_Types&#34;&gt;Custom Post Types on the WordPress Codex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wpdevel.wordpress.com/2010/04/03/how-to-add-a-custom-icon-to-your-custom-post-type/&#34;&gt;How to add a custom icon to your custom post type by Ptah Dunbar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;loop-php-and-other-template-parts&#34;&gt;loop.php and other Template Parts&lt;/h3&gt;
+
+&lt;p&gt;A change in WordPress 3.0 that I’m a bit confused about is the template parts, which separates the WordPress loop into its own file, loop.php. It is certainly not necessary to do this in order to make your WordPress theme work, and the idea behind doing this is that you can now easily separate repeatable parts of your templates into different files and call them when you need them, thus preventing you repeating yourself many times in one file and needing to edit the same repeated line of code multiple times just because you want to change a few characters.&lt;/p&gt;
+
+&lt;p&gt;However, the implementation of this in the new default TwentyTen theme seems to contradict this non-repetitive, breaking up into digestible chunks, sensibility. Apologies for the huge amount of code that follows:&lt;/p&gt;
+
+&lt;p&gt;```
+&lt;pre class=&#34;brush:php&#34;&gt;can be overridden in child themes with loop.php or
+ * loop-template.php, where &amp;lsquo;template&amp;rsquo; is the loop context
+ * requested by a template. For example, loop-index.php would
+ * be used if it exists and we ask for the loop with:
+ * &lt;code&gt;get_template_part( &amp;lsquo;loop&amp;rsquo;, &amp;lsquo;index&amp;rsquo; );&lt;/code&gt;*
+ * @package WordPress
+ * @subpackage Twenty_Ten
+ * @since Twenty Ten 1.0
+ */
+?&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;max_num_pages &amp;gt; 1 ) : ?&amp;gt;&lt;/pre&gt;
+&lt;div id=&#34;nav-above&#34; class=&#34;navigation&#34;&gt;
+&lt;div class=&#34;nav-previous&#34;&gt;← Older posts’, ‘twentyten’ ) ); ?&amp;gt;&lt;/div&gt;
+&lt;div class=&#34;nav-next&#34;&gt;→’, ‘twentyten’ ) ); ?&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;
+&lt;div id=&#34;post-0&#34; class=&#34;post error404 not-found&#34;&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;
+&lt;div id=&#34;post-&amp;lt;?php the_ID(); ?&amp;gt;&#34;&gt;&amp;gt;&lt;/p&gt;
+&lt;h2 class=&#34;entry-title&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class=&#34;gallery-thumb&#34;&gt;$post-&amp;gt;ID, ‘post_type’ =&amp;gt; ‘attachment’, ‘post_mime_type’ =&amp;gt; ‘image’, ‘orderby’ =&amp;gt; ‘menu_order’, ‘order’ =&amp;gt; ‘ASC’, ‘numberposts’ =&amp;gt; 999 ) ); $total_images = count( $images ); $image = array_shift( $images ); $image_img_tag = wp_get_attachment_image( $image-&amp;gt;ID, ‘thumbnail’ ); ?&amp;gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;p&gt;
+&lt;div class=&#34;entry-utility&#34;&gt;&lt;span class=&#34;meta-sep&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;comments-link&#34;&gt; &lt;/span&gt; | &lt;span class=&#34;edit-link&#34;&gt;‘, ‘&lt;/span&gt;‘ ); ?&amp;gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;
+&lt;div id=&#34;post-&amp;lt;?php the_ID(); ?&amp;gt;&#34;&gt;&amp;gt; 
+
+→’, ‘twentyten’ ) ); ?&amp;gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;div class=&#34;entry-utility&#34;&gt;&lt;span class=&#34;meta-sep&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;comments-link&#34;&gt; &lt;/span&gt; | &lt;span class=&#34;edit-link&#34;&gt;‘, ‘&lt;/span&gt;‘ ); ?&amp;gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;
+&lt;div id=&#34;post-&amp;lt;?php the_ID(); ?&amp;gt;&#34;&gt;&amp;gt;&lt;/p&gt;
+&lt;h2 class=&#34;entry-title&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+→’, ‘twentyten’ ) ); ?&amp;gt; ‘&lt;/p&gt;
+&lt;div class=&#34;page-link&#34;&gt;‘ . __( ‘Pages:’, ‘twentyten’ ), ‘after’ =&amp;gt; ‘&lt;/div&gt;
+‘ ) ); ?&amp;gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;div class=&#34;entry-utility&#34;&gt;&lt;span class=&#34;cat-links&#34;&gt; Posted in&lt;/span&gt; %2$s’, ‘twentyten’ ), ‘entry-utility-prep entry-utility-prep-cat-links’, get_the_category_list( ‘, ‘ ) ); ?&amp;gt; &lt;span class=&#34;meta-sep&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;tag-links&#34;&gt; Tagged&lt;/span&gt; %2$s’, ‘twentyten’ ), ‘entry-utility-prep entry-utility-prep-tag-links’, $tags_list ); ?&amp;gt; &lt;span class=&#34;meta-sep&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;comments-link&#34;&gt; &lt;/span&gt; | &lt;span class=&#34;edit-link&#34;&gt;‘, ‘&lt;/span&gt;‘ ); ?&amp;gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;
+&lt;div id=&#34;nav-below&#34; class=&#34;navigation&#34;&gt;
+&lt;div class=&#34;nav-previous&#34;&gt;← Older posts’, ‘twentyten’ ) ); ?&amp;gt;&lt;/div&gt;
+&lt;div class=&#34;nav-next&#34;&gt;→’, ‘twentyten’ ) ); ?&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;pre class=&#34;brush:php&#34;&gt;```
+
+If you wade through the code above, you might notice that the loop is cycling through special displays for a gallery category, an asides category, the archives and search, and then all other posts.
+
+This seems utterly bizarre to me. Why, in an exercise that is aimed at splitting the code into manageable chunks are they lumping all of these different outputs into one new file? According to the [Template Hierarchy](http://codex.wordpress.org/Template_Hierarchy#Category_display), you could have separate template files for
+
+* a category named ‘gallery’ (category-gallery.php)
+* a category named ‘asides’ (category-asides.php)
+* an archive page (archive.php)
+* and search results (search.php.)
+
+Leaving all other posts happily served by index.php. This would keep your templates separate and easy to read as well as stopping WordPress having to cycle through all of those conditional options by just hitting the relevant template first.
+
+As I’ve said before, I’m no PHP developer, but if somebody could explain the logic of this particular loop.php file to me, it’d make me feel a lot happier!
+
+---
+
+This post has three parts. This is part two. Visit the other parts below:
+
+* Part 1: [WordPress 3.0—Pre 3.0 and Beyond](/wordpress-3-0-pre-3-and-beyond)
+* Part 3: [WordPress 3.0—Theme Development and the Design](/wordpress-3-0-theme-development-and-the-design)
+
+## 6 comments
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-19&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;benmckenna&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-19&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:02:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:02pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag 3 is great isn’t it? First real play this week and it’s so much less hacky it’s unreal. Now for the arduous client upgrades :-/
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-20&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-20&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:09:38+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @benmckenna it’s really cool. Shouldn’t be too troublesome with auto-upgrades and backwards compatibility.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-21&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;benmckenna&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-21&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:11:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:11pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag yep, just trying to leave a sensible period for plug-ins. I went a bit plug-in crazy one one in particular
+        &lt;/div&gt;
+
+&lt;p&gt;&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-22&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;nevillestclair&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-22&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:08:04+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:08pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Nice little précis of 3.0 stuff there. Ta for that. &amp;lt;3 custom posts.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-23&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-23&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:10:33+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @nevillestclair ooh, posh words. Thanks :) Custom posts are &amp;lt;3 &amp;lt;3 &amp;lt;3
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-24&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;nevillestclair&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-24&#34;&gt;&lt;time datetime=&#34;2010-07-16T21:16:12+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Any excuse to do diacritical marks on letters :p
+        &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

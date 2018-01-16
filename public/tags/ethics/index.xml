@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethics on Laura Kalbag</title>
+    <title>Posts from Ethics on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/ethics/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 30 Jul 2015 10:19:04 +0000</lastBuildDate>
@@ -17,9 +17,35 @@
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
-      <description>We have Piwik analytics on the Ind.ie site, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use Ghostery so I actually block analytics like this for my own use.
-As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:
- Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc) Browser/browser size/operating system (required to know how to optimise for visitors) Language spoken (required to work out how to best optimise for different languages) Referring links (to track who is saying what about your site)  BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:</description>
+      <description>&lt;p&gt;We have &lt;a href=&#34;https://forum.ind.ie/t/piwik-alternative-for-analytics/627&#34;&gt;Piwik analytics&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;Ind.ie site&lt;/a&gt;, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use &lt;a href=&#34;https://www.ghostery.com/en/&#34;&gt;Ghostery&lt;/a&gt; so I actually block analytics like this for my own use.&lt;/p&gt;
+
+&lt;p&gt;As someone who is a big web fan, and used to work in client services, I understand the value of particular types of analytics for simple sites like ours:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amount of hits (required to understand popular/unpopular content and make financial decisions for hosting etc)&lt;/li&gt;
+&lt;li&gt;Browser/browser size/operating system (required to know how to optimise for visitors)&lt;/li&gt;
+&lt;li&gt;Language spoken (required to work out how to best optimise for different languages)&lt;/li&gt;
+&lt;li&gt;Referring links (to track who is saying what about your site)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;BUT, I think there are unnecessary metrics that can be on the invasive side for simple sites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Internet Service Provider&lt;/li&gt;
+&lt;li&gt;Tracking of individuals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And some metrics I find misleading, as they’re based on pattern-matching and guessing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Engagement time&lt;/li&gt;
+&lt;li&gt;Gender/Income Level/Age/Interests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some of these are grey areas when it comes to tracking web apps, but I’d be interested to know where you all see boundaries? Are all analytics bad analytics? Is there room for “ethical analytics” that only tracks anonymous data with limited uses? Would there be a business in that?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://forum.ind.ie/t/is-there-potential-for-ethical-analytics/628/2&#34;&gt;Discussion on the Ind.ie forum&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,7 +54,17 @@ As someone who is a big web fan, and used to work in client services, I understa
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
-      <description>Last week, my column on The Illusion Of Free was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around Ind.ie. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.</description>
+      <description>&lt;p&gt;Last week, &lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;my column on The Illusion Of Free&lt;/a&gt; was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4639&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/04/Illusion-of-Free.png&#34; alt=&#34;Screenshot of column on The Illusion of Free&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +73,19 @@ As someone who is a big web fan, and used to work in client services, I understa
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
       
       <guid>https://laurakalbag.com/pastry-box-march/</guid>
-      <description>Today my thought for March was posted on The Pastry Box. It was inspired by First Things First 2014, talks by Cole Peters and Nicklas de León Persson at Design and Banter, and Fictive Kin‘s slashpurpose.org.
-I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.</description>
+      <description>&lt;p&gt;Today &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;my thought for March was posted on The Pastry Box&lt;/a&gt;. It was inspired by &lt;a href=&#34;http://firstthingsfirst2014.org&#34;&gt;First Things First 2014&lt;/a&gt;, talks by &lt;a href=&#34;http://twitter.com/cole_peters&#34;&gt;Cole Peters&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/takete&#34;&gt;Nicklas de León Persson&lt;/a&gt; at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design and Banter&lt;/a&gt;, and &lt;a href=&#34;http://fictivekin.com/purpose&#34;&gt;Fictive Kin&lt;/a&gt;‘s &lt;a href=&#34;http://slashpurpose.org&#34;&gt;slashpurpose.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4277&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/03/pastry-box-march.png&#34; alt=&#34;Laura Kalbag on The Pastry Box, Tuesday, 11 March 2014&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -47,7 +94,27 @@ I’ve started formulating a draft of my “purpose” for this site, but it’s
       <pubDate>Sat, 11 Jan 2014 11:06:40 +0000</pubDate>
       
       <guid>https://laurakalbag.com/writing-on-the-pastry-box/</guid>
-      <description>Today is the day my first “thought” of the year is published on The Pastry Box. When Alex asked me if I wanted to be a part of The Pastry Box project, I leapt at the chance. There are some fantastic people who have contributed such interesting thoughts and ideas over there in the last couple of years, and looking at the lineup for this year, I’m sure that won’t be changing anytime soon.</description>
+      <description>
+
+&lt;p&gt;Today is the day &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-january-11&#34;&gt;my first “thought” of the year is published on The Pastry Box&lt;/a&gt;. When Alex asked me if I wanted to be a part of The Pastry Box project, I leapt at the chance. There are some fantastic people who have contributed such interesting thoughts and ideas over there in the last couple of years, and looking at &lt;a href=&#34;https://the-pastry-box-project.net/bakers/year/2014&#34;&gt;the lineup for this year&lt;/a&gt;, I’m sure that won’t be changing anytime soon. It’s very exciting to join in, and I really love the &lt;a href=&#34;https://the-pastry-box-project.net/philosophy&#34;&gt;philosophy of consuming content in a way that works for you, and ensures the content’s longevity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ethics&#34;&gt;Ethics&lt;/h2&gt;
+
+&lt;p&gt;I had a great conversation about ethics in client work with Andy Clarke on the &lt;a href=&#34;http://unfinished.bz/50&#34;&gt;Unfinished Business podcast&lt;/a&gt; a few weeks ago. In a world where society is clearly struggling with so many issues (wealth/poverty divide, human rights, privacy, and so on) I wonder how I can make a difference, or prevent myself from being complicit in further problems.&lt;/p&gt;
+
+&lt;p&gt;In the run-up to my publishing date on The Pastry Box (it’ll likely be the 11th of each month) I was so worried about what I would write, and trying to come up with something interesting. Then I read &lt;a href=&#34;http://mostlysignssomeportents.tumblr.com/post/72759474218/we-are-huxleying-ourselves-into-the-full-orwell&#34;&gt;this post by Cory Doctorow&lt;/a&gt;, and had some worrying conversations about other people’s attitude to privacy with &lt;a href=&#34;http://aralbalkan.com&#34;&gt;Aral&lt;/a&gt;. Suddenly I found myself writing an incoherent stream of anger into my notebook. A long thoughtful walk with the dog later, and I finally had something that might be worth sharing.&lt;/p&gt;
+
+&lt;p&gt;Please let me know what you think, this means a lot to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-january-11&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4195&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/01/the-pastry-box.png&#34; alt=&#34;screenshot of my post on The Pastry Box&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

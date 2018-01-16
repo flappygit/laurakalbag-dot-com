@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Procrastinating on Laura Kalbag</title>
+    <title>Posts from Procrastinating on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/procrastinating/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 30 Mar 2013 20:09:49 +0000</lastBuildDate>
@@ -17,8 +17,30 @@
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
       
       <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
-      <description>Today I finally got around to playing with Alfred v2. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.
-I was playing around with the appearance and made a really minimal theme.</description>
+      <description>&lt;p&gt;Today I finally got around to playing with &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred v2&lt;/a&gt;. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.&lt;/p&gt;
+
+&lt;p&gt;I was playing around with the appearance and made a really minimal theme. There was a handy sharing feature so I thought I may as well share it…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://an.lklink.at/NwQZ&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2677&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/03/alfred-theme.png&#34; alt=&#34;Minimal Alfred v2 theme&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Minimal Alfred v2 theme
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://an.lklink.at/NwQZ&#34;&gt;Grab my Alfred v2 ‘Minimal’ theme&lt;/a&gt;. If you’ve got v2 installed on your machine, this link should auto-add the theme to your app. If you don’t, it won’t do anything!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

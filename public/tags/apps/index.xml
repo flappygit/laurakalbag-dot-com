@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apps on Laura Kalbag</title>
+    <title>Posts from Apps on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/apps/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 10 Dec 2012 21:23:00 +0000</lastBuildDate>
@@ -17,8 +17,84 @@
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
       
       <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
-      <description>For the last few years, I’ve been working with a great team of people on our iPhone app, Bardowl, an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)
-It’s not been a quick and easy. Getting publishers to come round to the idea, and securing good audiobooks, has been a lengthy process but we’ve been lucky to have people who really know what they’re talking about behind the scenes.</description>
+      <description>
+
+&lt;p&gt;For the last few years, I’ve been working with a great team of people on &lt;a href=&#34;https://itunes.apple.com/app/bardowl/id492667930?ls=1&amp;amp;amp;mt=8&#34;&gt;our iPhone app&lt;/a&gt;, &lt;a href=&#34;http://bardowl.com&#34;&gt;Bardowl&lt;/a&gt;, an app for streaming unlimited audiobooks for £9.99 a month (think Spotify but for audiobooks.)&lt;/p&gt;
+
+&lt;p&gt;It’s not been a quick and easy. Getting publishers to come round to the idea, and securing good audiobooks, has been a lengthy process but we’ve been lucky to have people who really know what they’re talking about behind the scenes. Our &lt;a href=&#34;http://twitter.com/bookmeister&#34;&gt;CEO, Chris Book&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/neilp33l&#34;&gt;CTO, Neil Chapman&lt;/a&gt;, have bootstrapped the business and have worked incredibly hard, taking a big risk, because they really believe in bringing good audiobooks to the iPhone without massive subscription costs or limited listening choices. They’re the reason I was first interested in being involved, and the reason I’ve stuck at it for so long.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-only-blog-about-it-now&#34;&gt;Why only blog about it now?&lt;/h2&gt;
+
+&lt;p&gt;I wanted to wait until there was a version of the app that you’d want to try. Previously, we launched with ‘business books.’ These are wonderful if you’re into management techniques, deals, finances and all these audiobooks that I find, quite honestly, dull.&lt;/p&gt;
+
+&lt;h3 id=&#34;now-the-catalogue-has-got-so-much-awesome&#34;&gt;Now the catalogue has got so much awesome&lt;/h3&gt;
+
+&lt;p&gt;But now, the catalogue has some serious awesome with biographies and memoirs, childrens books, classic, contemporary and modern fiction, non-fiction, poetry and drama. Roald Dahl’s Revolting Rhymes, Cormac McCarthy’s No Country For Old Men, loads of Dickens and Sherlock Holmes. I really think you’ll like it. Oh yes, and you can &lt;a href=&#34;https://itunes.apple.com/app/bardowl/id492667930?ls=1&amp;amp;amp;mt=8&#34;&gt;try it for free for 7 days&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-have-i-done-then&#34;&gt;What have I done then?&lt;/h2&gt;
+
+&lt;p&gt;I am the sole designer. I do all the design; branding, app design and web design/development. It’s really the first product I’ve ever worked with, and I enjoy having something I get to stick with and iterate over time. I’m still not sure if I’d want to do this full time, I really love the variety that comes with client work, but it’s very rewarding feeling like you’re constantly improving one product.&lt;/p&gt;
+
+&lt;h3 id=&#34;working-for-almost-free&#34;&gt;Working for almost-free&lt;/h3&gt;
+
+&lt;p&gt;I also work almost solely for a small share (I’ve had a few payments for work when we had some investment.) Since I started time-tracking the project in March 2010, I’ve put 430 hours into the project, around half of that being on the website, which has had three or four full redesigns. This working for almost-free is definitely not something I would do again, which I will elaborate on below.&lt;/p&gt;
+
+&lt;h3 id=&#34;learning&#34;&gt;Learning&lt;/h3&gt;
+
+&lt;p&gt;It’s been a complete learning experience. It was my first app design work, I created the logo long before I started working professionally as a designer, and I’ve never worked as part of a startup before, in fact I’ve never really worked as part of another company before (as a designer.) Starting before I graduated from university, it’s been a project that has spanned the whole of my freelance/professional career. As I’ve learned new things, I’ve been able to experiment, and put my new knowledge straight into the app and the website. It was my first mobile website design (pre-“Responsive Web Design”,) my first foray into web fonts, my first “Responsive Web Design” and my first experience with CSS pre-processors.&lt;/p&gt;
+
+&lt;h3 id=&#34;designing-and-developing&#34;&gt;Designing and developing&lt;/h3&gt;
+
+&lt;p&gt;I’ve learned a huge amount about designing for apps. Unlike designing for the web, where I usually write the markup and sometimes the code, I can’t develop iOS apps. I don’t think this is a good thing, it really emphasises why I think that you must be able to write markup in order to design for the web. Designing for iOS apps, with fairly minimal knowledge of the development process is &lt;em&gt;really hard&lt;/em&gt;. I make a complete pain out of myself, constantly asking &lt;a href=&#34;http://twitter.com/kgutteridge&#34;&gt;Kieran&lt;/a&gt; questions about how things work, what’s possible, what’s native, and what would be easiest to create from a development point-of-view.&lt;/p&gt;
+
+&lt;p&gt;While I’ve learned loads from Kieran, I still want to know more about the development process. In the new year, I’ve resolved to attend &lt;a href=&#34;http://twitter.com/aral&#34;&gt;Aral Balkan&lt;/a&gt;‘s &lt;a href=&#34;http://www.moderniosdevelopment.com/&#34;&gt;Modern iOS Development Workshop&lt;/a&gt; (I’ve heard so many good things.) But I don’t really see myself developing apps for a living, I find programming very difficult and not terribly rewarding, I just think my design decisions can be more well-informed as a result.&lt;/p&gt;
+
+&lt;h3 id=&#34;designing-for-free&#34;&gt;Designing for free&lt;/h3&gt;
+
+&lt;p&gt;Above I said I wouldn’t work for free (shares) again. As a general rule, I wouldn’t recommend it, it’s a huge risk and chances are you’ll never make a return on the hours you put into the project.&lt;/p&gt;
+
+&lt;p&gt;However, my specific reason I wouldn’t work for free is that I believe people can often struggle to understand and appreciate the value in design if they’re not paying for it. They’ve not got an interest in getting the best value for money, so they don’t necessarily feel as though they should listen to what you say. In a way, the developer will always have the final say, as whatever they make is what gets released.&lt;/p&gt;
+
+&lt;p&gt;When you’ve worked for free, and you’ve put so much time and effort into a project, you’re less likely to leave. The more time you spend, the more reluctant you’ll be to leave that all behind. It’s like the &lt;a href=&#34;http://en.wikipedia.org/wiki/Stockholm_syndrome&#34;&gt;Stockholm Syndrome&lt;/a&gt; of working for free. I still completely believe in Bardowl as a concept, and I have a huge amount of respect and love for our CEO and CTO, and that’s why I persist in trying to make my app design live up to the idea, but I’d be lying if I said I didn’t have frustrated times where a loss of control and startup politics infuriated me.&lt;/p&gt;
+
+&lt;h3 id=&#34;working-with-good-people&#34;&gt;Working with good people&lt;/h3&gt;
+
+&lt;p&gt;Despite the occasional hiccups, I’ve found working with Bardowl immensely rewarding. There’s so much to be said about working for people who really believe and care about what they’re doing. It’s not just about doing design and development right, or business right, but about working with people right. Our CEO Chris Book is an example of somebody who cares about the people he works with. His role as CEO has often mean placating, convincing and cajoling, but he doesn’t just do this as a means to getting his app finished, he genuinely believes in providing value for those working on the project. And doing it all with honesty and transparency. Honesty and transparency are massively underrated.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-417&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c51f7b5294f5c364096920ae63f267dc?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c51f7b5294f5c364096920ae63f267dc?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Russ&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-417&#34;&gt;&lt;time datetime=&#34;2012-12-10T22:18:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:18pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great, open and honest post, I can sympathise with some of the long hours/low rewards just because you either love what you are building, or love the learning process of doing it :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-418&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6ab9b89687df7f10f51a01997304f4fe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6ab9b89687df7f10f51a01997304f4fe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://olar.se&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ola Ringdahl&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-418&#34;&gt;&lt;time datetime=&#34;2013-02-07T14:03:07+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:03pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi!
+
+I´m Ola, a swedish male voicetalent who loves audiobooks. I have looked at Bardowl and it seems great but there is one questionmark: why aren´t the books listed on the website?
+
+There is a swedish company with exactly the same concept called Storytel.se, and the show all of their books and you can also manage your books on the site which is really handy.
+
+Best
+
+Ola&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -27,9 +103,322 @@ It’s not been a quick and easy. Getting publishers to come round to the idea, 
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
       
       <guid>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</guid>
-      <description>After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.
-Tweet A few people asked what I thought the alternatives are, so I thought it might be time to write a post about it.
-Photoshop and Illustrator, why not? I’ve been suffering Adobe software for a long time. Since Adobe Photoshop was introduced to me as ‘the industry standard’ when I was at college learning basic photo manipulation, it’s been in my life.</description>
+      <description>
+
+&lt;p&gt;After sitting and waiting for Photoshop to open for five minutes, just to edit an old file, I went off on a bit of a rant about Adobe software.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurakalbag/statuses/260750478453899264&#34;&gt;Tweet&lt;/a&gt;
+A few people asked what I thought the alternatives are, so I thought it might be time to write a post about it.&lt;/p&gt;
+
+&lt;h2 id=&#34;photoshop-and-illustrator-why-not&#34;&gt;Photoshop and Illustrator, why not?&lt;/h2&gt;
+
+&lt;p&gt;I’ve been suffering Adobe software for a long time. Since &lt;a href=&#34;http://www.photoshop.com/products/photoshop&amp;quot; rel=&amp;quot;nofollow&#34;&gt;Adobe Photoshop&lt;/a&gt; was introduced to me as ‘the industry standard’ when I was at college learning basic photo manipulation, it’s been in my life. Where I may have started out using Photoshop for the right reasons (it does photo manipulation well) I wonder why I bothered using it for web and app design for so long.&lt;/p&gt;
+
+&lt;h3 id=&#34;monopolising&#34;&gt;Monopolising&lt;/h3&gt;
+
+&lt;p&gt;This isn’t really Adobe’s fault. I’d say they’re victims of their own success but I think they’re making &lt;a href=&#34;#overpriced&#34;&gt;plenty of money&lt;/a&gt;. The idea that an app designed for photo manipulation is the industry standard for web design is ludicrous. And the problem is that it’s perpetuated because people are too scared (often a nice way of saying lazy) to try any alternatives.&lt;/p&gt;
+
+&lt;p&gt;We also attach ourselves to these tools. He or she who doesn’t use the right ‘professional’ tool isn’t professional. We seem to value using the &lt;em&gt;same&lt;/em&gt; tool over using the &lt;em&gt;right&lt;/em&gt; tool. Fine, Photoshop &lt;em&gt;used&lt;/em&gt; to be the best tool for creating web graphics, but it isn’t necessarily the best tool anymore. But because people are caught up in this ‘industry standard’ nonsense, they’re allowing their jobs to be so much more difficult, and involve so much more hacking to work with modern design workflows.&lt;/p&gt;
+
+&lt;h3 id=&#34;not-fit-for-purpose&#34;&gt;Not fit for purpose&lt;/h3&gt;
+
+&lt;p&gt;I’m not sure anybody is under the illusion that Photoshop is a good app for web design? A significant amount of web design is focused around typography. Does the type in Photoshop resemble the rendering in any of the browsers? No. You can’t create scalable graphics (useful for responsiveness and retina displays,) multiple shadows or even square-cornered borders on the outside of shapes without hacking about (you know…like in CSS.)&lt;/p&gt;
+
+&lt;p&gt;We really need tools that are created with designing for the web and apps in mind. Tools that are sympathetic to the constraints and flexibilities of our mediums. Of course there’s never going to be One Magic App To Fulfill All Our Dreams, but something that actually acknowledges modern ways of working would be a start…&lt;/p&gt;
+
+&lt;h4 id=&#34;side-note-design-in-the-browser&#34;&gt;Side note: design in the browser?&lt;/h4&gt;
+
+&lt;p&gt;Designing in the browser is perhaps a discussion for another time…I think whilst this would be ideal, I find it very difficult to work creatively in markup. I’m not saying it’s the wrong way, I’m just saying it’s the way my brain was made.&lt;/p&gt;
+
+&lt;h3 id=&#34;buggy&#34;&gt;Buggy&lt;/h3&gt;
+
+&lt;p&gt;The problem with being the ‘industry standard’ is that you can rest a while on your laurels. No matter that your app takes an age to open itself, an age to open a file, an age to save a file, freezes frequently, crashes regularly or requires Force-Quit to close. Every new version of the Adobe Creative suite comes with a load of fancy features that you probably won’t use and no fixes for bugs we’ve been attempting to work around for ages.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;overpriced&#34;&gt;Horrendously overpriced&lt;/h3&gt;
+No matter the bugs, when you’re considered the ‘industry standard’ you seem to be able to charge the earth and everyone in the industry. Everyone from freelancers just starting out, to developers who only use it so they can work out what on earth the designers are thinking, are expected to pay a minimum of &lt;a href=&#34;#asterisk&#34;&gt;£660*&lt;/a&gt; for just Photoshop.&lt;/p&gt;
+
+&lt;p&gt;I certainly think it’s worthwhile paying for good apps which you use regularly. I truly value the work of good app creators. I just want the price to more accurately reflect my usage, and the actual value in my work. I don’t want to have to add a Photoshop tax to my hourly rate so that I can afford to always have the latest Adobe apps at my clients’ expense.&lt;/p&gt;
+
+&lt;p&gt;&lt;p id=&#34;asterisk&#34;&gt;(* &lt;em&gt;That’s downloadable, not subscription; the subscription makes it harder to work out the relative value as it depends on if/how often you upgrade your apps.&lt;/em&gt;)&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-hard-to-switch-apps&#34;&gt;It’s hard to switch apps&lt;/h2&gt;
+
+&lt;p&gt;Yes, it’s very difficult to switch away from an app you’ve been using for years. Often we confuse this as the newer app being ‘bad’ but really it’s because our workflows have become molded around the other apps. There’s no quick and easy tool to create a button in Photoshop that you’ll be able to accurately replicate in CSS, but we’ve hacked our working processes to ensure that we can do it with relative speed.&lt;/p&gt;
+
+&lt;p&gt;If you’re to start using a new app, you need to get over that expectation hurdle that it’s going to work in exactly the same way as the app you previously used. It’s not fair, especially when the new app may be better designed to suit the workflow of a modern designer.&lt;/p&gt;
+
+&lt;h3 id=&#34;and-maybe-there-s-not-going-to-be-one-app-for-everything&#34;&gt;And maybe there’s not going to be one app for everything&lt;/h3&gt;
+
+&lt;p&gt;One thing I’ve been realising is that I shouldn’t want one app to do &lt;em&gt;everything&lt;/em&gt;. As web designers, we’re often very cross-disciplinary. I design for web, mobile apps, print, icons and illustration. It’s mad to expect one app to do each of those very specialist formats. I’ve started to embrace apps that do their one job very well, and value their ability to work with other formats (even if they don’t create them) above all else.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-use&#34;&gt;What I use&lt;/h2&gt;
+
+&lt;h3 id=&#34;photoshop-and-illustrator-graphics-replacement-sketch&#34;&gt;Photoshop and Illustrator graphics replacement: Sketch&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bohemiancoding.com/sketch/&#34;&gt;Sketch&lt;/a&gt; is brilliant. And unlike other apps, it’s not trying to be Photoshop. From &lt;a href=&#34;http://www.bohemiancoding.com/sketch/&#34;&gt;their homepage&lt;/a&gt;: “We set out to build a better app for graphic designers. Not to copy, but rather to improve.” Being a vector-based app, it’s very easy to create scalable graphics that will export well for responsive design and retina displays, as well as being generally reusable design elements. The only downside to this is that it’s not so easy to create small pixel icons where you need to work on hinting. But, as I said above, that’s probably something I should look for in another specialist app.&lt;/p&gt;
+
+&lt;p&gt;Sketch features a lot of tools designed around the graphics we create for the web. Even featuring good CSS generation for individual shape styles. The export tools are also very helpful, allowing you to create multiple artboards and ‘slices’ within a document and then allowing you to choose which layers are exported, even including an automated @2x option.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1207 wp-caption aligncenter size-full wp-image-1207&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/sketch-export.png&#34; alt=&#34;Sketch Export options&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Sketch Export options
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;There are a few little bugs here and there in Sketch, but it is in constant rapid development. Whilst slightly crippled by the (slow) speed of Apple’s App Store update approval process, I use the Beta version of the app and am greeted by a huge changelog almost daily.&lt;/p&gt;
+
+&lt;h3 id=&#34;photoshop-photo-editing-replacement-pixelmator&#34;&gt;Photoshop photo editing replacement: Pixelmator&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pixelmator.com/&#34;&gt;Pixelmator&lt;/a&gt; is a great photo editor. It has many of the photo manipulation tools that Photoshop has at a very affordable price. The interface is pretty, though slightly low in contrast and a bit tiny in places (great if you like squinting!) It also has basic save-for-web capabilities, which are slightly hidden within the ‘slice’ tool.&lt;/p&gt;
+
+&lt;h2 id=&#34;and-the-rest&#34;&gt;And the rest…&lt;/h2&gt;
+
+&lt;p&gt;A few people asked about the other apps I used (for development etc.) so I thought I’d give a quick rundown of what’s in my dock (my most used apps):&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1206 wp-caption aligncenter size-full wp-image-1206&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/10/dock.png&#34; alt=&#34;screenshot of the apps in my Mac OSX dock&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		screenshot of the apps in my Mac OSX dock
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;**Finder. **(&lt;em&gt;Mac OSX default&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mail.app.&lt;/strong&gt; (&lt;em&gt;Mac OSX default&lt;/em&gt;) I want my email available offline and on my iPhone. Mail does that. It may not be feature-filled, but at least Google isn’t snooping around in there…&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt;. (&lt;em&gt;Mac OSX default&lt;/em&gt;) For calendaring things. Shared calendars is handy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.potionfactory.com/thehitlist/&#34;&gt;The Hit List&lt;/a&gt;. &lt;/strong&gt;The best to-do list app I’ve used. It’s quick to open and has some of the best keyboard shortcuts ever to make it really quick to use. I’ve never managed to get the syncing with the iPhone app working quite right though…&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://reederapp.com/&#34;&gt;Reeder&lt;/a&gt;.&lt;/strong&gt; Nice app for reading your RSS feeds. I think my Reeder might be a bit dusty, as I don’t often get time to read my feeds, but it sits in my dock reminding me that I should catch up.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.google.com/intl/en/chrome/browser/&#34;&gt;Google Chrome&lt;/a&gt;.&lt;/strong&gt; The browser I wish I didn’t have to use but do. It has the best developer tools asides from Firefox…&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt;.&lt;/strong&gt; I really really want to use Firefox as my main browser but it’s so sluggish I think it gives Photoshop competition. In the dock for cross-browser testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.opera.com/&#34;&gt;Opera&lt;/a&gt;.&lt;/strong&gt; For cross-browser testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.apple.com/safari/&#34;&gt;Safari&lt;/a&gt;.&lt;/strong&gt; (&lt;em&gt;Mac OSX default&lt;/em&gt;) For cross-browser testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.vmware.com/uk/&#34;&gt;VMWare&lt;/a&gt;.&lt;/strong&gt; For opening up Windows and cross-browser testing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://panic.com/coda/&#34;&gt;Coda&lt;/a&gt;.&lt;/strong&gt; My development text editor of choice. It has some handy features and is prettier than a plain text editor. I don’t really use the FTP very much so sometimes wonder if I should try something new.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://mac.github.com/&#34;&gt;GitHub For Mac&lt;/a&gt;. &lt;/strong&gt;The main way I interact with GitHub. I’m still a little bit fearful of Terminal, so GitHub For Mac provides me with an interface that helps me understand what I’m really doing with Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;Codekit&lt;/a&gt;. &lt;/strong&gt;A brilliant brilliant app for compiling pre-processors (and other things.) I use it with Sass which I write in Coda and commit in GitHub for Mac. Dream team.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mamp.info/en/mamp-pro/index.html&#34;&gt;&lt;strong&gt;MAMP Pro&lt;/strong&gt;&lt;/a&gt;. Makes managing your local server environment (especially if you’re working with virtual machines) a lot easier. I use the Pro version because the the non-pro version is intimidating.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/snippely/&#34;&gt;&lt;strong&gt;Snippely&lt;/strong&gt;&lt;/a&gt;. I changed the dock icon because the original scissors icon was too ugly! A code snippet app where I keep all the super-repetitive stuff like CSS resets and WordPress loops.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pixa-app.com/&#34;&gt;&lt;strong&gt;Pixa&lt;/strong&gt;&lt;/a&gt;. A new app I’m trying out for organising all the ‘resources’ folders I have for files like icons. So far it’s pretty nice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bohemiancoding.com/sketch/&#34;&gt;&lt;strong&gt;Sketch&lt;/strong&gt;&lt;/a&gt;. The vector graphics app (see above!)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pixelmator.com/&#34;&gt;&lt;strong&gt;Pixelmator&lt;/strong&gt;&lt;/a&gt;. The photo editing app (see above!)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.photoshop.com/products/photoshop&amp;quot; rel=&amp;quot;nofollow&#34;&gt;&lt;strong&gt;Photoshop&lt;/strong&gt;&lt;/a&gt;. Because even if I don’t want to use it, I still have to use it for legacy files and working with other developers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.adobe.com/products/illustrator.html&#34;&gt;&lt;strong&gt;Illustrator&lt;/strong&gt;&lt;/a&gt;. As above, I only use Illustrator for legacy files. And saving vector files in formats that I can open in Sketch.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://panic.com/transmit/&#34;&gt;&lt;strong&gt;Transmit&lt;/strong&gt;&lt;/a&gt;. I use Transmit occasionally for FTP and SSH, but more as a Finder for hidden files!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bohemiancoding.com/fontcase/&#34;&gt;&lt;strong&gt;Fontcase&lt;/strong&gt;&lt;/a&gt;. A great app for activating and organising your fonts. Tagging and collections makes it easy to organise in a way that suits you.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/itunes/&#34;&gt;&lt;strong&gt;iTunes.&lt;/strong&gt;&lt;/a&gt; (&lt;em&gt;Mac OSX default&lt;/em&gt;) Like most people, I don’t really like using iTunes. But I love CDs (yeah, so what? I’m old-school) and obtaining music in a legal way. iTunes makes this easy enough.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.spotify.com/uk/&#34;&gt;&lt;strong&gt;Spotify.&lt;/strong&gt;&lt;/a&gt; For when I want to listen to something new, or something that’s too embarrassing to buy… ;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tapbots.com/software/tweetbot/&#34;&gt;&lt;strong&gt;Tweetbot.&lt;/strong&gt;&lt;/a&gt; I believe in paying for good apps. Tweetbot has so many features and makes multi-column use of Twitter a delight.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wedge.natestedman.com/&#34;&gt;&lt;strong&gt;Wedge.&lt;/strong&gt;&lt;/a&gt; One of the more polished &lt;a href=&#34;https://join.app.net/&#34;&gt;app.net&lt;/a&gt; apps for desktop.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;&lt;strong&gt;1Password.&lt;/strong&gt;&lt;/a&gt; The only way I’ll ever be able to have secure passwords is by having an app that acts as my memory for all those secure passwords. 1Password is great, and syncs to an iPhone version.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imageoptim.com/&#34;&gt;&lt;strong&gt;ImageOptim&lt;/strong&gt;&lt;/a&gt;. Can usually cut at least 15% off an image’s size without losing quality. Useful for anything you’re putting on the web, and doubly-useful if the graphics apps you’re working with don’t have a Save For Web functionality.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;we-need-to-question-our-tools&#34;&gt;We need to question our tools&lt;/h2&gt;
+
+&lt;p&gt;‘Industry standard’ and ‘not worth paying for’ are both blights on our industry. Everybody has different needs and different budgets. The apps I use might not be right for you, I’m not telling you that you must use them, and you shouldn’t do that either.&lt;/p&gt;
+
+&lt;p&gt;If we keep an open mind, a willingness to try new apps that might better suit our workflows, and the understanding that a good app is worth buying, maybe we’ll finally get a bit closer to those dream apps that can solve all our problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;15-comments&#34;&gt;15 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-326&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6362d0b8d7ec2569efb18152a0589f6d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6362d0b8d7ec2569efb18152a0589f6d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://breakingthin.gs&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Aral Balkan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-326&#34;&gt;&lt;time datetime=&#34;2012-10-25T16:57:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write up, Laura. I caved in and bought a year’s subscription to Creative Cloud but feel dirty for doing it. It’s mostly because I’m so at home with Photoshop. I definitely need to invest more time in Sketch (it is a beautiful app that I already love more than Illustrator), keep trying to love Pixelmator, and keep my eye on the growing list of next generation of design tools. I sincerely hope that come this time next year, I won’t feel the need to renew my Creative Cloud subscription.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-327&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c30bd0d47467fb6842c406abeefea52b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c30bd0d47467fb6842c406abeefea52b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://steverydz.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Steve Rydz&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-327&#34;&gt;&lt;time datetime=&#34;2012-10-25T16:59:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nice post. It’s always good to see what other designers/developers are using. I noticed you said you use Transmit for finding hidden files. You should check out Total Finder ([http://totalfinder.binaryage.com/](http://totalfinder.binaryage.com/&#34; rel=&#34;nofollow)). It adds tabs to Finder and you can also view hidden files with a keyboard short cut.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-328&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1ff9acd04c45f4a326775b03e0245e87?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1ff9acd04c45f4a326775b03e0245e87?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://@JackFilose&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-328&#34;&gt;&lt;time datetime=&#34;2012-10-25T17:14:01+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        An interesting article –; amazed that I have never even questioned the validity of PS as a web design tool but now that I do it seems ludicrous! I would say however that I use Adobe software, not as a tool to design the eventual layout of a page but rather to mock it up: I don’t mind that the typography tools in PS are not as sophisticated (or shall we say different) when compared to the styling options available in the browser because I know that I can tweak the leading etc when i come to write my CSS (in the same way i am happy to use lorum text in a psd and then swap it out when i write my code). Obviously that isn’t ideal –; an exact PSD would be preferable but it’s a small sacrifice to make when you take into consideration the power that PS has to edit raster images. That is the real advantage of the program and it is those elements that you slice up and export to be used in your HTML document.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-329&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrgwebdev.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Glover&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-329&#34;&gt;&lt;time datetime=&#34;2012-10-25T17:27:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:27pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Like the above commenters, I always like to see what tools other people use. I’ve made many work-life changing discoveries over the years and am always looking to improve my tool set. What I could really do with, if you (or anyone else commenting) knows of such a thing, is a PSD viewer that renders layouts, layers, colours etc accurately. I’m one of the developers you talk about in the post who keeps Photoshop in order to view work sent to me by designers. My copy is very old (and not entirely legal) and it’s beginning to struggle with newer formats, so if I don’t find anything else that’ll do the job well (i.e. better than The GIMP) I’ll be forced empty my bank account into Adobe’s :-(
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-330&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e3a42e29e189a1d4b1aade7c42dbb1e3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e3a42e29e189a1d4b1aade7c42dbb1e3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://andydavies.me&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Andy Davies&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-330&#34;&gt;&lt;time datetime=&#34;2012-10-25T22:06:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:06pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’d add Jpegmini as an optimiser, it does a really good job.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-334&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-334&#34;&gt;&lt;time datetime=&#34;2012-10-30T07:40:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:40am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Andy. [It looks great too](https://itunes.apple.com/us/app/jpegmini-lite/id525742250?mt=12&#34; rel=&#34;nofollow)!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-331&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/548a5f83218a28b3f836d02132fbd5d2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/548a5f83218a28b3f836d02132fbd5d2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://frontand.de&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Niclas&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-331&#34;&gt;&lt;time datetime=&#34;2012-10-26T03:00:11+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;03:00am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you very much for this really helpful list. I will definitely give Sketch a try.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-332&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e091db05be6d28ca0e2297c6b5076f00?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e091db05be6d28ca0e2297c6b5076f00?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://kylepfeeley.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;kyle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-332&#34;&gt;&lt;time datetime=&#34;2012-10-29T09:36:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:36am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great list, you might have convinced me to switch to Sketch and Pixelmator from Adobe. For a code editing I use Sublime Text 2, but I haven’t tried Coda. Have you tried ST2? If so, do you still prefer Coda?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-335&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-335&#34;&gt;&lt;time datetime=&#34;2012-10-30T07:45:02+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:45am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’ve tried Sublime Text 2, but not enough to give a proper verdict on it. All the clever keyboard shortcuts do appeal to me, but then again the way preferences are handled, and the way features are added through ‘Packages’ intimidate me a bit!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-333&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ffe708bc5ff2f51d5a4632070c5aad4b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ffe708bc5ff2f51d5a4632070c5aad4b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Weyert&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-333&#34;&gt;&lt;time datetime=&#34;2012-10-29T20:08:13+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:08pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Why do you think you need to be up-to-date with the latest versions of the Adobe software? I don’t see any reason to update my CS5.5/6 copy in the future. I mean bug fixing as you mentioned is nearly non-existent&amp;#8230;
+
+I would like to thank you for mentioning Sketch, though. Looks promising, keeps the Fireworks way of thought going ;)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-336&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-336&#34;&gt;&lt;time datetime=&#34;2012-10-30T07:47:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:47am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        True. I’m now only using Photoshop CS3 and Illustrator CS3. Unfortunately it can result in compatibility problems if you’re working with other people who have newer versions. Also, if you’re just going to use the even-worse old versions of these Adobe apps, you may as well try the alternatives!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-337&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/11e31aeb26f58f57edf881cfddd974b3?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/11e31aeb26f58f57edf881cfddd974b3?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.tanusoft.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Christophe Franco&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-337&#34;&gt;&lt;time datetime=&#34;2012-11-08T16:19:22+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:19pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Have you heard of Ormr ? Looks like a promising image editor, with unlimited modifiable action history. I tend to think it could allow for a much more “natural” creative process, especially for folks who aren’t very keen on creating and tweaking tons of “utilitarian” layers (and I am one of these folks myself&amp;#8230;)
+
+&lt;p&gt;They seem to be still lacking momentum on their Kickstarter project, but from $15 a license, it looks like a cheap bet into the future.
+
+[http://www.kickstarter.com/projects/928340467/ormr-the-smart-image-editor](http://www.kickstarter.com/projects/928340467/ormr-the-smart-image-editor&#34; rel=&#34;nofollow)&lt;/p&gt;   &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-338&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-338&#34;&gt;&lt;time datetime=&#34;2012-11-09T11:50:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:50am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Ooh, I haven’t. Thanks Christophe, I’ll check that out.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-339&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a256a0b7037f3525396125e301a2c682?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a256a0b7037f3525396125e301a2c682?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://Micimage.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mickey&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-339&#34;&gt;&lt;time datetime=&#34;2012-11-21T08:32:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:32am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        So no browser is great? :) I’d like to use chrome but don’t like the developer tools as much as firebug&amp;#8230;
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-340&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/50272f5e109f3f02783336fb392c4808?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/50272f5e109f3f02783336fb392c4808?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Matt&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-340&#34;&gt;&lt;time datetime=&#34;2012-12-11T16:37:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Chrome’s developer tools are well worth further investigation (imho they are in a different league to Firebug / Firefox extensions), and there are some great tutorials on the, such as this introduction from [Majd Taby](http://jtaby.com/2012/04/23/modern-web-development-part-1.html&#34; rel=&#34;nofollow) (which has a slant towards mobile devices) and one focussed on performance from [one by Addy Osmani](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/&#34; rel=&#34;nofollow).
+
++1 for Sublime Text 2; I started using it about six months ago and would never go back. Don’t be put off by the Preferences settings; there are plenty of easy-to-follow examples on StackOverflow etc of how to change things that you need to.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

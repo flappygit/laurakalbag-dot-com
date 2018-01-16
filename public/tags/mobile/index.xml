@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile on Laura Kalbag</title>
+    <title>Posts from Mobile on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/mobile/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 12 Dec 2011 09:14:54 +0000</lastBuildDate>
@@ -17,8 +17,32 @@
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mobile-first/</guid>
-      <description>Continuing on with my chapter-a-day, last week I finished reading the brilliant Mobile First by Luke Wroblewski.
-   Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!</description>
+      <description>&lt;p&gt;Continuing on with my chapter-a-day, last week I finished reading the brilliant &lt;a href=&#34;http://www.abookapart.com/products/mobile-first&#34; title=&#34;Mobile First on A Book Apart&#34;&gt;Mobile First&lt;/a&gt; by Luke Wroblewski.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-513&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/12/mobile-first.jpg&#34; alt=&#34;Mobile First by Luke Wroblewski&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/p&gt;
+Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!)&lt;/p&gt;
+
+&lt;p&gt;Luke Wroblewski’s Mobile First makes for a refreshing change. Luke talks about *designing* for mobile experiences. He shares case studies and ideas behind UI design, including loads of concepts that had never even crossed my (admittedly slightly limited) mind. (&lt;em&gt;Should the navigation be moved to the bottom of the page on mobile screens so it doesn’t get in the way of the main page content?!&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;If you work for a company or clients who are reluctant to consider mobile solutions, this book is perfect for you. Luke arms you with stats aplenty to back up why the mobile experience is a very current issue and the immense gains that can be had by paying attention to smaller screens. I’m lucky to work with clients who consider mobile as important as the desktop experience, but I still found these statistics valuable in reminding me why I bother!&lt;/p&gt;
+
+&lt;p&gt;As a (perhaps-overly) frequent attendee of conferences, I’m sick of the “native vs web” debate (panel go-to question where the answer is always ‘it depends on the context!’) Fortunately, Luke is very much agnostic to web or device in this book, discussing the merits of both in depth, but then showing design approaches that would work equally well on the web or in a native app.&lt;/p&gt;
+
+&lt;p&gt;And of course, there is the very important concept of &lt;strong&gt;Mobile First&lt;/strong&gt;. A principle I had first learnt about on the &lt;a href=&#34;http://www.w3.org/Mobile/training/MobiWeb108/&#34; title=&#34;Introduction to W3C Mobile Web and Application Best Practices by the W3C&#34;&gt;W3C Mobile Web Best Practices course&lt;/a&gt;, which has such a positive impact on design with minimal negatives. The ideas that making your content suitable for mobile consumption will make it a better experience for desktop users, and that mobile first results in lightweight (both visually and technically) pages that are easy to download and browse are impossible to argue against. You’ll come out of this book feeling as much an evangelist of the mobile first approach as Luke himself.&lt;/p&gt;
+
+&lt;p&gt;As with other &lt;a href=&#34;http://www.abookapart.com/&#34; title=&#34;A Book Apart&#34;&gt;A Book Apart Books&lt;/a&gt;, Mobile First is written in a light, readable style with a good dose of humour. Even with all the stats and graphs, each chapter is a breeze and I really enjoyed the whole book.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +51,101 @@
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
-      <description>I had ordered Responsive Web Design by Ethan Marcotte as soon as it came out, but being at Ampersand conference, and hearing so many people recommend it, really spurred me to take a few hours out to get on and read it.
-  My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...   Responsive web design is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences.</description>
+      <description>
+
+&lt;p&gt;I had ordered &lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34; title=&#34;Responsive Web Design on the A Book Apart store&#34;&gt;Responsive Web Design&lt;/a&gt; by &lt;a href=&#34;http://ethanmarcotte.com/&#34;&gt;Ethan Marcotte&lt;/a&gt; as soon as it came out, but being at &lt;a href=&#34;https://laurakalbag.com/digest-from-ampersand-conf/&#34; title=&#34;Notes from Ampersand conference — My Digest&#34;&gt;Ampersand conference&lt;/a&gt;, and hearing &lt;em&gt;so many&lt;/em&gt; people recommend it, really spurred me to take a few hours out to get on and read it.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_474 wp-caption aligncenter size-large wp-image-474 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/07/web-716x960.jpg&#34; alt=&#34;Responsive Web Design by Ethan Marcotte&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My copy of Responsive Web Design, already featuring a &amp;amp;#39;much used&amp;amp;#39; cover curl...
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Responsive web design&lt;/strong&gt; is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences. This might be low levels of detail for mobile devices, big readable layouts for massive projector screens or dumbed-down CSS for old-fashioned browsers. I’m so sure that Responsive Web Design will be our bible for flexible web design for years to come.&lt;/p&gt;
+
+&lt;p&gt;The reason why I say ‘*for years to come*‘ is that Responsive Web Design doesn’t just furnish you with markup examples but &lt;em&gt;actual reasons&lt;/em&gt; to do it. Much like its predecessor, &lt;a href=&#34;https://laurakalbag.com/html5-for-web-designers/&#34; title=&#34;HTML5 For Web Designers&#34;&gt;HTML5 For Web Designers&lt;/a&gt; by Jeremy Keith, Ethan Marcotte walks you through how to think responsively, integrating flexibility into the design and development processes, and what might trip you up on the way.&lt;/p&gt;
+
+&lt;p&gt;The book is split into five easily-digested chapters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Our Responsive Web&lt;/li&gt;
+&lt;li&gt;The Flexible Grid&lt;/li&gt;
+&lt;li&gt;Flexible Images&lt;/li&gt;
+&lt;li&gt;Media Queries&lt;/li&gt;
+&lt;li&gt;Becoming Responsive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These make for great reading if you can only fit one in at a time, but I reckon you could get the whole book read in front of a computer, trying examples as you go, in an afternoon.&lt;/p&gt;
+
+&lt;p&gt;I can tell you how useful this book is from how it’s helped me on a recent site design. I have always struggled with creating fluid CSS layouts using percentages. The maths has always boggled my mind and I tend to give it a go then give up when everything falls to bits as soon as I resize my browser window. The thorough explanation of using the magical formula, &lt;strong&gt;target ÷ context = result&lt;/strong&gt;, had me working out percentage-based margins and paddings with very little effort. Now my designs can be more than just ‘mobile version’ and ‘desktop version’!&lt;/p&gt;
+
+&lt;p&gt;Part of what makes this book so valuable is the Bot Blog example site walkthrough. Being able to see how you can apply an original fixed-width design to a fluid-width site really helped me understand the restraints and opportunities created by working responsively. The breakdown of media queries is incredibly handy, especially as they’re explained first from the position of starting with an average-width screen design, adapting down to small screens and up to larger screens using *max-width *rules, and then from the position of ‘mobile first,’ adding styles for gradually larger screens using *min-width *rules.&lt;/p&gt;
+
+&lt;p&gt;My favourite part of the book was where ‘Mobile First’ was introduced. This is the concept of developing first for a mobile browsing experience, then building upon that experience for bigger, more-advanced browsers. It’s pretty much a mobile-focused version of the progressive enhancement approach. It’s a great alternative to starting big and adjusting your CSS for small browsers as it means you’re not delivering huge long stylesheet files to phones that may have a slow or limited connection. Quite a few developers on the more mobile-side of the web industry have been talking about ‘mobile first’ for years,  but it’s great to see it really pulled into mainstream consideration.&lt;/p&gt;
+
+&lt;p&gt;Ethan Marcotte writes in a style that is casual but smart and funny in sweet, geeky way. His writing makes you feel like you’re learning from the easy-going class assistant rather than the boring teacher. It’s definitely made me opt to buy the two titles in between &lt;a href=&#34;http://www.abookapart.com/products/html5-for-web-designers&#34; title=&#34;HTML5 For Web Designs on the A Book Apart store&#34;&gt;HTML5 For Web Designers&lt;/a&gt; and Responsive Web Design, &lt;a href=&#34;http://www.abookapart.com/products/css3-for-web-designers&#34; title=&#34;CSS3 For Web Designers on the A Book Apart store&#34;&gt;CSS3 For Web Designers&lt;/a&gt; and &lt;a href=&#34;http://www.abookapart.com/products/the-elements-of-content-strategy&#34; title=&#34;The Elements Of Content Strategy on the A Book Apart store&#34;&gt;The Elements Of Content Strategy&lt;/a&gt;, as both books I’ve read so far are so informative and inspiring. There’s also &lt;a href=&#34;http://www.abookapart.com/products&#34; title=&#34;A Book Apart products&#34;&gt;&lt;em&gt;Designing for Emotion&lt;/em&gt; and &lt;em&gt;Mobile First&lt;/em&gt;&lt;/a&gt; to look forward to in the autumn!&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-245&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/0450bc4a3c421ec91ab88c3143b11fb0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;martcol&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-245&#34;&gt;&lt;time datetime=&#34;2011-07-05T21:13:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for this. It’s a title now on my most wanted list.  I do think that building for the web is getting more complicated more quickly.  Hopefully this will help stop me feeling I’m falling too far behind. d(&amp;gt;_&amp;lt;)b
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-246&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/abe30c369e73e2f00332289c7ab200ca?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Andy&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-246&#34;&gt;&lt;time datetime=&#34;2011-07-05T22:13:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I found the book really useful, but my biggest issue was that the entire book was written desktop first, and then the final chapter introduces mobile first, which means reversing not only all the logic, but also how you think and build in the first place. If mobile first is the way to go –; and I agree that it is, why didn’t Ethan introduce that from the start ?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-248&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-248&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:51:20+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m not sure if I’m right, but I’d think it was probably because it’s more useful to the majority of readers to introduce something that isn’t such a huge leap from their current process first. The non-mobile-first approach could be easily used on an existing site to enhance it, but you really need to be starting a project afresh to begin with mobile first.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-247&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/890bcc35f260605bc6e3c5f4ca721c04?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://clawg.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Charlie&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-247&#34;&gt;&lt;time datetime=&#34;2011-07-06T08:48:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The book is a good, lightweight read.   My only criticism of the book is that Ethan has already published most of chapters 1-4 via sites like a list apart, so there was nothing in there that isn’t freely available.  That said its still a good read and his suggestions of how to incorporate responsive design into the design workflow with developers was useful.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -37,7 +154,204 @@
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
       
       <guid>https://laurakalbag.com/the-big-m/</guid>
-      <description>First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work everywhere) so this is really going to be the most biased event review you’ve ever read!</description>
+      <description>
+
+
+&lt;figure class=&#34;size-medium wp-image-338 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/badge-242x320.jpg&#34; alt=&#34;Big M badge&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work &lt;em&gt;everywhere&lt;/em&gt;) so this is really going to be the most biased event review you’ve ever read!&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-attendees&#34;&gt;The Attendees&lt;/h2&gt;
+
+&lt;p&gt;It was a complete mixture of attendees, ranging from business entrepreneurs to freelancers, mobile operators to web developers and UX experts. What really stuck out was that everybody seemed friendly, enthusiastic and engaged in the day. I didn’t spot any boring/bored looking ‘suits’ and it made for a fun atmosphere.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-venue&#34;&gt;The Venue&lt;/h2&gt;
+
+&lt;p&gt;A great point made in &lt;a href=&#34;http://adambird.com/the-big-m-went-bold-and-got-it-so-right&#34; title=&#34;Adam Bird&#39;s review of The Big M&#34;&gt;Adam Bird’s review&lt;/a&gt; was that Komedia in Bath made for a great conference day venue as it usually hosts comedy and music events. Such a good point. The venue being a slightly dark and very colourful room made for a relaxed and informal feel to the conference. It was the right size for about 200 people so it didn’t feel over-crowded or empty at any point. The chairs were a bit hard, but I don’t think I’ve ever been to an event where that wasn’t a problem&amp;#8230;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-speakers&#34;&gt;The Speakers&lt;/h2&gt;
+
+&lt;p&gt;As a designer, and a previous attendee of the &lt;a href=&#34;http://open-mic.org.uk/&#34; title=&#34;openMIC mobile innovation events&#34;&gt;openMIC events&lt;/a&gt;, I usually expect most of the talks to go over my head. I’m not a big business brain, never really worked in the mobile industry and mobile development is a lot more complicated than the majority of web markup/frontend development that I do. However, this wasn’t the case at all at The Big M.&lt;/p&gt;
+
+&lt;p&gt;The speakers were all experienced presenters. Often you’ll find one ‘dud’ talk at a conference, but there wasn’t one here. Whilst some of the speakers presented on more controversial topics that I wouldn’t necessarily agree on, each made their points well, engaging the audience and inspiring loads of discussion in the Q and As and breaks.&lt;/p&gt;
+
+&lt;p&gt;Here’s a brief rundown of some of the main points (and some of my terrible iPhone photos) I tweeted from the talks as well as some brilliant tweets from &lt;a href=&#34;http://twitter.com/bigmconf&#34;&gt;@bigmconf&lt;/a&gt; where all the talks were live-tweeted:&lt;/p&gt;
+
+&lt;h3 id=&#34;raam-thakrar-app-distribution-and-monetisation-the-only-things-more-important-than-lines-of-code&#34;&gt;Raam Thakrar –; App distribution and monetisation –; the only things more important than lines of code&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-medium wp-image-341 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0537-238x320.jpg&#34; alt=&#34;Raam Thakrar&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Thakrar: We need to think about why a consumer buys a phone, what part we play in the decision &amp;amp; how can we monetise this &lt;a href=&#34;http://twitter.com/bigmconf/status/49767361464647680&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;software and apps are now a deciding factor when people are buying handsets, so app devs should use this to work with operators&lt;/p&gt;
+
+&lt;p&gt;Thakrar: Specific lessons: develop an app that consumers love and thus influences their choice about what they do with their money &lt;a href=&#34;http://twitter.com/bigmconf/status/497710145524326400&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;aral-balkan-beyond-usability-on-mobile&#34;&gt;Aral Balkan –; Beyond Usability on Mobile&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-medium wp-image-342 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0540-239x320.jpg&#34; alt=&#34;Aral Balkan&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;The differentiating factor that allows Apple to charge more for phones, tablets, mp3 players and PCs is user experience&lt;/p&gt;
+
+&lt;p&gt;Usable is akin to being edible (credited to &lt;a href=&#34;http://twitter.com/Cennydd&#34;&gt;@Cennydd&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/aarron&#34;&gt;@aarron&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Common sense is a dangerous myth&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;panel-led-by-dan-appelquist-openness-open-standards-source-data-in-mobile&#34;&gt;Panel: led by Dan Appelquist –; Openness: Open Standards/Source/Data in Mobile&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-full wp-image-339 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0546.jpg&#34; alt=&#34;Panel session&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Openness is about giving developers choice so they can come to one platform and create content they can use on other platforms &lt;a href=&#34;http://twitter.com/bigmconf/status/49810212210737153&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Openness: At some point you are going to die and your work is going to live on, but the only way it can do that is to be locked in &lt;a href=&#34;http://twitter.com/bigmconf/status/49811351819923456&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Openness often hits the barriers of brand protection and content protection &lt;a href=&#34;http://twitter.com/bigmconf/status/49814525934968832&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;bruce-lawson-breaking-out-of-the-walled-garden-html5-and-open-technology-for-mobile-development&#34;&gt;Bruce Lawson –; Breaking out of the “Walled Garden”: HTML5 and open technology for mobile development&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-medium wp-image-340 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0544-320x239.jpg&#34; alt=&#34;Bruce Lawson&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;When using new web technologies, make use of them, but don’t rely on them. Always use progressive enhancement&lt;/p&gt;
+
+&lt;p&gt;Consider using &amp;lt;a href=”tel:xxx”&amp;gt; for linking phone numbers to be click-to-call on mobile&lt;/p&gt;
+
+&lt;p&gt;Accessibility isn’t just about being legal, it’s a moral obligation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ewan-macleod-state-of-the-union-mobile-address&#34;&gt;Ewan MacLeod –; State of the Union –; Mobile Address&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-medium wp-image-343 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0547-239x320.jpg&#34; alt=&#34;Ewan MacLeod&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Apps being separate from the handsets and operators are barriers to the most &lt;em&gt;useful&lt;/em&gt; mobile experiences. It needs to be seamless&lt;/p&gt;
+
+&lt;p&gt;Thakrar: Specific lessons: develop an app that consumers love and thus influences their choice about what they do with their money &lt;a href=&#34;http://twitter.com/bigmconf/status/497710145524326400&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thakrar: Specific lessons: develop an app that consumers love and thus influences their choice about what they do with their money &lt;a href=&#34;http://twitter.com/bigmconf/status/497710145524326400&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;paul-golding-future-innovations-in-mobile&#34;&gt;Paul Golding –; Future Innovations In Mobile&lt;/h3&gt;
+
+
+&lt;figure class=&#34;size-medium wp-image-344 alignright&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/IMG_0549-239x320.jpg&#34; alt=&#34;Paul Golding&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Golding: There is a myth that being first is really important. You want to be the first to win not the first to market &lt;a href=&#34;http://twitter.com/bigmconf/status/49872937783799808&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Golding: Study what else has succeeded, what has failed, and what you can take and project out in order to innovate &lt;a href=&#34;http://twitter.com/bigmconf/status/49873438013267968&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Golding: You need to conceive the product, choose the platform, develop the product, deliver the product and engage the market &lt;a href=&#34;http://twitter.com/bigmconf/status/49876234582237184&#34;&gt;From @bigmconf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;no-wifi&#34;&gt;No Wifi!&lt;/h2&gt;
+
+&lt;p&gt;For the conference day of The Big M there was no wifi and very little 3G or Edge signal (O2 isn’t much good in Bath!) This is the second conference I’ve been to this year without wifi (the other being &lt;a href=&#34;https://laurakalbag.com/new-adventures-2011/&#34; title=&#34;My blog post on the New Adventures in Web Design conference&#34;&gt;New Adventures&lt;/a&gt;) and I think it’s a great choice that more conference organisers should make.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/m1ke_ellis&#34;&gt;Mike&lt;/a&gt; quite rightly pointed out that even when organisers pay for expensive wifi, it usually gets overloaded, and is an additional cost that the attendees pay in their ticket price. I couldn’t agree more. Having so little signal meant people were talking to each other rather than being stuck to laptop screens. There was just about enough signal for the occasional tweet about the event but not enough for any anti-social so-and-sos to sit and work!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-workshops&#34;&gt;The Workshops&lt;/h2&gt;
+
+&lt;p&gt;Day Two was a smaller affair, with about a quarter of Day One’s attendees returning for the workshops. I was really lucky to go to Aral Balkan’s &lt;em&gt;iPhone Design Principles&lt;/em&gt; and half of Patrick Lauke’s *HTML5 and Mobile *before we had to head back home to Surrey.&lt;/p&gt;
+
+&lt;h3 id=&#34;aral-balkan-iphone-design-principles&#34;&gt;Aral Balkan  –; iPhone Design Principles&lt;/h3&gt;
+
+&lt;p&gt;Aral really is a talented presenter. After a quick introduction of everybody in the room, he managed to pitch a perfect level workshop helping us to understand the different development choices you have when creating web apps and native apps for the iPhone. I wrote pages and pages of notes and feel like I understand the development process so much better now (and that’s considering I’m no programmer, just a designer!)&lt;/p&gt;
+
+&lt;h3 id=&#34;patrick-lauke-html5-and-mobile&#34;&gt;Patrick Lauke –; HTML5 and Mobile&lt;/h3&gt;
+
+&lt;p&gt;The first half of this was a great intro to HTML5 and expanded on many of the points that Bruce made in his talk the day before. As someone who is already using HTML5 on most projects, I found a lot of the talk was probably better suited to those just getting to know HTML5 but the great explanations of concepts such as the viewport really helped cement what I already knew.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-in-all&#34;&gt;All in All&lt;/h2&gt;
+
+&lt;p&gt;I knew &lt;a href=&#34;http://twitter.com/bookmeister&#34;&gt;Chris&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/m1ke_ellis&#34;&gt;Mike&lt;/a&gt; would run a fantastic event, and I hope this encourages more smaller and informal conferences. Conferences that freelancers can afford that enthuse, engage, feed, water and inspire. Here’s hoping there might be a Big M II&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/markleepower/5554271518/&#34; title=&#34;bigm2011-1066.jpg by markleepower, on Flickr&#34;&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5022/5554271518_15a564a873.jpg&#34; alt=&#34;bigm2011-1066.jpg&#34; width=&#34;500&#34; height=&#34;333&#34; &gt;}}
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(My favourite Big M photo, taken by the super talented &lt;a href=&#34;http://www.flickr.com/photos/markleepower/&#34; title=&#34;Mark Power on Flickr&#34;&gt;Mark Power&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,10 +360,39 @@
       <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
       
       <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
-      <description>I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, The Big M.
-   
-As a result, I have 3 conference tickets worth £233.83 to give away to lovely people who want to learn more about mobile (covering topics such as innovation, usability, development, apps and mobile web.)
-My 3 tickets are for the first day, the conference part of The Big M, which is on 21st March 2011 at Komedia in Bath (UK.</description>
+      <description>
+
+&lt;p&gt;I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, &lt;a href=&#34;http://thebigm.mobi&#34; title=&#34;The Big M website&#34;&gt;The Big M&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thebigm.mobi&#34;&gt;
+&lt;figure class=&#34;aligncenter size-medium wp-image-326&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/03/full-site-589square-320x320.jpg&#34; alt=&#34;The Big M website&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a result, I have 3 conference tickets worth £233.83 to give away to lovely people who want to learn more about mobile (covering topics such as innovation, usability, development, apps and mobile web.)&lt;/p&gt;
+
+&lt;p&gt;My 3 tickets are for the first day, the conference part of The Big M, which is on &lt;strong&gt;21st March 2011&lt;/strong&gt; at Komedia in &lt;strong&gt;Bath&lt;/strong&gt; (UK.) I’d love some friendly people to come along and keep me company (that’s not an obligation!)&lt;/p&gt;
+
+&lt;h2 id=&#34;what-do-i-have-to-do-to-get-a-ticket&#34;&gt;What do I have to do to get a ticket?&lt;/h2&gt;
+
+&lt;p&gt;So, all you have to do to win a ticket is tweet something with the hashtag **#sendmetothebigm **or just leave me a comment below &lt;strong&gt;before 12noon tomorrow&lt;/strong&gt; (3rd March.) I’ll pick three people at random after that and let you know via this blog page and via Twitter.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-if-i-don-t-get-one&#34;&gt;What if I don’t get one?&lt;/h2&gt;
+
+&lt;p&gt;There’s still some tickets left on &lt;a href=&#34;http://thebigm.mobi/#register&#34; title=&#34;Tickets for The Big M&#34;&gt;The Big M website&lt;/a&gt;. With tickets as little as £199 +vat for a conference day pass and student conferences passes at just £50 +vat, you’d be mad to miss out on a fun new event in beautiful Bath.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The winners, &lt;a href=&#34;http://twitter.com/#!/laurakalbag/status/43297547447582721&#34;&gt;as announced on Twitter&lt;/a&gt; were &lt;a href=&#34;http://twitter.com/NicPresley&#34;&gt;@NicPresley&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/chrsgrrtt&#34;&gt;@chrsgrrtt&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/richquick&#34;&gt;@richquick&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

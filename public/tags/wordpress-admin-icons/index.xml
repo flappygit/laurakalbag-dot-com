@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordpress Admin Icons on Laura Kalbag</title>
+    <title>Posts from Wordpress Admin Icons on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/wordpress-admin-icons/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 02 Feb 2013 13:09:26 +0000</lastBuildDate>
@@ -17,8 +17,79 @@
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
       
       <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
-      <description>A while ago I wrotea post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
-  The final calendar icons (as designed quickly in 30 minutes or so)   The WordPress London guys kindly filmed my talk and I’ve included it below.</description>
+      <description>
+
+&lt;p&gt;A while ago I wrote&lt;a href=&#34;https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/&#34; title=&#34;Speaking at the WordPress London January meetup&#34;&gt; a post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live&lt;/a&gt;. Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1989 wp-caption aligncenter size-full wp-image-1989&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/final-icons.png&#34; alt=&#34;small and large calendar icons&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		The final calendar icons (as designed quickly in 30 minutes or so)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;The WordPress London guys kindly filmed my talk and I’ve included it below. The audio quality isn’t great, and the screen is quite hard to see, particularly during the live demo. (This is mostly a problem with the un-dimmable room lighting rather than the distance and angle of the camera).&lt;/p&gt;
+
+&lt;iframe src=&#34;http://www.youtube.com/embed/Ysp8l-Zvw3o&#34; height=&#34;360&#34; width=&#34;640&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/laurakalbag/designing-icons-and-wordpress-admin-icons&#34;&gt;You can also find my Icons slides on Speaker Deck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;sketch&#34;&gt;Sketch&lt;/h2&gt;
+
+&lt;p&gt;I know I rave about the wonderful Mac app &lt;a href=&#34;http://www.bohemiancoding.com/sketch/&#34;&gt;Sketch&lt;/a&gt; non-stop on Twitter, but this was a chance for me to show people how easy Sketch is to use on a particular project. In the screenshot below you can see how I made use of their multiple artboards (canvases) among other features. As explained in the talk, I design my icons side-by-side with the existing icons to achieve a consistent feel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/02/icons-in-sketch.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-1993 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/02/icons-in-sketch.png&#34; alt=&#34;screenshot of the Sketch app showing WordPress admin icons on different artboards for different sizes&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Using multiple artboards for WordPress admin icons in Sketch
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re already a lucky owner of Sketch, and want to have a closer look at how the icons were made, you can &lt;a href=&#34;http://an.lklink.at/MauH&#34;&gt;download the .sketch file&lt;/a&gt; (it’s about 670kb.)&lt;/p&gt;
+
+&lt;h3 id=&#34;and-the-book-i-recommended&#34;&gt;And the book I recommended…&lt;/h3&gt;
+
+&lt;p&gt;There’s one book that really is the ultimate icons resource, and I only mentioned it briefly in my talk. I recommend you buy &lt;a href=&#34;http://www.fivesimplesteps.com/products/the-icon-handbook&#34;&gt;The Icon Handbook&lt;/a&gt; by &lt;a href=&#34;http://www.hicksdesign.co.uk/&#34;&gt;Jon Hicks&lt;/a&gt;. It’s both beautiful and useful.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-comments&#34;&gt;5 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-463&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e921d41240d7016374d4221ededd4b6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://keithdevon.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Keith Devon&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-463&#34;&gt;&lt;time datetime=&#34;2013-02-02T14:49:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:49pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Hi Laura,
+
+Thanks for the post! It was great to have you at WordPress London. The talk was really useful and I’ve already designed my own custom admin icons, using Sketch of course!&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +98,35 @@
       <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
       
       <guid>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</guid>
-      <description>I’m speaking at the WordPress London January meetup on the 17th of January 2013.
-I’ve been using WordPress for years, for my own site and for client sites, and I really love it. I had absolutely no idea what to talk about though. I tend to create custom themes for clients, but these are very different from themes designed for use by many different sites, and so I wasn’t sure whether my experience would be relevant to many people.</description>
+      <description>
+
+&lt;p&gt;I’m speaking at the &lt;a href=&#34;http://www.meetup.com/London-WordPress/events/81910532/&#34;&gt;WordPress London January meetup on the 17th of January 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve been using WordPress for years, for my own site and for client sites, and I really love it. I had absolutely no idea what to talk about though. I tend to create custom themes for clients, but these are very different from themes designed for use by many different sites, and so I wasn’t sure whether my experience would be relevant to many people. I also don’t feel very confident speaking about code.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-mad-idea&#34;&gt;A mad idea&lt;/h2&gt;
+
+&lt;p&gt;Thinking about the different things I do that are related to WordPress, I decided to go very niche. &lt;a href=&#34;https://laurakalbag.com/project/wordpress-admin-icons/&#34; title=&#34;WordPress Admin Icons&#34;&gt;WordPress admin icons&lt;/a&gt; are something I’ve been doing a lot of lately, and they combine the skills of icon design with the skills of fitting icons in with an existing set. My talk is going to be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;designing-wordpress-admin-icons&#34;&gt;Designing WordPress Admin Icons&lt;/h3&gt;
+
+&lt;p&gt;The WordPress admin has really evolved into something lovely over the last few years. So when you create plugins and custom post types, you want custom icons that feel at home in the interface. Laura is going to discuss her top tips for creating icons, and attempt to live-design a WordPress admin icon to show you step-by-step how she does it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;live-designing-eek&#34;&gt;Live-designing…eek&lt;/h2&gt;
+
+&lt;p&gt;It might go all horribly wrong, but I thought the best way to describe how I design these icons isn’t just to show pictures, but to show the process. It’s often tricky to describe our processes as so many of the steps we do have become second-nature, we barely think about what we’re doing. So &lt;em&gt;hopefully&lt;/em&gt;, designing live will help me do a better job of explaining the tools and techniques that I use.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-d-love-to-see-you-there&#34;&gt;I’d love to see you there!&lt;/h3&gt;
+
+&lt;p&gt;If you’re going to be there, do say hello! At the moment &lt;a href=&#34;http://www.meetup.com/London-WordPress/events/81910532/&#34;&gt;it looks as though there’s no space left&lt;/a&gt;, but more spots will open up before the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+            &lt;/ol&gt;
+</description>
     </item>
     
   </channel>

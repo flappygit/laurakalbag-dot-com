@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fontshop on Laura Kalbag</title>
+    <title>Posts from Fontshop on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/fontshop/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 02 Jul 2010 18:12:16 +0000</lastBuildDate>
@@ -17,7 +17,206 @@
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
       
       <guid>https://laurakalbag.com/web-fonts/</guid>
-      <description>I’ve got a new infatuation; web fonts. Since the second I heard about Typekit (and Fontdeck) last year I’ve been giddy with excitement about being able to use more fonts on the web. Georgia just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.</description>
+      <description>
+
+&lt;p&gt;I’ve got a new infatuation; web fonts. Since the second I heard about &lt;a href=&#34;http://typekit.com&#34;&gt;Typekit&lt;/a&gt; (and &lt;a href=&#34;http://fontdeck.com/&#34;&gt;Fontdeck&lt;/a&gt;) last year I’ve been giddy with excitement about being able to use more fonts on the web. &lt;a href=&#34;http://en.wikipedia.org/wiki/Georgia_font&#34; title=&#34;Georgia on Wikipedia&#34;&gt;Georgia&lt;/a&gt; just doesn’t cut it anymore. Even the introduction of ten new fonts to shake things up would have me flustered. Here’s a brief look at my experience of web fonts over the last year or so.&lt;/p&gt;
+
+&lt;h2 id=&#34;font-face-and-font-squirrel&#34;&gt;@font-face and Font Squirrel&lt;/h2&gt;
+
+&lt;p&gt;Before Typekit, the situation around the &lt;a href=&#34;http://www.alistapart.com/articles/cssatten/&#34;&gt;CSS @font-face declaration&lt;/a&gt; started getting more attention. There was good support across all major browsers (and some of the oldies like Internet Explorers 6 &amp;amp; 7) for this cunning little declaration that allowed you to embed any font into your website. @font-face displayed fonts like we needed, displaying as real selectable text that remains accessible and index-able by search engines.&lt;/p&gt;
+
+&lt;p&gt;Despite being far easier to use, and more reliable, than the truly hideous (though handy at the time) Flash text-replacement methods like &lt;a href=&#34;http://wiki.novemberborn.net/sifr3/&#34;&gt;sIFR&lt;/a&gt; and &lt;a href=&#34;http://cufon.shoqolate.com/generate/&#34;&gt;Cufón&lt;/a&gt;, @font-face is a bit of a pain to implement. The CSS declarations themselves are fairly simple, but the amount of different font formats you need to include is pretty insane. You need to include .eot, .woff, .ttf and .svg formats of each font face. Not to mention that there’s no piracy protection on these font faces so, not only do you have to find all those different font formats, but you had to make sure you had the rights to distribute them as well (’cause everybody knows that piracy is mean.)&lt;/p&gt;
+
+&lt;p&gt;Then came along &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.31.14.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-75 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.31.14.png&#34; alt=&#34;Quicksand font at Font Squirrel&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Quicksand font at Font Squirrel
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A wickedly cool site that shows you a huge array of fonts that are licensed for @font-face use, complete with @font-face kits containing the fonts, the license, a demo HTML file and the CSS you need to implement great-looking web fonts using @font-face.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.32.52.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-76 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.32.52.png&#34; alt=&#34;Font Squirrel @font-face kit download&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Font Squirrel @font-face kit download
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.37.41.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-77&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.37.41.png&#34; alt=&#34;All the files in the Font Squirrel @font-face kit&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		All the files in the Font Squirrel @font-face kit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All you need to do is copy all the font files on to your site, and copy the CSS into your stylesheet:&lt;/p&gt;
+
+&lt;p&gt;```@font-face {&lt;/p&gt;
+
+&lt;p&gt;font-family: &amp;lsquo;QuicksandBook&amp;rsquo;;&lt;/p&gt;
+
+&lt;p&gt;src: url(&amp;lsquo;Quicksand_Book-webfont.eot&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;src: local(&amp;lsquo;☺&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.woff&amp;rsquo;) format(&amp;lsquo;woff&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.ttf&amp;rsquo;) format(&amp;lsquo;truetype&amp;rsquo;), url(&amp;lsquo;Quicksand_Book-webfont.svg#webfontozh2o7Cr&amp;rsquo;) format(&amp;lsquo;svg&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;font-weight: normal;&lt;/p&gt;
+
+&lt;p&gt;font-style: normal;&lt;/p&gt;
+
+&lt;p&gt;}```&lt;/p&gt;
+
+&lt;p&gt;and put the font into your font-family font stack:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;h1 { font-family: &#39;QuicksandBook&#39;, Helvetica, Arial, sans-serif; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;typekit&#34;&gt;Typekit&lt;/h2&gt;
+
+&lt;p&gt;Font Squirrel was great but as most of the fonts are free, a large amount of the fonts are lacking a bit in quality. They just lack the care and attention a font gets from a very skilled type designer.&lt;/p&gt;
+
+&lt;p&gt;And that’s where Typekit makes things awesome.&lt;/p&gt;
+
+&lt;p&gt;I rarely buy fonts. I try to get away with system fonts, or free fonts, &lt;em&gt;a lot&lt;/em&gt; of the time. As I mostly work on the web, it never made sense to use fonts that weren’t web-safe. I’d only indulge in paid fonts (and still pretty cheap ones) when I was doing logo or print design. I would have loved to use the beautiful, unusual and quality fonts from proper font foundries. I subscribed to &lt;a href=&#34;http://www.fontshop.com/&#34;&gt;FontShop&lt;/a&gt;‘s newsletters just so I could gaze longingly at the fonts that felt too good for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.43.02.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-78&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.43.02.png&#34; alt=&#34;One of FontShop&amp;#39;s lovely e-mail newsletters&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		One of FontShop’s lovely e-mail newsletters
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Typekit brings those to-die-for fonts from top quality foundries to the web with a teensy bit of javascript. Typekit showcases &lt;a href=&#34;http://typekit.com/foundries/veer&#34;&gt;some of the most stunning fonts&lt;/a&gt; I’ve ever seen and allows you to use them on your site in a way that is quick and easy, but still preserves the licensing and distribution control that the foundries and font designers need to keep them going.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.46.36.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-79 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.46.36.png&#34; alt=&#34;Proper nice fonts from Typekit&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Proper nice fonts from Typekit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since Typekit has launched, they have added loads more fonts, and they just keep getting better. The libraries are easy to browse, using tags and your own text samples, and you can even view browser samples of each font so you can see how bad it’s going to look in Windows’ browsers ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.50.10.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-80 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.50.10.png&#34; alt=&#34;Typekit preview of Atrament Web on Windows XP Internet Explorer 6&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Typekit preview of Atrament Web on Windows XP Internet Explorer 6
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I use Typekit on my personal site, and this blog, and an increasing amount of client sites. The only downside is that, because the fonts are only licensed for the web, you can’t use them in Photoshop mockups or logo designs unless you buy the correct licensed version. However, if you’re like me, and trying to design in-browser more often, it’s absolutely perfect from start to finish.&lt;/p&gt;
+
+&lt;h2 id=&#34;google-web-fonts-fontdeck-and-fonts-com&#34;&gt;Google Web Fonts, Fontdeck and Fonts.com&lt;/h2&gt;
+
+&lt;p&gt;There are other services around offering the same kind of solution as Typekit. One is &lt;a href=&#34;http://code.google.com/webfonts&#34;&gt;Google Web Fonts&lt;/a&gt;, &lt;a href=&#34;http://blog.typekit.com/2010/05/19/typekit-and-google/&#34; title=&#34;Typekit and Google Announce Open Source Collaboration&#34;&gt;who are working in collaboration&lt;/a&gt; with Typekit, and another is Fontdeck. I haven’t got an invite to Fontdeck yet, so I reckon that one will remain a mystery for a while longer, and I took a quick look at Google Web Fonts, which only serves open source fonts, and it looks pretty similar to Typekit but only has a limited amount of fonts at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.55.27.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-81 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.55.27.png&#34; alt=&#34;Google Font Directory&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Google Font Directory
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a quick go on &lt;a href=&#34;http://webfonts.fonts.com/&#34;&gt;Fonts.com web fonts&lt;/a&gt;, and whilst the site design is a bit much, the service seems reasonable. It was a very straight-forward process picking and publishing the font I’d chosen to a site. However, the rendering of the font (Century Gothic) looked awful on Windows, despite being a system font that usually looked pretty decent. I’m not assuming that this is the situation with all fonts on Fonts.com, but not being able to preview it cross-browser at a glance seems like a disadvantage after the excellent previews on Typekit.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.57.05.png&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-82&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/07/Screen-shot-2010-07-02-at-21.57.05-960x459.png&#34; alt=&#34;Fonts.com Web Fonts using about a million fonts&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Fonts.com Web Fonts using about a million fonts
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, my preferred web font solution is definitely Typekit. The exciting thing is that new solutions keep popping up all time, so I’m sure the best is yet to come. For now, I have to do a complicated mix of Typekit, @font-face and standard system fonts to cover all bases so I’m really looking forward to the day we have a robust solution that does it all for me!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

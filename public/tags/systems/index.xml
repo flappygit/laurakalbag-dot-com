@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systems on Laura Kalbag</title>
+    <title>Posts from Systems on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/systems/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 12 Sep 2011 10:56:45 +0000</lastBuildDate>
@@ -17,8 +17,225 @@
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
-      <description>It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.
-The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.</description>
+      <description>
+
+&lt;p&gt;It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.&lt;/p&gt;
+
+&lt;p&gt;The abstract nature of the conference is part of the appeal for most people. It’s hard to get enthusiastic about a talk that is teaching you more practical techniques, such as writing HTML, when you can so easily learn about it on the web in your own time. Conferences that inspire your passion for the industry, exploring other disciplines and encouraging you to approach your everyday work from a different angle.&lt;/p&gt;
+
+&lt;p&gt;This does mean that the talks at dConstruct weren’t a straight-forward formula of “here’s a problem, here’s the answer.” Most talks were more a commentary, or train of thought, more about trying to identify ideas and issues, working towards solutions, than the “perfect fix” for all our problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;digital-products&#34;&gt;Digital Products&lt;/h2&gt;
+
+&lt;p&gt;The main theme of dConstruct this year was Designing Digital Products. For me, this seemed to be mostly covering digital products and our experiences with them, working on how to go beyond the usable (which is fortunately fast becoming the standard) to make these products *truly* personal, engaging and immersive.&lt;/p&gt;
+
+&lt;p&gt;The talks weren’t necessarily connected, but I found a lot of common threads throughout. This (slightly long!) post covers what I felt were the most prominent and meaningful themes. It’s &lt;strong&gt;about 15 minutes reading time&lt;/strong&gt;, I think I should warn you!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#beyond-experiences&#34;&gt;Beyond experiences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-emotional&#34;&gt;The emotional&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#memories-and-augmented-reality&#34;&gt;Memories and augmented reality&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#possessions-and-the-personal-empowering-users&#34;&gt;Possessions and the personal, empowering users&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#the-value-of-systems&#34;&gt;The value of systems&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#the-diversity-of-systems&#34;&gt;The diversity of systems&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#narratives&#34;&gt;Narratives&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#the-speed-of-technology&#34;&gt;The speed of technology&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#our-digital-past&#34;&gt;Our digital past&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#caring-for-our-digital-history&#34;&gt;Caring for our digital history&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#understanding-the-preservation-of-artefacts-and-not-just-data&#34;&gt;Understanding the preservation of artefacts and not just data&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;#in-summary&#34;&gt;In summary&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;beyond-experiences&#34;&gt;Beyond experiences&lt;/h2&gt;
+In his opening talk, Don Norman spoke of how our products have evolved to be mostly about emotion and experience. Stephanie and Bryan Rieger expanded on that by discussing how we have to bear in mind that we are creating more than *just experiences *and that what we create now will define our future. On one hand, you may have no impact, but on the other hand you may have a huge impact and thus a huge responsibility.&lt;/p&gt;
+
+&lt;p&gt;Delight became a big part of describing how to go beyond a usable experience. Don Norman used an example from the OSX interface. The way that Safari scrolling gathers momentum and bounces when you hit the top or the bottom of the window at speed isn’t about function and usefulness, it’s just about fun. It’s the details creating fun and elegance that make the experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;the-emotional&#34;&gt;The emotional&lt;/h3&gt;
+Kelly Goto gave a fantastic talk from her position as a researcher, explaining how understanding the users/consumers’ lives is so important when creating products. Kelly spoke of she tries to understand what’s behind when someone says ‘I love it’ and how understanding people’s rituals can help you understand their priorities and how their experiences are connected.&lt;/p&gt;
+
+&lt;p&gt;Kelly’s company does research through contextual interviews, also known as ‘deep hanging out’ where they spend time with people to understand how products make them feel and how it helps them complete their tasks. It’s all about the context of people’s experiences and how understanding a situation can give you a completely different connection to an experience. She explained how these observations are one of the most effective forms of research and acts as the opposite of relying on statistical research such as analytics (and to a degree, focus groups.) Analytics and focus groups as forms of research can lack context and have results skewed as what people say is rarely what they actually do.&lt;/p&gt;
+
+&lt;p&gt;Kelly gave an example of a product that understands lifestyle; Withings’ scales aren’t ordinary scales, they tweet a user’s weight. This can help motivate the user and give them an experience that actually affects their life rather than just providing a utility service.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately Kelly ran out of time so she had to very briefly cover some interesting topics that I would have loved to have heard in more depth. She started to talk about Kansei engineering, and how it ties in with creating more emotion-based product experiences through mixing sensory aspects with a logical experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;memories-and-augmented-reality&#34;&gt;Memories and augmented reality&lt;/h3&gt;
+Kelly Goto and Don Norman both spoke about making products addictive. Part of making products addictive, making the user want to return, is through making good memories of that product’s experience. Memories are actually more important than experiences because where experiences are brief, memories can last forever.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Design memories not experiences. &lt;strong&gt;Don Norman&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Don Norman explained that the importance of memories is why we buy souvenirs and other memory-triggers such as photos, but the interesting part is that a memory isn’t necessarily true to reality. A memory can be like augmented reality, a skewed version of actually happened.&lt;/p&gt;
+
+&lt;p&gt;Kevin Slavin spoke about augmented reality and how it isn’t yet working as a genuine experience in the real world. Kevin’s main interest is in &lt;strong&gt;why&lt;/strong&gt; we’re so desperate to create augmented reality and what it says about us.&lt;/p&gt;
+
+&lt;p&gt;Kevin explained how the working concept of augmented reality was created to assist workers in cabling to cable diagrams when working on Boeing planes. Having the cable diagrams mapped against the workers’ eyes allowed them to see where cables needed to be laid in real-space. This created the layer-like concept of augmented reality that we’re familiar with today in apps such as Layar.&lt;/p&gt;
+
+&lt;p&gt;The downside of layering replicant worlds to create augmented reality is that it makes the entire world feel less real and less immersive. It requires pointers in the augmented world to show users where to interact; this loses the magic compared to how everything is interactive in our real world.&lt;/p&gt;
+
+&lt;p&gt;Kevin pointed out that this is because we are confusing replication, looking like the real world, with immersion. This is particularly a problem as we as a species tend to find complete replication unsettling, which seems to be the case with human-replica robots. We forget that it isn’t looking human that makes something feel human. The brilliant examples that Kevin gave to explain this point was the Muppets or Tamagotchis. The Muppets are puppets that mostly don’t look like humans, but it’s their actions and their human-like personalities that make them seem real. Tamagotchis are just a few pixels, but they became like real pets to children. It wasn’t through good graphics or looking like real creatures, but by the way their behaved real, through having needs, desires and vulnerability. These attributions gave Tamagotchis a deeper sense of being alive.&lt;/p&gt;
+
+&lt;p&gt;Kevin summarised by saying that reality can be augmented, but not by adding a layer, and not through obsessing about optics. He likened augmented reality to porn, just a thin veneer of reality to fool the eyes.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;possessions-and-the-personal-empowering-users&#34;&gt;Possessions and the personal, empowering users&lt;/h3&gt;
+Don Norman spoke about how digital products are changing to become more about co-creation and doing things yourself. This is changing the way products are made as people can easily make their own products as amateurs. The freedom of this technology and these platforms create infinite opportunities for creation, as well as giving people the power to do things for themselves that they couldn’t before. An example of this is blog platforms, where users can now publish for themselves.&lt;/p&gt;
+
+&lt;p&gt;Kelly Goto pointed out that customisation is a huge part of creating a good experience, being able to personalise what your possession does to express yourself. An example of this is in how huge the custom ringtone market is, where people strive to find the right ringtone to represent themselves or their friends.&lt;/p&gt;
+
+&lt;p&gt;Stephanie and Bryan Rieger suggested that user customisation and creation also reduce the requirements for a polished product. You can create something ‘perfect’ for your users, but it will only ever be perfect for that average, homogenised user. Many users would prefer something non-linear and ragged around the edges that they can refine and make suitable for themselves. This lack of perfection also allows users to mold and create their own experiences.&lt;/p&gt;
+
+&lt;p&gt;This idea of creating customised experiences has extended to whole services being based around the experiences of others’ products. Examples of these services are Readability and Instapaper, both apps making the reading of other people’s content a better experience.&lt;/p&gt;
+
+&lt;p&gt;The Riegers described how Apple spend a lot of time controlling experiences where other platforms, such as blogs and Twitter, are giving more freedom to users to publish their own content.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The best designs will set the stage, but stop short of fully defining the experience. &lt;strong&gt;Adam Silver&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This breaking down of ownership has been enabled by the web. The Riegers explained how the web allows an idea to grow, almost organically or virus-like, independently from the original creator. Especially through open source projects, this transference of ownership can enable new voices and propel change (both positive and negative) beyond what could be achieved by the originator.&lt;/p&gt;
+
+&lt;p&gt;In a lovely and engaging talk by Matthew Sheret he spoke of totems. Totems are a concept recently brilliantly described through the film Inception, where a pocketable object you carry with you reminds you of the real world, reality and your home no matter where you are.&lt;/p&gt;
+
+&lt;p&gt;Matthew went on to talk about how you can learn a lot about a person from their pocket possessions. They are intimate, meaningful objects who show off who you are, and this representation should be at the forefront of designers’ minds when creating products.&lt;/p&gt;
+
+&lt;p&gt;Despite the increasing importance of the personal, and its expression through possessions, Kelly Goto made a point that really made me think; we don’t really love our technological possessions (such as our phones) as an object, we love the experience they provide. We don’t love out phone if it’s broken, we can just move our experience, along with our data, to another device.&lt;/p&gt;
+
+&lt;p&gt;Matthew Sheret also spoke about this when he explained that the problem is that data-holding objects don’t have a huge life span, even though the data within it has the potential to live on. This means that there can be more meaning in the data than in the object, as throwaway consumer products aren’t the heirlooms they once were. They no longer have a chance to age or carry memories themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;the-value-of-systems&#34;&gt;The value of systems&lt;/h2&gt;
+Don Norman discussed how there’s no longer a distinction between the internet at home/work and the internet in your pocket. You can move from one device to another seamlessly reading the same book or watching the same film. This means that design has become about learning how to create great &lt;em&gt;systems&lt;/em&gt; as they create great experiences across all of these devices.&lt;/p&gt;
+
+&lt;p&gt;Stephanie and Bryan Rieger explained how controlled environments don’t necessarily encourage growth. Proprietary systems, such as the pod-based coffee machines, use controlled factors which reduce a product’s ability to react to change. If there is a shortage of the materials to make the proprietary product, the whole system must change to accommodate a new material, whereas more flexible systems (such as the traditional French coffee press) are already created to work with different materials. This means that often the simplest and more flexible products are the most likely to succeed, withstanding the tests of time.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;the-diversity-of-systems&#34;&gt;The diversity of systems&lt;/h3&gt;
+Craig Mod described how we tend to veer towards a small concentrated area of knowledge and often forget to have perspective. He emphasised the importance of working across disciplines, explaining that the further we travel from our specialist areas of experience, the better an idea we can gain of the frontiers and unknowns of our knowledge.&lt;/p&gt;
+
+&lt;p&gt;Don Norman also spoke about how new inter-disciplinary skills are needed to cope with the crossover of products (apps/sites) that our systems cover as the systems themselves are more representative of the brand, and are more enduring, than the products and devices which carry these systems. The ease of a system will resonate beyond a fancy product. As the Riegers pointed out, our most valued systems are designed to live beyond the device.&lt;/p&gt;
+
+&lt;p&gt;Don gave the example of this being why Apple are scrapping the standards and creating a new consistency across all their devices, making scrolling on OSX Lion consistent with gestural scrolling on iOS. It’s not about what we already understood as standard on OSX, it’s about establishing a new system that works across multiple products and platforms.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;narratives&#34;&gt;Narratives&lt;/h2&gt;
+The one concept in experience that we don’t think much about is time. Time is what makes the experience of films, books and games successful. Don Norman believes that this is why educational systems will likely move into the gaming sphere, as it’s a way to make learning more immersive.&lt;/p&gt;
+
+&lt;p&gt;Dan Hon’s talk was focused around storytelling on the web. Dan gave examples of the easy way and the complicated way to create stories on the web. The example of the complicated way was to create fictional alternate universes/futures with characters who have their own sites and profiles. The easy example was how people create parody accounts on social networks such as Twitter. Both can be a great source of entertainment but rely on the humour of the platform. For instance, Twitter is home to many parody accounts whereas Dan gave an example of how silliness and parodies aren’t welcome on Quora, and can be met with a dismissive lack of humour.&lt;/p&gt;
+
+&lt;p&gt;Platforms were key to Dan’s talk about storytelling. He pointed out that we don’t have specialist narrative-creation tools (or even for experiencing the narratives), and the platforms we &lt;em&gt;do&lt;/em&gt; have aren’t ideal for story telling. There aren’t holodecks for holonovels as idealised in Star Trek, and there’s generally little room for free narrative discoveries. This is partly down to our platforms being so focused around ‘real’ people. Facebook and Google Plus make it near possible to create narratives as you’re only supposed to create accounts in your ‘real’ name.&lt;/p&gt;
+
+&lt;p&gt;The difficulty in choosing platforms to create stories is that each platform varies in attention. Youtube has a fairly high chance of discovery as users tend to click from one related video to another, but there is a huge amount of videos to be found within. Other platforms have a very low amount of attention but more niche communities, heightening your chance of discovery.&lt;/p&gt;
+
+&lt;p&gt;Kars Alfrink spoke about how game narratives could be used as test beds for societal situations, helping make a difference by creating simulations that encourage players to act responsively towards society. It did seem like a fairly radical approach and response to the UK riots, but Kars pointed out that it wasn’t just about rewarding positive behaviour, as incentivising and promoting rewards instead of rules isn’t the right way to encourage people to take moral responsibility.&lt;/p&gt;
+
+&lt;p&gt;Kars spoke about how games, particularly folk games such as chess, can bring together cultures (although they can also create mono cultures) and how he believes that, through fitting games into our daily routines, they could have more value and affect more of our lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;the-speed-of-technology&#34;&gt;The speed of technology&lt;/h2&gt;
+Kars Alfrink talked about how technology can amplify the speed and intensity of societal events. Stephanie and Bryan Rieger also spoke about how the rapid speed at which technology is developing, and is adopted, means that time is a luxury and striving for perfection can result in being left behind.&lt;/p&gt;
+
+&lt;p&gt;Historically market penetration took a long time, allowing the creators of a product to establish models slowly, make mistakes and correct them, but now time is a luxury and products can become completely established or totally obsolete very quickly. This means there are no longer generations experiencing the same products, and no generation gap, as a few years makes an enormous difference in the products we use and our experiences of them. This has made users much harder to understand and control as well as meaning we must now be constantly creating new mental models for the way we create.&lt;/p&gt;
+
+&lt;p&gt;Stephanie and Bryan Rieger explained that with the addition of portable devices, the distribution of ideas has been amplified in a storm of connectedness. Ideas very rapidly converge and create new ideas and events.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;our-digital-past&#34;&gt;Our digital past&lt;/h2&gt;
+Frank Chimero discussed how we’ve actually started to get to the point on the web where we have a history. In our personal digital histories we have huge silos of saved ‘Likes’ and ‘Favourites’. Frank gave the example that these collections that are reminiscent of the old-fashioned common place books, where people would copy their favourite text from other books into their own personal book. He pointed out that this was a type of curation, and that there’s a huge potential in our similar collections. The main value being in the collection as a whole, because of how the data can co-mingle.&lt;/p&gt;
+
+&lt;p&gt;The difference between our digital collections and the common place book is that in the digital world we can’t replicate that same architecture of serendipity. Where the common place book allows you to find the content as you browse, digital content allows you to search your content and it is brought to you. We miss this creative, curated style of browsing in our web experience.&lt;/p&gt;
+
+&lt;p&gt;Despite there not yet being any ideal web tools, collection and curation is changing the way we publish and consume as everyone can be a publisher and everyone can be a consumer. Don Norman pointed out that the trick now is discovering what is &lt;em&gt;good&lt;/em&gt; content. And that this can be accomplished through curation.&lt;/p&gt;
+
+&lt;p&gt;Frank Chimero discussed how these differences between analogue and digital seem to define our ways to hold on to and remember the past. Digital is invisible, easy-to-forget and is rarely a physical presence but rather a phantom pile that is present but has no set parameters. There appears to be less value in the digital as you can give away copies many times whereas the analogue only has one copy that you can only give away once and thus embodies the associated history, memories and ownership.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;caring-for-our-digital-history&#34;&gt;Caring for our digital history&lt;/h3&gt;
+Frank spoke about unleashing the potential in our ‘Likes’, ‘Hearts’ and ‘Stars’ collections by curating, rather than just collecting. Using the curation second pass, we can create narratives, arranging our collections in more meaningful ways. Frank explained that there are restrictions in curating through the current tools/services we use to collect. It’s hard to discover patterns and &lt;em&gt;find&lt;/em&gt; rather than just searching for what we’re looking for, and we limit the arrangement of our collections through blocky, spat-out layouts.&lt;/p&gt;
+
+&lt;p&gt;Creating better curated collections would require better digital services. These services would need to change the defaults that we usually arrange our data by, using more personal and natural parameters such as those of LATCH as described by Richard Saul Wurman:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;L&lt;/strong&gt; –; Location&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt; –; Arrangement&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;T&lt;/strong&gt; –; Time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; –; Category&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;H&lt;/strong&gt; –; Hierarchy (or continuum, best-worst, first-last)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using these parameters would be complemented by our adoption of a more contemporary museum arrangement to encourage more exploratory browsing. Frank described how creating more spacious layouts, where a user can enter and exit at any point could help replicate that more serendipitous experience of the common place book.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;understanding-the-preservation-of-artefacts-and-not-just-data&#34;&gt;Understanding the preservation of artefacts and not just data&lt;/h3&gt;
+Matthew Sheret spoke about how data and artefacts can complement each other in creating legacies. Attaching your totem personal possessions to RFID and similar trackers can create triggers for other services that can give you further connections. The example Matthew gave was using your Oyster London Transport card to associate locations with playlists you listen to whilst travelling. This can help you associate memories with places, giving meaning to your travel data, and allowing your totems to reflect your personal life back at you.&lt;/p&gt;
+
+&lt;p&gt;Even smart phones could be used as totems, as they go everywhere with you. As Matthew put it, these are the “prettiest sensors in the world.” Smart phones carry so much tracking information to help create more connective data describing your life. The more connections you create increases the value of the data and increases the value of the system.&lt;/p&gt;
+
+&lt;p&gt;The inverse can also apply. Matthew was using a hacked Doctor Who Sonic Screwdriver toy as a keynote remote. He suggested that hacking physical pocketable objects, such as toys, can create more useful objects that carry extra meaning through the function you have personally given to them. This can scratch the itch of the heirloom and potentially create the legacy personal possession.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;in-summary&#34;&gt;In Summary&lt;/h2&gt;
+dConstruct really emphasised for me that technology isn’t the detached work computer in an office for most of us. It is becoming such an integrated part of our lives that we no longer see it as alien objects that are invading our time and distracting us from our loved ones. The products that people are creating are helping us enrich our lives, understand ourselves and our environments better.&lt;/p&gt;
+
+&lt;p&gt;This means that when making digital products, exploring the connection between the human and the machine is becoming more important. As we’re trying to improve on adequate, usable experiences, the focus is really shifting from the product and its functions over to the human and their behaviours, and how the technology works as an extension of human life.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t a conference so much about ‘takeways’ but I took away a big sense of responsibility for the projects I work on. It’s pretty scary to think about the impact that you can potentially have on someone’s life through what you create, but massively thrilling at the same time!&lt;/p&gt;
+
+&lt;h2 id=&#34;5-comments&#34;&gt;5 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-252&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3226b6ba618ddf377480b21098330fd0?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://andywarburton.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Andy W&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-252&#34;&gt;&lt;time datetime=&#34;2011-09-12T12:17:00+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:17pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Holy cow. That is one hella long post. I’m going to have to ‘read later’ on this one.
+
+Might be worth doing each talk as an individual post and releasing them daily over a week&amp;#8230; I would have been much more likely to read them all then. You could then link them all from a ‘master’ post :)
+
+If you could  bits that you would recommend I read?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-253&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-253&#34;&gt;&lt;time datetime=&#34;2011-09-12T12:22:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It’s tricky because I was trying to work across themes rather than writing per-talk, but I’ve tried to add some headers in there to break the themes up. Maybe I’ll do a quick skip-menu at the top!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-255&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://iamdanw.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dan W&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-255&#34;&gt;&lt;time datetime=&#34;2011-09-15T00:11:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:11am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks, that was good. I’d love to see more conference write ups like this than the TL;DR  oriented per-speaker bullet point lists many produce.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-256&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-256&#34;&gt;&lt;time datetime=&#34;2011-09-15T08:27:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:27am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Dan :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +244,311 @@ The abstract nature of the conference is part of the appeal for most people. It�
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
-      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
-And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+      <description>
+
+&lt;p&gt;I’ve tried to condense &lt;a href=&#34;https://laurakalbag.com/notes-from-ampersand-conf/&#34;&gt;my notes from Ampersand conference&lt;/a&gt; into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.&lt;/p&gt;
+
+&lt;p&gt;And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!)&lt;/p&gt;
+
+&lt;h2 id=&#34;using-typography&#34;&gt;Using typography&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography-is-about-context-context-is-about-content&#34;&gt;Typography is about context, context is about content&lt;/h3&gt;
+
+&lt;p&gt;The web ‘industry’ is starting to focus more on content strategy, and that the whole reason our sites are there is generally to showcase content, and this was reflected in the &lt;em&gt;importance of content&lt;/em&gt; being continually brought up throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare was the first speaker of the conference. As the creator of Comic Sans, Vincent was the perfect person to explain the significance of fonts being created for a purpose, for a specific context.&lt;/p&gt;
+
+&lt;p&gt;Comic Sans was created for Microsoft Home software, when computers were starting to become used in the home. Its fun, casual, comic-book style was based on comics like Watchmen and Batman Returns and was successfully used in speech bubbles and children’s software. It’s the prolific abuse of Comic Sans in inappropriate signage, documents, and many other places that has made it so well-known and unpopular (&lt;em&gt;or inappropriately popular!&lt;/em&gt;) As Jason Santa Maria said when talking about choosing an appropriate typeface:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;No type is born evil, it’s the context that dictates if it works.
+&lt;a href=&#34;http://www.flickr.com/photos/xxv/5446317470/&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-466&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/comicsans.jpg&#34; alt=&#34;Comic Sans on an Antiques shop sign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Comic Sans on an Antiques shop sign (credit xxv, Flickr)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-465&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34; alt=&#34;a sample of Bell Centennial&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		a sample of Bell Centennial
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;#### Content first&lt;/p&gt;
+
+&lt;p&gt;Tim Brown and Jason Santa Maria both spoke about how the context of the content gives them meaning when choosing a suitable font and how vital it is to compose your design with accountability. Some points they focused on for selecting a suitable typeface were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The content&lt;/strong&gt;, its message, its reason for being&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The audience&lt;/strong&gt;, who will read it? and how? for how long?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The culture&lt;/strong&gt;, the historical and cultural significance of the content, whether it will be read in other languages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The context of the typeface itself&lt;/strong&gt;, its resumé, what it signifies to others, how its production affects its appearance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;content-out&#34;&gt;Content-out&lt;/h4&gt;
+
+&lt;p&gt;Mark Boulton got us designers thinking around content in a new way which is less concentrated on the limitations of our canvas (the size of the browser, the device) and discussed possible solutions for designing from the content-outwards. Mark suggested that as designers became fixated on web standards, we started to take the separation of content and style too literally which meant we created meaningless designs separated from our content. The content-out route really involves knowing the content first, which prompted a brilliant quote from Mark:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you don’t know your content or audience, go to the pub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Admitting he didn’t yet know any solid solutions, but wanted to encourage discourse, Mark suggested processes such as working on the details first then assembling a modular design from the details. This process is one that complements the &lt;strong&gt;responsive web design&lt;/strong&gt; approach which almost every speaker hailed as a new way of working on the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;responsive-design&#34;&gt;Responsive design&lt;/h4&gt;
+
+&lt;p&gt;Jon Tan explained how typography is one of the elements we can keep consistent across responsive design that reconfigures itself to suit different scenarios. No matter what the layout, screen size or device, the typography (along with colour) can instantly identify a design.&lt;/p&gt;
+
+&lt;p&gt;Tim Brown explained his process for building responsive design systems around type. The web, with its inherent flexibility, resists the rigid traditional print frameworks using ratios and fixed grids that previously gave designers a structure to work within. Tim suggests creating a modular scale, with the layout and every other element following the type, allowing it to work consistently regardless of device. This is based on the principle that we need a constant to work from in our designs, and type is a perfect constant to use. This is a way of thinking that designers can easily practise and exercise without affecting any of our current processes.&lt;/p&gt;
+
+&lt;p&gt;Tim went on to describe how using a &lt;em&gt;modular&lt;/em&gt; scale, rather than arbitrary numbers, we can create a design system that is visibly cleaner and more harmonious. He suggested choosing sizes and spaces, such as type, borders, margins, padding, based on a pattern or scale. A couple of examples of ratios that Tim provided were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;golden ration 1 : 1.618&lt;/li&gt;
+&lt;li&gt;musical fifth 1 : 1.5
+&lt;a href=&#34;http://modularscale.com&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-467&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png&#34; alt=&#34;A modular scale created using Tim&amp;#39;s website modularscale.com&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A golden ratio modular scale created using Tim’s website modularscale.com
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Different ratios traditionally have meaning or significance to different types of people, so these contexts can even be used to choose an *appropriate *scale. This also gives designers a reason and justification to backup our design decisions.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-more-than-text&#34;&gt;Typography is more than text&lt;/h3&gt;
+
+&lt;p&gt;Jason Santa Maria talked about how typography has a dual life. It’s about both the &lt;strong&gt;aesthetic&lt;/strong&gt; and the &lt;strong&gt;readability&lt;/strong&gt;. As designers we can often get caught up in how the text looks as a whole, but in reality users see the whole as texture and they skim across it. Users are more likely to stop and fixate on a small area for a moment, and this is where they will notice the typography and if it makes the text difficult to read. Jason emphasised the well-known idea that &lt;strong&gt;good typography is invisible&lt;/strong&gt;, it’s about not making the user think or struggle to read.&lt;/p&gt;
+
+&lt;p&gt;Jason also made the point that readability isn’t always *can I read it? *but also *do I want to read it? *It’s in these scenarios that good typography can help create emotional experiences.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-can-create-emotional-experiences&#34;&gt;Typography can create emotional experiences&lt;/h3&gt;
+
+&lt;p&gt;Jon Tan really expanded on his &lt;em&gt;New Adventures in Web Design&lt;/em&gt; talk about the lizard brain by emphasising how typography can influence the subconscious. A typeface can convey emotion beyond the words in the text. Jon Tan quoted Paul Rand saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A logo derives meaning from the quality of the thing it symbolizes [&amp;#8230;] what it represents is more important than what it looks like.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is controlled by a part of our brain called the amygdala which can evoke emotional responses without verbal or linguistic input. Jon explained how this means as designers, we need to understand how the brain works, how we need to understand how design makes us &lt;em&gt;feel&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-468 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34; alt=&#34;MS Sans and Tahoma samples&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		MS Sans (left) and Tahoma (right) samples
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-hard&#34;&gt;Typography is hard&lt;/h3&gt;
+
+&lt;p&gt;As someone who often feels that typography can be overwhelming, and that it’s very difficult to know when you’re making the right decisions, it was great to hear Jason Santa Maria say that &lt;strong&gt;typography is hard&lt;/strong&gt;. Jason went on to explain that a designer doesn’t need to know *absolutely everything *about typography to use it well, you just need to know how to estimate a font.&lt;/p&gt;
+
+&lt;h3 id=&#34;guidelines-for-choosing-and-using-type&#34;&gt;Guidelines for choosing and using type&lt;/h3&gt;
+
+&lt;p&gt;Jason went into great depth on how to choose typefaces. He explained that there are no rules in typography, its imperfect precision where you can only be guided by basic principles and understanding the constraints. Some of the top tips that Jason gave were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Choose workhorse typefaces&lt;/strong&gt;. We shouldn’t feel obliged to choose a new typeface for every project. Create a personal palette of typeface families that work well in display as well as body text. Use different styles from the same family to save having to find multiple typefaces that work well together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid overly themed typefaces&lt;/strong&gt;. These ready-mades show a lack of imagination. Subtle fonts can promote different emotions more effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a list of attributes and feelings that you want to convey, then find typefaces that convey that feeling&lt;/strong&gt;. This also works for looking for typefaces that are similar, but not the same, to a standard that you use (perhaps such as Helvetica or Georgia.)&lt;/li&gt;
+&lt;li&gt;**Test your fonts in context **and in the right space. Choose your font appropriately to the line height, line length and size required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web-fonts&#34;&gt;Web Fonts&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-benefits-of-web-fonts&#34;&gt;The Benefits of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Everyone at Ampersand was evangelising web fonts. It’s impossible to not do so with all the exciting possibilities playing with lovely new fonts can bring.&lt;/p&gt;
+
+&lt;p&gt;Jon Tan described it as a time of &lt;strong&gt;renaissance&lt;/strong&gt; considering we were previously forced to use such a minimal font palette, and we’re now being given a chance to prove our skills in design using these new tools. We can now choose type that’s *perfect *for purpose.&lt;/p&gt;
+
+&lt;p&gt;Jason Santa Maria echoed what I think everybody else was feeling in that it’s a good time to be a designer. Jason shot down the cynical idea that pople are misusing or abusing fonts and emphasised the benefits that we’re gaining in accessibility through no longer having to provide non-standard fonts through dodgy font replacement techniques.&lt;/p&gt;
+
+&lt;p&gt;Jon and Jason both spoke about how type can define a brand and how web fonts are helping unify the identity of brands across print and the web, helping convey a voice, facilitate an emotion, and create a relationship between the user and the design.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-downside-of-web-fonts&#34;&gt;The Downside of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Along with the eagerness to try new web fonts, there was a lot of talk of the downside of web fonts, but with a positive outlook on how the awkward issues can be solved.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-back-at-font-engineering&#34;&gt;Looking back at font engineering&lt;/h3&gt;
+
+&lt;h4 id=&#34;metal-typesetting-bitmap-font-creation-and-os-safe-fonts&#34;&gt;Metal typesetting, bitmap font creation and OS-safe fonts&lt;/h4&gt;
+
+&lt;p&gt;David Berlow harked back to working in font engineering when fonts were first needed to look consistent from computer software to printer, explaining how this relates to the web fonts emerging today. One of David’s main considerations is how poor fonts can look at very small sizes. Bearing his experience with metal case type and bitmap fonts in mind, David focuses on how to make web fonts easier to read including basing them on specific size grids, using large x-heights with generally large amounts of whitespace and simplifying fiddly and complicated details.&lt;/p&gt;
+
+&lt;h3 id=&#34;rendering&#34;&gt;Rendering&lt;/h3&gt;
+
+&lt;p&gt;Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler spoke about how the type designers at Hoefler and Frere-Jones are creating insane amounts of newly hinted glyphs in order to make their web fonts work as well as they possibly can across the web. Many web fonts are just bad translations of fonts created for print and consequently barely work on the web. A few speakers discussed the difficulties in the differences in fonts across Windows and OSX, with some users preferring Windows’ ‘*crispness*‘ and others preferring Apple’s ‘*soft detail*‘.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;http://typekit.com/fonts/museo-slab&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-469 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/museo-slab.gif&#34; alt=&#34;Museo Slab as seen in Safari on OSX and Internet Explorer on Windows&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Tim Brown emphasised how important it is to check your web font choices live, and repeating these checks across the different environments that will use those fonts.&lt;/p&gt;
+
+&lt;p&gt;John Daggett described the issues created by web browsers choosing their own fallbacks, such as creating awful synthesised bold fonts through smearing or drawing the letters twice, or obliqueing fonts to give them an italic appearance. Jonathan Hoefler expressed how the lack of being able to distinguish unusual font styles can be an issue, especially for those that have a back slant or are number-only fonts.&lt;/p&gt;
+
+&lt;h3 id=&#34;css-working-draft-for-fonts&#34;&gt;CSS Working Draft for Fonts&lt;/h3&gt;
+
+&lt;p&gt;John Daggett’s talk was an intense look at the potential future of web fonts being controlled through CSS. It was at this point that I felt particularly hopeful. There’s something amazing about how quickly the web seems to have gone from a miserable collection of ‘web-safe’ fonts to being able to see how we can potentially use alternate glyphs and handle kerning.&lt;/p&gt;
+
+&lt;p&gt;I don’t think my notes cover all the fantastic features that John described, so for those I recommend you see the &lt;a href=&#34;http://www.w3.org/TR/css3-fonts/&#34;&gt;CSS Working Draft for Fonts&lt;/a&gt;, but here are some of the exciting tidbits I fancy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Using opentype font features through ‘font-variant:’&lt;/strong&gt;. This means having loads of different font features such as multiple glyphs per character in an easy-to-use package giving us fine-grain control all through CSS. At the moment &lt;em&gt;font-variant&lt;/em&gt; is used predominantly to select small-caps (with limited success.) The potential in &lt;em&gt;font-variant&lt;/em&gt; means we could eventually select font features such as petite caps and automatic fractions, have more control over fallbacks, kerning, ligatures, language support and numerals, as well as supplementing other CSS properties such as &lt;em&gt;text-transform&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security for web fonts&lt;/strong&gt;. Rather than DRM, the idea is to restrict the origin of the font through http headers and the like, requiring a particular protocol, site or port. This could prevent other sites hot-linking your fonts or sniffing your font URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-day-listening-to-clever-people-talk-about-fonts&#34;&gt;A day listening to clever people talk about fonts&lt;/h2&gt;
+
+&lt;p&gt;I think that me bothering to write a massive blog post about the themes of Ampersand conference really shows what an amazing day it was. I felt completely inspired, enthused and almost exhausted by the ideas and feelings being expressed by the speakers. I hope this rather disjointed digest might have helped bring some of this excitement to you lot who couldn’t be there on the day!&lt;/p&gt;
+
+&lt;h2 id=&#34;recommended-reading-and-plugins&#34;&gt;Recommended Reading and Plugins&lt;/h2&gt;
+
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34;&gt;Responsive Web Design by Ethan Marcotte&lt;/a&gt; (via &lt;strong&gt;everybody&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codexmag.com/&#34;&gt;Codex magazine&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-sites&#34;&gt;Recommended Sites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fontsmith.com/&#34;&gt;Fontsmith&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;li&gt;Google ‘font font focus’ for Font Font Focus sites (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typography.com/&#34;&gt;Hoefler &amp;amp; Frere-Jones at Typography.com&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paulshawletterdesign.com/&#34;&gt;Paul Shaw Letter Design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fontsinuse.com/&#34;&gt;Fonts in Use&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webfontspecimen.com/&#34;&gt;Web Font Specimen&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;Modular Scale&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.typekit.com/category/font-events/&#34;&gt;Using Typekit font events for responsive and fallback design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-plugins&#34;&gt;Recommended Plugins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://letteringjs.com/&#34;&gt;Lettering.js&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fittextjs.com/&#34;&gt;Fit Text&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-241&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.adamwintledesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Adam Wintle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-241&#34;&gt;&lt;time datetime=&#34;2011-06-22T17:52:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Superb writeup! Makes me really wish I could have been there!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-243&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-243&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:49:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:49am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Adam! Hopefully if there’s a next time you’ll be there :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-242&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jontangerine.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jon Tan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-242&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:46:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, so glad you enjoyed it! Fantastic, detailed write-up. Here’s a couple of more links you might find useful:
+
+Nick Sherman’s history of [Bell Centennial](http://nicksherman.com/articles/bellCentennial.html&#34; rel=&#34;nofollow). [Wikipedia article on Peter Behrens](http://en.wikipedia.org/wiki/Peter_Behrens&#34; rel=&#34;nofollow), consultant artist for AEG, and designer of arguably the world’s first corporate typeface. There’s also a [gallery of Behren’s work](https://picasaweb.google.com/ID100Y/TheVirtualPeterBehrensExhibition&#34; rel=&#34;nofollow). All about the London Underground typefaces, [Johnston and New Jonhston](http://londonreconnections.blogspot.com/2009/09/typeface-for-underground.html&#34; rel=&#34;nofollow). Finally, a huge collection of [Blue Note covers](http://www.gokudo.co.jp/Record/BlueNote3/nnblue2.html&#34; rel=&#34;nofollow) that includes many by Reid Miles.
+
+See you next year I hope!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-244&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-244&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:51:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Cheers Jon, those links are great! Some lovely reads to start the morning&amp;#8230;
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

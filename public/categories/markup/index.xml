@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markup on Laura Kalbag</title>
+    <title>Posts from Markup on Laura Kalbag</title>
     <link>https://laurakalbag.com/categories/markup/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 01 Jan 2013 19:01:59 +0000</lastBuildDate>
@@ -17,9 +17,130 @@
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
       
       <guid>https://laurakalbag.com/grid-frameworks/</guid>
-      <description>I’ve written a post for 12 Devs of Xmas on Grid Frameworks.
-After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.
-I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs.</description>
+      <description>
+
+&lt;p&gt;I’ve written &lt;a href=&#34;http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks&#34;&gt;a post for 12 Devs of Xmas on Grid Frameworks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After spending months whining about grid frameworks, 960.gs and Bootstrap, I’ve finally backed up my tweet-sized complaints with some context and examples.&lt;/p&gt;
+
+&lt;p&gt;I knew it would be contentious and that some people would feel antagonised by my saying that developers who don’t consider accessibility shouldn’t be on the web. And possibly also that I suggest some developers lazily fail to customise frameworks to appropriately suit their needs. So far, the reasons behind these feelings seem to be a lack of control over their own work, blaming clients or bosses. I don’t know what to say to be helpful in these situations&lt;/p&gt;
+
+&lt;p&gt;Me, I would refuse to do a job that wouldn’t fit my idea of quality development. If there’s not enough time to make a site accessible (the idea of this still baffles me as I consider accessibility part of core development) then there’s not enough time to finish the project. It does feel rather unhelpful telling someone that, if their boss/client is forcing them to do things in the wrong way, they should quit their job, and I probably care about these things a lot harder than many, but honestly, that’s what I’d do.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I’m sure I’ll be dealing with more accessibility-related issues in the future. It’s far too easy for me to go off on a rant and a ramble, I just want more people to care.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-comments&#34;&gt;7 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-435&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.craigmcpheat.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Craig McPheat&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-435&#34;&gt;&lt;time datetime=&#34;2013-01-02T15:26:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I appreciate and agree with your sentiment about semantic markup, and accessibility, but I think you may have jumped the gun in [Day 7: Grid Frameworks](http://12devsofxmas.co.uk/post/2013-01-01-day-7-grid-frameworks&#34; rel=&#34;nofollow) by implying grid frameworks are inherently inaccessible.
+
+I argue against front end frameworks in my day to day job. The reasons I cite are:
+
+&lt;p&gt;1) developers need to learn the framework, not the underlying technology
+
+2) our web standards require semantic markup, which frameworks often lack out the box
+
+3) frameworks look like a framework –; sometimes as much work is required to theme it as there would be to build from scratch
+
+4) frameworks often mean extra bytes –; superfluous markup contradicts my requirements for mobile first / every byte counts&lt;/p&gt;
+I get where you’re coming from and agree in most parts. I’m not saying I’ll never use a front end framework, but I do campaign for refining and building our own internal boilerplates.
+
+It’s important to be careful when choosing arguments to protect accessibility. To say using a grid framework would introduce a risk to the accessibility of the site would be careless if not untrue, thus risking the importance of the accessibility argument. Like all things, the devil is in the detail. If those grids had semantic class names rather than grid_whatever they’d be no more accessible. You rightly point out some basic semantics required for a good accessible build –; lists, heading levels, good anchor text –; but these are separate from the structure provided by a grid framework. (Of course, all this goes without mention of landmark areas, aria, skip to main content etc)
+
+(As an aside, is it terrible to use a grid as the structure and object orientate the theme with semantic classnames alongside the grid_whatevers?)
+
+I agree accessibility and semantics are both important, but I think there’s a lot of detail missing to get from point A to point B in your post and subsequent comments, which is very dangerous when promoting the cause to senior stakeholders and those who need to understand the cold hard facts without emotion.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-436&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-436&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:06:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:06pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Craig, there’s some great points in there, and I think you’re right in saying that I was making a bit of leap, here’s my explanation why:
+
+I was really trying to create an argument around your point 2. “Our web standards require semantic markup, which frameworks often lack out of the box.” But then I came to ask myself: why do semantics matter? Why bother making anything semantic? I know that **I** think that semantics are important, but how do you explain it to someone who just thinks that semantics are about being fussy?
+
+So I went one level deeper. Why are semantics so important to me? Chiefly, accessibility. Then reusability, maintenance etc. Thus my post became about these things, brushing over the semantics that people often disregard as purist.
+
+I’m sorry if I didn’t convey the point well enough, and you’ve definitely given me some food for thought in terms of how I represent accessibility.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-437&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/3368e6126004d4fe7b1f7edfdbf7e5d6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.craigmcpheat.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Craig McPheat&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-437&#34;&gt;&lt;time datetime=&#34;2013-01-02T17:57:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        No apology necessary Laura, any constructive discussion on accessibility is good discussion.
+
+I too am incredibly passionate about semantic markup and accessibility, but the reason I need to be careful is there’s always someone ready with a counter; a supplier, external developers, project managers&amp;#8230; I push back on poorly structured content all the time. As you mention, the basic but big ticket items like heading levels, form inputs, lists, good anchor text are all essential –; but would I push back on someone for using a grid framework? Probably not, as the site can be completely accessible whilst using a grid system, just as much as a more semantic site can be inaccessible.
+
+If I’m honest, I would actually have to pay more attention if a supplier uses HTML5 sectioning elements to &lt;b&gt;structure the document “semantically”&lt;/b&gt;, as these cause problems with the document outline when not implemented correctly:
+
+[HTML5 sectioning elements, headings, and document outlines](http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/&#34; rel=&#34;nofollow)
+
+[HTML5 document outline revisited](http://www.456bereastreet.com/archive/201104/html5_document_outline_revisited/&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-438&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marc&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-438&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:10:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:10am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I largely agree with your opinion on inaccessible, non-semantic grid systems. However, your post would have been more balanced if you had paid some attention to the existing alternatives. More semantic grid systems, such as [Susy](http://susy.oddbird.net/&#34; rel=&#34;nofollow), [Singularity](http://singularity.gs/&#34; rel=&#34;nofollow) and [Zen Grids](http://zengrids.com/&#34; rel=&#34;nofollow) make it very easy to apply a custom grid to your own semantic HTML structure.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor even depth-2&#34; id=&#34;li-comment-439&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-439&#34;&gt;&lt;time datetime=&#34;2013-01-03T08:44:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:44am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I would if I were more familiar with the alternatives! That’s why I cautiously tweeted that Sass is probably the answer. And whilst I do use Sass, I still write all my grids from scratch. This might be foolish, or because I’m a creature of habit having done that with CSS since I started out……I’m not sure which!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-440&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ed2eb293beec01de6d0081a2371fae06?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marc&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-440&#34;&gt;&lt;time datetime=&#34;2013-01-03T09:04:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:04am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        OK, I didn’t see that tweet. I’d say just give Susy a try and keep an eye on [Susy Next](http://oddbird.net/2013/01/01/susy-next/&#34; rel=&#34;nofollow)!
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +149,137 @@ I knew it would be contentious and that some people would feel antagonised by my
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
       
       <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
-      <description>As an accompaniment to my post on Sass for Designers (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.
-Of course, all of this can be done with the command line and other terrifying tools.</description>
+      <description>
+
+&lt;p&gt;As an accompaniment to my post on &lt;a href=&#34;https://laurakalbag.com/sass-for-designers/&#34; title=&#34;Sass for Designers&#34;&gt;Sass for Designers&lt;/a&gt; (why and how you should use Sass) I thought I’d better include a quick writeup on my setup for working with Sass in the hope that it’ll help you get started. I’m afraid I work on a OS X, so my instructions will only be good for Macs.&lt;/p&gt;
+
+&lt;p&gt;Of course, all of this can be done with the command line and other terrifying tools. I’m very impressed by those who can remember all the commands and quickly get everything working silently in the background. I don’t find this very easy, and prefer to use apps to help me out.&lt;/p&gt;
+
+&lt;h2 id=&#34;codekit&#34;&gt;Codekit&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;Codekit&lt;/a&gt; does all the processing for you. It takes your Sass and spits it out into fully-working CSS. It does loads of other clever things too, but I mostly just use it for Sass. &lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;Go download it&lt;/a&gt; and give it a go. I think you’ll find it’s definitely worth paying for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1417&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/codekit.png&#34; alt=&#34;screenshot of the Codekit website&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to get started with Codekit and Sass, you’ll need a /sass folder in your project where you keep all your Sass files. Sass files can contain plain old CSS or Sass-style CSS but they must have the extension .scss.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/sass-folder.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1425&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/sass-folder.png&#34; alt=&#34;screenshot showing .scss file in the /sass folder&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Next you open Codekit and add your project folder in the Files section.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/codekit-new1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1433&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/codekit-new1.png&#34; alt=&#34;screenshot of adding a new project to the Files pane in Codekit&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After you’ve added your project folder, Codekit will automatically find the Sass file inside your project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/project-in-codekit.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1437&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/project-in-codekit.png&#34; alt=&#34;screenshot of a project in Codekit&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you then go into your .scss file and add some Sass, as soon as you save that file, Codekit will compile it into CSS for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/new-sass.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1441&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/new-sass.png&#34; alt=&#34;screenshot of basic Sass being written into a .scss file&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you go to the Log tab in Codekit, you can see that your Sass was successfully compiled into CSS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/codekit-log1.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1449&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/codekit-log1.png&#34; alt=&#34;screenshot of the Log in Codekit showing a file successfully compiled&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you then go back to look in your project folder, you can see where Codekit has compiled your CSS into a /css folder containing a .css file. It’s this file that you will reference in your HTML, not the .scss file.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/css-folder.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1453&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/css-folder.png&#34; alt=&#34;screenshot showing the /css folder created by Codekit&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Codekit is very smart. If you write invalid Sass, it will give you an error. This can be really helpful if you’re new to writing Sass. For example, here I’ve used a &lt;code&gt;#&lt;/code&gt; hash symbol instead of a &lt;code&gt;$&lt;/code&gt; dollar sign when creating a variable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/bad-sass.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1457&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/bad-sass.png&#34; alt=&#34;screenshot of invalid Sass using # instead of $&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As with all validators, it’s not always easy to understand what the validation error message means (!) but it can be helpful to be pointed towards the line where the error occurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2012/12/codekit-error.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-1461&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/codekit-error.png&#34; alt=&#34;screenshot of Codekit showing an error in the Sass&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;and-you-re-done&#34;&gt;And you’re done&lt;/h2&gt;
+
+&lt;p&gt;Those are the very basics you need when getting started with Sass. If anyone has any further suggestions for Sass tools, particularly on other OSes, please let me know!&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-426&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/30237178832faefa2a7e79998d46648d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Dave Rutter&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-426&#34;&gt;&lt;time datetime=&#34;2013-01-07T22:33:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:33pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hi Laura
+
+You may have seen this already since writing this post but Hammer app looks very interesting ([http://hammerformac.com/](http://hammerformac.com/&#34; rel=&#34;nofollow)). OSX only again I’m afraid. The in development mixture.io may also be of interest, especially for multi-device testing.
+
+I’ve just come across your site and really enjoyed digging around. Keep up the good work.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +288,479 @@ Of course, all of this can be done with the command line and other terrifying to
       <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/sass-for-designers/</guid>
-      <description>Despite saying that I wanted to avoid writing post about development, I wanted to write something about Sass.
-Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of short-hand that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try my post on Sass for Designers — The Setup.</description>
+      <description>
+
+&lt;p&gt;Despite saying that I wanted to avoid writing post about development, I wanted to write something about &lt;a href=&#34;http://sass-lang.com/&#34;&gt;Sass&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;excuse-me-what-is-sass&#34;&gt;Excuse me, what is Sass?&lt;/h3&gt;
+
+&lt;p&gt;Sass is a CSS pre-processing language; it’s a slightly different way of writing CSS which can then be processed by a tool that spits out fully-working CSS. It’s like a kind of &lt;a href=&#34;http://en.wikipedia.org/wiki/Short_Hand&#34;&gt;short-hand&lt;/a&gt; that adds in some handy features that aren’t available in CSS. If you want to know how to use Sass in your workflow, try &lt;a href=&#34;https://laurakalbag.com/sass-for-designers-the-setup/&#34; title=&#34;Sass for Designers — The Setup&#34;&gt;my post on Sass for Designers — The Setup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-am-i-writing-this&#34;&gt;Why am I writing this?&lt;/h3&gt;
+
+&lt;p&gt;Sass still isn’t particularly easy for designers to pick up straight away. The &lt;a href=&#34;http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html&#34;&gt;documentation isn’t easy to understand&lt;/a&gt;, The way it’s written is really aimed at those more familiar with programming. &lt;a href=&#34;http://sass-lang.com/tutorial.html&#34;&gt;The tutorial&lt;/a&gt; isn’t too bad, but it doesn’t tell you about the advantages from a designer’s point of view.&lt;/p&gt;
+
+&lt;p&gt;I want to just cover a few simple principles. I’m no Sass expert, I use mostly it in its simplest form, but I’ve found it incredibly useful.&lt;/p&gt;
+
+&lt;p&gt;So what are these advantages? It’s all about efficiency. It makes your markup quicker to write, less repetitive and easier to maintain. That might sound a bit performance-related, but I promise that it’s something that designers (we who use markup to support our design work, rather than being super-programmers) can use to make development much more straight-forward.&lt;/p&gt;
+
+&lt;h2 id=&#34;variables&#34;&gt;Variables&lt;/h2&gt;
+
+&lt;p&gt;The best and most basic example is variables. We tend to use the same colours throughout the document. This result in us writing the same hex code or RGB value over and over again. If we want to change that colour, we need to do a &lt;a href=&#34;http://en.wikipedia.org/wiki/Find_and_replace&#34;&gt;Find-and-Replace&lt;/a&gt; to pick through all of our markup, making sure we don’t accidentally change the wrong value. You might have a few rules that each need your dark red brand colour:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;a {
+  color: #822733;
+}
+
+.summary {
+  color: #822733;
+}
+
+.copyright {
+  color: #822733;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Using variables, we can give that particular red hex colour a variable name of &lt;code&gt;$brand-colour&lt;/code&gt; at the beginning of our stylesheet, and then just use that variable throughout the stylesheet where we’d usually use the hex colour. Then, if you suddenly decide that the shade of red isn’t quite right, you just need to change where you declared &lt;code&gt;$brand-colour: #822733;&lt;/code&gt; at the top, and it will be changed for every rule that uses the variable throughout the whole stylesheet.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// My Sass colour library
+
+$brand-colour: #822733;
+
+a {
+  color: $brand-colour;
+}
+
+.summary {
+  color: $brand-colour;
+}
+
+.copyright {
+  color: $brand-colour;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;numbers-as-variables&#34;&gt;Numbers as variables&lt;/h3&gt;
+
+&lt;p&gt;Variables don’t just have to be strings of text, they can also be numbers which you can manipulate. If you use some kind of baseline grid idea, modular scale, or just a pattern of numbers to keep your design proportional, chances are you’re frequently repeating the same values throughout your stylesheet. If you were using 10px measurements all over the place, you might create ‘unit variable’ with &lt;code&gt;$unit = 10;&lt;/code&gt;. This unit could then be repeated:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$unit = 10px;
+
+h1, h2, h3 {
+  margin-bottom: $unit;
+}
+
+p {
+  margin-bottom: $unit;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;But how about when you want that unit to be doubled? You want &lt;em&gt;exactly&lt;/em&gt; twice the margin on another element, because then it will still keep the rhythm in your design. With Sass, you can add simple maths (+, -, *, /, %) to do this very simply:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$unit = 10px;
+
+h1, h2, h3 {
+  margin-bottom: $unit;
+}
+
+p {
+  margin-bottom: $unit;
+}
+
+aside {
+  margin-bottom: $unit*2; /* 20px */
+}
+
+footer {
+  margin-top: $unit*4; /* 40px */
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then if you decide, one day, that multiples of 10px aren’t big enough for your design (need MOAR WHITESPACE) then you can just change your &lt;code&gt;$unit&lt;/code&gt; variable to something bigger, such as &lt;code&gt;$unit = 15;&lt;/code&gt; and all of your measurements will be changed accordingly, preserving those proportions throughout your stylesheet.&lt;/p&gt;
+
+&lt;h2 id=&#34;mixins&#34;&gt;Mixins&lt;/h2&gt;
+
+&lt;p&gt;Mixins are reusable collections of rules. These are perfect for design patterns that you might use throughout the site. These also stop you repeating yourself in your CSS but in a way that’s more &lt;a href=&#34;http://en.wikipedia.org/wiki/Semantic_HTML&#34;&gt;semantic&lt;/a&gt; than using the same class name on every HTML element.&lt;/p&gt;
+
+&lt;p&gt;For example, you might have particular divider style that you use all over your site. You use it below all sorts of elements; &lt;code&gt;&amp;amp;lt;article&amp;amp;gt;&lt;/code&gt;s, &lt;code&gt;&amp;amp;lt;header&amp;amp;gt;&lt;/code&gt;s and even the odd &lt;code&gt;&amp;amp;lt;p&amp;amp;gt;&lt;/code&gt;. It’s got a certain amount of padding between the border line and the content above, and a certain margin below. It’s just a grey border but it has a fancy shadow on it.&lt;/p&gt;
+
+
+&lt;figure class=&#34;attachment_1353 wp-caption aligncenter size-full wp-image-1353&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2012/12/divider.jpg&#34; alt=&#34;a grey border line with a subtle grey box-shadow&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		an example of what your divider with a subtle border might look like
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+
+&lt;p&gt;Then you might apply the following CSS class of &lt;code&gt;.shadow-border&lt;/code&gt; to any HTML element you want to have the divider. It’s not very semantic, but it does the job:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.shadow-border {
+  border-bottom: 1px solid #a4a4a4; 
+  
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+  box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you wanted to be more semantic, you might go applying all those rules to all the relevant HTML elements, but this can make for an awkwardly-organised stylesheet.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;header, article, p.intro {
+  border-bottom: 1px solid #a4a4a4;
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+  box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With mixins, you can give this collection a name using &lt;code&gt;@mixin&lt;/code&gt;. This name doesn’t have to relate in any way to your HTML:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@mixin shadow-border {
+  border-bottom: 1px solid #a4a4a4; 
+  
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+  box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, to apply that mixin to any element, you just include its name &lt;code&gt;@include shadow-border;&lt;/code&gt; like you would any other rule in CSS.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@mixin shadow-border {
+  border-bottom: 1px solid #a4a4a4; 
+  
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+  box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+article {
+  @include shadow-border;
+}
+
+header {
+  @include shadow-border;
+}
+
+p.intro {
+  @include shadow-border;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Doesn’t that look neat and tidy?!&lt;/p&gt;
+
+&lt;h3 id=&#34;nesting-mixins&#34;&gt;Nesting mixins&lt;/h3&gt;
+
+&lt;p&gt;Even better, you can nest your mixins inside other mixins. We might want to apply that same type of shadow to lots of elements, so that our design appears to have a consistent light source throughout the site. So we then make a mixin especially for that shadow too. This has the added bonus of keeping all the prefixed CSS (&lt;code&gt;-webkit, -moz, -o, -ms&lt;/code&gt; etc.) tucked away in one place too.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// A few variables thrown in for good measure
+$border-colour: #a4a4a4;
+$unit: 10px;
+
+@mixin subtle-shadow {
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+  box-shadow: 0px 2px 5px 0px rgba(200, 200, 200, 0.6);
+}
+
+@mixin shadow-border {
+  @include subtle-shadow;
+  border-bottom: $unit/10 solid $border-colour; /* Base unit divided by 10 = 1px */
+
+  padding-bottom: $unit*2; /* Base unit multipled by 2 = 20px */ 
+  margin-bottom: $unit*4; /* Base unit multipled by 4 = 40px */
+}
+
+article {
+  @include shadow-border;
+}
+
+header {
+  @include shadow-border;
+}
+
+p.intro {
+  @include shadow-border;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;nesting&#34;&gt;Nesting&lt;/h2&gt;
+
+&lt;p&gt;Mixins aren’t the only thing you can nest in Sass. You could nest tags within each other if you wanted, which makes your CSS less repetitive and easier to read as you can see which selectors are related:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/* written in plain old CSS */
+
+.module h3 {
+  font-weight: bold;
+}
+
+.module p {
+  padding-bottom: 10px;
+}
+
+/* written in Sass */
+
+.module {
+  
+  h3 {
+    font-weight: bold;
+  }
+
+  p {
+    padding-bottom: 10px;
+  }
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;But let’s face it, that’s getting really nit-picky about the neatness of your CSS.&lt;/p&gt;
+
+&lt;h3 id=&#34;nesting-media&#34;&gt;Nesting @media&lt;/h3&gt;
+
+&lt;p&gt;Where nesting becomes incredibly useful is with media queries.&lt;/p&gt;
+
+&lt;p&gt;If you follow &lt;a href=&#34;https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/&#34; title=&#34;SMACSS – Scalable and Modular Architecture for CSS&#34;&gt;SMACSS&lt;/a&gt; or any other school of thinking where you’re trying to base your media queries around the optimum display of your content, rather than the viewport width of various popular devices, then chances are your stylesheets are filled with different media queries trying to keep your site looking tidy at every possible width.&lt;/p&gt;
+
+&lt;p&gt;Nesting media queries can help with this. Where previous you may have felt like you needed to keep all your media queries in separate files (one for 320px and up, one for 768px and up and so on…) Group all selectors using the same media query width together or list all your media queries relevant to a selector one after the other. Sass allows you to nest your media queries within the selector so you can easily spot where those breaking points are and where they need to be changed.&lt;/p&gt;
+
+&lt;p&gt;For example, I have an article which has a changing &lt;code&gt;width&lt;/code&gt;, &lt;code&gt;line-height&lt;/code&gt; and &lt;code&gt;font-size&lt;/code&gt; depending on the width of the viewport. I want the text of my article to be as legible as possible across all devices. In CSS, this might look like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/* initial rule for all viewports, including browsers that don&#39;t support @media */
+article {
+  font-size: 14px;
+  line-height: 25px;
+}
+
+article h2 {
+  font-size: 18px;
+  padding-bottom: 15px;
+}
+
+/* for 300px viewports and wider (mobile first) */
+@media only screen and (min-width: 300px) {
+  article {
+    line-height: 20px;
+    width: 90%;
+  }
+
+  article h2 {
+    padding-bottom: 10px; 
+  }
+}
+
+/* for 600px viewports and wider */
+@media only screen and (min-width: 600px) {
+  article {
+    line-height: 25px;
+    width: 80%;
+  }
+
+  article h2 {
+    padding-bottom: 15px; 
+  }
+}
+
+/* for 900px viewports and wider */
+@media only screen and (min-width: 900px) {
+  article {
+    width: 60%;
+  }
+}
+
+/* for 1200px viewports and wider */
+@media only screen and (min-width: 1200px) {
+  article {
+    font-size: 16px;
+    line-height: 30px;
+    width: 50%;
+  }
+
+  article h2 {
+    font-size: 21px;
+    line-height: 35px;
+    padding-bottom: 20px; 
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When you can include the media query &lt;em&gt;within&lt;/em&gt; the selector, it suddenly becomes a lot easier to find those rules that you’re so likely to tweak in the future.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;article {
+  font-size: 14px;
+  line-height: 25px;
+
+  h2 {
+    font-size: 18px;
+    padding-bottom: 15px;
+  }
+  
+  @media only screen and (min-width: 300px) {
+    line-height: 20px;
+    width: 90%;
+  
+    h2 {
+      padding-bottom: 10px; 
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    line-height: 25px;
+    width: 80%;
+
+    h2 {
+      padding-bottom: 15px; 
+    }
+  }
+
+  @media only screen and (min-width: 900px) {
+    width: 60%;
+  }
+
+  @media only screen and (min-width: 1200px) {
+    font-size: 16px;
+    line-height: 30px;
+    width: 50%;
+
+    h2 {
+      font-size: 21px;
+      line-height: 35px;
+      padding-bottom: 20px; 
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;give-it-a-go&#34;&gt;Give it a go?&lt;/h2&gt;
+
+&lt;p&gt;There are so many clever, time-saving, efficient things you can do with Sass, and I certainly don’t know them all. The benefit of writing Sass is that you can just write everything in plain old CSS, and just use Sass on the few selectors that could really benefit from it. That’s how I got started, and on every new project I work on, I learn another handy tip and make my CSS that much quicker to write.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got any tips, please let me know in the comments as I find it really hard to discover what might be useful when you’re writing markup with a designer’s perspective!&lt;/p&gt;
+
+&lt;h2 id=&#34;9-comments&#34;&gt;9 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-408&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/221a26d0593f7c89c378fc32ae401397?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/221a26d0593f7c89c378fc32ae401397?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://forrest-tanaka.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Forrest Tanaka&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-408&#34;&gt;&lt;time datetime=&#34;2012-12-28T22:38:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:38pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Nested media queries just about brought me to tears… Hey, you have `$unit = 10;` That should be `$unit: 10`? I couldn’t find anything in Sass nor SCSS that looks quite like that.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-409&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/476f698fd710deaab3b0c3c8b0623c21?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/476f698fd710deaab3b0c3c8b0623c21?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;John Harrington&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-409&#34;&gt;&lt;time datetime=&#34;2012-12-28T22:45:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Nice article, but I don’t like that use of mixins very much, that style is just being duplicated everywhere and I really think you’d be better with a class for it, to reduce the bloat in CSS.
+
+Mixins are best used when you need to calculate things, for instance I use this little mixin to quickly set font sizes and line heights:
+
+```
+
+=fontsize($size)
+
+	font-size: $size + em
+
+	@if ($size &amp;gt;= 2)
+
+		line-height: 1.5em
+
+		@media screen and (min-width: 30em)
+
+			line-height: 3em
+
+	@else
+
+		line-height: 1.5em
+
+```
+
+(also, I use the Sass syntax, rather than SCSS, because I love the whitespace)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-410&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/476f698fd710deaab3b0c3c8b0623c21?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/476f698fd710deaab3b0c3c8b0623c21?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;John Harrington&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-410&#34;&gt;&lt;time datetime=&#34;2012-12-28T23:33:51+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:33pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        For mixins you would actually be better off doing the example where the CSS was badly organised because Sass won’t recognise that the same styles are being applied on each, so your CSS will end up bloated.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-411&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/830ba17ff6c951f84f7b97084133b163?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/830ba17ff6c951f84f7b97084133b163?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://yatil.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Eric Eggert&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-411&#34;&gt;&lt;time datetime=&#34;2012-12-29T00:56:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:56am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Funny enough, it was this article by Nathan Smith with the same name as this article here that convinced me about using SASS in the first place: [http://sonspring.com/journal/sass-for-designers](http://sonspring.com/journal/sass-for-designers&#34; rel=&#34;nofollow)
+
+(And I have a programming background :-)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-412&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ec8560921f8715605bfa731058c012a7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ec8560921f8715605bfa731058c012a7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://thomaspark.me&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Thomas Park&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-412&#34;&gt;&lt;time datetime=&#34;2012-12-29T21:43:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:43pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A useful complement to `@include` is `@extend`. While `@include` duplicates the mixin rules for each class, `@extend` has the classes share a single instance of the rules. This helps with the CSS bloat that John mentions.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-413&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ec8560921f8715605bfa731058c012a7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ec8560921f8715605bfa731058c012a7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://thomaspark.me&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Thomas Park&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-413&#34;&gt;&lt;time datetime=&#34;2012-12-30T17:44:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:44pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        A useful complement to `@include` is `@extend`. While `@include` duplicates the rules for each class, `@extend` causes them to share the rules they have in common. Helps with the CSS bloat.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-415&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/f09e13b2647166e6d0c5bd4722b0ba71?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/f09e13b2647166e6d0c5bd4722b0ba71?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;dtgreen&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-415&#34;&gt;&lt;time datetime=&#34;2013-01-11T00:10:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:10am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Brilliant read Laura. I’ve been trying to find the time to jump into SASS lately, and this article has pretty much made up my mind: I’m going to dive in this weekend! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -48,8 +769,600 @@ Excuse me, what is Sass? Sass is a CSS pre-processing language; it’s a slightl
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
       
       <guid>https://laurakalbag.com/display-none/</guid>
-      <description>Or The things you think are common knowledge but really they aren’t. I was on the ShopTalk show a few weeks ago, and a few people have asked me what I meant when I said “display: none; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.
-display: none; in responsive web design When we’re changing out layouts based on viewport sizes, using media queries, we tend to switch page elements about a bit.</description>
+      <description>
+
+&lt;h2 id=&#34;or-the-things-you-think-are-common-knowledge-but-really-they-aren-t&#34;&gt;&lt;em&gt;Or&lt;/em&gt; The things you think are common knowledge but really they aren’t.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shoptalkshow.com/episodes/040-with-laura-kalbag/&#34;&gt;I was on the ShopTalk show&lt;/a&gt; a few weeks ago, and a few people have asked me what I meant when I said “&lt;code&gt;display: none;&lt;/code&gt; naughties.” I foolishly thought that people would understand what I meant, (and I’ll come to that later) so I thought I’d better explain myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;display-none-in-responsive-web-design&#34;&gt;&lt;code&gt;display: none;&lt;/code&gt; in responsive web design&lt;/h2&gt;
+
+&lt;p&gt;When we’re &lt;a href=&#34;http://www.alistapart.com/articles/responsive-web-design&#34;&gt;changing out layouts based on viewport sizes, using media queries&lt;/a&gt;, we tend to switch page elements about a bit. We might make our images display one-on-top-of-the-other for narrower layouts, we might make our text super big to take advantage of bigger spaces.&lt;/p&gt;
+
+&lt;p&gt;There can be a lot of content on one web page, and often there’s a temptation to hide some of it on narrower viewports. This walks hand-in-hand with the assumptions that narrow viewports are mobile devices and people using mobile devices are roving the planet using the web ‘on the go.’&lt;/p&gt;
+
+&lt;h3 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h3&gt;
+
+&lt;p&gt;But those assumptions are exactly that, you’re just &lt;em&gt;assuming&lt;/em&gt; that’s what the user is doing, you’re not basing that on real research or user testing. Why are you hiding so much of your content if you’re assuming it’s also useful to those browsing your site with a wider viewport?&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-be-lazy&#34;&gt;Don’t be lazy&lt;/h3&gt;
+
+&lt;p&gt;Just hiding content is a lazy design solution. Yes, it’s hard designing for smaller screens, but maybe that will help you ensure that every little piece of content you’re putting on that site is worthwhile. Responsive design should be about rearranging, not changing, your page elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;and-then-you-re-actually-just-loading-it-anyway&#34;&gt;And then you’re actually just loading it anyway…&lt;/h3&gt;
+
+&lt;p&gt;When you’re putting content into your page, and &lt;em&gt;then&lt;/em&gt; hiding it with CSS, it’s still there, it’s just not visible. So if you’re using this ‘technique’ across your site in numerous places, you’re likely taking a performance hit. And potentially, for narrower viewports/possible mobile devices, in the one place that a slow-loading page is likely to irritate a user. It’s just not worth that risk.&lt;/p&gt;
+
+&lt;h2 id=&#34;changing-the-display-not-hiding-the-display&#34;&gt;Changing the display, not hiding the display&lt;/h2&gt;
+
+&lt;p&gt;One solution I’ve been using is changing the display of the content. It is a real problem that CSS can’t easily manipulate all types of content into a readable fashion on all devices. This is particularly true for navigation that needs to be displayed in a significantly different way, and often tables need to be reinterpreted into a more digestible format for narrow viewports. And in these cases, javascript can be your friend.&lt;/p&gt;
+
+&lt;h3 id=&#34;mobile-first&#34;&gt;Mobile first&lt;/h3&gt;
+
+&lt;p&gt;I always start mobile first, that’s not just in markup, it’s in content too. We don’t want to load up unnecessary HTML that creates performance problems, or javascript that may not working consistently on mobile devices.&lt;/p&gt;
+
+&lt;p&gt;If I’ve got a data table, and I think it would be better off displayed as a list of data, I would write the list of data into the HTML. This way it’ll load quickly, and those without javascript (or enough bandwidth to load javascript) will get a decent experience.&lt;/p&gt;
+
+&lt;h3 id=&#34;progressively-enhancing-with-javascript&#34;&gt;Progressively enhancing with javascript&lt;/h3&gt;
+
+&lt;p&gt;Then, I would use media queries, or some kind of clever javascript, to load in the fancy content for particular viewport widths. I’ve done this to load in tables of data, replacing data lists, and also for navigation, replacing a vertical list of links with a show/hide button that reveals the menu when tapped (as on this site.) None of this requires &lt;code&gt;display: none;&lt;/code&gt;. No markup is wasted.&lt;/p&gt;
+
+&lt;h3 id=&#34;edit-accessibility&#34;&gt;[Edit]: Accessibility&lt;/h3&gt;
+
+&lt;p&gt;The good &lt;a href=&#34;http://twitter.com/SteveMarshall&#34;&gt;Steve Marshall&lt;/a&gt; has pointed out that there are also accessbility issues related to &lt;code&gt;display: none;&lt;/code&gt;. I didn’t want to cover too much in the post, but in case you want to know more about that too, I recommend &lt;a href=&#34;http://www.alistapart.com/articles/now-you-see-me/&#34;&gt;Aaron Gustafson’s ‘Now You See Me’ on A List Apart&lt;/a&gt; and &lt;a href=&#34;http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/&#34;&gt;Chris Coyier’s ‘Places It’s Tempting To Use Display: None; But Don’t on CSS Tricks&lt;/a&gt;. [/edit]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;writing-about-markup&#34;&gt;Writing about markup&lt;/h2&gt;
+
+&lt;p&gt;I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.&lt;/p&gt;
+
+&lt;p&gt;I also shy away from writing about the ‘easy’ stuff. This post about &lt;code&gt;display: none;&lt;/code&gt; is a fairly simple principle and I really don’t want to patronise anyone.&lt;/p&gt;
+
+&lt;h3 id=&#34;people-do-want-to-hear-about-the-simple-stuff&#34;&gt;People do want to hear about the ‘simple’ stuff&lt;/h3&gt;
+
+&lt;p&gt;Making these assumptions about it being a simple principle, and that everybody would know about it already, was daft. I was quickly proved wrong when people started asking me about it and then I realised how silly it was to think that we all have the same sources of information.&lt;/p&gt;
+
+&lt;h3 id=&#34;scattered-learning&#34;&gt;Scattered learning&lt;/h3&gt;
+
+&lt;p&gt;The web is a big and varied place. To assume that someone else has read something just because you’ve read it is foolish. How do we learn about these resources? When do we all decide that we’re all going to read these particular sites and articles so that we’re all equally informed?&lt;/p&gt;
+
+&lt;p&gt;Even on Twitter, the resources we hear from, and learn from, are wildly different. We may follow completely different individuals and so the resources we learn from are curated by these individuals, and these may not ever crossover. Even if we do follow the same people on Twitter, noone can be expected to read every tweet, and inevitably you’ll miss some, and then you may not know about this other new thing that everybody else has been doing for years.&lt;/p&gt;
+
+&lt;h3 id=&#34;where-i-get-to-the-point&#34;&gt;Where I get to the point…&lt;/h3&gt;
+
+&lt;p&gt;The point I’m trying to make is that we shouldn’t be fearful of writing about what we know. Even if you write from the most basic point of view, about something which has been ‘around for ages’, you’ll likely be saying something new to someone. They might be new to the industry, you might just be filling in the holes in someone’s knowledge.&lt;/p&gt;
+
+&lt;p&gt;Every week I have a revelation on app.net or Twitter where I wonder how I didn’t know about this old technique or tool before… but we can’t be expected to keep up with everything. I hope this post does that for some people. It’s good to share what we know. You needn’t be the first, you’ll just help if you’re the first that somebody finds.&lt;/p&gt;
+
+&lt;h2 id=&#34;63-comments&#34;&gt;63 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-350&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/18592fc8bad8f92136390f52303ee29c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://mrgwebdev.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Glover&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-350&#34;&gt;&lt;time datetime=&#34;2012-11-06T09:55:42+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for blogging this Laura, that’s really cleared up the podcast for me. I wasn’t really convinced about starting with mobile first, but using javascript to turn the mobile markup into the desktop markup makes far more sense than using display: none; or, worse, using javascript to turn desktop markup into mobile.
+
+Regarding what people know, I’ve been worrying about the same thing for ages and avoiding writing about things that seem simple to me. I concluded a little while ago that what I’ve learnt so far comes mostly from other people writing about things that seem simple to them. As you say, we all look at different parts of the internet, and not everyone has been doing this job for years. I’m a pretty experienced PHP developer, but I’m perhaps still a little behind the recent changes in frontend development. Other people are probably in the reverse position.
+
+Keep blogging the simple stuff, there will always be someone who needs that piece of knowledge :-) P.S I’d be interested to read a post from you on semantic HTML sometime. I know it’s one of your things, and I feel like I could be doing it a lot better (I still div a lot).
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-351&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c083c7ffc86fab9e831990ad82033f99?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.jasonbradberry.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jason Bradberry&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-351&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:12:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:12am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks, definitely a helpful post!
+
+I’ve been working using a desktop first approach, and am considering switching to looking at ‘mobile’ first for my next project. One thing I’d like to hear more about – in the podcast you talked about loading content conditionally as browser window size is increased (using the example of the large illustration on the right hand side of your site). Can you recommend any good articles/links for further reading on this?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-352&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/05a5dfd9e66b566bbb32091bb87ad202?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://remy.bach.me.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Rémy&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-352&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:17:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last half of this article has really struck a chord with me. In the past, I’ve shelved so many potential blog posts because I think they’re too basic when they might actually have been useful to somebody.
+
+There’s also a lot to be said for how easy something is to Google. Before posting on something, try doing a quick search for what you’re thinking of writing about. I think more often than not, you’ll find that what you want to post about either hasn’t been covered at all, is not visible enough using the search terms you used (which anyone else might easily have searched for as well), or you do it slightly differently. Either way, sharing even the smallest bit of knowledge only makes the web community stronger.
+
+Thanks for the great thoughts (and inspiration) Laura!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-353&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/043af7a7ebf89595bebc3364f933d648?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Richard Lewis&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-353&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:26:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        very informative laura, no one should assume that everyone knows a certain piece of info. Something that I have learned though is if you have an image for example and display :none on that then yes it still renders, however if you wrap that element in a div and then display none on that parent element the img doesn’t actually load&amp;#8230; thought it may help
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-388&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5b4885089cdfebb57d760e46e6275ad2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://sarasoueidan.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Sara&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-388&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:36:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:36am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This is a great tip! thanks for mentioning it :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-395&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/565d2abdc8fc487b9cece74271a53d28?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jason&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-395&#34;&gt;&lt;time datetime=&#34;2012-12-10T18:01:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:01pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I’d be cautious with this approach as from my testing the images still get loaded.
+
+[http://jsfiddle.net/jlaeser/pCbav/](http://jsfiddle.net/jlaeser/pCbav/&#34; rel=&#34;nofollow)&lt;/p&gt;
+This could potentially make for a larger initial page load.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-400&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/c5bd15f36ca445f33618e7aa6ffe5019?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;James&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-400&#34;&gt;&lt;time datetime=&#34;2013-03-06T15:37:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Yes I tested this also and it does indeed load. Shame though as this could have been an ideal solution.
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-354&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/62f1c041b638db2c75f89405510c99ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://graphiceyedea.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Prisca&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-354&#34;&gt;&lt;time datetime=&#34;2012-11-06T10:42:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Laura :)
+
+thanks for this post –; well explained :)
+
+Also, just wanted to say that I agree: writing about what might simple is always a good idea. Teaching webdesign is changing all the time and there’s so much out there that it can be a tricky endeavour to point students to good resources. By now, I recommend people and high quality sites as good resources to follow ~ which essentially means that you writing about something simple will always have an audience, from students starting out with learning webdesign to the students of the web who we all are :)&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-355&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-355&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:26:26+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hold on. “display: none;” is naughty? In all situations?
+
+Then you Laura, are very naughty. For that’s exactly how you display your top menu at lower resolutions, no?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-356&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-356&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:42:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:42pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Heh. Only in the form of a good old dropdown menu. So whilst `display: none;` is used to *temporarily* hide the sub navigation, it is visible on hover.
+
+To be fair, I’m sure there are a lot of use cases where `display: none;` has its uses. As with every rule, there are always exceptions :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-3&#34; id=&#34;li-comment-357&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a9d07c20116fc86dfb522daaa1f0c923?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ianwootten.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ian&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-357&#34;&gt;&lt;time datetime=&#34;2012-11-06T14:57:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Well, actually at lower resolutions, both menus are only available on click :)
+
+I agree there are many use cases –; but this isn’t what’s implied here. I actually believe for performant web apps, using “display:none;” and modifying markup through js absolutely essential.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-4&#34; id=&#34;li-comment-385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/058848a8098693e62eff155692cecb1e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Harry Mansworth&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-385&#34;&gt;&lt;time datetime=&#34;2012-11-29T16:04:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Using display:none has other disadvantages. In the (rare) case that javascript has been turned off or the device has insufficient resources to run the script, using something like `$(&#39;#element&#39;).hide();` will ensure that, should JS be turned off the elements will still be visible. **Essential**for things like navigation!
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-358&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/153cbbe84fd0473ce666b479c52fb265?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://twitter.com/crisgarner&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Cristian Garner&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-358&#34;&gt;&lt;time datetime=&#34;2012-11-07T16:37:13+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:37pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I don’t think she meant on all situations, display:none is a useful tool, if it were really bad no one would use it, I believe what Laura wants to explain is that it must be used only in what it is needed and to stop over using it.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-359&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8ea29219f41831044d8aba8c8dfb9309?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Dean&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-359&#34;&gt;&lt;time datetime=&#34;2012-11-07T20:45:29+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most people in this industry seem to fear that they will be found out and ridiculed by those with more experience. I am thankful that there are some of those people who write blog posts, and put themselves in the ‘firing line’ for us unassured types to lap up. I’m yet to see the ridiculing of anybody though, and that’s another thing to be thankful for! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-360&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/46c9d099a2dcb608f01b1eca5b07eb24?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Chris&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-360&#34;&gt;&lt;time datetime=&#34;2012-11-08T00:09:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Nice article :)
+
+Like Jason mentioned in the comments I too would like to hear more about how you approach using JS for conditionally loading content.
+
+Cheers&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-362&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/e1fb5c40b8e545b29fdf992b4cee083f?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://ayoungh.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Anthony Young&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-362&#34;&gt;&lt;time datetime=&#34;2012-11-08T21:43:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:43pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post :) Very encouraging for me as I want to start blogging about little bits like this, although I doubt it will be as good as yours! Keep up the great articles
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-364&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/766047c2f4d0bca639f03a66883197f6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.markdixon.ca/design/blog/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Mark Dixon&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-364&#34;&gt;&lt;time datetime=&#34;2012-11-09T22:58:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:58pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I agree. It is fine to write about web design and front-end stuff even if you are not an “expert”. I have recently launched my new portfolio website and have included a blog section where I plan on writing about web design.
+
+While doing client work we straddle a lot of areas and cannot be expected to know everything about everything.
+
+Mea Culpa –; on my first responsive design I did a fair amount of display:none.
+
+Cheers from Montreal,
+
+Mark&lt;/p&gt;    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-366&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/68fc10515bccdf73374acc9fd8eaef1c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://rockfishdigital.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Jacobsen&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-366&#34;&gt;&lt;time datetime=&#34;2012-11-12T16:55:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent post. Very applicable across design, dev, and content creation. Thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-368&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/156af4791ccd0d858fd2f8aba677d527?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://carlhallberg.se&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Carl Hallberg&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-368&#34;&gt;&lt;time datetime=&#34;2012-11-13T09:46:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Love the part on ‘Scattered learning’! Very important insight that not many of us think of from day to day. I feel safe to say that i’m learning new stuff each and every day, even the most basic tech but also on completely different topics that in hindsight definitely could have been worth blogging about.
+
+Great post!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-370&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/bf63dd177d3e9e747fa9541789477bec?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://iloveresponsivedesign.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Fredrik Christensson&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-370&#34;&gt;&lt;time datetime=&#34;2012-11-14T08:27:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:27am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, and thx for the post. I feel when we designing we dont get enough test time to see how the user are using the site. This is one of the biggest problems that I have encountered when iam design a responsive site.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-371&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2a2eb8e1cdf0a995320902d12a8c1580?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Skweekah&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-371&#34;&gt;&lt;time datetime=&#34;2012-11-14T23:29:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:29pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very interesting article. I guess there’s always a better way of doing things, and if you can incorporate a little bit of better in each of the projects you are working on, you are challenging yourself and growing as a designer/developer.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-372&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6f9df81e888deeafc991848cccbec28a?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://velonomad.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-372&#34;&gt;&lt;time datetime=&#34;2012-11-15T20:51:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:51pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        How about a concrete example workaround?
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-374&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cf358ee0bbb2df4a67b5ba0445d3ff7b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://lenanghai.net&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Hai Web&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-374&#34;&gt;&lt;time datetime=&#34;2012-11-16T15:36:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:36pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks bro.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-377&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-377&#34;&gt;&lt;time datetime=&#34;2012-11-20T00:46:06+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Thanks for your encouragement.
+
+Hiding images by display none is a big issue, because they load anyway. The following research breaks the ice by documenting that “background images attached to elements that are inside a element with display none are NOT loaded”: [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+
+Loading images with a common 1x1px src (because the attribute cannot be empty) AND inline styling its background-image to the ‘original’ src you are able to control the load by conditionally replacing the src with the background-image src – and showing the parent element. Only then will the image load.&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-381&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/ff99ca2faa838f3836ed90270486551e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Rob&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-381&#34;&gt;&lt;time datetime=&#34;2012-11-22T22:57:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;22:57pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Good post, but I don’t see a concrete alternative solution here. An example would be beneficial.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-383&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/8041da1c6cb6f4ad87734737c89b742e?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Søren Maarbjerg&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-383&#34;&gt;&lt;time datetime=&#34;2012-11-23T11:51:54+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Rob. Please see my replied suggestion on how to avoid caching images for a slideshow if viewport &amp;lt; 480, on [http://timkadlec.com/2012/04/media-query-asset-downloading-results](http://timkadlec.com/2012/04/media-query-asset-downloading-results&#34; rel=&#34;nofollow)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-384&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/7b28ccde01ebe1b5f26ff4d1fac047d8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.daydesignz.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dayana&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-384&#34;&gt;&lt;time datetime=&#34;2012-11-27T16:45:47+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post, I always thought the same to myself about posting about things that should be “common knowledge” when indeed there can be several layers of knowledge to uncover. Loading mobile first is a great tip! Thanks for the post
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-386&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/cabf735ce7b8b4471ef46ea54f71832d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://player.fm&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Michael Mahemoff&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-386&#34;&gt;&lt;time datetime=&#34;2012-12-10T03:46:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;03:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Very familiar with this issue as I’ve strived to do RWD without having to customise much of the server-side or the JS. And doing so means display: none; is almost a necessity.
+
+In an upcoming iteration, I’ve resorted to using more Ajax requests with checks for the user-agent. It’s arguably more naughty than just “display: none;”, because now there’s a bit of JS coupled to the stylesheet, but since it improves performance, it’s a net gain.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-387&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/9400cb5aeb155ccec614652542fd274d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://balupton.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Benjamin Lupton&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-387&#34;&gt;&lt;time datetime=&#34;2012-12-10T05:08:14+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;05:08am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        The last part raises a very interesting point, and is definitely something I find myself falling into a lot. Although, my train of thought feels that writing another blog post is just adding more noise to an already saturated library of good content –; if I figured it out already, then the answer is already there, what help does it do myself adding yet another article about it?
+
+Perhaps the difference is how people get their learnings in the first place. A pre-supposition of this article appears that learning primarily occurs via blog posts and other forms of subscription based learning. I wonder how this mode of transport contrasts against learning when one encounters a problem then seeks an answer via google and stack overflow.
+
+For instance, stack overflow is a fantastic place to ensure the content that is posted is of top notch quality, whereas with blog posts you do not have that guarantee that what you are reading is correct. However, with blog posts, you do get the subscription benefit.
+
+Perhaps the solution to this dilemma is figuring out a way of combining stack exchange’s peer review and archival for searching abilities with blog posts careful curation, subscription and celebrity benefits.
+
+Thoughts?
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-390&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-390&#34;&gt;&lt;time datetime=&#34;2012-12-10T07:19:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;07:19am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        While I think places like Stack Overflow are very useful and important, you really have to know the question that you want to ask. What if you just want to know tips and tricks?
+
+I agree that me writing this on a blog doesn’t necessarily mean I’m right, or that I know what I’m talking about, but neither do I have that guarantee when I read blog posts written by other people. The ‘peer review’ element seems to come via social networks. If someone that I respect posts a link to a blog post, then they give that post credibility.
+
+I think that learning on the web means we all need to doubt the credibility of what we read. We build up knowledge by reading a lot around these topics and then making judgments on what we choose to believe. These aren’t always black-and-white facts, there are a lot of grey areas where we rely on ‘opinion’ pieces to understand the ‘why’s to help us make more informed decisions about our work.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-389&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://christianheilmann.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chris Heilmann&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-389&#34;&gt;&lt;time datetime=&#34;2012-12-10T06:42:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;06:42am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Excellent points! What fascinates me more is that people are not taking advantage of matchmedia() enough –; it is the JS equivalent of mediaqueries. This means you can happily use the same query in CSS and JS to lazy-load content only when it is applicable. [https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/](https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/&#34; rel=&#34;nofollow)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-2&#34; id=&#34;li-comment-394&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/fbdbe8df04185d71dc5a16ee749ad3a6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://NoTwoTheSame.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Elliot Lewis&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-394&#34;&gt;&lt;time datetime=&#34;2012-12-10T17:22:21+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        That is a great little function. But I didn’t think it worked in IE? I’m sure I tried it before and ended up using work arounds to stop IE exploding at unknown function.
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-391&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/a2da1a6747c31ab1587c665eb9a44e15?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.maltonwebdesign.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Dave Andrew&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-391&#34;&gt;&lt;time datetime=&#34;2012-12-10T09:05:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:05am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great points Laura about sharing. IMO the more info the better. If think the more we share the more kudos you’ll gain and that respect may hopefully turn into business.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-393&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/326239aac4f69abe4dc5285f21d6b902?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.feliciafortes.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Felicia Fortes&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-393&#34;&gt;&lt;time datetime=&#34;2012-12-10T16:31:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:31pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I like your thoughts and I’ve decided to share more of my newbie learnings.
+
+I think every project has an individual path. For me blogging about things I’ve learnt during a project is a way to remember what I did  and at the same time being able to learn new stuff through the comments. &lt;/p&gt;
+Just look at all the new knowledge coming through this blog posts comments.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-396&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2c22ec5e9ac5e4af3a5853fe2fd67e77?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://overthecounterdesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chatman R.&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-396&#34;&gt;&lt;time datetime=&#34;2012-12-11T12:55:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;12:55pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I haven’t actually been using `display: none;` very often on its own. I’ve mainly used JavaScript to hide elements I manipulate through a situational `.hide` class. I’ve gotten into a habit of using temporary classes for states to applied through JavaScript. This way, if something effs up, I won’t be hiding critical information from the user. 
+
+If I ever find I’m hiding an element indefinitely, it usually means it’s time to figure out if it’s needed at all. And I liked your last point over not being afraid to contribute something to the pool of knowledge. My reluctance to write blog posts comes from the fact that I’m entirely self-taught, so I have a tendency to assume everything I know IS common knowledge and I have nothing to add. I may have to rethink that.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-402&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/288f43b2e85b2451c08aa86f0e0453ad?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.lockedowndesign.com/blog&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Locke&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-402&#34;&gt;&lt;time datetime=&#34;2013-06-09T09:26:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Best practices are made up of all these little bits of information that we collect from people we trust in web development, and we don’t always listen the first time we hear things. But when we keep seeing the same things written over and over, then those standards and best practices begin to take hold in our own workflows.
+
+I’m always looking for better ways to do things on the front-end, to make things faster loading, or smoother for the user. 
+
+Thanks for being one of the voices of reason and being a mentor to many in the web industry.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-404&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d064c247ddb15d88a42533a8e1fac72c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.catalystdesigns.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Paul&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-404&#34;&gt;&lt;time datetime=&#34;2013-07-21T18:04:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:04pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Really well written post! Was looking into the use of display none to hide some elements on a responsive design and you’ve persuaded me to think otherwise! 
+
+An article on how to do the JavaScript side of things would be great! Thanks.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-7385&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/21d7459891f57c63e6eb51b4861ce752?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.kintoweb.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kintoweb&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-7385&#34;&gt;&lt;time datetime=&#34;2014-01-11T01:48:16+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:48am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It may be also possible to use iFrame and display:none on that to stop data downloading
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-33064&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/58ec733e2356433d0ec9af50ef904adb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.elmnt.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Greg Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-33064&#34;&gt;&lt;time datetime=&#34;2014-06-18T00:38:17+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:38am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;“I’m a little bit scared of writing about markup. I’m sure there are loads of front-end developers out there who know a huge amount more than me, and I’m worried I’ll get it wrong or make myself look stupid.”
+
+I bet most people feel the same way, so don’t worry. I’ve been designing &amp;amp; (front-end) coding for more than 10 years, and I still read about &amp;amp; play with the fundamentals all the time. I think it’s always important to keep re-visiting the basics, not just the very difficult stuff. Well done. Keep up the great work!&lt;/p&gt; &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-37332&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/54729a3423ebee623690bfc0c4edfa58?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://blog.ki6i.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Kalina&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-37332&#34;&gt;&lt;time datetime=&#34;2014-07-09T13:45:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:45pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Most browsers like Chrome and Firefox doesn’t actually spend time on the display none content on page load. In other words the load time it about the same as if the content isn’t there.The only browsers that have this issues are IE&amp;lt;11
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-150438&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/93c1dd2037e7b96a0fcdffb20cb82bf4?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://korosheh.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;korosheh&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-150438&#34;&gt;&lt;time datetime=&#34;2016-09-19T21:13:31+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Is nice article thanks
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content on Laura Kalbag</title>
+    <title>Posts from Content on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/content/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 14 Aug 2014 15:47:30 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
-      <description>Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called Designing for the unknown: how to design templates and frameworks, and has contributions from some really smart people.
-The title image is from my writeup of the Default Perch Theme project I did with Perch.</description>
+      <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
+
+&lt;p&gt;The title image is from my writeup of the &lt;a href=&#34;https://laurakalbag.com/project/default-perch-theme/&#34; title=&#34;Default Perch Theme&#34;&gt;Default Perch Theme project&lt;/a&gt; I did with Perch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4520&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/digital-arts-designing-for-the-unknown.png&#34; alt=&#34;Digital Arts: Designing for the unknown&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +38,486 @@ The title image is from my writeup of the Default Perch Theme project I did with
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
       
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
-      <description>A month ago I spoke at Responsive Day Out, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to Jeremy Keith when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.
-After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (you can listen to them here, or watch them on BeSquare), I’ve joined a lot of dots in my head.</description>
+      <description>
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;A month ago I spoke at &lt;a href=&#34;http://responsiveconf.com/&#34;&gt;Responsive Day Out&lt;/a&gt;, an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to &lt;a href=&#34;http://adactio.com&#34;&gt;Jeremy Keith&lt;/a&gt; when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;After a whole month of mulling over the talks in my head, and chatting to other people who were there or who have listened to the talks since (&lt;a href=&#34;http://responsiveconf.com/&#34;&gt;you can listen to them here&lt;/a&gt;, or &lt;a href=&#34;http://www.besquare.me/conferences/responsive-day-out/&#34;&gt;watch them on BeSquare&lt;/a&gt;), I’ve joined a lot of dots in my head. I had intended to publish this writeup just a few days after the event, but &lt;a href=&#34;https://laurakalbag.com/burnout/&#34; title=&#34;Burnout&#34;&gt;burnout&lt;/a&gt; and a whole lot of client work got on top of me.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em style=&#34;opacity: 0.9;&#34;&gt;Even though it’s a month later, I still wanted to share all of these great things I learned on that day. This writeup has now become a writeup-reflection. Do I still feel excited by these things a month later? How did these talks affect my work over the next month?&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-hugeness-that-is-responsive-web-design&#34;&gt;The hugeness that is Responsive Web Design&lt;/h2&gt;
+
+&lt;p&gt;Elliot Jay Stocks described Responsive Web Design as being about “making your site accessible and adaptable to any device, regardless of the design.” Bruce Lawson described it as “make it work everywhere or else you’re a walrus.”&lt;/p&gt;
+
+&lt;p&gt;For a seemingly niche subject for a day-long conference, the amount covered in this day was huge. As Mark Boulton put it in the closing talk, responsive web design is, in a way, bigger than web standards. It disrupts far more industries than our own. The subtleties in the markup that we write is only visible to us as developers, but responsive web design has an effect on any user of the web, and any industry that has a presence on the web.&lt;/p&gt;
+
+&lt;p&gt;Despite having such a huge impact on modern web design, there wasn’t anyone really preaching that responsive web design is the “one true solution”. One of the first points David Bushell made was that if a site that isn’t optimised for small viewports and isn’t too hard to browse on mobile, then it’s worth considering whether an alternative is really worthwhile.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-the-devices&#34;&gt;All the devices&lt;/h2&gt;
+
+&lt;p&gt;Since the dawn of Responsive Design (and before that, really) we seemed to focus on making our sites work on particular mobile devices. Namely the iPhone. It made life easier as we just had to design for a few more specific widths of websites.&lt;/p&gt;
+
+&lt;p&gt;Many of the speakers at Responsive Day Out spoke about how we need to break away from designing for specific devices, as you’ll never be able to cater for every user, and there is no average, normal or most common viewport width or capabilities. In his talk about future-friendly browser support, Tom Maslen posited that there are far too many edge cases (almost every device is an edge case in some way) to take this approach, and that you have no idea what’s going to come out next week or next year.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“You’re never going to win, you’re playing the wrong game…” David Bushell on designing for devices&lt;/p&gt;
+
+&lt;p&gt;“Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/devicedetection.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2737&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/devicedetection.jpg&#34; alt=&#34;Anna Debenham—Device detection isn&amp;#39;t future proof. Avoid.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Anna Debenham—Device detection isn’t future proof. Avoid.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As Tom Maslen pointed out, we’re foolish focusing on devices. Before responsive design, did we ever talk about whether a website worked on a particular Dell PC or a MacBook? We didn’t, we thought in terms of browsers and whether our sites worked in Internet Explorer 8 or the most recent version of Firefox. This makes it much easier to test and gives us a much narrower set of requirements that our sites need to fulfil.&lt;/p&gt;
+
+&lt;p&gt;David Bushell explained how screen size doesn’t equate to viewport size, as many desktop users, especially those with very large displays, will use browser windows much narrower than their screen. Something that I also touched on in my talk was that you can’t judge what device is being used, or what user is doing based on the size of their viewport. A narrower viewport does not necessarily guarantee a mobile device, or low bandwidth or that the user is “on the go”. A narrower viewport could just mean that the user has stuck the browser window to one side of their enormous display on a high-end Mac, using broadband while at work in their office.&lt;/p&gt;
+
+&lt;h3 id=&#34;breakpoints-and-tweakpoints&#34;&gt;Breakpoints and tweakpoints&lt;/h3&gt;
+
+&lt;p&gt;Many of the speakers discussed breakpoints, but not obsessing over them as the defining feature of Responsive Web Design. While most of us have been guilty of basing breakpoints on particular (Apple!) devices, the focus was on moving away from device-based breakpoints.&lt;/p&gt;
+
+&lt;p&gt;Mark Boulton suggested that breakpoints should be based on changing user experiences based on the features and capabilities of the browser; using “macro breakpoints” when something big happens, such as a layout change, and mostly basing your CSS around “micro breakpoints”, on the little tweaking details that add up to 80% of your styles. These are very much along the same lines as &lt;a href=&#34;http://adactio.com/journal/6044/&#34;&gt;Jeremy Keith’s “tweakpoints”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my talk I shared my ideas of basing breakpoints around the optimal display of the content, as every content element has an ideal maximum width and and ideal minimum width. Using the content in this way ensures the best browsing experience, as well as using constraints derived from the one thing that won’t change in the future.&lt;/p&gt;
+
+&lt;p&gt;Bruce Lawson also touched on making assumptions about types of user interaction based on viewport size. Bruce gave the example of browsing a site on a TV. Whilst the TV screen is very large, the distance at which you sit from it makes the interaction more akin to using a mobile device, they occupy the same space in your field of vision.&lt;/p&gt;
+
+&lt;h2 id=&#34;not-just-screens-but-inputs&#34;&gt;Not just screens, but inputs&lt;/h2&gt;
+
+&lt;p&gt;Anna Debenham’s talk on consoles showed us the wide range of web browsing experiences on gaming devices, and how the inputs and interactions on these devices have a huge impact on the browsing experience. Combinations of touch screen and voice input, stylus wielding, button hitting, pointer waving and joystick nudging can make the web a challenging experience on consoles, however Anna emphasised that designing specifically for these devices isn’t the way forward. These &lt;a href=&#34;http://console.maban.co.uk/&#34;&gt;devices are rapidly improving their support for web standards&lt;/a&gt;, so building a site with web standards, multiple contexts and accessibility in mind will inevitably result in a site that’s a joy to use on a console.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Don’t design for consoles, design for everything and nothing.” Jeremy Keith summing up in the panel session after Anna’s talk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;designing-for-features-and-capabilities&#34;&gt;Designing for features and capabilities&lt;/h2&gt;
+
+&lt;p&gt;Mark Boulton, Andy Hume and Tom Maslen all spoke about designing for features and capabilities instead of devices. This is tied in with the idea of &lt;a href=&#34;http://alistapart.com/article/understandingprogressiveenhancement&#34;&gt;progressive enhancement&lt;/a&gt;, which many of us have been using as a web development mantra for years. Tom Maslen named his talk after the technique of judging browsers which “cut the mustard.”&lt;/p&gt;
+
+&lt;h3 id=&#34;cutting-the-mustard&#34;&gt;Cutting the mustard&lt;/h3&gt;
+
+&lt;p&gt;Tom Maslen and Andy Hume both work on large news sites (&lt;a href=&#34;http://bbc.co.uk&#34;&gt;bbc.co.uk&lt;/a&gt;, &lt;a href=&#34;http://guardian.co.uk&#34;&gt;guardian.co.uk&lt;/a&gt;) and so shared their experiences of practically applying responsive design to huge content-heavy sites. Their technique of “cutting the mustard” is to define a list of browsers deemed to be ‘modern’, with a certain set of features and capabilities, and then delivering a progressively enhanced experience to those browsers only.&lt;/p&gt;
+
+&lt;p&gt;This technique relies on building a simple core experience where the content is accessible from any device. Andy suggested there are three stages of the page load, where only one is vital:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;“content”: HTML and CSS&lt;/li&gt;
+&lt;li&gt;“enhancement”: javascript which enhances the experience with rich/interactive media&lt;/li&gt;
+&lt;li&gt;“leftovers”: analytics, ads, and anything else which is least important to the users but useful to include on the page&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Tom pointed out that using this technique would mean no time wasted on polyfilling, or other ways of trying to make the older/less capable browsers support the same enhancements. As the browsers that cut the mustard all support modern standards, you can be assured of a good level of support for CSS and other modern technologies.&lt;/p&gt;
+
+&lt;p&gt;This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/browsercompatibility.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2729&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/browsercompatibility.jpg&#34; alt=&#34;Tom Maslen demonstrating the BBC&amp;#39;s previous strategy of supporting a specific table of browsers&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;more-markup-and-code&#34;&gt;More markup and code&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“The web and web standards have always been responsive”-Bruce Lawson on how the web is inherently flexible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bruce Lawson started his talk saying that we constrained ourselves on the web. Mark Boulton later pointed out that we didn’t really constrain ourselves, we’ve been using the web for everything and anything when it was really just designed for memos. The web wasn’t &lt;strong&gt;designed&lt;/strong&gt; to be inherently flexible, it just happened that way.&lt;/p&gt;
+
+&lt;h2 id=&#34;fluid-design&#34;&gt;Fluid design&lt;/h2&gt;
+
+&lt;p&gt;However, Bruce was really highlighting the fact that we could have been developing sites based on fluid layouts for years, it’s just that most of us have been falsely constraining ourselves with fixed-width layouts in order to give us more control. Throughout the day, Jeremy Keith relished in telling us how he’d always worked in this way and how it made the move to responsive layouts significantly easier.&lt;/p&gt;
+
+&lt;p&gt;Andy Hume spoke of an ideal future where every component of a site would be standalone, as a modular part of a greater system. Building our sites in this way would mean we didn’t even need to rely on media queries. If we built our components to suit any width, embracing fluidity, they would fit any device without forcing particular responsive behaviour.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-the-css-possibilities&#34;&gt;All the CSS possibilities&lt;/h2&gt;
+
+&lt;p&gt;Bruce Lawson introduced us to a huge amount of existing and up-and-coming standards that we’ll be able to use to make responsive design much easier.&lt;/p&gt;
+
+&lt;h3 id=&#34;viewport-meta-and-viewport&#34;&gt;Viewport meta and @viewport&lt;/h3&gt;
+
+&lt;p&gt;Bruce explained how the viewport meta tag &lt;code&gt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width&amp;quot;&lt;/code&gt; is a bit of a blunt instrument, and how it’s really mixing presentation into our structure as it’s telling pages how to display from within the HTML and not the CSS.&lt;/p&gt;
+
+&lt;p&gt;Bruce showed us a potential solution using an &lt;a href=&#34;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&#34;&gt;@viewport rule&lt;/a&gt; in your CSS which could replace the viewport meta tag and allow for more sophisticated combinations of viewport and media query rules.&lt;/p&gt;
+
+&lt;h3 id=&#34;some-next-level-css&#34;&gt;Some next level CSS&lt;/h3&gt;
+
+&lt;p&gt;Under the cheeky name of “CSS Level 4”, Bruce walked us through some proposed additional media queries:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;(script)&lt;/code&gt; which can be used to provide fallbacks or enhancements based on whether the browser supports JavaScript&lt;/li&gt;
+&lt;li&gt;supported inputs and interactions such as &lt;code&gt;(touch)&lt;/code&gt;, &lt;code&gt;(hover)&lt;/code&gt;, &lt;code&gt;(remote)&lt;/code&gt; and &lt;code&gt;(keyboard)&lt;/code&gt; which can be used to optimise the user experience based on the capabilities of their device&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These could be used to replace the functionality of something like &lt;a href=&#34;http://modernizr.com/&#34;&gt;Modernizr, where JavaScript is used to detect browser capabilities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox&#34;&gt;Flexbox&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/flexbox.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2741&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/flexbox.jpg&#34; alt=&#34;Bruce Lawson talking about flexbox&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt; &lt;a href=&#34;http://dev.opera.com/articles/view/flexbox-basics/&#34;&gt;Flexbox&lt;/a&gt;, as shown by Bruce, is so full of exciting potential for CSS layouts. The rules associated with flexbox gives layout superpowers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;reorder content on the page without changing the hierarchy of the HTML&lt;/li&gt;
+&lt;li&gt;make content redistribute across any given space&lt;/li&gt;
+&lt;li&gt;centre content horizontally or vertically&lt;/li&gt;
+&lt;li&gt;create complex grid layouts without having to rely on dodgy class names or endless floating elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bruce warned us to be wary of the &lt;a href=&#34;http://css-tricks.com/old-flexbox-and-new-flexbox/&#34;&gt;differences between the 2009 and 2011 flexbox syntaxes&lt;/a&gt;, as both are implemented differently across browsers, although a standard is being reached with the later syntax.&lt;/p&gt;
+
+&lt;h3 id=&#34;pesky-prefixes&#34;&gt;Pesky prefixes&lt;/h3&gt;
+
+&lt;p&gt;Bruce emphasised that, when using any of these new CSS features, to always make sure you use both the prefixed (for browser vendor implementation testing) and unprefixed (the desired web standard) versions of each rule. This ensures current compatibility with browsers-in-flux but also future compatibility when all browsers consistently support the standard in the same way.&lt;/p&gt;
+
+&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;Performance was a key word of the day. Many speakers mentioned how we’ve been spoilt by broadband, and seemed to have forgotten about optimising our sites for limited bandwidth and poor connections. This has come back to bite us as we realise how much our weighty sites impact upon the mobile experience on responsively designed sites. Andy Hume pointed out that performance isn’t just about responsive design, it’s important for &lt;em&gt;all&lt;/em&gt; design, and that responsive design has just put the light on our previously bad practices. Anna Debenham suggested that we should set a performance budget for each page, which we use to ensure that our resources aren’t getting out of hand.&lt;/p&gt;
+
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;“Responsive images” are a common request among designers and developers. Really what most people want is a clever way to add flexibility to images, and some kind of browser magic to deliver the relevant image to suit the user’s bandwidth. Paul Robert Lloyd proposed that appropriate use of imagery is a more realistic solution. Paul questioned whether we really need to use images as much as we do, and maybe we should be working with truly scalable media. Paul posited that the element is an unrealistic solution as it gives developers the idea that you can aim for pixel perfection on the web when, especially in the world of varying-DPI displays, it’s just not achievable. When considering the best solutions for images, Paul put images into three categories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interface&lt;/li&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Decorative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22&#34;&gt;
+&lt;figure class=&#34;size-full wp-image-2793&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/types-of-images.png&#34; alt=&#34;Paul Robert Lloyd&amp;amp;#039;s slide on types of images&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Paul Robert Lloyd’s slide on types of images
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;asset-fonts&#34;&gt;Asset fonts&lt;/h3&gt;
+
+&lt;p&gt;Where images meet fonts, Josh Emerson spoke about using asset fonts for one-colour graphic elements. Much like the &lt;a href=&#34;https://www.microsoft.com/typography/web/fonts/webdings/default.htm&#34;&gt;Webdings icons font&lt;/a&gt;, Josh explained that asset fonts could be created as your own set of scaling icons. The glyphs are much easier to manage than &lt;a href=&#34;http://alistapart.com/article/sprites&#34;&gt;hacky image sprites&lt;/a&gt;, they’re supported by &lt;a href=&#34;http://caniuse.com/#feat=fontface&#34;&gt;any browser that supports web fonts&lt;/a&gt;&amp;nbsp;and provide resolution-independent sharp graphics that work on &lt;strong&gt;any-DPI&lt;/strong&gt; display, not just retina displays.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/assetfonts.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2725&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/assetfonts.jpg&#34; alt=&#34;Josh Emerson on asset fonts&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Josh pointed out that, whilst asset fonts are a fantastic solution for vector-style graphics, images that require more than one colour are better served by &lt;a href=&#34;https://en.wikipedia.org/wiki/Scalable_Vector_Graphics&#34;&gt;SVG&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another way of delivering assets through fonts are with ligature asset fonts. Josh talked about &lt;a href=&#34;http://symbolset.com/&#34;&gt;Symbolset&lt;/a&gt;, where words can be converted semantically into icons using the ligature format built into fonts. I previously thought that this would be tricky, as you’d have to use the exact language and exact words in your content to trigger the correct icons, which could result in your copy following your design, not separating content and presentation. Josh pointed out that you can use this same ligature formatting to build ligature asset fonts for yourself, using the words and graphics that you want. Unfortunately, ligature asset fonts do require &lt;a href=&#34;http://caniuse.com/#feat=ttf&#34;&gt;OpenType ligature support which is still slightly patchy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;typography&#34;&gt;Typography&lt;/h2&gt;
+
+&lt;p&gt;There was a lot of talk of typography throughout the day as our excitement with two of the biggest turning points in web development in the last few years; web fonts and responsive web design, were brought together.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-first&#34;&gt;Typography first&lt;/h3&gt;
+
+&lt;p&gt;In my talk, I spoke about how text makes up so much of web design that typography, and your choice of typeface, could be the one thing that makes your design feel consistent across any viewport or device. With the web font support we have nowadays, or even using a basic palette of “web safe” fonts, you could easily give your website a distinctive voice and atmosphere without the need for complex responsive layouts, just embracing the built-in fluidity of the web.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-fonts-and-fallbacks&#34;&gt;Web fonts and fallbacks&lt;/h3&gt;
+
+&lt;p&gt;Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/webfontoptions.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2757&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/webfontoptions.jpg&#34; alt=&#34;Richard Rutters potential solutions for web font loading wait-time&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Richard Rutters potential solutions for web font loading wait-time
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Default: text appears as each web font loads&lt;/li&gt;
+&lt;li&gt;Don’t send web fonts to small screens&lt;/li&gt;
+&lt;li&gt;Show text in the fallback fonts until all the web fonts load&lt;/li&gt;
+&lt;li&gt;Swap out the fallback font as each web font loads&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;After a day of speakers talking about how we can’t guess the performance of a browser based solely on viewport size, it seemed like not sending web fonts to small screens was a very general solution which you would have to weigh up with the probability of narrow viewports equating to low bandwidth.&lt;/p&gt;
+
+&lt;p&gt;Richard talked about the &lt;a href=&#34;http://24ways.org/2010/using-the-webfont-loader-to-make-browsers-behave-the-same/&#34;&gt;WebFont Loader&lt;/a&gt; which gives you JavaScript classes to make all browsers load fonts in the same way, and give you more fine-grained control on when and how the fonts appear.&lt;/p&gt;
+
+&lt;p&gt;Richard emphasised the importance of operating system font fallbacks for web fonts, and how these could be used as a very workable, readable version of a page until the web fonts are loaded. The knack to getting this right is to make the fallback fonts as similar as possible to the web font. This involves researching the most appropriate fallback fonts on different devices, and tweaking the metrics of the fallback font to best match the web font size and shape.&lt;/p&gt;
+
+&lt;h2 id=&#34;layouts-and-navigation&#34;&gt;Layouts and navigation&lt;/h2&gt;
+
+&lt;h3 id=&#34;differentiating-and-uniting&#34;&gt;Differentiating and uniting&lt;/h3&gt;
+
+&lt;p&gt;The main focus of my talk was trying to get our heads round how our visual designs respond to responsiveness, and how we can use this to create good and familiar experiences no matter what the viewport. I spoke about design systems, and how our visual systems are built from typography, layout, colour and shape/form. When considering each of these modules, we should consider what works to unite the feel of our site across different viewports and what we must differentiate in order to optimise the experience for different viewport widths.&lt;/p&gt;
+
+&lt;h3 id=&#34;antiphonal-geometry&#34;&gt;Antiphonal geometry&lt;/h3&gt;
+
+&lt;p&gt;Owen Gregory spoke about how we can’t base web design layouts on print geometry as our materials are just not the same. Print is static, but the web is the complete opposite. Owen pointed out that we can keep using geometric layouts, they just have to be made flexible. Whilst Mark Boulton spoke about not constraining ourselves with frames that we create ourselves, Owen talked about how these frames are ever-present without our input, every device uses frames to deliver content in the form of a screen.&lt;/p&gt;
+
+&lt;p&gt;Owen agreed with Mark in that we can’t use frames as false constraints, we must acknowledge that we can’t possibly guess what size these frames are going to be, but Owen also pointed out that the ratios between the height and width of many devices are roughly the same, so we could potentially use these values in our designs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/control.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-2733&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/control.jpg&#34; alt=&#34;Mark Boulton on Control&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On reflection, this was an exciting revelation to many of us (the similarity between the ratios) but I still disagree with this as something to design around. There may well be similarities between the proportions &lt;strong&gt;now&lt;/strong&gt;, but the point of embracing the responsiveness of the web and not focusing on specific devices is that we don’t know what those proportions will be in the near or distant future. For now, this may be the most aesthetically pleasing ratio, but our tastes could well change.&lt;/p&gt;
+
+&lt;p&gt;Owen spoke about the similarities between the ratios of device proportions and the harmony of musical intervals. This is similar to Tim Brown’s talk I saw at Ampersand conference 2011 (also &lt;a href=&#34;http://alistapart.com/article/more-meaningful-typography&#34;&gt;a fantastic article on A List Apart&lt;/a&gt;) about using typography built on a &lt;a href=&#34;http://modularscale.com/&#34;&gt;modular scale based on musical intervals&lt;/a&gt;. These principles use the interval harmonies found in music, which is &lt;a href=&#34;http://en.wikipedia.org/wiki/Fibonacci_number&#34;&gt;can also be found in maths and nature&lt;/a&gt;, to create scales for your typographic hierarchy which has that same harmonious and balanced feel.&lt;/p&gt;
+
+&lt;h3 id=&#34;types-of-navigation&#34;&gt;Types of navigation&lt;/h3&gt;
+
+&lt;p&gt;David Bushell got into the meat of responsive navigation. Despite showing us many different types of navigation, David emphasised that we shouldn’t try to be too clear with our navigation, as we’ll likely just end up confusing the users. We must remember that the reason navigation exists is to make it easy for the user to find what they’re looking for.&lt;/p&gt;
+
+&lt;p&gt;As a general rule, David suggested we should aim for as few menu items as possible. The navigation menu isn’t the only form of discoverability on a site, so we don’t need to cram everything in there. We’re risking all of the site on a single point of failure if we only have a single point of navigation.&lt;/p&gt;
+
+&lt;p&gt;It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/typesofinput.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-2753&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/typesofinput.jpg&#34; alt=&#34;David Bushell on types of input&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		David Bushell on types of input
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A few of the different types of navigation David talked about were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a print-style table of contents which makes the content hierarchy very clear&lt;/li&gt;
+&lt;li&gt;jumping to a ‘big footer’, where you’ve no limitations on the amount of navigation as it’s not above, or hiding, the primary content&lt;/li&gt;
+&lt;li&gt;hiding and revealing the navigation, above or to one side of the primary content&lt;/li&gt;
+&lt;li&gt;overlaying the navigation over the primary content, so it’s not pushing the content down&lt;/li&gt;
+&lt;li&gt;multiple tiers of sub-menus, allowing the user to drill down to what they’re looking for&lt;/li&gt;
+&lt;li&gt;just simply using menu items floating side-by-side, with clever breakpoints to optimise their readability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-hamburger-icon&#34;&gt;The “hamburger” icon&lt;/h3&gt;
+
+&lt;p&gt;David’s talk was the first where I’d heard the description of three horizontal lines as the “hamburger” icon. David spoke about this icon as a potential convention that’s arising in responsive design, as it’s used by some very large mainstream sites with a wide audience. However, it’s possibly being used as an easy option for designers looking to hide a menu button in as small a space as possible, without considering whether it’s really the best and easiest-to-understand option for the users.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-matter-of-process&#34;&gt;A matter of process&lt;/h2&gt;
+
+&lt;p&gt;Process is one of the trickiest topics in responsive design. Both Elliot Jay Stocks and I spoke about how hard it is for us to let go of the tried-and-tested processes that worked for us for so long. Sarah Parmenter described our processes themselves as being adaptive, and how our the task of creating good working processes will never truly be done. Sarah said it was a problem of workflow, and we need to find workflows that work for us as individuals. Elliot Jay Stocks pointed out that once we rethink our processes, responsive design will no longer be described as such a time-consuming process.&lt;/p&gt;
+
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+
+&lt;p&gt;In my talk, I tried to emphasise that a lot of our problems with responsive design stem from our focus on the deliverables, and mockups, that we produce for clients. We need to remember &lt;strong&gt;why&lt;/strong&gt; we create these mockups in the first place, that they’re really just tools for communication our ideas and concepts. We need to let go of the perfectionism in our mockups and focus on presenting our ideas to our clients and colleagues in an efficient way which also helps us visualise our own work effectively.&lt;/p&gt;
+
+&lt;h3 id=&#34;designers-who-can-code&#34;&gt;Designers who can code&lt;/h3&gt;
+
+&lt;p&gt;Elliot Jay Stocks pointed out the value in being a designer who can code. Being able to code means that you’re not stuck in the static format of a graphics editor. You may not be an amazing front-end developer, but being able to code will make it so much easier to communicate the responsive elements of your design work to your clients and colleagues.&lt;/p&gt;
+
+&lt;h2 id=&#34;content-content-content&#34;&gt;Content, content, content&lt;/h2&gt;
+
+&lt;p&gt;When he was speaking about designing navigation, David Bushell pointed out that knowing your content hierarchy is incredibly important for understanding the best form of navigation. Placeholder content is not a viable substitute as you just don’t know what you’re designing around.&lt;/p&gt;
+
+&lt;p&gt;Many speakers went back to this point. In my talk I returned to it when I said that the whole purpose of a site is to present the content in an optimal experience, so we really need the content before we can make decisions on the most appropriate form of presentation.&lt;/p&gt;
+
+&lt;p&gt;Sarah Parmenter quoted Mark Boulton saying that you need to know the content structure, not just the content. Sarah spoke about the importance of a content audit, and really knowing your content structure. Sarah had the idea of getting clients to not sign off on visual mockups or wireframes, but on the content hierarchy, where the importance of each element was agreed with the client.&lt;/p&gt;
+
+&lt;p&gt;Paul Robert Lloyd described it as meaning being our baseline. Aesthetic design is just an enhancement. On the most basic level, the HTML page of content is a usable website. Anything we put on top of that basic usability must be carefully considered so that it adds to, rather than damages, the experience.&lt;/p&gt;
+
+&lt;h2 id=&#34;approaches-and-attitudes&#34;&gt;Approaches and attitudes&lt;/h2&gt;
+
+&lt;p&gt;In the month since Responsive Day Out, I’ve heard the term “winging it” over and over. It was Sarah Parmenter kicking the day off saying “we’re winging it” that initiated this kind of group honesty where everyone felt they could share what they &lt;strong&gt;didn’t&lt;/strong&gt; know about responsive design. I’ve noticed people starting to be more free with their ideas and experimentation.&lt;/p&gt;
+
+&lt;h3 id=&#34;not-being-comfortable&#34;&gt;Not being comfortable&lt;/h3&gt;
+
+&lt;p&gt;Mark Boulton ended the day on the point that we need to stop trying to be comfortable with what we’re doing. We need to start feeling comfortable with feeling uncomfortable. We previously gave ourselves false constraints to make our lives easier, and to make our work feel like it fitted. These constraints have done nothing but cause us problems with future compatibility.&lt;/p&gt;
+
+&lt;p&gt;This feeling of uncertainty is here for good, and it’s a valuable part of ensuring we make our sites better for those unpredictable situations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;related-reading&#34;&gt;Related reading&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;anna-debenham-s-game-console-browsers-test-results-site&#34;&gt;Anna Debenham’s Game console browsers test results site&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://console.maban.co.uk/&#34;&gt;http://console.maban.co.uk/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;paul-robert-lloyd-s-responsive-markup-patterns-for-images&#34;&gt;Paul Robert LLoyd’s responsive markup patterns for images&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://prlloyd.com/responsiveconf&#34;&gt;http://prlloyd.com/responsiveconf&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;jeremy-keith-s-tweakpoints&#34;&gt;Jeremy Keith’s ‘Tweakpoints’&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://adactio.com/journal/6044/&#34;&gt;http://adactio.com/journal/6044/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox-basics&#34;&gt;Flexbox basics&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://dev.opera.com/articles/view/flexbox-basics/&#34;&gt;http://dev.opera.com/articles/view/flexbox-basics/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;flexbox-syntaxes&#34;&gt;Flexbox syntaxes&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://css-tricks.com/old-flexbox-and-new-flexbox/&#34;&gt;http://css-tricks.com/old-flexbox-and-new-flexbox/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;an-introduction-to-meta-viewport-and-viewport&#34;&gt;An introduction to meta viewport and @viewport&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&#34;&gt;http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/&lt;/a&gt;
+*&lt;/p&gt;
+
+&lt;h3 id=&#34;cutting-the-mustard-looking-at-device-support-with-responsive-news&#34;&gt;“Cutting the Mustard”, looking at device support with Responsive News&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard/&#34;&gt;http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard/&lt;/a&gt; &lt;a href=&#34;https://twitter.com/andyhume/status/319001952740585472&#34;&gt;Hat tip to Andy Hume.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related-resources&#34;&gt;Related resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;fontforge-an-app-for-creating-fonts-recommended-by-josh-emerson&#34;&gt;Fontforge, an app for creating fonts, recommended by Josh Emerson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fontforge.org/&#34;&gt;http://fontforge.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;symbolset-a-ligature-asset-fonts-service-recommended-by-josh-emerson&#34;&gt;Symbolset, a ligature asset fonts service, recommended by Josh Emerson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://symbolset.com/&#34;&gt;http://symbolset.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;icomoon-a-service-for-creating-asset-fonts-recommended-by-josh-emerson-as-the-simplest-solution&#34;&gt;Icomoon, a service for creating asset fonts, recommended by Josh Emerson as the simplest solution&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://icomoon.io/&#34;&gt;http://icomoon.io/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;webfont-loader-a-javascript-library-to-give-you-more-control-over-font-loading-recommended-by-richard-rutter&#34;&gt;WebFont Loader, a JavaScript library to give you more control over font loading, recommended by Richard Rutter&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developers.google.com/webfonts/docs/webfont_loader&#34;&gt;https://developers.google.com/webfonts/docs/webfont_loader&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;modernizr-a-javascript-library-used-to-detect-browser-capabilities-recommended-by-bruce-lawson&#34;&gt;Modernizr, a JavaScript library used to detect browser capabilities, recommended by Bruce Lawson&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://modernizr.com/&#34;&gt;http://modernizr.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;modular-scale-a-tool-built-by-tim-brown-to-design-typographic-ratios-around-musical-intervals&#34;&gt;Modular Scale, a tool built by Tim Brown to design typographic ratios around musical intervals&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;http://modularscale.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;8-comments&#34;&gt;8 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-525&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/40b3a11ca855a07ec74db8c1be060146?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Tushar Sonawane (@tushkiz)&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-525&#34;&gt;&lt;time datetime=&#34;2013-04-02T08:35:52+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;08:35am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;I was waiting for this one from Responsive Day Out, all at one place.
+
+Thanks Laura!!&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-526&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/77b178c0c5bec748485307a18e73c6b9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://simoncox.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Simon Cox&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-526&#34;&gt;&lt;time datetime=&#34;2013-04-02T13:13:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:13pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Listened to your appearance on Unfinished biz yesterday where you mentioned the hamberger icon. I beleive it’s a morphed stylised list –; without the dots. With the dots the icon actually looks like a list –; which navigation mostly is but without the dots gets people confused –; so a hamburger is appropriate as thats confusing as there is no ham (those these days you can’t really tell) (And for those saying Hamburgers are from Hamberg –; where are beefburgers from?)  
+
+Thanks for doing the write up –; you have picked up (researched) a lot more links than I remember on the day so it will be good to return to this post again and again.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-529&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/1f00366a932b14e47ab0c8e0b4a3c293?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/1f00366a932b14e47ab0c8e0b4a3c293?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Owen Gregory&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-529&#34;&gt;&lt;time datetime=&#34;2013-04-03T11:06:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:06am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks for such a thorough analysis and reflection of Responsive Day Out, and thanks also for engaging with the ideas in my talk, something other correspondents haven’t really done –; I think many commentators didn’t really know what to make of it!
+
+I’d like to respond, however and clarify a few points. If this stuff wasn’t clear from my talk, then I apologize; I had to cram a lot into the twenty minutes and knew very well that I had to simply miss things out or leave them unexplained.
+
+I wouldn’t characterize using the principles and implications of antiphonal geometry as creating “geometric layouts”, more that such an approach encourages web designers to take and use certain aspects of visual design they might think aren’t available to them in a fluid medium: namely, the ratios of the screens that necessarily frame our work.
+
+I certainly didn’t intend to say that the aspect ratios of the screens we use are “roughly the same”. 3:5 isn’t 5:8. But for each distinct ratio there are several different devices, from smartphone to desktop screen; the iPhone 5, for example, shares the same aspect ratio as the Thunderbolt display. Far from “focusing on specific devices”, the principles of antiphonal geometry allow us to use properties that devices share, not set them apart.
+
+I tried to make clear that there is a set of aspect ratios used for web screens (2:3, 3:4, 3:5, and so on) that matches natural musical harmonic intervals, so why not use those values to inform our designs. The main idea is that when the screen aspect ratio is 3:4, for example, we use that to change parts of a visual design. And when the aspect ratio changes, so too can the design. Using musical harmony is merely an interesting (well, I think so!) extension of that.
+
+Of course, you’re right to say that “we don’t know what those proportions will be in the near or distant future”, but I believe we’ll continue to see the same set of proportions in screen aspect ratios for many years to come.
+
+Also, I never intended that these ideas be “something to design around.” I wouldn’t design with these principles in mind from the start, but I might apply some of them where appropriate to help create a resonance between the design and the device it’s displayed on.
+
+I hope that clears a few things up. I might try to write up my complete take on antiphonal geometry eventually, and set it out as clearly as I can, for anyone willing to take the risk! Thank you again for your thoughts.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +526,311 @@ After a whole month of mulling over the talks in my head, and chatting to other 
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
-      <description>I’ve tried to condense my notes from Ampersand conference into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.
-And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!</description>
+      <description>
+
+&lt;p&gt;I’ve tried to condense &lt;a href=&#34;https://laurakalbag.com/notes-from-ampersand-conf/&#34;&gt;my notes from Ampersand conference&lt;/a&gt; into a more useful digest. More than anything this, like my live-tweeting at past conferences, is really a selfish activity to help me absorb the ideas from Ampersand better by reflecting on the themes of the day.&lt;/p&gt;
+
+&lt;p&gt;And of course in the spirit of the web and all things good, I may as well share this digest so anyone who wasn’t there might get a taste of the event (albeit through my probably-twisted interpretation and slightly dodgy writing!)&lt;/p&gt;
+
+&lt;h2 id=&#34;using-typography&#34;&gt;Using typography&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography-is-about-context-context-is-about-content&#34;&gt;Typography is about context, context is about content&lt;/h3&gt;
+
+&lt;p&gt;The web ‘industry’ is starting to focus more on content strategy, and that the whole reason our sites are there is generally to showcase content, and this was reflected in the &lt;em&gt;importance of content&lt;/em&gt; being continually brought up throughout the day.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare was the first speaker of the conference. As the creator of Comic Sans, Vincent was the perfect person to explain the significance of fonts being created for a purpose, for a specific context.&lt;/p&gt;
+
+&lt;p&gt;Comic Sans was created for Microsoft Home software, when computers were starting to become used in the home. Its fun, casual, comic-book style was based on comics like Watchmen and Batman Returns and was successfully used in speech bubbles and children’s software. It’s the prolific abuse of Comic Sans in inappropriate signage, documents, and many other places that has made it so well-known and unpopular (&lt;em&gt;or inappropriately popular!&lt;/em&gt;) As Jason Santa Maria said when talking about choosing an appropriate typeface:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;No type is born evil, it’s the context that dictates if it works.
+&lt;a href=&#34;http://www.flickr.com/photos/xxv/5446317470/&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-466&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/comicsans.jpg&#34; alt=&#34;Comic Sans on an Antiques shop sign&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Comic Sans on an Antiques shop sign (credit xxv, Flickr)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-465&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/BellCentennial_sample.gif&#34; alt=&#34;a sample of Bell Centennial&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		a sample of Bell Centennial
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;#### Content first&lt;/p&gt;
+
+&lt;p&gt;Tim Brown and Jason Santa Maria both spoke about how the context of the content gives them meaning when choosing a suitable font and how vital it is to compose your design with accountability. Some points they focused on for selecting a suitable typeface were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The content&lt;/strong&gt;, its message, its reason for being&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The audience&lt;/strong&gt;, who will read it? and how? for how long?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The culture&lt;/strong&gt;, the historical and cultural significance of the content, whether it will be read in other languages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The context of the typeface itself&lt;/strong&gt;, its resumé, what it signifies to others, how its production affects its appearance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;content-out&#34;&gt;Content-out&lt;/h4&gt;
+
+&lt;p&gt;Mark Boulton got us designers thinking around content in a new way which is less concentrated on the limitations of our canvas (the size of the browser, the device) and discussed possible solutions for designing from the content-outwards. Mark suggested that as designers became fixated on web standards, we started to take the separation of content and style too literally which meant we created meaningless designs separated from our content. The content-out route really involves knowing the content first, which prompted a brilliant quote from Mark:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you don’t know your content or audience, go to the pub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Admitting he didn’t yet know any solid solutions, but wanted to encourage discourse, Mark suggested processes such as working on the details first then assembling a modular design from the details. This process is one that complements the &lt;strong&gt;responsive web design&lt;/strong&gt; approach which almost every speaker hailed as a new way of working on the web.&lt;/p&gt;
+
+&lt;h4 id=&#34;responsive-design&#34;&gt;Responsive design&lt;/h4&gt;
+
+&lt;p&gt;Jon Tan explained how typography is one of the elements we can keep consistent across responsive design that reconfigures itself to suit different scenarios. No matter what the layout, screen size or device, the typography (along with colour) can instantly identify a design.&lt;/p&gt;
+
+&lt;p&gt;Tim Brown explained his process for building responsive design systems around type. The web, with its inherent flexibility, resists the rigid traditional print frameworks using ratios and fixed grids that previously gave designers a structure to work within. Tim suggests creating a modular scale, with the layout and every other element following the type, allowing it to work consistently regardless of device. This is based on the principle that we need a constant to work from in our designs, and type is a perfect constant to use. This is a way of thinking that designers can easily practise and exercise without affecting any of our current processes.&lt;/p&gt;
+
+&lt;p&gt;Tim went on to describe how using a &lt;em&gt;modular&lt;/em&gt; scale, rather than arbitrary numbers, we can create a design system that is visibly cleaner and more harmonious. He suggested choosing sizes and spaces, such as type, borders, margins, padding, based on a pattern or scale. A couple of examples of ratios that Tim provided were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;golden ration 1 : 1.618&lt;/li&gt;
+&lt;li&gt;musical fifth 1 : 1.5
+&lt;a href=&#34;http://modularscale.com&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-467&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png&#34; alt=&#34;A modular scale created using Tim&amp;#39;s website modularscale.com&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A golden ratio modular scale created using Tim’s website modularscale.com
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Different ratios traditionally have meaning or significance to different types of people, so these contexts can even be used to choose an *appropriate *scale. This also gives designers a reason and justification to backup our design decisions.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-more-than-text&#34;&gt;Typography is more than text&lt;/h3&gt;
+
+&lt;p&gt;Jason Santa Maria talked about how typography has a dual life. It’s about both the &lt;strong&gt;aesthetic&lt;/strong&gt; and the &lt;strong&gt;readability&lt;/strong&gt;. As designers we can often get caught up in how the text looks as a whole, but in reality users see the whole as texture and they skim across it. Users are more likely to stop and fixate on a small area for a moment, and this is where they will notice the typography and if it makes the text difficult to read. Jason emphasised the well-known idea that &lt;strong&gt;good typography is invisible&lt;/strong&gt;, it’s about not making the user think or struggle to read.&lt;/p&gt;
+
+&lt;p&gt;Jason also made the point that readability isn’t always *can I read it? *but also *do I want to read it? *It’s in these scenarios that good typography can help create emotional experiences.&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-can-create-emotional-experiences&#34;&gt;Typography can create emotional experiences&lt;/h3&gt;
+
+&lt;p&gt;Jon Tan really expanded on his &lt;em&gt;New Adventures in Web Design&lt;/em&gt; talk about the lizard brain by emphasising how typography can influence the subconscious. A typeface can convey emotion beyond the words in the text. Jon Tan quoted Paul Rand saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A logo derives meaning from the quality of the thing it symbolizes [&amp;#8230;] what it represents is more important than what it looks like.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is controlled by a part of our brain called the amygdala which can evoke emotional responses without verbal or linguistic input. Jon explained how this means as designers, we need to understand how the brain works, how we need to understand how design makes us &lt;em&gt;feel&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-468 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/tahoma-ms-sans.gif&#34; alt=&#34;MS Sans and Tahoma samples&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		MS Sans (left) and Tahoma (right) samples
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;typography-is-hard&#34;&gt;Typography is hard&lt;/h3&gt;
+
+&lt;p&gt;As someone who often feels that typography can be overwhelming, and that it’s very difficult to know when you’re making the right decisions, it was great to hear Jason Santa Maria say that &lt;strong&gt;typography is hard&lt;/strong&gt;. Jason went on to explain that a designer doesn’t need to know *absolutely everything *about typography to use it well, you just need to know how to estimate a font.&lt;/p&gt;
+
+&lt;h3 id=&#34;guidelines-for-choosing-and-using-type&#34;&gt;Guidelines for choosing and using type&lt;/h3&gt;
+
+&lt;p&gt;Jason went into great depth on how to choose typefaces. He explained that there are no rules in typography, its imperfect precision where you can only be guided by basic principles and understanding the constraints. Some of the top tips that Jason gave were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Choose workhorse typefaces&lt;/strong&gt;. We shouldn’t feel obliged to choose a new typeface for every project. Create a personal palette of typeface families that work well in display as well as body text. Use different styles from the same family to save having to find multiple typefaces that work well together.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid overly themed typefaces&lt;/strong&gt;. These ready-mades show a lack of imagination. Subtle fonts can promote different emotions more effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a list of attributes and feelings that you want to convey, then find typefaces that convey that feeling&lt;/strong&gt;. This also works for looking for typefaces that are similar, but not the same, to a standard that you use (perhaps such as Helvetica or Georgia.)&lt;/li&gt;
+&lt;li&gt;**Test your fonts in context **and in the right space. Choose your font appropriately to the line height, line length and size required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web-fonts&#34;&gt;Web Fonts&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-benefits-of-web-fonts&#34;&gt;The Benefits of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Everyone at Ampersand was evangelising web fonts. It’s impossible to not do so with all the exciting possibilities playing with lovely new fonts can bring.&lt;/p&gt;
+
+&lt;p&gt;Jon Tan described it as a time of &lt;strong&gt;renaissance&lt;/strong&gt; considering we were previously forced to use such a minimal font palette, and we’re now being given a chance to prove our skills in design using these new tools. We can now choose type that’s *perfect *for purpose.&lt;/p&gt;
+
+&lt;p&gt;Jason Santa Maria echoed what I think everybody else was feeling in that it’s a good time to be a designer. Jason shot down the cynical idea that pople are misusing or abusing fonts and emphasised the benefits that we’re gaining in accessibility through no longer having to provide non-standard fonts through dodgy font replacement techniques.&lt;/p&gt;
+
+&lt;p&gt;Jon and Jason both spoke about how type can define a brand and how web fonts are helping unify the identity of brands across print and the web, helping convey a voice, facilitate an emotion, and create a relationship between the user and the design.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-downside-of-web-fonts&#34;&gt;The Downside of Web Fonts&lt;/h3&gt;
+
+&lt;p&gt;Along with the eagerness to try new web fonts, there was a lot of talk of the downside of web fonts, but with a positive outlook on how the awkward issues can be solved.&lt;/p&gt;
+
+&lt;h3 id=&#34;looking-back-at-font-engineering&#34;&gt;Looking back at font engineering&lt;/h3&gt;
+
+&lt;h4 id=&#34;metal-typesetting-bitmap-font-creation-and-os-safe-fonts&#34;&gt;Metal typesetting, bitmap font creation and OS-safe fonts&lt;/h4&gt;
+
+&lt;p&gt;David Berlow harked back to working in font engineering when fonts were first needed to look consistent from computer software to printer, explaining how this relates to the web fonts emerging today. One of David’s main considerations is how poor fonts can look at very small sizes. Bearing his experience with metal case type and bitmap fonts in mind, David focuses on how to make web fonts easier to read including basing them on specific size grids, using large x-heights with generally large amounts of whitespace and simplifying fiddly and complicated details.&lt;/p&gt;
+
+&lt;h3 id=&#34;rendering&#34;&gt;Rendering&lt;/h3&gt;
+
+&lt;p&gt;Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler spoke about how the type designers at Hoefler and Frere-Jones are creating insane amounts of newly hinted glyphs in order to make their web fonts work as well as they possibly can across the web. Many web fonts are just bad translations of fonts created for print and consequently barely work on the web. A few speakers discussed the difficulties in the differences in fonts across Windows and OSX, with some users preferring Windows’ ‘*crispness*‘ and others preferring Apple’s ‘*soft detail*‘.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;
+&lt;a href=&#34;http://typekit.com/fonts/museo-slab&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-469 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/06/museo-slab.gif&#34; alt=&#34;Museo Slab as seen in Safari on OSX and Internet Explorer on Windows&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Tim Brown emphasised how important it is to check your web font choices live, and repeating these checks across the different environments that will use those fonts.&lt;/p&gt;
+
+&lt;p&gt;John Daggett described the issues created by web browsers choosing their own fallbacks, such as creating awful synthesised bold fonts through smearing or drawing the letters twice, or obliqueing fonts to give them an italic appearance. Jonathan Hoefler expressed how the lack of being able to distinguish unusual font styles can be an issue, especially for those that have a back slant or are number-only fonts.&lt;/p&gt;
+
+&lt;h3 id=&#34;css-working-draft-for-fonts&#34;&gt;CSS Working Draft for Fonts&lt;/h3&gt;
+
+&lt;p&gt;John Daggett’s talk was an intense look at the potential future of web fonts being controlled through CSS. It was at this point that I felt particularly hopeful. There’s something amazing about how quickly the web seems to have gone from a miserable collection of ‘web-safe’ fonts to being able to see how we can potentially use alternate glyphs and handle kerning.&lt;/p&gt;
+
+&lt;p&gt;I don’t think my notes cover all the fantastic features that John described, so for those I recommend you see the &lt;a href=&#34;http://www.w3.org/TR/css3-fonts/&#34;&gt;CSS Working Draft for Fonts&lt;/a&gt;, but here are some of the exciting tidbits I fancy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Using opentype font features through ‘font-variant:’&lt;/strong&gt;. This means having loads of different font features such as multiple glyphs per character in an easy-to-use package giving us fine-grain control all through CSS. At the moment &lt;em&gt;font-variant&lt;/em&gt; is used predominantly to select small-caps (with limited success.) The potential in &lt;em&gt;font-variant&lt;/em&gt; means we could eventually select font features such as petite caps and automatic fractions, have more control over fallbacks, kerning, ligatures, language support and numerals, as well as supplementing other CSS properties such as &lt;em&gt;text-transform&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security for web fonts&lt;/strong&gt;. Rather than DRM, the idea is to restrict the origin of the font through http headers and the like, requiring a particular protocol, site or port. This could prevent other sites hot-linking your fonts or sniffing your font URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-day-listening-to-clever-people-talk-about-fonts&#34;&gt;A day listening to clever people talk about fonts&lt;/h2&gt;
+
+&lt;p&gt;I think that me bothering to write a massive blog post about the themes of Ampersand conference really shows what an amazing day it was. I felt completely inspired, enthused and almost exhausted by the ideas and feelings being expressed by the speakers. I hope this rather disjointed digest might have helped bring some of this excitement to you lot who couldn’t be there on the day!&lt;/p&gt;
+
+&lt;h2 id=&#34;recommended-reading-and-plugins&#34;&gt;Recommended Reading and Plugins&lt;/h2&gt;
+
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.abookapart.com/products/responsive-web-design&#34;&gt;Responsive Web Design by Ethan Marcotte&lt;/a&gt; (via &lt;strong&gt;everybody&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codexmag.com/&#34;&gt;Codex magazine&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-sites&#34;&gt;Recommended Sites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fontsmith.com/&#34;&gt;Fontsmith&lt;/a&gt; (via Jon Tan)&lt;/li&gt;
+&lt;li&gt;Google ‘font font focus’ for Font Font Focus sites (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typography.com/&#34;&gt;Hoefler &amp;amp; Frere-Jones at Typography.com&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paulshawletterdesign.com/&#34;&gt;Paul Shaw Letter Design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fontsinuse.com/&#34;&gt;Fonts in Use&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webfontspecimen.com/&#34;&gt;Web Font Specimen&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modularscale.com/&#34;&gt;Modular Scale&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.typekit.com/category/font-events/&#34;&gt;Using Typekit font events for responsive and fallback design&lt;/a&gt; (via Tim Brown)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-plugins&#34;&gt;Recommended Plugins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://letteringjs.com/&#34;&gt;Lettering.js&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fittextjs.com/&#34;&gt;Fit Text&lt;/a&gt; (via Jason Santa Maria)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-241&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4b3678b201d540a500c248e154e8c995?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.adamwintledesign.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Adam Wintle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-241&#34;&gt;&lt;time datetime=&#34;2011-06-22T17:52:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:52pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Superb writeup! Makes me really wish I could have been there!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-243&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-243&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:49:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:49am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Adam! Hopefully if there’s a next time you’ll be there :)
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-242&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/eab5dafdd6573164cf8552c4fcc7a1fe?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://jontangerine.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jon Tan&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-242&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:46:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:46am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Hey Laura, so glad you enjoyed it! Fantastic, detailed write-up. Here’s a couple of more links you might find useful:
+
+Nick Sherman’s history of [Bell Centennial](http://nicksherman.com/articles/bellCentennial.html&#34; rel=&#34;nofollow). [Wikipedia article on Peter Behrens](http://en.wikipedia.org/wiki/Peter_Behrens&#34; rel=&#34;nofollow), consultant artist for AEG, and designer of arguably the world’s first corporate typeface. There’s also a [gallery of Behren’s work](https://picasaweb.google.com/ID100Y/TheVirtualPeterBehrensExhibition&#34; rel=&#34;nofollow). All about the London Underground typefaces, [Johnston and New Jonhston](http://londonreconnections.blogspot.com/2009/09/typeface-for-underground.html&#34; rel=&#34;nofollow). Finally, a huge collection of [Blue Note covers](http://www.gokudo.co.jp/Record/BlueNote3/nnblue2.html&#34; rel=&#34;nofollow) that includes many by Reid Miles.
+
+See you next year I hope!
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment byuser comment-author-laura bypostauthor odd alt depth-2&#34; id=&#34;li-comment-244&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-244&#34;&gt;&lt;time datetime=&#34;2011-06-23T09:51:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:51am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Cheers Jon, those links are great! Some lovely reads to start the morning&amp;#8230;
+        &lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -47,8 +839,126 @@ And of course in the spirit of the web and all things good, I may as well share 
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
       
       <guid>https://laurakalbag.com/new-adventures-2011/</guid>
-      <description>Conferences are my social life As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.
-Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with.</description>
+      <description>
+
+&lt;h2 id=&#34;conferences-are-my-social-life&#34;&gt;Conferences are my social life&lt;/h2&gt;
+
+&lt;p&gt;As I go to more conferences, I meet more lovely people and get to see friends I’d only ever talk to on Twitter otherwise. In the last two years, I’ve been to about three a year and it feels about the right amount that you rarely see the same talk twice and it’s not just the same topics going round.&lt;/p&gt;
+
+&lt;p&gt;Again, I met loads of great people at New Adventures, but unfortunately missed more people than I meant to catch up with. It was such a packed-out venue that it was easy to lose people in the crowds!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-location-and-venue&#34;&gt;The location and venue&lt;/h2&gt;
+
+&lt;p&gt;It didn’t take too long to get to Nottingham from Surrey. We were lucky that the motorways were reasonably clear and we spent most of our time trying to navigate Nottingham’s one way systems when we got there! It was good to go to a conference outside London but the resulting hotel and petrol costs for me (I can commute to London easily) made it almost as expensive as attending more expensive conferences in London.&lt;/p&gt;
+
+&lt;p&gt;The venue, Albert Hall, looked beautiful and made it easy to hear and see the speakers wherever you were sat. For me, the downside to the venue was that I was really cold for most of the day. I know I feel the cold more than most, but it was a bit uncomfortable sitting there in a scarf and gloves. Often conferences are warm environments due to the amount of people in one room so I admit I was probably under-prepared for the wintry day!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-talks&#34;&gt;The talks&lt;/h2&gt;
+
+&lt;h3 id=&#34;twitter&#34;&gt;Twitter&lt;/h3&gt;
+
+&lt;p&gt;There wasn’t any wi-fi at the conference, which was great because there were less faces hidden behind laptops (it’s really distracting when you’re sitting behind someone writing code!) However, this did mean there was less back channel discussion on Twitter, it was mostly people quoting favourite quotes. It was a bit of a shame as I like the back channel. It gives people the confidence to bring up issues and questions that they wouldn’t necessary ask the speakers in front of the crowd.&lt;/p&gt;
+
+&lt;p&gt;I made use of the 3G signal on my phone to make notes on Twitter about the conference, it’s the way I learn and helps me digest ideas (I’m a complete fidget.) I know I’m likely to irritate people by doing it, but a few said they liked to hear some of what was going on so I think it’s much more worthwhile than keeping it to myself. These notes, along with the great tweets from the brilliant &lt;a href=&#34;http://twitter.com/#!/ubelly&#34; title=&#34;ubelly on Twitter&#34;&gt;@ubelly&lt;/a&gt;, helped me form some connections between the ideas and help me understand them better.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;You might want to click the image to see it larger so you can read the really dinky text.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/01/new-adventures-in-web-design.gif&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-308 &#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/01/new-adventures-in-web-design.gif&#34; alt=&#34;My notes from New Adventures in Web Design&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		My notes from New Adventures in Web Design (click to view full size)
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unlike &lt;a href=&#34;https://laurakalbag.com/dconstruct-2010/&#34; title=&#34;dConstruct 2010&#34;&gt;my notes on dConstruct&lt;/a&gt;, I wanted to connect the different themes running through the talks as they made the day so much more than just random talks.&lt;/p&gt;
+
+&lt;h3 id=&#34;running-themes&#34;&gt;Running themes&lt;/h3&gt;
+
+&lt;p&gt;So many of the talks felt as though they were revolving around connected themes. This made the day feel as though you were getting different sides of the story which suited the half hour slots which might have otherwise felt brief. Particular themes such as user experiences, emotional design, narratives and content-aware design made me feel very grown up. Much like dConstruct, it seems like the conference circuit is moving on from the slightly patronising show-and-tell and instructional talks to more inspiring, motivating and thoughtful discussions on how we can be better and make the industry move forward.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-favourite-talk-the-new-language-of-web-design&#34;&gt;My favourite talk: The New Language of Web Design&lt;/h3&gt;
+
+&lt;p&gt;I’d say my favourite talk (though I enjoyed them all) of the day was &lt;a href=&#34;http://twitter.com/#!/danrubin&#34; title=&#34;Dan Rubin on Twitter&#34;&gt;Dan Rubin&lt;/a&gt;‘s. The topics of language, communication and terms in the industry felt just right for the audience and the maturity of the conference. Dan is a consistently fantastic speaker and his was the one talk that really stood out as being the perfect amount of exploration into the subjects for the half hour slot.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-ll-be-looking-out-for-new-adventures-next-year-8230&#34;&gt;I’ll be looking out for New Adventures next year&amp;#8230;&lt;/h2&gt;
+
+&lt;p&gt;One thing can be sure, &lt;a href=&#34;http://twitter.com/colly&#34; title=&#34;Simon Collison on Twitter&#34;&gt;Simon Collison&lt;/a&gt; put on a great conference. There was a really friendly, we’re-all-in-it-together, casual atmosphere that was fun and in no way intimidating to new conference goers.&lt;/p&gt;
+
+&lt;p&gt;As a lot of the bigger conferences are becoming more expensive with little added value, less expensive conferences like New Adventures are in competition to provide a great time at a freelancer’s price tag. It definitely achieved that, feeling like a premium conference on a very affordable budget.&lt;/p&gt;
+
+&lt;p&gt;If there’s a New Adventures next year, I’ll definitely try to be there.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-comments&#34;&gt;6 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-179&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;alpower&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-179&#34;&gt;&lt;time datetime=&#34;2011-02-04T10:21:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:21am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag great set of notes!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-178&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://beneverard.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Ben Everard&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-178&#34;&gt;&lt;time datetime=&#34;2011-02-04T10:26:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:26am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great write-up Laura, the conference notes are pretty damn cool, great for recapping the points made throughout the day!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-180&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-180&#34;&gt;&lt;time datetime=&#34;2011-02-04T11:58:25+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great synopsis and the conference notes image is very useful thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-181&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;gicela&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-181&#34;&gt;&lt;time datetime=&#34;2011-02-04T11:58:37+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:58am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag I love your notes on your new adventures post :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-182&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;johanbakken&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-182&#34;&gt;&lt;time datetime=&#34;2011-02-04T20:41:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:41pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Your conference notes from #naconf and #deconstruct are supreme. So beautiful.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

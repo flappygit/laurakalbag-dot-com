@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indie Tech Summit on Laura Kalbag</title>
+    <title>Posts from Indie Tech Summit on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/indie-tech-summit/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 26 Aug 2014 11:59:37 +0000</lastBuildDate>
@@ -17,7 +17,27 @@
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
       
       <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
-      <description>Yesterday we finally published all the videos from the Indie Tech Summit on the ind.ie site. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.</description>
+      <description>
+
+&lt;p&gt;Yesterday we finally published &lt;a href=&#34;https://ind.ie/summit/videos&#34;&gt;all the videos from the Indie Tech Summit&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;ind.ie site&lt;/a&gt;. It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.&lt;/p&gt;
+
+&lt;p&gt;Launching the videos was a longer process than we anticipated, but for many good reasons. We wanted all of our videos to have transcripts. We’re very committed to accessibility (see my talk below) and sometimes, people just prefer reading to watching. We also had a couple of false-starts with our video player. We didn’t want to use any of the services with corporate surveillance business models (Youtube is out) and we couldn’t afford for our videos to get a lot of views with expensive hosting (we had a $300 Wistia bill for a week of views!) We ended up using &lt;a href=&#34;http://www.videojs.com/&#34;&gt;VideoJS&lt;/a&gt; with some customisation made by Andy, Aral and I. It may still have bugs in some places and on some platforms, so if you spot any, &lt;a href=&#34;mailto:hello@ind.ie&#34;&gt;please let us know&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;universal-design&#34;&gt;Universal Design&lt;/h2&gt;
+
+&lt;p&gt;I gave a five minute talk about Universal Design, and &lt;a href=&#34;https://ind.ie/summit/videos/laura-kalbag/&#34;&gt;the video and transcript&lt;/a&gt; are available alongside all the others. It was very difficult to condense such a huge topic into a short talk, so I tried to just cover the question of “why should we care?” Luckily, I was then on the &lt;a href=&#34;https://ind.ie/summit/videos/designing-independence-panel/&#34;&gt;Designing Independence panel&lt;/a&gt; with Cole Peters, Ivanka Majic and Lena Reinhard. This panel was a life highlight. Cole, Ivanka and Lena are all such incredibly smart and caring people. It was a fascinating discussion, and we managed to cover the connections between our talks in a way we didn’t have time to cover individually.&lt;/p&gt;
+
+&lt;p&gt;I would really recommend watching &lt;a href=&#34;https://ind.ie/summit/videos/&#34;&gt;all of the videos&lt;/a&gt;, and please blog about your thoughts. It would be lovely to hear more people talking about ethical and sustainable business models in technology, and how we can make the industry a more diverse and accessible place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ind.ie/summit/videos/laura-kalbag/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4526&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/universal-design-talk.png&#34; alt=&#34;Laura Kalbag on Universal Design&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

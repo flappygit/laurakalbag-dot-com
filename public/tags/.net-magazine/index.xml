@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.Net Magazine on Laura Kalbag</title>
+    <title>Posts from .Net Magazine on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/.net-magazine/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 01 Jul 2013 21:19:05 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</guid>
-      <description>After finishing the mentoring project last week, I had a chat with Craig Grannell about mentoring which he published on the .net website: “Laura Kalbag: web designers should mentor newcomers.”
-It’s a good summary of the mentoring project and has extracts from a couple of testimonials by Sibylle and Phil.</description>
+      <description>&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/mentoring-the-evaluation/&#34; title=&#34;Mentoring: the evaluation&#34;&gt;finishing the mentoring project last week&lt;/a&gt;, I had a chat with Craig Grannell about mentoring which he published on the .net website: “&lt;a href=&#34;http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847&#34; title=&#34;Laura Kalbag: web designers should mentor newcomers on .net magazine&#34;&gt;Laura Kalbag: web designers should mentor newcomers&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;It’s a good summary of the mentoring project and has extracts from a couple of testimonials by Sibylle and Phil.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/07/Screen-Shot-2013-07-01-at-21.14.32.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-3765&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/07/Screen-Shot-2013-07-01-at-21.14.32.png&#34; alt=&#34;Screen shot of http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

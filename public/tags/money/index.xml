@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Money on Laura Kalbag</title>
+    <title>Posts from Money on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/money/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 04 Mar 2013 11:38:43 +0000</lastBuildDate>
@@ -17,8 +17,78 @@
       <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
       
       <guid>https://laurakalbag.com/mentoring-the-project/</guid>
-      <description>Previous posts on the mentoring project:
- Mentoring a project: the idea Mentoring a project: the right project Mentoring a project: finding the right people  In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.</description>
+      <description>
+
+&lt;p&gt;Previous posts on the mentoring project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-idea/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the idea&#34;&gt;&lt;span style=&#34;line-height: 13px;&#34;&gt;Mentoring a project: the idea&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-the-right-project/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: the right project&#34;&gt;Mentoring a project: the right project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurakalbag.com/mentoring-a-project-finding-the-right-people/&#34; title=&#34; target=&amp;quot;_blank &amp;quot;Mentoring a project: finding the right people&#34;&gt;Mentoring a project: finding the right people&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the previous posts, I mentioned that I was going to explain the details of the project later on. This was because I didn’t want to get bogged down by the details of the brief while I was focusing on finding the right team.&lt;/p&gt;
+
+&lt;p&gt;Now we’ve got our team together, I can elaborate on our client and the brief. I was very lucky to be contacted by the lovely &lt;a href=&#34;http://www.mallenbaker.net/&amp;quot; target=&amp;quot;_blank&#34;&gt;Mallen Baker&lt;/a&gt;, who had a great project in mind and was willing to give me, and the mentees I chose, a go.&lt;/p&gt;
+
+&lt;h2 id=&#34;gislingham-village-website&#34;&gt;Gislingham village website&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Gislingham is a rural village in Suffolk which has a thriving community with a number of local organisations and businesses. The village website is to be revamped to be able to provide an excellent online support to that community.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gislingham.com&amp;quot; target=&amp;quot;_blank&#34;&gt;http://gislingham.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The website is an old site, using now outdated development techniques (tables!) created by Mallen around ten years ago. Whilst the site has been maintained and updated, it’s in need of a redesign to help it better serve the local community. We are at two distinct advantages here. The existing website means that we can learn from what does and doesn’t work on the existing site. Also, having a client who works in the web industry gives us the advantage that we won’t have to teach the client about the web as we work on the site.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-first-client-meeting&#34;&gt;Our first client meeting&lt;/h2&gt;
+
+&lt;p&gt;Mallen was keen to meet Phil, Yago and Sibylle, and it was a good opportunity to kick the project off. We met last Friday in London.&lt;/p&gt;
+
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+
+&lt;p&gt;In preparation for our first meeting, the mentees dissected the brief and assembled a list of questions for the client. They each made their own lists and then collated these together in a master list which covered a huge range of detail and depth.&lt;/p&gt;
+
+&lt;p&gt;Yago, Sibylle and Phil explored tools and file formats that everybody could use together without causing compatibility issues, wrote a very thorough content inventory and started looking at personas based on the brief and existing users, and researched project management systems at length to find one that was best suited to us, settling on Basecamp. This meant that we had somewhere to keep our discussions as all the email was becoming unruly!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-meeting&#34;&gt;The meeting&lt;/h3&gt;
+
+&lt;p&gt;I tried to stay out the way in the meeting. All of the preparation and research that the mentees had done assured me that they were very capable running the meeting. I tried to only jump in when I thought something might be overlooked (rarely) and to assure them the role I would take for the project.&lt;/p&gt;
+
+&lt;p&gt;Mallen started by explaining more background on the project and what he was looking for in the new site. This informal start already answered a lot of the questions that the mentees had prepared and helped us get to know Mallen better. Then the mentees ran through the list of questions they had, asking any other questions they came up with as they thought of them. This was exactly what I was hoping would happen. Everybody was comfortable enough to ask questions at any point but we didn’t all end up speaking over each other either!&lt;/p&gt;
+
+&lt;h3 id=&#34;money&#34;&gt;Money&lt;/h3&gt;
+
+&lt;p&gt;At the end, I went over how I thought the project should be run, and we talked about money. I’ve been getting better at discussing money with clients, but &lt;a href=&#34;http://unfinished.bz/&amp;quot; target=&amp;quot;_blank&#34;&gt;listening to Andy and Anna on Unfinished Business&lt;/a&gt; has given me more confidence and reassurance that this is the best way to work.&lt;/p&gt;
+
+&lt;p&gt;I want the project to be run as much as possible like I would run a client project myself. This means taking payment in stages, not just in one lump sum. Over the last six months I’ve successfully moved my clients to a structure where I bill 50% of the estimated project as a deposit/retainer, then bill every first and third Thursday of the month (pretty much every two weeks) to ensure a sensible cash flow and that nobody has to wait for, or pay, enormous invoices at the end of a long project.&lt;/p&gt;
+
+&lt;p&gt;Mimicking this process, we decided that, as we’re looking at a nominal payment of £500, breaking it into less than two stages would become a little too much of an admin nightmare. I will have to take the payment, and then pass it on to each mentee. If this got down to sending £10 payments around, it would be more hassle than it was worth. So we decided on a 50% up front and 50% on completion (the details of which will be ironed out in the contract).&lt;/p&gt;
+
+&lt;h2 id=&#34;the-next-steps&#34;&gt;The next steps&lt;/h2&gt;
+
+&lt;p&gt;Before we kick off the project, the mentees are going to assemble a proposal/estimate where they break down what needs doing and how long each task should take. This will help us plan how best to run the project and work out if our deadline is realistic. My next step is sorting out a contract for all of us to sign to make sure we understand our roles and responsibilities over the next couple of months.&lt;/p&gt;
+
+&lt;h2 id=&#34;one-comment&#34;&gt;One comment&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-496&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d8ea827f7b8b0d3a267f52a91eb31361?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://redheaded-geek.blogspot.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;John Wickee&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-496&#34;&gt;&lt;time datetime=&#34;2013-03-27T19:22:40+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:22pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I really love this project you’re doing. It’s a great idea and can provide some great experience for those you selected. It’s great of you to share and help them. Mentoring can be invaluable. 
+
+I’m really interested to follow along and see how it plays out.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

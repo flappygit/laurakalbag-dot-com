@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accessibility on Laura Kalbag</title>
+    <title>Posts from Accessibility on Laura Kalbag</title>
     <link>https://laurakalbag.com/categories/accessibility/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 22 Dec 2017 18:59:08 +0100</lastBuildDate>
@@ -17,9 +17,19 @@
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
       
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
-      <description>It’s been a few years since I wrote something for 24ways, but this year I’m back, making the case for semantic HTML.
- 
-As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on Better. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web.</description>
+      <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;
+&lt;figure &gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/12/screenshot.png&#34; alt=&#34;Screenshot of the article on 24ways including the title “Accessibility Through Semantic HTML” and an avatar of me with a pen in my mouth.&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mention in the article, I see a lot of redundant and unsemantic HTML while I’m working on &lt;a href=&#34;https://better.fyi&#34;&gt;Better&lt;/a&gt;. HTML is often seen as easy, and therefore not worth learning in detail. It’s frustrating because HTML is one of the few completely unavoidable technologies of the web. It doesn’t take much to better understand how to use it effectively, and it can make a huge difference to the accessibility of a web page.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,9 +38,140 @@ As I mention in the article, I see a lot of redundant and unsemantic HTML while 
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
       
       <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
-      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
- 
-In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+      <description>
+
+&lt;p&gt;After three years of work, I can finally tell you that I’ve written a book for &lt;a href=&#34;https://abookapart.com&#34;&gt;A Book Apart&lt;/a&gt; about web accessibility called &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;Accessibility For Everyone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34;&gt;
+&lt;figure class=&#34;alignnone wp-image-4947&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34; alt=&#34;Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for &lt;em&gt;everyone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is a huge wealth of information about accessibility from accessibility experts on the web. But where do you start? This is why I wrote Accessibility For Everyone. I want to help you learn the foundations of accessibility, and point you in the direction of the accessibility experts I learn from so we can keep making the web better.&lt;/p&gt;
+
+&lt;p&gt;Accessibility For Everyone will be published in a few months, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;sign up to be notified when we launch on the A Book Apart website&lt;/a&gt;. If you forget, don’t worry, I’ll probably be going on about this for a long time to come… 😉&lt;/p&gt;
+
+&lt;h2 id=&#34;10-comments&#34;&gt;10 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160276&#34;&gt;
+        &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Kathy Bray&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160276&#34;&gt;&lt;time datetime=&#34;2017-08-19T18:35:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This sounds like a must have book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160277&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://wendybarron.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Wendy Barron&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160277&#34;&gt;&lt;time datetime=&#34;2017-08-19T19:26:48+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I am excited about this book. Plain language, plain design, inclusiveness and accessibility are part of what I do for a living, and resources are important! (I’m redoing my website with accessibility in mind, right now.) Thanks for doing this work and putting it out there where we can get at it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160287&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;peter&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160287&#34;&gt;&lt;time datetime=&#34;2017-08-19T20:10:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        thank you
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160300&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://nuclearpengy.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Nathan Jeffery&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160300&#34;&gt;&lt;time datetime=&#34;2017-08-20T00:56:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:56am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congrats and good luck with the launch!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160304&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.destinosolutions.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Noufal binu&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160304&#34;&gt;&lt;time datetime=&#34;2017-08-20T09:55:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m curious to read this book, I expect *Accessibility for everyone* is a very helpful for my  blog redesign and improve my blog functions for everyone, So i hope this book going to really interesting.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160307&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jonathan Melton&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160307&#34;&gt;&lt;time datetime=&#34;2017-08-20T15:59:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations on the book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160308&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://cedc.org&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laryn&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160308&#34;&gt;&lt;time datetime=&#34;2017-08-20T19:48:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:48pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you! I look forward to reading it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160312&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.microassist.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack McElaney&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160312&#34;&gt;&lt;time datetime=&#34;2017-08-22T01:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura on “Accessibility for Everyone”! Based on the title of the book, and your description of it, it is a much needed book and I look forward to reading it. I curate a weekly newsletter called “Accessibility in the News” so I will let my subscribers know about your book in this week’s issue.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160313&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://ttimsmith.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160313&#34;&gt;&lt;time datetime=&#34;2017-08-23T13:16:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura! I can’t wait to read it!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160314&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marie Moyles&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160314&#34;&gt;&lt;time datetime=&#34;2017-08-23T21:28:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I cannot wait to read this book! Well done and thank you for producing a new resource on web accessibility 😊
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -39,9 +180,80 @@ In case you’ve not heard of web accessibility (you wouldn’t be the first!), 
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
       
       <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
-      <description>It’s been a busy few weeks.
-Ethical Design Manifesto refresh Last week we launched a refresh of the Ethical Design Manifesto, along with a video. As it was a short-ish video, I felt like I had no excuse but to do the captioning for it too. I couldn’t get Subtitle Horse (my usual favourite web software) working with the video, so I ended up using Jubler instead.
-It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.</description>
+      <description>
+
+&lt;p&gt;It’s been a busy few weeks.&lt;/p&gt;
+
+&lt;h2 id=&#34;ethical-design-manifesto-refresh&#34;&gt;Ethical Design Manifesto refresh&lt;/h2&gt;
+
+&lt;p&gt;Last week we launched a refresh of the Ethical Design Manifesto, along with a video. As it was a short-ish video, I felt like I had no excuse but to do the captioning for it too. I couldn’t get Subtitle Horse (my usual favourite web software) working with the video, so I ended up using &lt;a href=&#34;http://jubler.org/&#34;&gt;Jubler&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.05.01.png&amp;quot; rel=&amp;quot;attachment wp-att-4828&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-4828&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.05.01-1024x601.png&#34; alt=&#34;Screenshot of Jubler with highlighted wave forms for subtitle editing&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Jubler in action
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;creative-mornings-malmö&#34;&gt;Creative Mornings Malmö&lt;/h2&gt;
+
+&lt;p&gt;On Friday I also gave my first ever talk in Malmö/Sweden. It was at Creative Mornings Malmö which had a lovely venue at Djäkne. The topic was “Change” and I spoke about Ethical Design, and why we need it. Aral took lots of bad photos of me, and one of them is below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.12.00.png&amp;quot; rel=&amp;quot;attachment wp-att-4829&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-4829&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.12.00-1024x768.png&#34; alt=&#34;Me talking with a slide of the Ethical Design Manifesto (The 3 Rs of Ethical Design) in a fluffy black cardigan&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Me doing my impression of a crow
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re settling into a good routine here in Malmö. We’re working from the office all week, 8:30-5ish, and doing a better job of taking time off during the evenings and weekends. It’s still tiring though! I underestimated the sheer cognitive load of dealing with an unfamiliar language and culture. Of course, everybody speaks English and is very kind and friendly. But just going to the supermarket, finding our way around, and learning how things work, takes a little more time and a little more effort. It’s a great adventure! But makes us well worn out at the end of every day.&lt;/p&gt;
+
+&lt;h2 id=&#34;oskar-status&#34;&gt;Oskar status&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.17.54.png&amp;quot; rel=&amp;quot;attachment wp-att-4830&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-large wp-image-4830&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2016/03/Screen-Shot-2016-03-21-at-17.17.54-1024x767.png&#34; alt=&#34;Oskar paddling in the sea in front of the Turning Torso in Malmö&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Enjoying the beach life!
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Originally &lt;a href=&#34;https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016/1122&#34;&gt;posted on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-monday-21st-march-&lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1122&lt;/sub&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,9 +262,742 @@ It took a while to get my head around how to use the interface, but I found usin
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
       
       <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
-      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
- 
-In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+      <description>
+
+&lt;p&gt;On Thursday morning I gave a talk online for &lt;a href=&#34;http://www.inclusivedesign24.org&#34;&gt;Inclusive Design 24&lt;/a&gt;, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.001.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4690&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.001.jpg&#34; alt=&#34;Accessibility By Design. Laura Kalbag @laurakalbag. Ind.ie @indie&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position. If they’ve not heard of accessibility before, then it’s not usually a hard sell. It’s hopeful, positive and appeals to peoples’ good sides. But if they have heard of accessibility it’s a much harder sell.&lt;/p&gt;
+
+&lt;p&gt;As web professionals, we come up with so many reasons to avoid accessibility. It’s not often one solid reason but a hazy combination of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;we don’t understand who we’re trying to help&lt;/li&gt;
+&lt;li&gt;we’re not sure what to do&lt;/li&gt;
+&lt;li&gt;it’s hard, and there’s too much to think about&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve &lt;a href=&#34;http://24ways.org/2013/why-bother-with-accessibility/&#34;&gt;addressed these reasons before&lt;/a&gt;, so I won’t cover them here, but it’s important for us to understand why we think this way. We think along a decision-making scale that goes from easy things to impossible things. The reasons I mentioned before aren’t really excuses, but are mapped to different locations on the scale based on how a person perceives the difficulty of accessibility in relation to their job and its associated tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.006.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4691&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.006.jpg&#34; alt=&#34;Scale with easy and one end, and hard at the other&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One developer might see learning Angular as a challenge, but another developer might already know Angular and so see it as an easy decision. One content strategist might have worked with lots of video, but another might be more experienced working with text. One designer might create prototypes in HTML and CSS, but another might work exclusively in Photoshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.010.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4692&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.010.jpg&#34; alt=&#34;Easy to hard scale with Angular in different locations depending on the developer&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we’re working on a project, we have to balance all the factors and features on our difficulty scale. There are easy wins we can incorporate into projects without thinking about it: this could be the decision to use text to communicate on our sites. You might think: “Using text on a web page? It goes without saying!” But somebody has to write that text, so it’s not really a given. Instead it’s an easy win.&lt;/p&gt;
+
+&lt;p&gt;There are impossibilities that we’ll (probably) never try on our projects: this could be the decision to make our site scroll on the Z axis, out of the screen, into some kind of cool 3D hologram between the viewer and their screen. It’d be incredibly difficult to achieve, and probably completely irrelevant to our project, so we’re never going to do it.&lt;/p&gt;
+
+&lt;p&gt;And all other decisions are somewhere between text on a web page and Z axis hologram scrolling. We’ll decide an approach or a feature’s worth based on its position on this scale, and based on how many other things are on the scale. Do we have a lot of easy wins on the scale? Well, maybe we can do one difficult thing. Do we have a lot of moderately tricky tasks on the scale? Then maybe one of them has to go, based on our budget or how much time we have.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.009.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4693&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.009.jpg&#34; alt=&#34;Scale of difficulty with text content at easy and z-axis scrolling at hard&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As people trying to promote accessibility, we need to help pull accessibility up from the “difficult” end of the scale, towards the “easy” end of the scale. How we approach making accessibility easier depends on who we’re trying to encourage. Give a copy writer an alt attribute and they’ll have a more accessible image. Teach a copy writer how write alt attributes, and they’ll have accessible images for a lifetime.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.014.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4694&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.014.jpg&#34; alt=&#34;Pulling accessibility up from the hard end of the scale to the easy end&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve mostly found developers and content creators fairly easy to convince about accessibility. The most trouble I seem to get is from designers. Which is strange because &lt;em&gt;I’m&lt;/em&gt; a designer. So why are designers a sticking point? When our content is fabulous, our markup and code is well-structured and thoughtful, even our interactive behaviour is well planned, but the visual side lets us down. Aesthetics are often even the &lt;em&gt;enemy&lt;/em&gt; of accessibility, how can we change that?&lt;/p&gt;
+
+&lt;h2 id=&#34;differences-between-design-decoration-and-aesthetics&#34;&gt;Differences between design, decoration and aesthetics&lt;/h2&gt;
+
+&lt;p&gt;What does a designer do? It’s probably one of the most contentious job titles in the web world. “Designer” tends to be applied to people who work on the visual side. A designer might work on UX (user experience), or experience design, which is usually focused on what you &lt;em&gt;can’t&lt;/em&gt; see as much as what you &lt;em&gt;can&lt;/em&gt; see. Sometimes a designer is described as a “visual designer” to be extra clear. It’s these kinds of designers I’m going to discuss now. &lt;em&gt;I&lt;/em&gt; do this kind of design. I also do other types of design at the same time. But when I’m working in this area of design, I call it “aesthetics.” It’s the stuff you &lt;em&gt;can&lt;/em&gt; see.&lt;/p&gt;
+
+&lt;p&gt;Aesthetics isn’t just decoration. Decoration does very little. Decoration is the pretty stuff. If I had a pound for every time a client tried to employ me to add some decoration to their ugly site in the hope people would enjoy using it more, I’d have been a wealthy freelancer. But adding pretty bits to a site won’t make it a better experience. It’ll just make it an awful experience with bells on.&lt;/p&gt;
+
+&lt;p&gt;That’s why when I usually talk about design, I don’t just talk about the work created by the people with the job title of ‘designer’. Design is a problem-solving practice. Everybody on a team does it. Content strategists do it when they decide on a direction and approach for a product. Developers do it when they choose a framework or a coding language. Designers do it when they pick a layout. Every decision we make that has an impact on the final product is design.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-makes-the-difference-between-pretty-effective-and-just-pretty&#34;&gt;What makes the difference between pretty effective and just pretty?&lt;/h3&gt;
+
+&lt;p&gt;We use aesthetics to help convey the message in our content. That’s why the study of design is often called ‘Visual Communication.’ Communicating in a visual way aims to create media that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;draws people into the content&lt;/li&gt;
+&lt;li&gt;assists people in understanding content&lt;/li&gt;
+&lt;li&gt;encourages people to respond to content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We achieve these goals by applying typography, colour, layout and form in a way that represents the meaning of the content, makes it easy to understand, and makes it easy to interact.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to find design that fails in these goals. There’s a lot of stuff out there that looks good at a glance, and at drawing you in, but is impossible to use.&lt;/p&gt;
+
+&lt;h3 id=&#34;anti-accessibility-aesthetic-trends&#34;&gt;Anti-accessibility aesthetic trends&lt;/h3&gt;
+
+&lt;p&gt;It’s a deliberately inflammatory title… I had a look at what the gallery websites reckon were the trends of the last four years. A disclaimer comes here as I don’t think anyone using these trends sets out to make their sites inaccessible. The examples following may well be incredibly accessible. These examples are just to show how these trends could compromise usability in favour of looking sexy and fashionable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.035.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4695&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.035.jpg&#34; alt=&#34;2012&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2012-was-the-year-of-the-grid-system&#34;&gt;2012 was the year of the grid system&lt;/h4&gt;
+
+&lt;p&gt;With responsive design becoming the rage, grid systems were abound in 2012. Frameworks popped up everywhere. Some frameworks, used responsibly, were great, making responsive layouts and prototyping very easy. However, most frameworks resulted in &lt;code&gt;&amp;amp;lt;div&amp;amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;amp;lt;span&amp;amp;gt;&lt;/code&gt; soup when developers used them without any customisation or care for accessibility. There wasn’t a meaningful HTML element in sight…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.037.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4696&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.037.jpg&#34; alt=&#34;Screenshots of lots of grid frameworks&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2012 also heralded image carousels, back then still referred to as “sliders.” Designers could now cram extra content on to the page through the wonder of jQuery and other scripts. Unfortunately, the accessibility of the content, and the controls that helped you stop, advance, and rewind the content whizzing before your eyes, was not usually a priority.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.040.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4697&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.040.jpg&#34; alt=&#34;2013&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2013-was-the-year-of-parallax&#34;&gt;2013 was the Year of Parallax&lt;/h4&gt;
+
+&lt;p&gt;Scrolling with combined static and moving layers was the done thing. Rich content and storytelling made for compelling experiences, but also image-heavy pages that hijacked input conventions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.042.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4698&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.042.jpg&#34; alt=&#34;Screenshots of websites that use parallax scrolling&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2013 was also the year flat design started becoming “a thing.” Textures and images lost favour as responsive design meant the elements on our pages needed to be flexible. ‘Flat Design’ with its solid blocks of colour could be created easily with CSS, load quickly, and expand and collapse to fit the viewport size with no loss of quality. This meant it was also the year designers learned how to spell new words as they endlessly argued the merits of flat design vs &lt;strong&gt;skeuomorphism&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.044.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4699&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.044.jpg&#34; alt=&#34;Screenshot examples of flat design&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.045.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4700&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.045.jpg&#34; alt=&#34;2014&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2014-year-of-the-video-background&#34;&gt;2014, Year of the Video Background&lt;/h4&gt;
+
+&lt;p&gt;Video backgrounds became big in 2014. I’m not even sure why, as these videos probably only ran smoothly on the large desktop screens of the designers working at mega corporations with extra speedy fibre-optic internet connections. The rest of us have to put up with slow, choppy and pixelated videos making the layouts distracting, and making it hard to read the text overlaid on top.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.047.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4701&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.047.jpg&#34; alt=&#34;Screenshots of web pages with video backgrounds&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking around at sites that predict and analyse the trends so far for 2015, there’s not much that’s new out there. A few sites have mentioned simplicity becoming a trend, and as long as that doesn’t just mean hiding stuff, that may be a good thing. It might mean that web design is finally growing up.&lt;/p&gt;
+
+&lt;h2 id=&#34;constraints&#34;&gt;Constraints&lt;/h2&gt;
+
+&lt;p&gt;You can see from the trends how much designers crave constraint. Fashion is a constraint. It’s much easier to come up with a design when you know what you have to do in order to be “cool” or “modern.” Charles Eames said that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Design depends largely on constraints.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.050.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4702&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.050.jpg&#34; alt=&#34;Design depends largely on constraints - Charles Eames&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a designer working in furniture, architecture, film, art, graphic and industrial design, Charles Eames understood that constraints affect design no matter the discipline. A designer’s work is to respond to requirements or aims set by others or ourselves.&lt;/p&gt;
+
+&lt;p&gt;On the web, constraints come in all different forms, some bigger than others. There are some overarching constraints that affect every project:&lt;/p&gt;
+
+&lt;h3 id=&#34;project-constraints&#34;&gt;Project constraints&lt;/h3&gt;
+
+&lt;p&gt;Each project comes with its own unique constraints dependent on its owners and their goals. A typical example of a project constraint might be existing brand guidelines. You have a particular logo, colour palette, tone of voice, and typographic system that has to be used on the project, and every other decision has to work around those constraints. You might have an existing content management system that dictates the framework and language you can use.&lt;/p&gt;
+
+&lt;h3 id=&#34;medium-technology-constraints&#34;&gt;Medium/technology constraints&lt;/h3&gt;
+
+&lt;p&gt;When we communicate in print, paper and ink is expensive. Newspapers look the way they do because we had to try to fit lots of text into tight columns on a few sheets of paper. When we communicate on the web, we avoid using massive images on every page because bandwidth is expensive. We compress our images, and try to optimise their appearance on different screen sizes.&lt;/p&gt;
+
+&lt;h3 id=&#34;audience-constraints&#34;&gt;Audience constraints&lt;/h3&gt;
+
+&lt;p&gt;Audience constraints can also be seen as constraints through convention. They’re are certain ways we approach the web based on the activity and expectations of our audience. Why don’t more websites use horizontal scrolling? Because a lot of people don’t know how to scroll horizontally, so they might miss important content. Search boxes are usually in the top right of the page because people started doing it, and then so many people were doing it that we came to expect search boxes on the top right of the page.&lt;/p&gt;
+
+&lt;h3 id=&#34;time-constraints&#34;&gt;Time constraints&lt;/h3&gt;
+
+&lt;p&gt;Time is one of the most obvious constraints we have when working on a project. Even if we’re working on a constantly-evolving publishing project, there will be sub-projects within it. Such as articles and updates, that will be subject to a time frame.&lt;/p&gt;
+
+&lt;h3 id=&#34;budget-constraints&#34;&gt;Budget constraints&lt;/h3&gt;
+
+&lt;p&gt;Budget and time combined forms the strongest constraints. As these constraints will constrain everything else within a project. Budget will put constraints on time, and time tends to push the limits of budget. This is why budget and time are often used as reasons to avoid accessibility. “We don’t have enough time to make our site accessible,” or “we don’t have enough money to make our site accessible” are two of the most common excuses.&lt;/p&gt;
+
+&lt;p&gt;Of course, these excuses aren’t good enough. I probably don’t need to explain the value of making a site accessible. There’s some truth in a little more budget and time being needed for accessibility; whether it’s through training, research, testing, or additional design and development time. But no more than is needed for the consideration of these other core constraints. Nobody would ever say that there wasn’t time or money enough to consider web performance as a constraint. The expense of not considering web performance is far too high. What we need to convey to people is that not considering accessibility is also expensive. It costs a huge amount in lost audience, and a lack of usability for the remaining audience.&lt;/p&gt;
+
+&lt;p&gt;I think accessibility belongs on this list as a core constraint that we consider as part of every project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project constraints&lt;/li&gt;
+&lt;li&gt;Medium/technology constraints&lt;/li&gt;
+&lt;li&gt;Audience constraints&lt;/li&gt;
+&lt;li&gt;Time constraints&lt;/li&gt;
+&lt;li&gt;Budget constraints&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility constraints&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Arguably, it could be a sub-set of audience constraints, but including it in that way could lead to the misunderstanding that people with accessibility needs are a sub-set of the overall audience, rather than looking at it from a universal design—everybody benefits from accessibility—approach.&lt;/p&gt;
+
+&lt;h2 id=&#34;designers-understand-constraints&#34;&gt;Designers understand constraints&lt;/h2&gt;
+
+&lt;p&gt;When we’re trying to convince designers to work with accessibility as a constraint, it shouldn’t be so difficult. Designers are used to working with much smaller and more specific constraints in the field of aesthetic design. When designers are learning their practice, they learn rules about typography, colour, layout, and form; and only once they understand these constraints, they learn how they can break out of them.&lt;/p&gt;
+
+&lt;p&gt;So let’s look at the four pillars of aesthetic design, and the constraints therein:&lt;/p&gt;
+
+&lt;h2 id=&#34;aesthetic-design-and-the-accessibility-constraints&#34;&gt;Aesthetic design and the accessibility constraints&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
+
+&lt;p&gt;When we look at web typography from an aesthetic point of view, we have two major areas to consider: the technical and the practical.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-typography&#34;&gt;Technical typography&lt;/h3&gt;
+
+&lt;p&gt;The technical part of web typography is considering how a font might look applied straight to text without any interference/fancy CSS typesetting, or any control over it whatsoever. Because this is what we work with on a basic level without JavaScript or the CSS that only works on a few platforms. We also need to consider how it renders cross-browser. Looking at fonts through progressive enhancement and cross-browser consistency is definitely an accessible approach to typography.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.066.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4703&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.066.jpg&#34; alt=&#34;Text in ordinary black text with blue underlined links.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Text with a web font applied, but no other styling.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.067.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4704&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.067.jpg&#34; alt=&#34;Screenshots of Typekit’s interface for cross-browser rendering&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Checking cross-browser rendering using Typekit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-typography&#34;&gt;Practical typography&lt;/h3&gt;
+
+&lt;p&gt;It’s slightly less obvious when it comes to the practical part of web typography. In order to choose typefaces that work for our projects, we need to really understand what we want from a typeface, and what we aim to achieve through typography.&lt;/p&gt;
+
+&lt;p&gt;We need to remember that typography exists to represent content, and so it’s always worthwhile to read the text before we design it. Our aim is to invite the reader in, and make the text appear easy to read, not an intimidating mass. Typography should also reveal the meaning of the text. Comic Sans isn’t appropriate for a formal restaurant site, and a swirling script typeface isn’t appropriate for the website of a party clown.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.070.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4705&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.070.jpg&#34; alt=&#34;A paragraph set in Blackoak Std, and a paragraph set in Heinemann&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we read through the text, we can understand where it needs special treatment: where does the structure and order need to be made clear? The connections and differences between elements should be shown. The visual relationships between the text and other elements should reflect their real relationship. A heading is more important than a paragraph, and its importance should be revealed through size differences at the very least. All of these factors can be combined together to induce an ideal state for reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.073.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4706&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.073.jpg&#34; alt=&#34;A paragraph with larger and smaller headings&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Clear headings, links, and typographic hierarchy.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The easiest win in accessible typography is just getting the text at a readable size. The most readable typeface is unreadable at a small size, yet so many sizes squeeze tiny text so they can fit more into a layout. Responsive design should have made it more obvious that scrolling is perfectly acceptable. The smaller the x-height (the height of a lowercase x), the bigger your text will need to be in order to be readable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.071.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4707&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.071.jpg&#34; alt=&#34;Different sized paragraphs at 10px, 12px, 18px and 24px&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;readability&#34;&gt;Readability&lt;/h3&gt;
+
+&lt;p&gt;Whilst good structure and a strong differentiation between elements will help a reader understand how to read the text, the key to accessible typography is in choosing a readable font.&lt;/p&gt;
+
+&lt;p&gt;Uniform texture is more important than the shapes of the individual characters in a typeface. Typography isn’t the same as logo design. When we look at the relationship between the letters, an even texture helps our eyes flow over the text, not getting caught up on unexpected spaces and distracting shapes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.077.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4708&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.077.jpg&#34; alt=&#34;Paragraphs of uniform and uneven texture&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since high resolution displays became the designers’ favourite, thin text is all the rage. Apple did it, and now everybody else does too. But so often thin text is just too thin, making the text appear very light against the background, making it harder to read. Heavy text also doesn’t provide enough contrast between the text and the background, as its chunkiness makes it hard to distinguish letterforms. You want to choose the Goldilocks of typeface weights: not too heavy, not too light. A high contrast of crisp letterforms with enough space around and between the shapes will make text much easier to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.078.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4709&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.078.jpg&#34; alt=&#34;Light and heavy paragraphs of text&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The lines of each letterform also need attention. Serif fonts, in particular, often contrast thick and thin lines within one letter. Your eyes are naturally drawn to the thick lines, and less to the thin, which creates an uneven and distracting texture, making it harder to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.079.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4710&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.079.jpg&#34; alt=&#34;High-contrast serif&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		High-contrast serif
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also want to avoid complex details in the letterforms. The loops in Giddyup Std are cute, but overcrowd body text too much. You can see how our reading would be disrupted and tripped up by a loop or a curl in an unusual place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.080.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4711&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.080.jpg&#34; alt=&#34;A paragraph set in the curly loopy GiddyUp Std&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another feature of letterforms that affects the readability of a typeface is the counters. These are the spaces inside the letters. Sometimes they’re open, like Cs, and sometimes they’re closed, like Os. We need a clear distinction between the open and closed counters, so you can easily tell them apart. Otherwise a phrase like Rococo Cocoon could easily be misread as Rooooo Ooooon.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.081.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4712&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.081.jpg&#34; alt=&#34;Embrionic has very closed counters, Museo Sans has more open counters&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some typefaces are specifically designed to be easier for people with cognitive difficulties. Heinemann is a beautiful typeface designed in-house at Heinemann educational publishing for young readers. The ascenders and descenders (the parts of the letters that ascend above the lowercase letters, and the parts that descend below the lowercase letters) are emphasised to make it easier for readers to distinguish between letters. The letterforms such as lowercase a and g are drawn in the same shape as we learn to write by hand, to make them more recognisable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.myfonts.com/fonts/fw-heinemann/heinemann/gallery.html&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4713&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.083.jpg&#34; alt=&#34;Heinemann type family&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While many designers look down on Comic Sans, it shares those same early-learner letterforms as Heinemann, and is often favoured by teachers in classrooms as the letterforms are the same as those the children are using when they’re learning to write.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.myfonts.com/fonts/ascender/comic-sans/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4714&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.084.jpg&#34; alt=&#34;Comic Sans typeface&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic readers in mind, but with very different approaches. Read Regular is more similar to Heinemann in that it takes a sans serif style, and simple letterforms to assist in readability. However Dyslexie and Open Dyslexic take a very different approach, with noticeably heavier sections around the baseline to prevent readers from accidentally reading the letters upside down (a common issue in dyslexia.) The counters have been opened up, and similar looking letters (such as n and m, or vwy), have been adjusted in shape and height so they look different, and are easier to tell apart.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.readregular.com/english/typography.html&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4715&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.085.jpg&#34; alt=&#34;Read Regular typeface&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://opendyslexic.org&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4716&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.086.jpg&#34; alt=&#34;Dyslexie and Open Dyslexic typefaces&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;colour&#34;&gt;Colour&lt;/h3&gt;
+
+&lt;h4 id=&#34;how-we-interact-with-colour&#34;&gt;How we interact with colour&lt;/h4&gt;
+
+&lt;p&gt;When we’re designing for the web, we tend interact with colour via colour pickers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.088.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4717&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.088.jpg&#34; alt=&#34;Colour pickers&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The benefit of using hues visualised on a colour wheel is that you’re more likely to find colours that work well in a palette. You can pick from side-by-side colours for an analogous blend, or from colours opposite each other on the wheel for a more striking colour contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.096.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4718&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.096.jpg&#34; alt=&#34;Colour picking with droppers on opposite sides of the colour wheel&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Colour picking from opposite sides of the colour wheel
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But the accessibility of colour is more than just picking two different colours. In order to make our foreground text readable against our background colour, we need &lt;strong&gt;contrast&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;When we’re trying to find a good contrast, the colour wheel isn’t much help. The key is the sliders for brightness and saturation. A high contrast is caused by a greater difference the foreground and background brightness, and the foreground and background saturation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.105.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4719&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.105.jpg&#34; alt=&#34;Varying the brightness for colour contrast&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Varying the brightness for colour contrast
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, a blue background with blue text of a similar lightness will be hard to read, whereas a lighter blue against a darker blue is much easier, making a more accessible foreground-background contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.106.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4720&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.106.jpg&#34; alt=&#34;Different strengths of saturation, with greater difference comes higher contrast&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Varying the saturation for colour contrast
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The same applies to saturation. Deeply saturated yellow text will have a low contrast against a similarly deeply saturated yellow. However, using a desaturated yellow in the background makes for a more accessible foreground-background contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.107.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4721&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.107.jpg&#34; alt=&#34;High contrast with different colours, but the same contrast between brightness and saturation as before&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Using the different colour pairs with the same brightness and saturation as before
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The same rules apply even when you’re using different colours for the foreground and background.&lt;/p&gt;
+
+&lt;p&gt;Very high contrast foreground and background combinations can also suffer from accessibility problems. Issues with high contrast aren’t talked about as often, but can hurt your eyes, and be particularly problematic for people with dyslexia.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.108.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4722&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.108.jpg&#34; alt=&#34;Extreme high contrast between bright green background and black text, and white text on a black background&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To avoid screaming high contrast, I would recommend softening the difference between the foreground and background values slightly, bringing one value slightly closer to the other. By tweaking these contrasts slightly, they’re much easier on the eyes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.109.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4723&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.109.jpg&#34; alt=&#34;A slightly less saturated green and a slightly brighter grey&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Softening the high contrast values
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;accessibility-and-branding&#34;&gt;Accessibility and Branding&lt;/h2&gt;
+
+&lt;p&gt;If we considered accessibility at a brand level, what would that be like?&lt;/p&gt;
+
+&lt;p&gt;What if we designed our logos and associated colour palettes with an accessible colour contrast in mind? I’ve been doing this for years, not really thinking much of it. As a designer who usually created a logo and would then go on to design and develop a site around it, it just made sense to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.111.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4724&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.111.jpg&#34; alt=&#34;Logo designs with accessible text colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Some of my old logo designs
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If we make the colours accessible, then the colours we use on the site can be consistently on-brand later on; we won’t suddenly need to use a darker colour for our body text because our brand’s colour palette produces unreadable results.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.113.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4725&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.113.jpg&#34; alt=&#34;Early typography-based logo designs&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Some early designs for logos, with accessible, web-compatible typography
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What if we choose our logo and brand typefaces with readability and web typography in mind, not just which typeface has three letters that look good for our logo? Maybe if our logo is a swirling script face, we should consider a complementary body text early on, when we’re designing the rest of our brand. This could prevent us getting caught out when our site designer or developer has to pick a completely off-brand typeface because our brand typography is so hard to read as body text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.114.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4726&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.114.jpg&#34; alt=&#34;A script based logo with an upright sans serif body text. They don’t quite work together.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The earlier we, as designers, learn to consider accessibility, the less likely we’ll have our designs diluted and confused further down the line.&lt;/p&gt;
+
+&lt;h2 id=&#34;strategies-for-involving-accessibility-from-the-beginning-of-the-design-process&#34;&gt;Strategies for involving accessibility from the beginning of the design process&lt;/h2&gt;
+
+&lt;p&gt;So I have a few simple strategies for involving accessibility from the beginning of the design process…&lt;/p&gt;
+
+&lt;h3 id=&#34;understanding-accessibility&#34;&gt;Understanding accessibility&lt;/h3&gt;
+
+&lt;p&gt;Just understanding why it’s worth making our sites accessible is a big first step. Only the most foolish people would learn a little about accessibility and not hold it in their heads for every future project. I don’t mean having to become an expert overnight, but just knowing little tips and tricks to make sites better.&lt;/p&gt;
+
+&lt;h3 id=&#34;constraints-1&#34;&gt;Constraints&lt;/h3&gt;
+
+&lt;p&gt;Considering accessibility as a constraint is a complementary to the other strategies. It’s a more specific way of thinking, as you’re always referring back to accessibility.&lt;/p&gt;
+
+&lt;h3 id=&#34;sitting-in-on-testing-and-focus-groups&#34;&gt;Sitting in on testing and focus groups&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;When we hear and witness the experiences of others, it’s much easier to:&lt;/p&gt;
+
+&lt;p&gt;a) understand how other people don’t interact with the web in the same way we do&lt;/p&gt;
+
+&lt;p&gt;b) understand the multitude of ways people CAN interact with the web and how we might better serve their needs&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;being-involved-in-human-research&#34;&gt;Being involved in human research&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;Being involved in human research is very similar to the previous point, but is more about being ahead of the work, rather than behind it. We need to be researching and understanding human interaction before we start a single task.&lt;/p&gt;
+
+&lt;p&gt;If we’re only discovering issues with accessibility in a later testing phase, we’re already behind the curve.&lt;/p&gt;
+In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethical Design. But rather than explain it to you here, I think you should &lt;a href=&#34;https://ind.ie/you-are-the-product/&#34;&gt;watch Aral cover it in his talk Beyond The Camera Panopticon: You Are The Product&lt;/a&gt; (the part on Ethical Design starts at around the 53 minute mark.)&lt;/p&gt;
+
+&lt;h2 id=&#34;make-accessibility-more-accessible&#34;&gt;Make accessibility more accessible&lt;/h2&gt;
+
+&lt;p&gt;If we want to make accessibility more accessible to different roles in our organisations, we need to learn how to better incorporate it into our existing processes. Acknowledging accessibility as a constraint from the outset ensures we have it as a point of reference at every step in the process. This also deliberately avoids looking at accessibility as some kind of checklist. Designers need to understand that accessibility can no more be ticked off a list than user experience can. These aren’t checklist tasks, but are our goals, our focuses, and our approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.132.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4727&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.132.jpg&#34; alt=&#34;Laura Kalbag. laurakalbag.wpengine.com. @laurakalbag. ind.ie. @indie&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So that was my talk. Some of these thoughts are more developed than others. If you have any comments or want to discuss these things further, I’d love to hear what you think!&lt;/p&gt;
+
+&lt;h2 id=&#34;3-comments&#34;&gt;3 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+&lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-143879&#34;&gt;
+&lt;div class=&#34;comment-author vcard&#34;&gt;
+&lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;### &lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://lisalamagna.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Lisa LaMagna&lt;/a&gt;&lt;/cite&gt;
+
+&lt;/div&gt;
+
+&lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-143879&#34;&gt;&lt;time datetime=&#34;2015-11-24T23:59:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+&lt;span class=&#34;day&#34;&gt;24th &lt;/span&gt;
+&lt;span class=&#34;month&#34;&gt;Nov, &lt;/span&gt;
+&lt;span class=&#34;year&#34;&gt;2015&lt;/span&gt; at &lt;span class=&#34;hours&#34;&gt;23:59pm&lt;/span&gt;
+&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;&lt;/aside&gt;
+
+&lt;div class=&#34;comment-entry&#34;&gt;
+Laura, this is the second time I have randomly found one of your articles, gained a lot of insight, and realized “oh, it’s Laura Kalbag again.” Thank you.
+
+&lt;/div&gt;
+
+&lt;p class=&#34;reply&#34;&gt;
+&lt;a rel=&#39;nofollow&#39; class=&#39;comment-reply-link&#39; href=&#39;index-replytocom=143879.html#respond&#39; onclick=&#39;return addComment.moveForm( &#34;comment-143879&#34;, &#34;143879&#34;, &#34;respond&#34;, &#34;4689&#34; )&#39; aria-label=&#39;Reply to Lisa LaMagna&#39;&gt;Reply&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -61,9 +1006,733 @@ In the last two years, I’ve given eleven accessibility-related talks, almost e
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
       
       <guid>https://laurakalbag.com/accessibility-by-design/</guid>
-      <description>On Thursday morning I gave a talk online for Inclusive Design 24, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
- 
-In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position.</description>
+      <description>
+
+&lt;p&gt;On Thursday morning I gave a talk online for &lt;a href=&#34;http://www.inclusivedesign24.org&#34;&gt;Inclusive Design 24&lt;/a&gt;, a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.001.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4690&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.001.jpg&#34; alt=&#34;Accessibility By Design. Laura Kalbag @laurakalbag. Ind.ie @indie&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position. If they’ve not heard of accessibility before, then it’s not usually a hard sell. It’s hopeful, positive and appeals to peoples’ good sides. But if they have heard of accessibility it’s a much harder sell.&lt;/p&gt;
+
+&lt;p&gt;As web professionals, we come up with so many reasons to avoid accessibility. It’s not often one solid reason but a hazy combination of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;we don’t understand who we’re trying to help&lt;/li&gt;
+&lt;li&gt;we’re not sure what to do&lt;/li&gt;
+&lt;li&gt;it’s hard, and there’s too much to think about&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve &lt;a href=&#34;http://24ways.org/2013/why-bother-with-accessibility/&#34;&gt;addressed these reasons before&lt;/a&gt;, so I won’t cover them here, but it’s important for us to understand why we think this way. We think along a decision-making scale that goes from easy things to impossible things. The reasons I mentioned before aren’t really excuses, but are mapped to different locations on the scale based on how a person perceives the difficulty of accessibility in relation to their job and its associated tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.006.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4691&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.006.jpg&#34; alt=&#34;Scale with easy and one end, and hard at the other&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One developer might see learning Angular as a challenge, but another developer might already know Angular and so see it as an easy decision. One content strategist might have worked with lots of video, but another might be more experienced working with text. One designer might create prototypes in HTML and CSS, but another might work exclusively in Photoshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.010.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4692&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.010.jpg&#34; alt=&#34;Easy to hard scale with Angular in different locations depending on the developer&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we’re working on a project, we have to balance all the factors and features on our difficulty scale. There are easy wins we can incorporate into projects without thinking about it: this could be the decision to use text to communicate on our sites. You might think: “Using text on a web page? It goes without saying!” But somebody has to write that text, so it’s not really a given. Instead it’s an easy win.&lt;/p&gt;
+
+&lt;p&gt;There are impossibilities that we’ll (probably) never try on our projects: this could be the decision to make our site scroll on the Z axis, out of the screen, into some kind of cool 3D hologram between the viewer and their screen. It’d be incredibly difficult to achieve, and probably completely irrelevant to our project, so we’re never going to do it.&lt;/p&gt;
+
+&lt;p&gt;And all other decisions are somewhere between text on a web page and Z axis hologram scrolling. We’ll decide an approach or a feature’s worth based on its position on this scale, and based on how many other things are on the scale. Do we have a lot of easy wins on the scale? Well, maybe we can do one difficult thing. Do we have a lot of moderately tricky tasks on the scale? Then maybe one of them has to go, based on our budget or how much time we have.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.009.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4693&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.009.jpg&#34; alt=&#34;Scale of difficulty with text content at easy and z-axis scrolling at hard&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As people trying to promote accessibility, we need to help pull accessibility up from the “difficult” end of the scale, towards the “easy” end of the scale. How we approach making accessibility easier depends on who we’re trying to encourage. Give a copy writer an alt attribute and they’ll have a more accessible image. Teach a copy writer how write alt attributes, and they’ll have accessible images for a lifetime.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.014.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4694&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.014.jpg&#34; alt=&#34;Pulling accessibility up from the hard end of the scale to the easy end&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve mostly found developers and content creators fairly easy to convince about accessibility. The most trouble I seem to get is from designers. Which is strange because &lt;em&gt;I’m&lt;/em&gt; a designer. So why are designers a sticking point? When our content is fabulous, our markup and code is well-structured and thoughtful, even our interactive behaviour is well planned, but the visual side lets us down. Aesthetics are often even the *enemy* of accessibility, how can we change that?&lt;/p&gt;
+
+&lt;h2 id=&#34;differences-between-design-decoration-and-aesthetics&#34;&gt;Differences between design, decoration and aesthetics&lt;/h2&gt;
+
+&lt;p&gt;What does a designer do? It’s probably one of the most contentious job titles in the web world. “Designer” tends to be applied to people who work on the visual side. A designer might work on UX (user experience), or experience design, which is usually focused on what you &lt;em&gt;can’t&lt;/em&gt; see as much as what you &lt;em&gt;can&lt;/em&gt; see. Sometimes a designer is described as a “visual designer” to be extra clear. It’s these kinds of designers I’m going to discuss now. &lt;em&gt;I&lt;/em&gt; do this kind of design. I also do other types of design at the same time. But when I’m working in this area of design, I call it “aesthetics.” It’s the stuff you &lt;em&gt;can&lt;/em&gt; see.&lt;/p&gt;
+
+&lt;p&gt;Aesthetics isn’t just decoration. Decoration does very little. Decoration is the pretty stuff. If I had a pound for every time a client tried to employ me to add some decoration to their ugly site in the hope people would enjoy using it more, I’d have been a wealthy freelancer. But adding pretty bits to a site won’t make it a better experience. It’ll just make it an awful experience with bells on.&lt;/p&gt;
+
+&lt;p&gt;That’s why when I usually talk about design, I don’t just talk about the work created by the people with the job title of ‘designer’. Design is a problem-solving practice. Everybody on a team does it. Content strategists do it when they decide on a direction and approach for a product. Developers do it when they choose a framework or a coding language. Designers do it when they pick a layout. Every decision we make that has an impact on the final product is design.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-makes-the-difference-between-pretty-effective-and-just-pretty&#34;&gt;What makes the difference between pretty effective and just pretty?&lt;/h3&gt;
+
+&lt;p&gt;We use aesthetics to help convey the message in our content. That’s why the study of design is often called ‘Visual Communication.’ Communicating in a visual way aims to create media that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;draws people into the content&lt;/li&gt;
+&lt;li&gt;assists people in understanding content&lt;/li&gt;
+&lt;li&gt;encourages people to respond to content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We achieve these goals by applying typography, colour, layout and form in a way that represents the meaning of the content, makes it easy to understand, and makes it easy to interact.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to find design that fails in these goals. There’s a lot of stuff out there that looks good at a glance, and at drawing you in, but is impossible to use.&lt;/p&gt;
+
+&lt;h3 id=&#34;anti-accessibility-aesthetic-trends&#34;&gt;Anti-accessibility aesthetic trends&lt;/h3&gt;
+
+&lt;p&gt;It’s a deliberately inflammatory title… I had a look at what the gallery websites reckon were the trends of the last four years. A disclaimer comes here as I don’t think anyone using these trends sets out to make their sites inaccessible. The examples following may well be incredibly accessible. These examples are just to show how these trends could compromise usability in favour of looking sexy and fashionable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.035.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4695&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.035.jpg&#34; alt=&#34;2012&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2012-was-the-year-of-the-grid-system&#34;&gt;2012 was the year of the grid system&lt;/h4&gt;
+
+&lt;p&gt;With responsive design becoming the rage, grid systems were abound in 2012. Frameworks popped up everywhere. Some frameworks, used responsibly, were great, making responsive layouts and prototyping very easy. However, most frameworks resulted in &lt;code&gt;&amp;amp;lt;div&amp;amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;amp;lt;span&amp;amp;gt;&lt;/code&gt; soup when developers used them without any customisation or care for accessibility. There wasn’t a meaningful HTML element in sight…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.037.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4696&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.037.jpg&#34; alt=&#34;Screenshots of lots of grid frameworks&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2012 also heralded image carousels, back then still referred to as “sliders.” Designers could now cram extra content on to the page through the wonder of jQuery and other scripts. Unfortunately, the accessibility of the content, and the controls that helped you stop, advance, and rewind the content whizzing before your eyes, was not usually a priority.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.040.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4697&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.040.jpg&#34; alt=&#34;2013&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2013-was-the-year-of-parallax&#34;&gt;2013 was the Year of Parallax&lt;/h4&gt;
+
+&lt;p&gt;Scrolling with combined static and moving layers was the done thing. Rich content and storytelling made for compelling experiences, but also image-heavy pages that hijacked input conventions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.042.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4698&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.042.jpg&#34; alt=&#34;Screenshots of websites that use parallax scrolling&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;2013 was also the year flat design started becoming “a thing.” Textures and images lost favour as responsive design meant the elements on our pages needed to be flexible. ‘Flat Design’ with its solid blocks of colour could be created easily with CSS, load quickly, and expand and collapse to fit the viewport size with no loss of quality. This meant it was also the year designers learned how to spell new words as they endlessly argued the merits of flat design vs &lt;strong&gt;skeuomorphism&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.044.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4699&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.044.jpg&#34; alt=&#34;Screenshot examples of flat design&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.045.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4700&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.045.jpg&#34; alt=&#34;2014&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2014-year-of-the-video-background&#34;&gt;2014, Year of the Video Background&lt;/h4&gt;
+
+&lt;p&gt;Video backgrounds became big in 2014. I’m not even sure why, as these videos probably only ran smoothly on the large desktop screens of the designers working at mega corporations with extra speedy fibre-optic internet connections. The rest of us have to put up with slow, choppy and pixelated videos making the layouts distracting, and making it hard to read the text overlaid on top.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.047.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4701&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.047.jpg&#34; alt=&#34;Screenshots of web pages with video backgrounds&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking around at sites that predict and analyse the trends so far for 2015, there’s not much that’s new out there. A few sites have mentioned simplicity becoming a trend, and as long as that doesn’t just mean hiding stuff, that may be a good thing. It might mean that web design is finally growing up.&lt;/p&gt;
+
+&lt;h2 id=&#34;constraints&#34;&gt;Constraints&lt;/h2&gt;
+
+&lt;p&gt;You can see from the trends how much designers crave constraint. Fashion is a constraint. It’s much easier to come up with a design when you know what you have to do in order to be “cool” or “modern.” Charles Eames said that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Design depends largely on constraints.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.050.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4702&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.050.jpg&#34; alt=&#34;Design depends largely on constraints - Charles Eames&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a designer working in furniture, architecture, film, art, graphic and industrial design, Charles Eames understood that constraints affect design no matter the discipline. A designer’s work is to respond to requirements or aims set by others or ourselves.&lt;/p&gt;
+
+&lt;p&gt;On the web, constraints come in all different forms, some bigger than others. There are some overarching constraints that affect every project:&lt;/p&gt;
+
+&lt;h3 id=&#34;project-constraints&#34;&gt;Project constraints&lt;/h3&gt;
+
+&lt;p&gt;Each project comes with its own unique constraints dependent on its owners and their goals. A typical example of a project constraint might be existing brand guidelines. You have a particular logo, colour palette, tone of voice, and typographic system that has to be used on the project, and every other decision has to work around those constraints. You might have an existing content management system that dictates the framework and language you can use.&lt;/p&gt;
+
+&lt;h3 id=&#34;medium-technology-constraints&#34;&gt;Medium/technology constraints&lt;/h3&gt;
+
+&lt;p&gt;When we communicate in print, paper and ink is expensive. Newspapers look the way they do because we had to try to fit lots of text into tight columns on a few sheets of paper. When we communicate on the web, we avoid using massive images on every page because bandwidth is expensive. We compress our images, and try to optimise their appearance on different screen sizes.&lt;/p&gt;
+
+&lt;h3 id=&#34;audience-constraints&#34;&gt;Audience constraints&lt;/h3&gt;
+
+&lt;p&gt;Audience constraints can also be seen as constraints through convention. They’re are certain ways we approach the web based on the activity and expectations of our audience. Why don’t more websites use horizontal scrolling? Because a lot of people don’t know how to scroll horizontally, so they might miss important content. Search boxes are usually in the top right of the page because people started doing it, and then so many people were doing it that we came to expect search boxes on the top right of the page.&lt;/p&gt;
+
+&lt;h3 id=&#34;time-constraints&#34;&gt;Time constraints&lt;/h3&gt;
+
+&lt;p&gt;Time is one of the most obvious constraints we have when working on a project. Even if we’re working on a constantly-evolving publishing project, there will be sub-projects within it. Such as articles and updates, that will be subject to a time frame.&lt;/p&gt;
+
+&lt;h3 id=&#34;budget-constraints&#34;&gt;Budget constraints&lt;/h3&gt;
+
+&lt;p&gt;Budget and time combined forms the strongest constraints. As these constraints will constrain everything else within a project. Budget will put constraints on time, and time tends to push the limits of budget. This is why budget and time are often used as reasons to avoid accessibility. “We don’t have enough time to make our site accessible,” or “we don’t have enough money to make our site accessible” are two of the most common excuses.&lt;/p&gt;
+
+&lt;p&gt;Of course, these excuses aren’t good enough. I probably don’t need to explain the value of making a site accessible. There’s some truth in a little more budget and time being needed for accessibility; whether it’s through training, research, testing, or additional design and development time. But no more than is needed for the consideration of these other core constraints. Nobody would ever say that there wasn’t time or money enough to consider web performance as a constraint. The expense of not considering web performance is far too high. What we need to convey to people is that not considering accessibility is also expensive. It costs a huge amount in lost audience, and a lack of usability for the remaining audience.&lt;/p&gt;
+
+&lt;p&gt;I think accessibility belongs on this list as a core constraint that we consider as part of every project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project constraints&lt;/li&gt;
+&lt;li&gt;Medium/technology constraints&lt;/li&gt;
+&lt;li&gt;Audience constraints&lt;/li&gt;
+&lt;li&gt;Time constraints&lt;/li&gt;
+&lt;li&gt;Budget constraints&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility constraints&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Arguably, it could be a sub-set of audience constraints, but including it in that way could lead to the misunderstanding that people with accessibility needs are a sub-set of the overall audience, rather than looking at it from a universal design—everybody benefits from accessibility—approach.&lt;/p&gt;
+
+&lt;h2 id=&#34;designers-understand-constraints&#34;&gt;Designers understand constraints&lt;/h2&gt;
+
+&lt;p&gt;When we’re trying to convince designers to work with accessibility as a constraint, it shouldn’t be so difficult. Designers are used to working with much smaller and more specific constraints in the field of aesthetic design. When designers are learning their practice, they learn rules about typography, colour, layout, and form; and only once they understand these constraints, they learn how they can break out of them.&lt;/p&gt;
+
+&lt;p&gt;So let’s look at the four pillars of aesthetic design, and the constraints therein:&lt;/p&gt;
+
+&lt;h2 id=&#34;aesthetic-design-and-the-accessibility-constraints&#34;&gt;Aesthetic design and the accessibility constraints&lt;/h2&gt;
+
+&lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
+
+&lt;p&gt;When we look at web typography from an aesthetic point of view, we have two major areas to consider: the technical and the practical.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-typography&#34;&gt;Technical typography&lt;/h3&gt;
+
+&lt;p&gt;The technical part of web typography is considering how a font might look applied straight to text without any interference/fancy CSS typesetting, or any control over it whatsoever. Because this is what we work with on a basic level without JavaScript or the CSS that only works on a few platforms. We also need to consider how it renders cross-browser. Looking at fonts through progressive enhancement and cross-browser consistency is definitely an accessible approach to typography.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.066.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4703&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.066.jpg&#34; alt=&#34;Text in ordinary black text with blue underlined links.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Text with a web font applied, but no other styling.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.067.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4704&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.067.jpg&#34; alt=&#34;Screenshots of Typekit’s interface for cross-browser rendering&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Checking cross-browser rendering using Typekit
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-typography&#34;&gt;Practical typography&lt;/h3&gt;
+
+&lt;p&gt;It’s slightly less obvious when it comes to the practical part of web typography. In order to choose typefaces that work for our projects, we need to really understand what we want from a typeface, and what we aim to achieve through typography.&lt;/p&gt;
+
+&lt;p&gt;We need to remember that typography exists to represent content, and so it’s always worthwhile to read the text before we design it. Our aim is to invite the reader in, and make the text appear easy to read, not an intimidating mass. Typography should also reveal the meaning of the text. Comic Sans isn’t appropriate for a formal restaurant site, and a swirling script typeface isn’t appropriate for the website of a party clown.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.070.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4705&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.070.jpg&#34; alt=&#34;A paragraph set in Blackoak Std, and a paragraph set in Heinemann&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we read through the text, we can understand where it needs special treatment: where does the structure and order need to be made clear? The connections and differences between elements should be shown. The visual relationships between the text and other elements should reflect their real relationship. A heading is more important than a paragraph, and its importance should be revealed through size differences at the very least. All of these factors can be combined together to induce an ideal state for reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.073.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4706&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.073.jpg&#34; alt=&#34;A paragraph with larger and smaller headings&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Clear headings, links, and typographic hierarchy.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The easiest win in accessible typography is just getting the text at a readable size. The most readable typeface is unreadable at a small size, yet so many sizes squeeze tiny text so they can fit more into a layout. Responsive design should have made it more obvious that scrolling is perfectly acceptable. The smaller the x-height (the height of a lowercase x), the bigger your text will need to be in order to be readable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.071.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4707&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.071.jpg&#34; alt=&#34;Different sized paragraphs at 10px, 12px, 18px and 24px&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;readability&#34;&gt;Readability&lt;/h3&gt;
+
+&lt;p&gt;Whilst good structure and a strong differentiation between elements will help a reader understand how to read the text, the key to accessible typography is in choosing a readable font.&lt;/p&gt;
+
+&lt;p&gt;Uniform texture is more important than the shapes of the individual characters in a typeface. Typography isn’t the same as logo design. When we look at the relationship between the letters, an even texture helps our eyes flow over the text, not getting caught up on unexpected spaces and distracting shapes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.077.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4708&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.077.jpg&#34; alt=&#34;Paragraphs of uniform and uneven texture&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since high resolution displays became the designers’ favourite, thin text is all the rage. Apple did it, and now everybody else does too. But so often thin text is just too thin, making the text appear very light against the background, making it harder to read. Heavy text also doesn’t provide enough contrast between the text and the background, as its chunkiness makes it hard to distinguish letterforms. You want to choose the Goldilocks of typeface weights: not too heavy, not too light. A high contrast of crisp letterforms with enough space around and between the shapes will make text much easier to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.078.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4709&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.078.jpg&#34; alt=&#34;Light and heavy paragraphs of text&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The lines of each letterform also need attention. Serif fonts, in particular, often contrast thick and thin lines within one letter. Your eyes are naturally drawn to the thick lines, and less to the thin, which creates an uneven and distracting texture, making it harder to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.079.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4710&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.079.jpg&#34; alt=&#34;High-contrast serif&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		High-contrast serif
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also want to avoid complex details in the letterforms. The loops in Giddyup Std are cute, but overcrowd body text too much. You can see how our reading would be disrupted and tripped up by a loop or a curl in an unusual place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.080.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4711&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.080.jpg&#34; alt=&#34;A paragraph set in the curly loopy GiddyUp Std&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another feature of letterforms that affects the readability of a typeface is the counters. These are the spaces inside the letters. Sometimes they’re open, like Cs, and sometimes they’re closed, like Os. We need a clear distinction between the open and closed counters, so you can easily tell them apart. Otherwise a phrase like Rococo Cocoon could easily be misread as Rooooo Ooooon.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.081.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4712&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.081.jpg&#34; alt=&#34;Embrionic has very closed counters, Museo Sans has more open counters&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some typefaces are specifically designed to be easier for people with cognitive difficulties. Heinemann is a beautiful typeface designed in-house at Heinemann educational publishing for young readers. The ascenders and descenders (the parts of the letters that ascend above the lowercase letters, and the parts that descend below the lowercase letters) are emphasised to make it easier for readers to distinguish between letters. The letterforms such as lowercase a and g are drawn in the same shape as we learn to write by hand, to make them more recognisable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.myfonts.com/fonts/fw-heinemann/heinemann/gallery.html&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4713&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.083.jpg&#34; alt=&#34;Heinemann type family&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While many designers look down on Comic Sans, it shares those same early-learner letterforms as Heinemann, and is often favoured by teachers in classrooms as the letterforms are the same as those the children are using when they’re learning to write.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.myfonts.com/fonts/ascender/comic-sans/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4714&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.084.jpg&#34; alt=&#34;Comic Sans typeface&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic readers in mind, but with very different approaches. Read Regular is more similar to Heinemann in that it takes a sans serif style, and simple letterforms to assist in readability. However Dyslexie and Open Dyslexic take a very different approach, with noticeably heavier sections around the baseline to prevent readers from accidentally reading the letters upside down (a common issue in dyslexia.) The counters have been opened up, and similar looking letters (such as n and m, or vwy), have been adjusted in shape and height so they look different, and are easier to tell apart.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.readregular.com/english/typography.html&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4715&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.085.jpg&#34; alt=&#34;Read Regular typeface&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://opendyslexic.org&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4716&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.086.jpg&#34; alt=&#34;Dyslexie and Open Dyslexic typefaces&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;colour&#34;&gt;Colour&lt;/h3&gt;
+
+&lt;h4 id=&#34;how-we-interact-with-colour&#34;&gt;How we interact with colour&lt;/h4&gt;
+
+&lt;p&gt;When we’re designing for the web, we tend interact with colour via colour pickers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.088.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4717&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.088.jpg&#34; alt=&#34;Colour pickers&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The benefit of using hues visualised on a colour wheel is that you’re more likely to find colours that work well in a palette. You can pick from side-by-side colours for an analogous blend, or from colours opposite each other on the wheel for a more striking colour contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.096.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4718&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.096.jpg&#34; alt=&#34;Colour picking with droppers on opposite sides of the colour wheel&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Colour picking from opposite sides of the colour wheel
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But the accessibility of colour is more than just picking two different colours. In order to make our foreground text readable against our background colour, we need &lt;strong&gt;contrast&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;When we’re trying to find a good contrast, the colour wheel isn’t much help. The key is the sliders for brightness and saturation. A high contrast is caused by a greater difference the foreground and background brightness, and the foreground and background saturation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.105.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4719&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.105.jpg&#34; alt=&#34;Varying the brightness for colour contrast&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Varying the brightness for colour contrast
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, a blue background with blue text of a similar lightness will be hard to read, whereas a lighter blue against a darker blue is much easier, making a more accessible foreground-background contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.106.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4720&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.106.jpg&#34; alt=&#34;Different strengths of saturation, with greater difference comes higher contrast&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Varying the saturation for colour contrast
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The same applies to saturation. Deeply saturated yellow text will have a low contrast against a similarly deeply saturated yellow. However, using a desaturated yellow in the background makes for a more accessible foreground-background contrast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.107.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4721&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.107.jpg&#34; alt=&#34;High contrast with different colours, but the same contrast between brightness and saturation as before&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Using the different colour pairs with the same brightness and saturation as before
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The same rules apply even when you’re using different colours for the foreground and background.&lt;/p&gt;
+
+&lt;p&gt;Very high contrast foreground and background combinations can also suffer from accessibility problems. Issues with high contrast aren’t talked about as often, but can hurt your eyes, and be particularly problematic for people with dyslexia.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.108.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4722&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.108.jpg&#34; alt=&#34;Extreme high contrast between bright green background and black text, and white text on a black background&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To avoid screaming high contrast, I would recommend softening the difference between the foreground and background values slightly, bringing one value slightly closer to the other. By tweaking these contrasts slightly, they’re much easier on the eyes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.109.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4723&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.109.jpg&#34; alt=&#34;A slightly less saturated green and a slightly brighter grey&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Softening the high contrast values
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;accessibility-and-branding&#34;&gt;Accessibility and Branding&lt;/h2&gt;
+
+&lt;p&gt;If we considered accessibility at a brand level, what would that be like?&lt;/p&gt;
+
+&lt;p&gt;What if we designed our logos and associated colour palettes with an accessible colour contrast in mind? I’ve been doing this for years, not really thinking much of it. As a designer who usually created a logo and would then go on to design and develop a site around it, it just made sense to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.111.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4724&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.111.jpg&#34; alt=&#34;Logo designs with accessible text colours&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Some of my old logo designs
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If we make the colours accessible, then the colours we use on the site can be consistently on-brand later on; we won’t suddenly need to use a darker colour for our body text because our brand’s colour palette produces unreadable results.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.113.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4725&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.113.jpg&#34; alt=&#34;Early typography-based logo designs&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Some early designs for logos, with accessible, web-compatible typography
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What if we choose our logo and brand typefaces with readability and web typography in mind, not just which typeface has three letters that look good for our logo? Maybe if our logo is a swirling script face, we should consider a complementary body text early on, when we’re designing the rest of our brand. This could prevent us getting caught out when our site designer or developer has to pick a completely off-brand typeface because our brand typography is so hard to read as body text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.114.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-4726&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.114.jpg&#34; alt=&#34;A script based logo with an upright sans serif body text. They don’t quite work together.&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up.
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The earlier we, as designers, learn to consider accessibility, the less likely we’ll have our designs diluted and confused further down the line.&lt;/p&gt;
+
+&lt;h2 id=&#34;strategies-for-involving-accessibility-from-the-beginning-of-the-design-process&#34;&gt;Strategies for involving accessibility from the beginning of the design process&lt;/h2&gt;
+
+&lt;p&gt;So I have a few simple strategies for involving accessibility from the beginning of the design process…&lt;/p&gt;
+
+&lt;h3 id=&#34;understanding-accessibility&#34;&gt;Understanding accessibility&lt;/h3&gt;
+
+&lt;p&gt;Just understanding why it’s worth making our sites accessible is a big first step. Only the most foolish people would learn a little about accessibility and not hold it in their heads for every future project. I don’t mean having to become an expert overnight, but just knowing little tips and tricks to make sites better.&lt;/p&gt;
+
+&lt;h3 id=&#34;constraints-1&#34;&gt;Constraints&lt;/h3&gt;
+
+&lt;p&gt;Considering accessibility as a constraint is a complementary to the other strategies. It’s a more specific way of thinking, as you’re always referring back to accessibility.&lt;/p&gt;
+
+&lt;h3 id=&#34;sitting-in-on-testing-and-focus-groups&#34;&gt;Sitting in on testing and focus groups&lt;/h3&gt;
+
+&lt;p&gt;When we hear and witness the experiences of others, it’s much easier to:&lt;/p&gt;
+
+&lt;p&gt;a) understand how other people don’t interact with the web in the same way we do&lt;/p&gt;
+
+&lt;p&gt;b) understand the multitude of ways people CAN interact with the web and how we might better serve their needs&lt;/p&gt;
+
+&lt;h3 id=&#34;being-involved-in-human-research&#34;&gt;Being involved in human research&lt;/h3&gt;
+
+&lt;p&gt;Being involved in human research is very similar to the previous point, but is more about being ahead of the work, rather than behind it. We need to be researching and understanding human interaction before we start a single task.&lt;/p&gt;
+
+&lt;p&gt;If we’re only discovering issues with accessibility in a later testing phase, we’re already behind the curve.&lt;/p&gt;
+In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethical Design. But rather than explain it to you here, I think you should &lt;a href=&#34;https://ind.ie/you-are-the-product/&#34;&gt;watch Aral cover it in his talk Beyond The Camera Panopticon: You Are The Product&lt;/a&gt; (the part on Ethical Design starts at around the 53 minute mark.)&lt;/p&gt;
+
+&lt;h2 id=&#34;make-accessibility-more-accessible&#34;&gt;Make accessibility more accessible&lt;/h2&gt;
+
+&lt;p&gt;If we want to make accessibility more accessible to different roles in our organisations, we need to learn how to better incorporate it into our existing processes. Acknowledging accessibility as a constraint from the outset ensures we have it as a point of reference at every step in the process. This also deliberately avoids looking at accessibility as some kind of checklist. Designers need to understand that accessibility can no more be ticked off a list than user experience can. These aren’t checklist tasks, but are our goals, our focuses, and our approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.132.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4727&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/05/Accessibility-By-Design.132.jpg&#34; alt=&#34;Laura Kalbag. laurakalbag.wpengine.com. @laurakalbag. ind.ie. @indie&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So that was my talk. Some of these thoughts are more developed than others. If you have any comments or want to discuss these things further, I’d love to hear what you think!&lt;/p&gt;
+
+&lt;h2 id=&#34;3-comments&#34;&gt;3 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-143879&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/506cf7e1296676822ff440ed153021c7?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://lisalamagna.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Lisa LaMagna&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-143879&#34;&gt;&lt;time datetime=&#34;2015-11-24T23:59:35+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Laura, this is the second time I have randomly found one of your articles, gained a lot of insight, and realized “oh, it’s Laura Kalbag again.” Thank you.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -72,8 +1741,25 @@ In the last two years, I’ve given eleven accessibility-related talks, almost e
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
       
       <guid>https://laurakalbag.com/bbc-taster/</guid>
-      <description>In the spirit of catching up on slightly older news, in January I was part of a panel commenting on BBC Taster on Creative Bloq.
-Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.</description>
+      <description>&lt;p&gt;In the spirit of catching up on slightly older news, in January I was part of a &lt;a href=&#34;http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087&#34;&gt;panel commenting on BBC Taster on Creative Bloq&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I think anything that explores new ways to present content, and new types of content, has the potential to be really cool. But why so much Flash? It seems contradictory to pair innovative content with an outdated technology. It may well defeat the point as visitors aren’t likely to be able to consume content on their preferred browsers and devices, and so will come at this new content from a biased position of discomfort (or just plain won’t be able to access it in the first place).&lt;/p&gt;
+
+&lt;p&gt;“I’m particularly wary of anything that says something won’t be accessible because it’s experimental (see &lt;a href=&#34;http://www.bbc.co.uk/taster/about&amp;quot; target=&amp;quot;_blank&#34;&gt;Terms of Use&lt;/a&gt;). Surely they’re just missing out on the opinions of anyone with accessibility needs?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/04/qotw_bbctaster_primary.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4652&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/04/qotw_bbctaster_primary.jpg&#34; alt=&#34;Screenshot of BBC Taster&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -82,7 +1768,25 @@ Looking through, I liked the content and the concept interested me, but there we
       <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
       
       <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
-      <description>Last October, Web Standards Sherpa published my mini series on Getting Started With Sass. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.</description>
+      <description>
+
+&lt;p&gt;Last October, &lt;a href=&#34;http://webstandardssherpa.com&#34;&gt;Web Standards Sherpa&lt;/a&gt; published my &lt;a href=&#34;http://webstandardssherpa.com/reviews/getting-started-with-sass-part-3/&#34;&gt;mini series on Getting Started With Sass&lt;/a&gt;. It was a whole new experience as I’d never written a technical tutorial as in-depth as this, let alone doing so with a proper editor and technical editor. Web Standards Sherpa is like that; all about the quality. So it was sad to hear about Sherpa closing its doors this year. However, in order to keep the site and all its wonderful resources online forever, Web Standards Sherpa is hosting an online conference on the 23rd April, and I’m speaking.&lt;/p&gt;
+
+&lt;h2 id=&#34;sherpa-summit&#34;&gt;Sherpa Summit&lt;/h2&gt;
+
+&lt;p&gt;It’s an online event, so you can attend from wherever you have an internet connection. And if you can’t make the sessions, a ticket will also buy you the videos afterwards. I’m speaking first (lucky for me as I’m not in the same timezone!) and then there’s talks from fantastic speakers covering a wide range of web-related topics. There’s also two roundtable sessions where you can ask questions and interact with the speakers, all from the comfort of your computer.&lt;/p&gt;
+
+&lt;p&gt;Individual tickets are just $99, but you can get a whole 20% off if you use the code &lt;em&gt;LAURA&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://environmentsforhumans.com/2015/web-sherpa-summit/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-large wp-image-4628&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/04/Sherpa-Summit-1024x839.png&#34; alt=&#34;Sherpa Summit - the virtual, live, web professionals conference&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -91,8 +1795,101 @@ Looking through, I liked the content and the concept interested me, but there we
       <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
       
       <guid>https://laurakalbag.com/skip-links/</guid>
-      <description>Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.
-This afternoon I was testing a new feature I want to add to Ind.ie’s accessible video player, and started moving down our style guide (work in progress!</description>
+      <description>
+
+&lt;p&gt;Recently I’ve been doing a lot of research in web accessibility, and it’s lead me to testing web pages more thoroughly. I’ve been testing keyboard-only navigation a lot. Keyboard-only input is how most screen reader users interact with the web, as well as many alternative input and mouse-less users.&lt;/p&gt;
+
+&lt;p&gt;This afternoon I was testing a new feature I want to add to &lt;a href=&#34;https://ind.ie/blog/accessible-video-player&#34;&gt;Ind.ie’s accessible video player&lt;/a&gt;, and started moving down our &lt;a href=&#34;https://ind.ie/style-guide/&#34;&gt;style guide (work in progress!) page&lt;/a&gt;, tabbing through the links. Our style guide is really long, so I’ve added skip links at the top of the page, allowing you to jump to the relevant section without having to scroll such a long way. Skip links are very common as an accessibility feature to skip past lengthy navigation to get straight to the page content. They’ve also become a common form of navigation used on one-page sites that have a lot of content on one page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/01/skip-links.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4588&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/01/skip-links.jpg&#34; alt=&#34;Contents list of links on the Ind.ie style guide&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The code usually looks something like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;amp;lt;a href=&amp;quot;#main-content&amp;quot;&amp;amp;gt;Skip to content&amp;amp;lt;/a&amp;amp;gt;
+    ...
+&amp;amp;lt;div id=&amp;quot;#main-content&amp;quot;&amp;amp;gt;
+    ...
+&amp;amp;lt;/div&amp;amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-the-problem&#34;&gt;What’s the problem?&lt;/h2&gt;
+
+&lt;p&gt;Some browsers don’t support skip links in this way. After some very quick tests, I found both Safari and Chrome don’t change the keyboard focus to the visual focus area when a user follows a skip link. This means you might be looking at the section on branding, but the keyboard focus is still on the navigation at the top of the page. If you tab to the next item, your visual focus will scroll right back to the top of the page. A few web searches later and I find this isn’t a new problem at all.&lt;/p&gt;
+
+&lt;p&gt;The difference between visual and actual focus could be an irritation to any sighted users, but for screen readers users, it makes skip links utterly useless. They’re not actually skipping at all.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-we-fix-this&#34;&gt;How can we fix this?&lt;/h2&gt;
+
+&lt;p&gt;Having a read through this &lt;a href=&#34;https://bugs.webkit.org/show_bug.cgi?id=17450&#34;&gt;Webkit bug report&lt;/a&gt;, there’s seems to be cross-platform issues and implications. There’s no web standard for skip links, so there’s no guidance for browsers to follow.&lt;/p&gt;
+
+&lt;p&gt;But after some searching, I found &lt;a href=&#34;http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/&#34;&gt;a JavaScript snippet&lt;/a&gt; that seems to solve the problem. Relying on JavaScript is less than ideal, but I think right now it’s the best we can do.&lt;/p&gt;
+
+&lt;p&gt;Without consistent behaviour for focus on skip links, they’re little value to the wider audience on the web.&lt;/p&gt;
+
+&lt;p&gt;Other sites posting on this issue:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://webaim.org/techniques/keyboard/&#34;&gt;WebAIM keyboard accessibility&lt;/a&gt; (October, 2013)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/&#34;&gt;Fixing “Skip to content” links&lt;/a&gt; (January, 2013)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.456bereastreet.com/archive/201203/skip_links_and_other_in_page_links_in_webkit_browsers/&#34;&gt;Skip links and other in page links in WebKit browsers&lt;/a&gt; (March, 2012)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/&#34;&gt;Keyboard Navigation in Mac Browsers&lt;/a&gt; (useful for knowing how to test)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-137909&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/47d083708ad8d06202d50d5e567f3eaf?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/47d083708ad8d06202d50d5e567f3eaf?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://github.com/svinkle&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;@svinkle&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137909&#34;&gt;&lt;time datetime=&#34;2015-01-14T15:09:03+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;This is how I’ve been approaching this:
+
+```&amp;lt;a href=&amp;quot;#main&amp;quot; class=&amp;quot;visuallyhidden focusable&amp;quot;&amp;gt;Skip to content&amp;lt;/a&amp;gt;```
+
+CSS classes there are from HTML5 Boilerplate CSS.
+
+I then have this for my main element:
+
+`&amp;lt;main id=&amp;quot;main&amp;quot; tabindex=&amp;quot;-1&amp;quot;&amp;gt; ... &amp;lt;/main&amp;gt;`
+
+Using tabindex=”-1&#34; like this allows the main element to programmatically receive focus. When the user hits tab again, it will move focus away from main to the next focusable element.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-137910&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/2e7291b36e6344f7c6d2cb1b56aff1c9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/2e7291b36e6344f7c6d2cb1b56aff1c9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.pixeldiva.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;pixeldiva&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137910&#34;&gt;&lt;time datetime=&#34;2015-01-14T15:09:53+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:09pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Another minor thing, to make things better (once the above problem is fixed)… having the link text be Skip to Main Content gives a screen reader a bit more context so the pronunciation will be correct as *Con*tent, rather than Con*tent*.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-137914&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/5375b1b830a01f1b6a894eea985ce7b8?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/5375b1b830a01f1b6a894eea985ce7b8?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;goetsu&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-137914&#34;&gt;&lt;time datetime=&#34;2015-01-14T16:11:58+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;16:11pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        &lt;p&gt;Yes after 8 years of waiting for this bug to be fixed after I create it now it can work but the target of you links must be focusable (a link, a button, a form element or anything with a tabindex).
+
+So, in your case the most easy thing I presume is to add a tabindex=”-1&#34; to you hx&lt;/p&gt;  &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -101,7 +1898,17 @@ This afternoon I was testing a new feature I want to add to Ind.ie’s accessibl
       <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
       
       <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
-      <description>I’m speaking at Web Day at Bath Digital Festival on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. Tickets are a very reasonable £15, and it looks like it’ll be a very interesting day.</description>
+      <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://2014.bathdigitalfestival.com/event/web-day/&#34;&gt;Web Day at Bath Digital Festival&lt;/a&gt; on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. &lt;a href=&#34;https://www.eventbrite.co.uk/e/web-day-tickets-13137878749&#34;&gt;Tickets are a very reasonable £15&lt;/a&gt;, and it looks like it’ll be a very interesting day.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://2014.bathdigitalfestival.com/event/web-day/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4552&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/09/web-day.png&#34; alt=&#34;Web Day at Bath Digital Festival&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -110,8 +1917,24 @@ This afternoon I was testing a new feature I want to add to Ind.ie’s accessibl
       <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
       
       <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
-      <description>The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an essential part of the nature of the web.
-How I learned accessibility When I started to learn about web design and development, I learned from great books like Dan Cederholm’s Web Standards Solutions.</description>
+      <description>
+
+&lt;p&gt;The reason I fell in love with the web was the democratisation of information. I love that so many people can access, learn, and share such a huge variety of resources. That’s why I’ve always considered accessibility so important. To me, access for all is an &lt;em&gt;essential&lt;/em&gt; part of the nature of the web.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-learned-accessibility&#34;&gt;How I learned accessibility&lt;/h2&gt;
+
+&lt;p&gt;When I started to learn about web design and development, I learned from great books like &lt;a href=&#34;http://www.amazon.com/gp/product/1430219203/ref=as_li_qf_sp_asin_il_tl&#34;&gt;Dan Cederholm’s Web Standards Solutions&lt;/a&gt;. Web Standards Solutions continually referred back to why the different markup solutions suggested would be better or worse for accessibility. That’s how I learned that accessibility was important, part of a developer’s everyday work and not so hard to achieve.&lt;/p&gt;
+
+&lt;h2 id=&#34;modern-web-development-and-accessibility&#34;&gt;Modern web development and accessibility&lt;/h2&gt;
+
+&lt;p&gt;Nowadays when developers talk about modern web development techniques, they most often mention the impact they may have on web performance. Considering performance during each step of a project makes sense as bandwidth and battery life are uncertain commodities. However, I’d really like the community to start talking (again) about accessibility in the same way they talk about web performance. We need to change the minds of people who think that accessibility doesn’t make business sense, and I want the web to be a better place to visit for a wider range of people.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’ve written this little post as part of &lt;a href=&#34;http://www.globalaccessibilityawarenessday.org&#34;&gt;Global Accessibility Awareness Day&lt;/a&gt; (#GAAD). Thanks to Neil Milliken and his &lt;a href=&#34;http://atrophiedmind.wordpress.com/2014/05/15/design-choice-is-more-than-just-about-taste-its-an-accessibility-issue/&#34;&gt;fantastic post on designing for accessibility&lt;/a&gt; for the heads-up. If you want to find out more about accessibility, there’s a &lt;a href=&#34;http://inclusivedesign24.org&#34;&gt;24 hour Inclusive Design community conference&lt;/a&gt; happening online right now (Thanks to &lt;a href=&#34;http://twitter.com/brucel&#34;&gt;Bruce Lawson&lt;/a&gt; for tweeting so much about it!)&lt;/p&gt;
+
+&lt;p&gt;I also run a Twitter account that shares all the best accessibility resources that I find, it’s called &lt;a href=&#34;http://twitter.com/newtoa11y&#34;&gt;@newtoa11y&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

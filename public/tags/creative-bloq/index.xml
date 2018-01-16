@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative Bloq on Laura Kalbag</title>
+    <title>Posts from Creative Bloq on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/creative-bloq/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 14 Apr 2015 13:55:31 +0000</lastBuildDate>
@@ -17,8 +17,25 @@
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
       
       <guid>https://laurakalbag.com/bbc-taster/</guid>
-      <description>In the spirit of catching up on slightly older news, in January I was part of a panel commenting on BBC Taster on Creative Bloq.
-Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.</description>
+      <description>&lt;p&gt;In the spirit of catching up on slightly older news, in January I was part of a &lt;a href=&#34;http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087&#34;&gt;panel commenting on BBC Taster on Creative Bloq&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking through, I liked the content and the concept interested me, but there were implications for accessibility that concerned me. Overall, I came across as a lot more cynical that the other designers and developers commenting on BBC Taster, but I think it’s important that we look at the bigger picture before we get caught up in the shiny.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I think anything that explores new ways to present content, and new types of content, has the potential to be really cool. But why so much Flash? It seems contradictory to pair innovative content with an outdated technology. It may well defeat the point as visitors aren’t likely to be able to consume content on their preferred browsers and devices, and so will come at this new content from a biased position of discomfort (or just plain won’t be able to access it in the first place).&lt;/p&gt;
+
+&lt;p&gt;“I’m particularly wary of anything that says something won’t be accessible because it’s experimental (see &lt;a href=&#34;http://www.bbc.co.uk/taster/about&amp;quot; target=&amp;quot;_blank&#34;&gt;Terms of Use&lt;/a&gt;). Surely they’re just missing out on the opinions of anyone with accessibility needs?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2015/04/qotw_bbctaster_primary.jpg&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4652&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2015/04/qotw_bbctaster_primary.jpg&#34; alt=&#34;Screenshot of BBC Taster&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

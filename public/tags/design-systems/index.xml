@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design Systems on Laura Kalbag</title>
+    <title>Posts from Design Systems on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/design-systems/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 12 Dec 2012 10:45:08 +0000</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
       
       <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
-      <description>I’ve been thinking a lot about the design in ‘responsive’ design lately. My post on 24ways is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.</description>
+      <description>&lt;p&gt;I’ve been thinking a lot about the design in ‘responsive’ design lately. &lt;a href=&#34;http://24ways.org/2012/design-systems/&#34;&gt;My post on 24ways&lt;/a&gt; is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

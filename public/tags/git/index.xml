@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on Laura Kalbag</title>
+    <title>Posts from Git on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/git/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 07 Oct 2014 13:57:33 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
       
       <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
-      <description>Last week my latest column, Breaking Stuff, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at ind.ie, so I think I’ll be writing more about situations like these as time goes on.
-I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)</description>
+      <description>&lt;p&gt;Last week &lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;my latest column, Breaking Stuff&lt;/a&gt;, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at &lt;a href=&#34;https://ind.ie&#34;&gt;ind.ie&lt;/a&gt;, so I think I’ll be writing more about situations like these as time goes on.&lt;/p&gt;
+
+&lt;p&gt;I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4561&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/10/Breaking-Stuff.png&#34; alt=&#34;Breaking Stuff column on A List Apart&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

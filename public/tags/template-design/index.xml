@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Template Design on Laura Kalbag</title>
+    <title>Posts from Template Design on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/template-design/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 14 Aug 2014 15:47:30 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
       
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
-      <description>Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called Designing for the unknown: how to design templates and frameworks, and has contributions from some really smart people.
-The title image is from my writeup of the Default Perch Theme project I did with Perch.</description>
+      <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
+
+&lt;p&gt;The title image is from my writeup of the &lt;a href=&#34;https://laurakalbag.com/project/default-perch-theme/&#34; title=&#34;Default Perch Theme&#34;&gt;Default Perch Theme project&lt;/a&gt; I did with Perch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4520&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/digital-arts-designing-for-the-unknown.png&#34; alt=&#34;Digital Arts: Designing for the unknown&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

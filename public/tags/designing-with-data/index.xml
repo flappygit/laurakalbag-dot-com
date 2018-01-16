@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Designing With Data on Laura Kalbag</title>
+    <title>Posts from Designing With Data on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/designing-with-data/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 02 Jul 2012 10:51:29 +0000</lastBuildDate>
@@ -17,8 +17,10 @@
       <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
       
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
-      <description>Another ubelly post from me, this time a review. Much like my other reviews of books on this blog, just in another location!
-A Practical Guide to Designing with Data</description>
+      <description>&lt;p&gt;Another ubelly post from me, this time a review. Much like &lt;a href=&#34;https://laurakalbag.com/mobile-first/&#34; title=&#34;Mobile First&#34;&gt;my&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;other&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;reviews&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/category/reviews/&#34;&gt;books on this blog&lt;/a&gt;, just in another location!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ubelly.com/2012/07/a-practical-guide-to-designing-with-data-a-review/&#34;&gt;A Practical Guide to Designing with Data&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

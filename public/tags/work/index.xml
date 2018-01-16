@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work on Laura Kalbag</title>
+    <title>Posts from Work on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/work/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 15 Aug 2014 07:20:40 +0000</lastBuildDate>
@@ -17,8 +17,19 @@
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
       
       <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
-      <description>This morning Martin Wolf published an interesting blog post with photos of the “workplaces of web professionals”. I always wonder if people really are that tidy, or if they spent a while clearing up before they took the photo.
-The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.</description>
+      <description>&lt;p&gt;This morning Martin Wolf published an interesting &lt;a href=&#34;http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/&#34;&gt;blog post with photos of the “workplaces of web professionals”&lt;/a&gt;. I always wonder if people really are &lt;em&gt;that&lt;/em&gt; tidy, or if they spent a while clearing up before they took the photo.&lt;/p&gt;
+
+&lt;p&gt;The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4522&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/08/workplaces-of-web-professionals.png&#34; alt=&#34;a photo of my desk, complete with a lot of junk and a dog in shot&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +38,19 @@ The featured photo of my workplace (in our ind.ie home office) shows the fairly 
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
       
       <guid>https://laurakalbag.com/pastry-box-march/</guid>
-      <description>Today my thought for March was posted on The Pastry Box. It was inspired by First Things First 2014, talks by Cole Peters and Nicklas de León Persson at Design and Banter, and Fictive Kin‘s slashpurpose.org.
-I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.</description>
+      <description>&lt;p&gt;Today &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;my thought for March was posted on The Pastry Box&lt;/a&gt;. It was inspired by &lt;a href=&#34;http://firstthingsfirst2014.org&#34;&gt;First Things First 2014&lt;/a&gt;, talks by &lt;a href=&#34;http://twitter.com/cole_peters&#34;&gt;Cole Peters&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/takete&#34;&gt;Nicklas de León Persson&lt;/a&gt; at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design and Banter&lt;/a&gt;, and &lt;a href=&#34;http://fictivekin.com/purpose&#34;&gt;Fictive Kin&lt;/a&gt;‘s &lt;a href=&#34;http://slashpurpose.org&#34;&gt;slashpurpose.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-4277&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2014/03/pastry-box-march.png&#34; alt=&#34;Laura Kalbag on The Pastry Box, Tuesday, 11 March 2014&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +59,62 @@ I’ve started formulating a draft of my “purpose” for this site, but it’s
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
       
       <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
-      <description>After I finished my last post about Design Tips for Developers, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.
-When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’.</description>
+      <description>
+
+&lt;p&gt;After I finished my last post about &lt;a href=&#34;https://laurakalbag.com/design-tips-for-developers/&#34;&gt;Design Tips for Developers&lt;/a&gt;, it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.&lt;/p&gt;
+
+&lt;p&gt;When I send a design to a client via e-mail, I usually spend around 45 minutes –; 1 hour writing an accompanying ‘justification’. I really have no idea if I’m the only one that does this? I assume not. I know a lot of people don’t, they just send static images. Does this mean it’s not worthwhile?&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-do-justifications&#34;&gt;How I do justifications&lt;/h2&gt;
+
+&lt;p&gt;Here’s an excerpt from my last post, giving a classic example of how I write justifications:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I try to cover all the basics of the design. I explain my choices regarding layout, typography, colour and imagery. I summarise any other methods or angles I tried that didn’t work, and explain why I thought they didn’t work. If I’m not actually sure why I did something on impulse, I’ll really think about it, analyse my decision and explain it to the client.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-write-justifications&#34;&gt;Why I write justifications&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Not all design work can speak for itself&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;p&gt;Clients aren’t design specialists so you can’t expect them to ‘get’ your thinking behind a design just by looking at it (And you probably couldn’t expect most other designers to ‘get’ it either!)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### I don’t often get to speak to the client in person&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s fairly easy to quickly summarise your design when you can look at a person’s face and see if they understand you. When you’re lacking face-to-face communication, you really have to make up for it in writing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;#### Even if I do see a client face-to-face, I’ll often forget something&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sitting down and writing a proper explanation helps me look over the design from top to bottom and take it apart. It also takes a while for a client to mull over a design. They might be unsure of part of it later on at home. Having your justification there to reassure them can be helpful.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-was-also-taught-how&#34;&gt;I was also taught how&lt;/h3&gt;
+
+&lt;p&gt;Every now and again I realise the huge value in being taught art and graphics at school, college and university. From secondary school art lessons onwards, one-third of the work was research, one-third was the practical application and the final third was evaluation. Even if the rest of the work wasn’t perfect, if the evaluation was good then you’d be on to a winner. It wasn’t about being skilled with a pencil or paintbrush, it was about being able to reflect, evaluate and actually understand what you were trying to achieve.&lt;/p&gt;
+
+&lt;h2 id=&#34;being-able-to-give-a-reason&#34;&gt;Being able to give a reason&lt;/h2&gt;
+
+&lt;p&gt;I believe a huge part of your ability as a designer is understanding why you do what you do. In order to create an appropriate and usable design, you’ve got to be able to do better than ‘pretty.’&lt;/p&gt;
+
+&lt;p&gt;I think a designer &lt;em&gt;should&lt;/em&gt; be able to tell a client the reasoning behind their design decisions. There’s nothing worse than the ‘professional’ who says “&lt;em&gt;I like it best like this and I’m the professional so you should respect my opinion&lt;/em&gt;.” Of course, everybody has their own preferences, theories and leanings, but if you can’t come up with a reason beyond “I like it” or “everybody’s doing it”, then what service are you actually providing?&lt;/p&gt;
+
+&lt;h2 id=&#34;value-for-a-client&#34;&gt;Value for a client&lt;/h2&gt;
+
+&lt;p&gt;Reading a description about your design decisions lets a client know you’ve really thought their design through. I’m hoping I show my clients that I spend a long time considering my design work and trying to make something that will work for them. When you’re providing a service, rather than a physical product, it’s good to remind people that you’re good value for money.&lt;/p&gt;
+
+&lt;h2 id=&#34;value-for-a-designer&#34;&gt;Value for a designer&lt;/h2&gt;
+
+&lt;p&gt;After sending a justification I find there are fewer arguments. Full stop. As I’ve got better at writing them, I’ve found more clients agree with my decisions. I hope I’m also improving as a designer, but it’s also incredibly difficult to disagree with a design element when someone has given you a very good logical reason why it works.&lt;/p&gt;
+
+&lt;p&gt;I don’t get “make my logo bigger”, “can you do another version?” or “I want it in Papyrus”. I know I’m fantastically fortunate to work with lovely people, but I reckon explaining yourself (and maybe being a bit persuasive) might also have something to do with it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -47,8 +123,267 @@ When I send a design to a client via e-mail, I usually spend around 45 minutes �
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
       
       <guid>https://laurakalbag.com/year-1/</guid>
-      <description>It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.
-Getting Started I felt pretty ready for freelancing full-time, I’d had a lot of experience on projects whilst I was at university.</description>
+      <description>
+
+&lt;p&gt;It’s been a whole year since I officially started working as a freelance designer last August. I graduated from uni, had a brief fling with some full-time remote working, had an awkward interview with a recruiter and then decided that I’d rather give it a go by myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;I felt pretty ready for freelancing full-time, I’d had a lot of experience on projects whilst I was at university. I knew I could run a project and I knew I could do the work. I’d done a one-day course at uni in freelance accounting and got myself a business account and subscription to &lt;a href=&#34;http://www.freeagentcentral.com/?referrer=32rbfqy3&#34; title=&#34;FreeAgent freelance accounting software&#34;&gt;FreeAgent&lt;/a&gt; so I felt like I could stay on top of the finance side.&lt;/p&gt;
+
+&lt;p&gt;The first month started pretty slowly, but that was only the first month. With the help of two lovely people in particular, &lt;a href=&#34;http://twitter.com/bookmeister&#34; title=&#34;Chris Book on Twitter&#34;&gt;Chris Book&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/simonwheatley&#34; title=&#34;Simon Wheatley on Twitter&#34;&gt;Simon Wheatley&lt;/a&gt;, I got to know a few people and started getting a few projects under my belt. I really couldn’t thank these two guys enough for recommending me to their friends and giving me great opportunities.&lt;/p&gt;
+
+&lt;p&gt;I’ve found that meeting people (I don’t like &lt;em&gt;networking&lt;/em&gt;, it’s too false) is incredibly important when you’re starting out. After that, my network seemed to grow itself!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-stats&#34;&gt;The Stats&lt;/h2&gt;
+
+&lt;p&gt;I can’t believe how much I’ve done. I’ve just worked these out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Projects completed –; 27&lt;/li&gt;
+&lt;li&gt;Current projects –; 6&lt;/li&gt;
+&lt;li&gt;WordPress themes created –; 13&lt;/li&gt;
+&lt;li&gt;Logos designed –; 10&lt;/li&gt;
+&lt;li&gt;iPhone app designs –; 3&lt;/li&gt;
+&lt;li&gt;Static website designs –; 6&lt;/li&gt;
+&lt;li&gt;Illustration projects –; 2&lt;/li&gt;
+&lt;li&gt;Website maintenance projects –; 3&lt;/li&gt;
+&lt;li&gt;HTML e-mail designs –; 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-work&#34;&gt;Getting Work&lt;/h2&gt;
+
+&lt;p&gt;From the stats above, you can see that I’ve been busy! Thanks to Chris and Simon and a lot of really great clients, I’ve managed to be constantly booked up and busy since last October. I’m now booking up around two/three months in advance.&lt;/p&gt;
+
+&lt;p&gt;It’s been difficult. Learning to not stress and cope with a big workload is one of the many things I’ve tried to get my head around.&lt;/p&gt;
+
+&lt;h2 id=&#34;trying-to-learn&#34;&gt;Trying to learn&lt;/h2&gt;
+
+&lt;p&gt;Not necessarily things I’ve already learnt, but things I’m in the process of learning!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Scheduling projects is all well and good but &lt;strong&gt;nothing&lt;/strong&gt; &lt;em&gt;ever&lt;/em&gt; stays on schedule.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Feedback isn’t instant, work takes much longer or nowhere near as long as estimated. It’s not a nightmare if I don’t stress about it, but I’m getting good at frequently reorganising and juggling projects.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Desk space is important.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Work got miles easier when I had my own working area set up. Matt built me a great custom desk, shelf unit and wall-mounted my second screen. When I’m at my desk, I’m working. The division between working at home and just being at home makes a big difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2010/08/desk.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-201&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2010/08/desk.jpg&#34; alt=&#34;desk area&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;My desk area (if anybody knows a good way to keep those cables tidy, I’d love to hear it!!)&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Honesty, friendliness and manners go a long way.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sometimes I’m horrified by e-mails I receive. I take time to write e-mails, try to be polite and I’m always honest, even if it means admitting I don’t know what I’m doing. I really appreciate it when people are open with me, and it seems to work the other way for me too!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Don’t take on too much work. Don’t work when you’re ill. Just don’t overwork at all.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Nothing kills the desire to work than overworking. At first I was happy to work 10+ hour days. Then I was constantly tired and resentful. Now I take plenty of time to relax and always take time off when I’m ill. I’m so much more productive and enthusiastic for being happy.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Clients take you much more seriously when you charge&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When you’re working on ‘portfolio projects’ or ‘getting experience’ when you’re starting out it’s very easy to find people who want a lot of your time for nothing. It’s not their fault but these clients will expect you to always do a lot for nothing, and they’ll never understand the value of your work because you’ve placed no value on it in the first place.&lt;/p&gt;
+
+&lt;p&gt;I found that as soon as I started charging reasonable rates, I got reasonable clients. Not really an issue I had over the last year, but one I had to get over to start working professionally!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### The busier you are, the more they want you&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s very strange, the busier I get the more clients are willing to wait to work with me. I’m sure it’s that by telling a potential client that you already have clients reassures them that somebody else wants to work with you, so you must be decent enough.&lt;/li&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-one-downside&#34;&gt;The One Downside&lt;/h2&gt;
+
+&lt;p&gt;I don’t have work mates. Well, I have one and that’s my lovely man, &lt;a href=&#34;http://twitter.com/MatthewFuller&#34; title=&#34;Matt Fuller on Twitter&#34;&gt;Matt&lt;/a&gt;. Matt mostly works from home too so it’s lucky we don’t get sick of each other. However, living in Reigate (not exactly the hippest tech town around) and working from home, I miss hanging out with people who have the same work interests as me.&lt;/p&gt;
+
+&lt;p&gt;Going to &lt;a href=&#34;http://futureofwebapps.com/&#34; title=&#34;Future of Web Apps conference&#34;&gt;Future of Web Apps&lt;/a&gt;, &lt;a href=&#34;http://futureofwebdesign.com&#34; title=&#34;Future of Web Design conference&#34;&gt;Future of Web Design&lt;/a&gt; and &lt;a href=&#34;http://open-mic.org.uk/&#34; title=&#34;openMIC Open Mobile Innovation Camp&#34;&gt;openMIC&lt;/a&gt; are like going on a social binge, I’m totally exhausted afterwards and probably babble incoherently at everybody when I’m there. Twitter and Skype are both useful in their own ways but it’s not the same.&lt;/p&gt;
+
+&lt;h2 id=&#34;hopefully-there-s-more-years-to-come&#34;&gt;Hopefully there’s more years to come&lt;/h2&gt;
+
+&lt;p&gt;I’m hoping this is the beginning of something good. It’d be hard to give up on the luxury of working flexibly from home. I’m making enough to live on and I’m having fun at the same time. I really hope this post might give confidence to some people who are thinking about leaping into freelance. It’s hard work but it’s the best work I’ve ever done.&lt;/p&gt;
+
+&lt;h2 id=&#34;13-comments&#34;&gt;13 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-44&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/country-gb/hayles/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;hayles&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-44&#34;&gt;&lt;time datetime=&#34;2010-08-31T09:15:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:15am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Congratulations on the first year! The social side is what scares me about homeworking I think!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-40&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;timperrett&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-40&#34;&gt;&lt;time datetime=&#34;2010-08-31T09:09:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Congratulations on your first year –; many more to come hopefully :-)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-41&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://twitoaster.com/laurakalbag/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;laurakalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-41&#34;&gt;&lt;time datetime=&#34;2010-08-31T09:11:05+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:11am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @timperrett thanks, definitely hoping there’s many more to come!
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-42&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jack Franklin&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-42&#34;&gt;&lt;time datetime=&#34;2010-08-31T10:19:59+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:19am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Wow Laura, fantastic post, and congrats on what sounds like a fab year for you! One of the things I’ll be considering after Uni is freelancing so I may well start bombarding you with questions! ;) (4 years until I graduate though)!
+
+As for the social side of things, I’m pretty sure I’ll see you at Bath Camp! That’s my main issue with living in Cornwall&amp;#8230;.the closest any conferences get usually is Bristol, and even that is a 3 hour train ride away.
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment even depth-2&#34; id=&#34;li-comment-47&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Laura&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-47&#34;&gt;&lt;time datetime=&#34;2010-08-31T11:20:46+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:20am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thanks Jack :)
+
+I’m really lucky living where I do, as I’m commutable distance from both London and Brighton but not near enough to either to have a social life there!
+
+Definitely see you at Bath Camp, it’ll be worth the long journey :)
+    &lt;/div&gt;
+    &lt;ul class=&#34;children&#34;&gt;
+        &lt;li class=&#34;comment odd alt depth-3&#34; id=&#34;li-comment-50&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jack Franklin&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-50&#34;&gt;&lt;time datetime=&#34;2010-09-04T23:18:19+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;23:18pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I&amp;#039;m off to Bath uni come September 25th so from now on I&amp;#039;m going to make an effort whenever possible to get to as many events as I can, suddenly everywhere is a relatively simple train journey! :)
+        &lt;/div&gt;
+
+        
+
+
+
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-45&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;duncanmacgregor&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-45&#34;&gt;&lt;time datetime=&#34;2010-08-31T09:20:50+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:20am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Congrats! totally agree with you on charge reasonable rates you get reasonable clients. Very true (99.8% of the time! ;)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-46&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;juliancheal&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-46&#34;&gt;&lt;time datetime=&#34;2010-08-31T09:31:39+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:31am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag ooh nice one Miss Kalbag.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-48&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;mastermute&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-48&#34;&gt;&lt;time datetime=&#34;2010-08-31T19:47:08+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:47pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        @laurakalbag Great post! Thanks!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-49&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/b8b8ba9a1d6e1afcbf07d6e21b6f4615?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/b8b8ba9a1d6e1afcbf07d6e21b6f4615?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://bardowl.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Chris Book&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-49&#34;&gt;&lt;time datetime=&#34;2010-09-01T10:17:56+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:17am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congrats Laura
+
+Its very easy to recommend someone when they produce not only quality work but do it in a very professional manner. I think you are unique in being able to be so professional straight out of university.
+
+But thanks for saying thanks :-)
+
+I think your point 3 is the most important of all, we all have different roles to play, commercial, creative, technical and Honesty, friendliness and manners make it so much easier to do business. There is too much politics and backstabbing in big business you are so lucky to have gone straight into working for yourself you never have to see too much of that.
+
+Here’s to many more years to come.
+
+Cheers Chris
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-odd thread-alt depth-1&#34; id=&#34;li-comment-51&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-51&#34;&gt;&lt;time datetime=&#34;2010-09-13T14:50:44+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;14:50pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations on your first year! I myself have roughly been freelancing for around a year now too and I can totally relate to your &amp;quot;Trying to learn&amp;quot; section but I suppose thats the fun and beauty of doing what you love to do whilst learning to run your own business.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-even depth-1&#34; id=&#34;li-comment-3212&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/6b0724551e23d538184d22018af98cd2?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/6b0724551e23d538184d22018af98cd2?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Denis&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-3212&#34;&gt;&lt;time datetime=&#34;2013-11-04T15:02:09+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:02pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        It’s so hard to get your first clients. I stuck on this.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

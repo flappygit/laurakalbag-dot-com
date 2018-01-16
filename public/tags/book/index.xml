@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book on Laura Kalbag</title>
+    <title>Posts from Book on Laura Kalbag</title>
     <link>https://laurakalbag.com/tags/book/</link>
-    <description>Recent content from Laura Kalbag</description>
+    <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 18 Aug 2017 13:44:22 +0000</lastBuildDate>
@@ -17,9 +17,140 @@
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
       
       <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
-      <description>After three years of work, I can finally tell you that I’ve written a book for A Book Apart about web accessibility called Accessibility For Everyone.
- 
-In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for everyone.</description>
+      <description>
+
+&lt;p&gt;After three years of work, I can finally tell you that I’ve written a book for &lt;a href=&#34;https://abookapart.com&#34;&gt;A Book Apart&lt;/a&gt; about web accessibility called &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;Accessibility For Everyone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34;&gt;
+&lt;figure class=&#34;alignnone wp-image-4947&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2017/08/aba-cover-23_300x@2x-2.png&#34; alt=&#34;Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for &lt;em&gt;everyone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is a huge wealth of information about accessibility from accessibility experts on the web. But where do you start? This is why I wrote Accessibility For Everyone. I want to help you learn the foundations of accessibility, and point you in the direction of the accessibility experts I learn from so we can keep making the web better.&lt;/p&gt;
+
+&lt;p&gt;Accessibility For Everyone will be published in a few months, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;sign up to be notified when we launch on the A Book Apart website&lt;/a&gt;. If you forget, don’t worry, I’ll probably be going on about this for a long time to come… 😉&lt;/p&gt;
+
+&lt;h2 id=&#34;10-comments&#34;&gt;10 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160276&#34;&gt;
+        &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Kathy Bray&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160276&#34;&gt;&lt;time datetime=&#34;2017-08-19T18:35:55+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;18:35pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        This sounds like a must have book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160277&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://wendybarron.com/&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Wendy Barron&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160277&#34;&gt;&lt;time datetime=&#34;2017-08-19T19:26:48+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:26pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I am excited about this book. Plain language, plain design, inclusiveness and accessibility are part of what I do for a living, and resources are important! (I’m redoing my website with accessibility in mind, right now.) Thanks for doing this work and putting it out there where we can get at it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160287&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;peter&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160287&#34;&gt;&lt;time datetime=&#34;2017-08-19T20:10:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;20:10pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        thank you
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160300&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://nuclearpengy.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Nathan Jeffery&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160300&#34;&gt;&lt;time datetime=&#34;2017-08-20T00:56:23+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;00:56am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congrats and good luck with the launch!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160304&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.destinosolutions.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Noufal binu&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160304&#34;&gt;&lt;time datetime=&#34;2017-08-20T09:55:43+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;09:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m curious to read this book, I expect *Accessibility for everyone* is a very helpful for my  blog redesign and improve my blog functions for everyone, So i hope this book going to really interesting.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160307&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Jonathan Melton&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160307&#34;&gt;&lt;time datetime=&#34;2017-08-20T15:59:36+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;15:59pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations on the book!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160308&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://cedc.org&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laryn&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160308&#34;&gt;&lt;time datetime=&#34;2017-08-20T19:48:49+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;19:48pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Thank you! I look forward to reading it.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160312&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.microassist.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jack McElaney&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160312&#34;&gt;&lt;time datetime=&#34;2017-08-22T01:55:24+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;01:55am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura on “Accessibility for Everyone”! Based on the title of the book, and your description of it, it is a much needed book and I look forward to reading it. I curate a weekly newsletter called “Accessibility in the News” so I will let my subscribers know about your book in this week’s issue.
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-160313&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;https://ttimsmith.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Tim Smith&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160313&#34;&gt;&lt;time datetime=&#34;2017-08-23T13:16:57+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;13:16pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Congratulations Laura! I can’t wait to read it!
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-160314&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Marie Moyles&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-160314&#34;&gt;&lt;time datetime=&#34;2017-08-23T21:28:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;21:28pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I cannot wait to read this book! Well done and thank you for producing a new resource on web accessibility 😊
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -28,9 +159,80 @@ In case you’ve not heard of web accessibility (you wouldn’t be the first!), 
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
       
       <guid>https://laurakalbag.com/psychology-for-designers/</guid>
-      <description>This week I went all out and bought all the currently-released Five Simple Steps Pocket Guide digital books. I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
- 
-I started reading with Psychology for designers by Joe Leech first.</description>
+      <description>
+
+&lt;p&gt;This week I went all out and bought all the currently-released &lt;a href=&#34;http://www.fivesimplesteps.com&#34;&gt;Five Simple Steps&lt;/a&gt; &lt;a href=&#34;http://www.fivesimplesteps.com/products/pocket-guides-collection-one&#34;&gt;Pocket Guide digital books&lt;/a&gt;. I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/psychology-for-designers-cover.png&#34;&gt;
+&lt;figure class=&#34;aligncenter size-full wp-image-3185&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/psychology-for-designers-cover.png&#34; alt=&#34;Psychology for designers by Joe Leech&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I started reading with &lt;a href=&#34;http://www.fivesimplesteps.com/products/psychology-for-designers&#34;&gt;Psychology for designers by Joe Leech&lt;/a&gt; first. It appeared to be one of the least specific of the books, and so looked slightly different. Having downloaded six books, it was very hard to choose! Funnily enough, this was exactly the example topic dealt with by Joe in the book: making choices easier for users when faced with a (navigation) menu.&lt;/p&gt;
+
+&lt;p&gt;Joe’s background, and his mother’s background, in psychology made for a fascinating description of the differences between the different types of psychology and instantly gave real world examples of the application of psychology, making what you might suspect to be a dry and academic subject very interesting.&lt;/p&gt;
+
+&lt;p&gt;The entire book focuses on knowing what type of psychology could help you with your design project, when to look for it, how to find it and when to use it. If you’re looking for a book on tips and tricks on psychology itself, this isn’t it. But it does so much more. Much like the proverb, “give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime”, this book shows you how and where to learn about psychology and apply it to your future design projects.&lt;/p&gt;
+
+&lt;p&gt;When I look at the list of upcoming Pocket Guide books, it makes me quite giddy. &lt;a href=&#34;http://www.fivesimplesteps.com/products/colour-accessibility&#34;&gt;Colour Accessibility&lt;/a&gt;, &lt;a href=&#34;http://www.fivesimplesteps.com/products/combining-typefaces&#34;&gt;Combining Typefaces&lt;/a&gt;, &lt;a href=&#34;http://www.fivesimplesteps.com/products/css-animations&#34;&gt;CSS Animations&lt;/a&gt; and &lt;a href=&#34;http://www.fivesimplesteps.com/products/design-evolution&#34;&gt;Design Evolution&lt;/a&gt; to name just a handful. I think these Pocket Guides will likely form a perfect list for students and professionals alike, giving good doses of web knowledge at affordable prices.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Side note: I read this whole book on my phone! I didn’t need to, I had my laptop and iPad right next to me, but the PDF in landscape seemed to be the ideal easy reading environment for me. Although I did struggle reading some of the linked sites which weren’t so well-optimised.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2013/04/handheld.jpg&#34;&gt;
+&lt;figure class=&#34;wp-caption aligncenter size-full wp-image-3181&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2013/04/handheld.jpg&#34; alt=&#34;Reading Psychology for designers on my phone&#34;/&gt;
+	
+	
+	&lt;figcaption&gt;
+		&lt;p&gt;
+		Reading Psychology for designers on my phone
+		
+			
+		
+		&lt;/p&gt; 
+	&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-539&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/576951f66442b28f0dded221a59af51c?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.100yen.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Jonic&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-539&#34;&gt;&lt;time datetime=&#34;2013-04-15T11:05:18+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;11:05am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I really enjoyed the first series of these pocket guides. Like you, I’m much more interested in reading a shorter, more focused book. A lot of web books are too long and dry and boring –; it’s good to see Five Simple Steps and A Book Apart leading the way with this format, not to mention self-published books like Josh Long and Drew Wilson’s Execute.
+
+Do you think you’d ever write one of these pocket guides? I’m tempted to put together a proposal and send it in to them, but I need to think of a decent topic for it first! I doubt I could write a traditional ‘heavy’ web book, but I reckon I could turn out 80 pages on something I really knew about!
+
+Thanks for the review, anyway –; I always trust your opinion on these matters. I’ll definitely be getting the second batch of pocket guides :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-540&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://laurakalbag.wpengine.com&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Laura Kalbag&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-540&#34;&gt;&lt;time datetime=&#34;2013-04-15T17:14:34+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;17:14pm&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        I’m not sure I know enough on any one topic to do so… my writing is also not very book-ish. This blog is like a diary gone work-y.
+
+Wow. That comment is exactly an example of why I couldn’t write a book… ;-)
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -39,8 +241,10 @@ I started reading with Psychology for designers by Joe Leech first.</descriptio
       <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
       
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
-      <description>Another ubelly post from me, this time a review. Much like my other reviews of books on this blog, just in another location!
-A Practical Guide to Designing with Data</description>
+      <description>&lt;p&gt;Another ubelly post from me, this time a review. Much like &lt;a href=&#34;https://laurakalbag.com/mobile-first/&#34; title=&#34;Mobile First&#34;&gt;my&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;other&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;reviews&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/category/reviews/&#34;&gt;books on this blog&lt;/a&gt;, just in another location!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ubelly.com/2012/07/a-practical-guide-to-designing-with-data-a-review/&#34;&gt;A Practical Guide to Designing with Data&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +253,74 @@ A Practical Guide to Designing with Data</description>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
       
       <guid>https://laurakalbag.com/designing-for-emotion/</guid>
-      <description>I bought Designing For Emotion as part of the A Book Apart deal, alongside Mobile First. After listening to Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.</description>
+      <description>
+
+&lt;p&gt;I bought &lt;a href=&#34;http://www.abookapart.com/products/designing-for-emotion&#34; title=&#34;Designing For Emotion by Aarron Walter&#34;&gt;Designing For Emotion&lt;/a&gt; as part of the &lt;a href=&#34;http://www.abookapart.com/products/designing-for-emotion-mobile-first-bundle&#34; title=&#34;Buy Designing For Emotion and Mobile First together from A Book Apart&#34;&gt;A Book Apart deal&lt;/a&gt;, alongside Mobile First. After listening to &lt;a href=&#34;http://5by5.tv/bigwebshow/58&#34; title=&#34;The Big Web Show #58&#34;&gt;Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show&lt;/a&gt;, and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/images/2011/11/20111115-090800.jpg&#34;&gt;
+&lt;figure class=&#34;center size-full&#34;&gt;
+	
+		&lt;img src=&#34;https://laurakalbag.com/images/2011/11/20111115-090800.jpg&#34; alt=&#34;20111115-090800.jpg&#34;/&gt;
+	
+	
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Designing For Emotion is the third book I’ve read in my read-a-chapter-a-day-for-inspiration series. I write this on a train journey after greedily guzzling the last three chapters in one go as I just couldn’t stop reading.&lt;/p&gt;
+
+&lt;p&gt;Aarron Walter writes in an incredibly easy style. His warm, friendly tone helps enthuse you about emotional design and gives you so much to think about beyond the old basic idea that 404 pages should be cute and funny to make your users more forgiving.&lt;/p&gt;
+
+&lt;p&gt;Arguably, this book is a lighter read than previous A Book Apart books which is really down to its subject matter. You’re given a real overview of designing for emotion and deeper case studies into how it has been practically applied to different sites but, as Aarron points out in Chapter 4:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The examples…are not meant to be emulated, only to get you thinking about how you can convey your brand personality in your interfaces in a way that resonates with your audience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This means that, if you’re anything like me, you spend the whole book studying the ideas and working out how you can use similar approaches in your own projects.&lt;/p&gt;
+
+&lt;p&gt;Each chapter in Designing For Emotion takes you through a principle of emotional design:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Emotional Design (Intro/Overview)&lt;/li&gt;
+&lt;li&gt;Designing For Humans&lt;/li&gt;
+&lt;li&gt;Personality&lt;/li&gt;
+&lt;li&gt;Emotional Engagement&lt;/li&gt;
+&lt;li&gt;Overcoming Obstacles&lt;/li&gt;
+&lt;li&gt;Forgiveness&lt;/li&gt;
+&lt;li&gt;Risk &amp;amp; Reward&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Forgiveness chapter is more specific than others, focusing on evoking a particular emotion, but the content comes across as equally important as those in other chapters as it is such a necessary emotion to consider on the web where errors and poor performance can easily tempt users to look elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Overall I found this book insanely inspirational. Partly because it’s a subject rarely covered in such depth and with so much consideration, but also because it’s almost exciting in its enthusiasm, making it easy to read quickly.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-comments&#34;&gt;2 comments&lt;/h2&gt;
+
+&lt;ol class=&#34;commentlist&#34;&gt;
+    &lt;li class=&#34;comment even thread-even depth-1&#34; id=&#34;li-comment-260&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/d3ad283f453b4f4f6c509b9d289274a9?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;Nik (aMixedmedia)&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-260&#34;&gt;&lt;time datetime=&#34;2011-11-15T10:09:10+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:09am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Brilliant review. Emotions and design are two favourite subjects of mine –; I’ll be getting this book when I can ! :)
+    &lt;/div&gt;
+&lt;/li&gt;
+    &lt;li class=&#34;comment odd alt thread-odd thread-alt depth-1&#34; id=&#34;li-comment-261&#34;&gt;
+            &lt;div class=&#34;comment-author vcard&#34;&gt;
+            &lt;img alt=&#39;&#39; src=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;amp;d=mm&amp;amp;r=g&#39; srcset=&#39;https://secure.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;amp;d=mm&amp;amp;r=g 2x&#39; class=&#39;avatar avatar-72 photo&#39; height=&#39;72&#39; width=&#39;72&#39; /&gt;&lt;cite class=&#34;fn&#34;&gt;&lt;a href=&#39;http://www.damianherrington.co.uk&#39; rel=&#39;external nofollow&#39; class=&#39;url&#39;&gt;Damian Herrington&lt;/a&gt;&lt;/cite&gt;
+                &lt;aside class=&#34;comment-meta commentmetadata&#34;&gt;&lt;p&gt;&lt;a href=&#34;#comment-261&#34;&gt;&lt;time datetime=&#34;2011-11-17T10:25:30+00:00&#34; pubdate class=&#34;published&#34;&gt;
+         at &lt;span class=&#34;hours&#34;&gt;10:25am&lt;/span&gt;&lt;/time&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;comment-entry&#34;&gt;
+        Great post. I am fan of the A Book Apart series, may give this one a read after Responsive Web Design.
+    &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
