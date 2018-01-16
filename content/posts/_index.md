@@ -8,3 +8,5 @@ menu:
 ---
 
 # Blog
+
+Want these posts in your feed reader? You can [subscribe to my RSS feed](http://laurakalbag.com/index.xml).
