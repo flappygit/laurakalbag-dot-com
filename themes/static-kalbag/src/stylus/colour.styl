@@ -14,11 +14,11 @@ $accent-brightened = lightness(saturation($accent, 60%),70%)
 
 a
 	color $text
-	
+
 	&:hover, &:active
 		color $linktext
 		transition 0.2s
-	
+
 p a, p a:hover, ul a, ul a:hover, ol a, ol a:hover
 	background-image linear-gradient(to top, alpha($primary-bg, 0) 0.02em, alpha($accent-brightened, 0.8) 0.03em, alpha($accent-brightened, 0.8) 0.13em, alpha($primary-bg, 0) 0.14em)
 	text-decoration none
@@ -27,38 +27,43 @@ h1 a, h2 a, h3 a
 	// remove gradient underline
 	background none
 
+// add SVG repeating image to background
 .site-header
-	background $secondary-bg
+	background $secondary-bg url('/images/tile-01.svg') repeat
+
 
 .site-title
 	a
-		background none
+		background $secondary-bg
 
+// add SVG repeating image to background
 #content
-	background $primary-bg
-	
+	background $primary-bg url('/images/tile-01.svg') repeat
+
 .site-footer
 	background $secondary-bg
-	
+
 hr
 	border $accent dashed 0.1em
 	margin 2em 0
-	
+
 // invert colours for code
 
 pre
 	background $text
-	
+
 	code
 		color $primary-bg
 
 .navigation-menu
 	ul
 		background alpha($accent-darkened, 0.1)
-		
+		li
+			background $secondary-bg
+
 .navigation-menu
 	background alpha(lightness($accent, 90%), 0.1)
-	
+
 	// set active navigation link background colour
 	li.active a
 		background alpha($primary-bg, 0.5)
@@ -67,11 +72,11 @@ pre
 	// set active navigation link background colour
 	.navigation-menu li a[href="/posts/"]
 		background alpha($primary-bg, 0.5)
-		
+
 // Mixin for colour highlighting and underlines for menu navigationcolor lightness($accent-brightened, 30%)
 highlight-and-underline-on-interaction()
 	position relative
-	
+
 	&:after
 		box-sizing border-box
 		border-bottom 0.15em alpha($text, 0.5) solid
@@ -82,7 +87,7 @@ highlight-and-underline-on-interaction()
 		margin-bottom 0.05em
 		position relative
 		width auto
-			
+
 // links before and after active navigation (relies on order of navigation being reflected)
 // darken text accordingly
 &.home .navigation-menu a[href="/about-me/"],
@@ -99,10 +104,10 @@ highlight-and-underline-on-interaction()
 &.contact-me .navigation-menu a[href="/speaking/"]
 	background alpha($accent-darkened, 0.1)
 	color darken($text, 10%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
-	
+
 // links second before and after active navigation
 // darken text accordingly
 &.home .navigation-menu a[href="/book/"],
@@ -117,10 +122,10 @@ highlight-and-underline-on-interaction()
 &.contact-me .navigation-menu a[href="/projects/"]
 	background alpha($accent-darkened, 0.2)
 	color darken($text, 15%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
-	
+
 // links third before and after active navigation
 // darken text accordingly
 &.home .navigation-menu a[href="/posts/"],
@@ -133,10 +138,10 @@ highlight-and-underline-on-interaction()
 &.contact-me .navigation-menu a[href="/posts/"]
 	background alpha($accent-darkened, 0.3)
 	color darken($text, 20%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
-	
+
 // links fourth before and after active navigation
 // darken text accordingly
 &.home .navigation-menu a[href="/projects/"],
@@ -147,7 +152,7 @@ highlight-and-underline-on-interaction()
 &.contact-me .navigation-menu a[href="/book/"]
 	background alpha($accent-darkened, 0.4)
 	color darken($text, 25%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
 
@@ -160,16 +165,26 @@ highlight-and-underline-on-interaction()
 &.contact-me .navigation-menu a[href="/about-me/"]
 	background alpha($accent-darkened, 0.5)
 	color darken($text, 30%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
-	
+
 // links sixth before and after active navigation
 // darken text accordingly
 &.home .navigation-menu a[href="/contact-me/"]
 &.contact-me .navigation-menu a[href="/"]
 	background alpha($accent-darkened, 0.6)
 	color darken($text, 35%)
-	
+
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
+
+// add colour behind block elements (but inline them) so image doesn’t make it hard to read
+#content
+	h1, h2, h3, h4, h5, h6, article p, article ul, article ol, article blockquote, .posts-list h3 a, .posts-list .entry-meta, .posts-list p
+		display inline-block
+		background $primary-bg
+		box-shadow alpha($primary-bg, 0.8) 0 0 0.5em 0.5em
+
+	.posts-list h3
+		display block
