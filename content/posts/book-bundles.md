@@ -38,7 +38,7 @@ If you want them 2nd class to save the pennies, that’s cool too.
 * 1st Class: **£5.45**
 * 1st Class Signed for: **£6.55**
 
-<h2 id="books">Books</h2>
+## Books
 All books are now gone. Thank you for your interest!
 
 ## Want to buy them?
@@ -164,4 +164,3 @@ Sorry, these are already gone:
 ### The Ologies Bundle
 
 [{{<figure class="wp-caption aligncenter size-full wp-image-4761" src="/images/2015/06/The-Ologies.jpg" alt="Mythologies by Roland Barthes, The Decisive Moment by Jonah Lehrer, Here Comes Everybody by Clay Shirky" width="1200" height="388" caption="*Mythologies* by Roland Barthes, *The Decisive Moment *by Jonah Lehrer, *Here Comes Everybody *by Clay Shirky (Below 1kg) **£8**">}}](/images/2015/06/The-Ologies.jpg)
-
