@@ -209,13 +209,15 @@ body.colours-001 h3 a {
   background: none;
 }
 body.colours-001 .site-header {
-  background: #d0d0d0 url("/images/tile-01.svg") repeat;
+  background: #d0d0d0 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-001 .site-title a {
   background: #d0d0d0;
 }
 body.colours-001 #content {
   background: #d9d9d9 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-001 .site-footer {
   background: #d0d0d0;
@@ -597,13 +599,15 @@ body.colours-002 h3 a {
   background: none;
 }
 body.colours-002 .site-header {
-  background: #badeff url("/images/tile-01.svg") repeat;
+  background: #badeff url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-002 .site-title a {
   background: #badeff;
 }
 body.colours-002 #content {
   background: #c9ecff url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-002 .site-footer {
   background: #badeff;
@@ -985,13 +989,15 @@ body.colours-003 h3 a {
   background: none;
 }
 body.colours-003 .site-header {
-  background: #e2d8ff url("/images/tile-01.svg") repeat;
+  background: #e2d8ff url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-003 .site-title a {
   background: #e2d8ff;
 }
 body.colours-003 #content {
   background: #ece6ff url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-003 .site-footer {
   background: #e2d8ff;
@@ -1373,13 +1379,15 @@ body.colours-004 h3 a {
   background: none;
 }
 body.colours-004 .site-header {
-  background: #cdfcb8 url("/images/tile-01.svg") repeat;
+  background: #cdfcb8 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-004 .site-title a {
   background: #cdfcb8;
 }
 body.colours-004 #content {
   background: #ddffc9 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-004 .site-footer {
   background: #cdfcb8;
@@ -1761,13 +1769,15 @@ body.colours-005 h3 a {
   background: none;
 }
 body.colours-005 .site-header {
-  background: #ffd9f1 url("/images/tile-01.svg") repeat;
+  background: #ffd9f1 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-005 .site-title a {
   background: #ffd9f1;
 }
 body.colours-005 #content {
   background: #ffe7f6 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-005 .site-footer {
   background: #ffd9f1;
@@ -2149,13 +2159,15 @@ body.colours-006 h3 a {
   background: none;
 }
 body.colours-006 .site-header {
-  background: #eddbff url("/images/tile-01.svg") repeat;
+  background: #eddbff url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-006 .site-title a {
   background: #eddbff;
 }
 body.colours-006 #content {
   background: #f3e8fe url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-006 .site-footer {
   background: #eddbff;
@@ -2537,13 +2549,15 @@ body.colours-007 h3 a {
   background: none;
 }
 body.colours-007 .site-header {
-  background: #fbf9a9 url("/images/tile-01.svg") repeat;
+  background: #fbf9a9 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-007 .site-title a {
   background: #fbf9a9;
 }
 body.colours-007 #content {
   background: #fffec9 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-007 .site-footer {
   background: #fbf9a9;
@@ -2925,13 +2939,15 @@ body.colours-008 h3 a {
   background: none;
 }
 body.colours-008 .site-header {
-  background: #feccc8 url("/images/tile-01.svg") repeat;
+  background: #feccc8 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-008 .site-title a {
   background: #feccc8;
 }
 body.colours-008 #content {
   background: #ffd8d5 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-008 .site-footer {
   background: #feccc8;
@@ -3313,13 +3329,15 @@ body.colours-009 h3 a {
   background: none;
 }
 body.colours-009 .site-header {
-  background: #adf1dc url("/images/tile-01.svg") repeat;
+  background: #adf1dc url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-009 .site-title a {
   background: #adf1dc;
 }
 body.colours-009 #content {
   background: #c9ffee url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-009 .site-footer {
   background: #adf1dc;
@@ -3701,13 +3719,15 @@ body.colours-010 h3 a {
   background: none;
 }
 body.colours-010 .site-header {
-  background: #d0d0d0 url("/images/tile-01.svg") repeat;
+  background: #d0d0d0 url("/images/tile-01.svg") 20em repeat;
+  background-size: 20em;
 }
 body.colours-010 .site-title a {
   background: #d0d0d0;
 }
 body.colours-010 #content {
   background: #d9d9d9 url("/images/tile-01.svg") repeat;
+  background-size: 20em;
 }
 body.colours-010 .site-footer {
   background: #d0d0d0;
