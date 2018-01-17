@@ -564,6 +564,14 @@ body.colours-001 #content .posts-list p {
 body.colours-001 #content .posts-list h3 {
   display: block;
 }
+body.colours-002 .site-header {
+  background: #badeff url("/images/tile-02.svg") 20em repeat;
+  background-size: 20em;
+}
+body.colours-002 #content {
+  background: #c9ecff url("/images/tile-02.svg") repeat;
+  background-size: 20em;
+}
 body.colours-002 {
   background: #badeff;
   color: #5e3b77;
@@ -1327,6 +1335,14 @@ body.colours-003 #content .posts-list p {
 }
 body.colours-003 #content .posts-list h3 {
   display: block;
+}
+body.colours-004 .site-header {
+  background: #cdfcb8 url("/images/tile-03.svg") 20em repeat;
+  background-size: 20em;
+}
+body.colours-004 #content {
+  background: #ddffc9 url("/images/tile-03.svg") repeat;
+  background-size: 20em;
 }
 body.colours-004 {
   background: #cdfcb8;
