@@ -557,12 +557,19 @@ body.colours-001 #content article blockquote,
 body.colours-001 #content .posts-list h3 a,
 body.colours-001 #content .posts-list .entry-meta,
 body.colours-001 #content .posts-list p {
-  display: inline-block;
   background: #d9d9d9;
-  box-shadow: rgba(217,217,217,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #d9d9d9 0 0 0 1rem, rgba(217,217,217,0.8) 0 0 0 1.25rem;
 }
-body.colours-001 #content .posts-list h3 {
-  display: block;
+body.colours-001 h1,
+body.colours-001 h2,
+body.colours-001 h3,
+body.colours-001 h4,
+body.colours-001 h5,
+body.colours-001 h6,
+body.colours-001 article ul,
+body.colours-001 article ol,
+body.colours-001 .posts-lists h3 a {
+  display: table;
 }
 body.colours-002 .site-header {
   background: #badeff url("/images/tile-02.svg") 20em repeat;
@@ -947,12 +954,19 @@ body.colours-002 #content article blockquote,
 body.colours-002 #content .posts-list h3 a,
 body.colours-002 #content .posts-list .entry-meta,
 body.colours-002 #content .posts-list p {
-  display: inline-block;
   background: #c9ecff;
-  box-shadow: rgba(201,236,255,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #c9ecff 0 0 0 1rem, rgba(201,236,255,0.8) 0 0 0 1.25rem;
 }
-body.colours-002 #content .posts-list h3 {
-  display: block;
+body.colours-002 h1,
+body.colours-002 h2,
+body.colours-002 h3,
+body.colours-002 h4,
+body.colours-002 h5,
+body.colours-002 h6,
+body.colours-002 article ul,
+body.colours-002 article ol,
+body.colours-002 .posts-lists h3 a {
+  display: table;
 }
 body.colours-003 {
   background: #e2d8ff;
@@ -1329,12 +1343,19 @@ body.colours-003 #content article blockquote,
 body.colours-003 #content .posts-list h3 a,
 body.colours-003 #content .posts-list .entry-meta,
 body.colours-003 #content .posts-list p {
-  display: inline-block;
   background: #ece6ff;
-  box-shadow: rgba(236,230,255,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #ece6ff 0 0 0 1rem, rgba(236,230,255,0.8) 0 0 0 1.25rem;
 }
-body.colours-003 #content .posts-list h3 {
-  display: block;
+body.colours-003 h1,
+body.colours-003 h2,
+body.colours-003 h3,
+body.colours-003 h4,
+body.colours-003 h5,
+body.colours-003 h6,
+body.colours-003 article ul,
+body.colours-003 article ol,
+body.colours-003 .posts-lists h3 a {
+  display: table;
 }
 body.colours-004 .site-header {
   background: #cdfcb8 url("/images/tile-03.svg") 20em repeat;
@@ -1719,12 +1740,19 @@ body.colours-004 #content article blockquote,
 body.colours-004 #content .posts-list h3 a,
 body.colours-004 #content .posts-list .entry-meta,
 body.colours-004 #content .posts-list p {
-  display: inline-block;
   background: #ddffc9;
-  box-shadow: rgba(221,255,201,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #ddffc9 0 0 0 1rem, rgba(221,255,201,0.8) 0 0 0 1.25rem;
 }
-body.colours-004 #content .posts-list h3 {
-  display: block;
+body.colours-004 h1,
+body.colours-004 h2,
+body.colours-004 h3,
+body.colours-004 h4,
+body.colours-004 h5,
+body.colours-004 h6,
+body.colours-004 article ul,
+body.colours-004 article ol,
+body.colours-004 .posts-lists h3 a {
+  display: table;
 }
 body.colours-005 {
   background: #ffd9f1;
@@ -2101,12 +2129,19 @@ body.colours-005 #content article blockquote,
 body.colours-005 #content .posts-list h3 a,
 body.colours-005 #content .posts-list .entry-meta,
 body.colours-005 #content .posts-list p {
-  display: inline-block;
   background: #ffe7f6;
-  box-shadow: rgba(255,231,246,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #ffe7f6 0 0 0 1rem, rgba(255,231,246,0.8) 0 0 0 1.25rem;
 }
-body.colours-005 #content .posts-list h3 {
-  display: block;
+body.colours-005 h1,
+body.colours-005 h2,
+body.colours-005 h3,
+body.colours-005 h4,
+body.colours-005 h5,
+body.colours-005 h6,
+body.colours-005 article ul,
+body.colours-005 article ol,
+body.colours-005 .posts-lists h3 a {
+  display: table;
 }
 body.colours-006 {
   background: #eddbff;
@@ -2483,12 +2518,19 @@ body.colours-006 #content article blockquote,
 body.colours-006 #content .posts-list h3 a,
 body.colours-006 #content .posts-list .entry-meta,
 body.colours-006 #content .posts-list p {
-  display: inline-block;
   background: #f3e8fe;
-  box-shadow: rgba(243,232,254,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #f3e8fe 0 0 0 1rem, rgba(243,232,254,0.8) 0 0 0 1.25rem;
 }
-body.colours-006 #content .posts-list h3 {
-  display: block;
+body.colours-006 h1,
+body.colours-006 h2,
+body.colours-006 h3,
+body.colours-006 h4,
+body.colours-006 h5,
+body.colours-006 h6,
+body.colours-006 article ul,
+body.colours-006 article ol,
+body.colours-006 .posts-lists h3 a {
+  display: table;
 }
 body.colours-007 {
   background: #fbf9a9;
@@ -2865,12 +2907,19 @@ body.colours-007 #content article blockquote,
 body.colours-007 #content .posts-list h3 a,
 body.colours-007 #content .posts-list .entry-meta,
 body.colours-007 #content .posts-list p {
-  display: inline-block;
   background: #fffec9;
-  box-shadow: rgba(255,254,201,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #fffec9 0 0 0 1rem, rgba(255,254,201,0.8) 0 0 0 1.25rem;
 }
-body.colours-007 #content .posts-list h3 {
-  display: block;
+body.colours-007 h1,
+body.colours-007 h2,
+body.colours-007 h3,
+body.colours-007 h4,
+body.colours-007 h5,
+body.colours-007 h6,
+body.colours-007 article ul,
+body.colours-007 article ol,
+body.colours-007 .posts-lists h3 a {
+  display: table;
 }
 body.colours-008 {
   background: #feccc8;
@@ -3247,12 +3296,19 @@ body.colours-008 #content article blockquote,
 body.colours-008 #content .posts-list h3 a,
 body.colours-008 #content .posts-list .entry-meta,
 body.colours-008 #content .posts-list p {
-  display: inline-block;
   background: #ffd8d5;
-  box-shadow: rgba(255,216,213,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #ffd8d5 0 0 0 1rem, rgba(255,216,213,0.8) 0 0 0 1.25rem;
 }
-body.colours-008 #content .posts-list h3 {
-  display: block;
+body.colours-008 h1,
+body.colours-008 h2,
+body.colours-008 h3,
+body.colours-008 h4,
+body.colours-008 h5,
+body.colours-008 h6,
+body.colours-008 article ul,
+body.colours-008 article ol,
+body.colours-008 .posts-lists h3 a {
+  display: table;
 }
 body.colours-009 .site-header {
   background: #adf1dc url("/images/tile-01.svg") 20em repeat;
@@ -3637,12 +3693,19 @@ body.colours-009 #content article blockquote,
 body.colours-009 #content .posts-list h3 a,
 body.colours-009 #content .posts-list .entry-meta,
 body.colours-009 #content .posts-list p {
-  display: inline-block;
   background: #c9ffee;
-  box-shadow: rgba(201,255,238,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #c9ffee 0 0 0 1rem, rgba(201,255,238,0.8) 0 0 0 1.25rem;
 }
-body.colours-009 #content .posts-list h3 {
-  display: block;
+body.colours-009 h1,
+body.colours-009 h2,
+body.colours-009 h3,
+body.colours-009 h4,
+body.colours-009 h5,
+body.colours-009 h6,
+body.colours-009 article ul,
+body.colours-009 article ol,
+body.colours-009 .posts-lists h3 a {
+  display: table;
 }
 body.colours-010 {
   background: #d0d0d0;
@@ -4019,12 +4082,19 @@ body.colours-010 #content article blockquote,
 body.colours-010 #content .posts-list h3 a,
 body.colours-010 #content .posts-list .entry-meta,
 body.colours-010 #content .posts-list p {
-  display: inline-block;
   background: #d9d9d9;
-  box-shadow: rgba(217,217,217,0.8) 0 0 0.5em 0.5em;
+  box-shadow: #d9d9d9 0 0 0 1rem, rgba(217,217,217,0.8) 0 0 0 1.25rem;
 }
-body.colours-010 #content .posts-list h3 {
-  display: block;
+body.colours-010 h1,
+body.colours-010 h2,
+body.colours-010 h3,
+body.colours-010 h4,
+body.colours-010 h5,
+body.colours-010 h6,
+body.colours-010 article ul,
+body.colours-010 article ol,
+body.colours-010 .posts-lists h3 a {
+  display: table;
 }
 body {
   margin: 0;

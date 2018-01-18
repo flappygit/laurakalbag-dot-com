@@ -20,7 +20,7 @@ My surname is Kalbag. It is pronounced **cal** as in **cal**ories, and **bag** a
 
 ## I am a designer
 
-As part of a tiny team, I do a lot under the title of designer. [Aral](https://ar.al) and I work together on the holistic design of Ind.ie. I work on everything from graphic design to web development while learning how to run a sustainable social enterprise. 
+As part of a tiny team, I do a lot under the title of designer. [Aral](https://ar.al) and I work together on the holistic design of Ind.ie. I work on everything from graphic design to web development while learning how to run a sustainable social enterprise.
 
 My work means I’m always striving to make privacy and broader ethics in technology accessible to a wide audience. You can typically find me making design decisions, writing CSS, nudging icon pixels, or distilling a privacy policy into something humans can understand. Sometimes, I [speak at conferences](../speaking/index.html "Speaking") and [write](../tag/writing/index.html) articles, too.
 

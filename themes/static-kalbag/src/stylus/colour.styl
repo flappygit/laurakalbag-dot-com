@@ -170,12 +170,11 @@ highlight-and-underline-on-interaction()
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
 
-// add colour behind block elements (but inline them) so image doesn’t make it hard to read
+// add colour behind elements so image doesn’t make it hard to read
 #content
 	h1, h2, h3, h4, h5, h6, article p, article ul, article ol, article blockquote, .posts-list h3 a, .posts-list .entry-meta, .posts-list p
-		display inline-block
 		background $primary-bg
-		box-shadow alpha($primary-bg, 0.8) 0 0 0.5em 0.5em
+		box-shadow $primary-bg 0 0 0 $layout-unit, alpha($primary-bg, 0.8) 0 0 0 ($layout-unit)*1.25
 
-	.posts-list h3
-		display block
+h1, h2, h3, h4, h5, h6, article ul, article ol, .posts-lists h3 a
+		display table // make background only cover space behind text
