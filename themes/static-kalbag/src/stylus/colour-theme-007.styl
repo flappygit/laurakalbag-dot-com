@@ -1,5 +1,15 @@
 // 007 PALE YELLOW + GREEN TEXT
-$primary-bg = #FFFEC9
-$secondary-bg = #FBF9A9
+$primary-bg = #FBF9A9
+$secondary-bg = #EFF092
 $text = #215E28
 $linktext = #02842A
+
+// add SVG repeating image to background
+
+.site-header
+	background $secondary-bg url('/images/tile-04.svg') 20em repeat
+	background-size 20em
+
+#content
+	background $primary-bg url('/images/tile-04.svg') repeat
+	background-size 20em

@@ -968,6 +968,14 @@ body.colours-002 article ol,
 body.colours-002 .posts-lists h3 a {
   display: table;
 }
+body.colours-003 .site-header {
+  background: #e2d8ff url("/images/tile-06.svg") 20em repeat;
+  background-size: 20em;
+}
+body.colours-003 #content {
+  background: #ece6ff url("/images/tile-06.svg") repeat;
+  background-size: 20em;
+}
 body.colours-003 {
   background: #e2d8ff;
   color: #822e40;
@@ -2532,8 +2540,16 @@ body.colours-006 article ol,
 body.colours-006 .posts-lists h3 a {
   display: table;
 }
+body.colours-007 .site-header {
+  background: #eff092 url("/images/tile-04.svg") 20em repeat;
+  background-size: 20em;
+}
+body.colours-007 #content {
+  background: #fbf9a9 url("/images/tile-04.svg") repeat;
+  background-size: 20em;
+}
 body.colours-007 {
-  background: #fbf9a9;
+  background: #eff092;
   color: #215e28;
 }
 body.colours-007 a {
@@ -2550,7 +2566,7 @@ body.colours-007 ul a,
 body.colours-007 ul a:hover,
 body.colours-007 ol a,
 body.colours-007 ol a:hover {
-  background-image: linear-gradient(to top, rgba(255,254,201,0) 0.02em, rgba(133,224,143,0.8) 0.03em, rgba(133,224,143,0.8) 0.13em, rgba(255,254,201,0) 0.14em);
+  background-image: linear-gradient(to top, rgba(251,249,169,0) 0.02em, rgba(133,224,143,0.8) 0.03em, rgba(133,224,143,0.8) 0.13em, rgba(251,249,169,0) 0.14em);
   text-decoration: none;
 }
 body.colours-007 h1 a,
@@ -2559,10 +2575,10 @@ body.colours-007 h3 a {
   background: none;
 }
 body.colours-007 .site-title a {
-  background: #fbf9a9;
+  background: #eff092;
 }
 body.colours-007 .site-footer {
-  background: #fbf9a9;
+  background: #eff092;
 }
 body.colours-007 hr {
   border: #6ef77d dashed 0.1em;
@@ -2572,22 +2588,22 @@ body.colours-007 pre {
   background: #215e28;
 }
 body.colours-007 pre code {
-  color: #fffec9;
+  color: #fbf9a9;
 }
 body.colours-007 .navigation-menu ul {
   background: rgba(61,245,82,0.1);
 }
 body.colours-007 .navigation-menu ul li {
-  background: #fbf9a9;
+  background: #eff092;
 }
 body.colours-007 .navigation-menu {
   background: rgba(207,252,212,0.1);
 }
 body.colours-007 .navigation-menu li.active a {
-  background: rgba(255,254,201,0.5);
+  background: rgba(251,249,169,0.5);
 }
 body.colours-007.blog .navigation-menu li a[href="/posts/"] {
-  background: rgba(255,254,201,0.5);
+  background: rgba(251,249,169,0.5);
 }
 body.colours-007.home .navigation-menu a[href="/about-me/"],
 body.colours-007.about-me .navigation-menu a[href="/"],
@@ -2907,8 +2923,8 @@ body.colours-007 #content article blockquote,
 body.colours-007 #content .posts-list h3 a,
 body.colours-007 #content .posts-list .entry-meta,
 body.colours-007 #content .posts-list p {
-  background: #fffec9;
-  box-shadow: #fffec9 0 0 0 1rem, rgba(255,254,201,0.8) 0 0 0 1.25rem;
+  background: #fbf9a9;
+  box-shadow: #fbf9a9 0 0 0 1rem, rgba(251,249,169,0.8) 0 0 0 1.25rem;
 }
 body.colours-007 h1,
 body.colours-007 h2,
@@ -2920,6 +2936,14 @@ body.colours-007 article ul,
 body.colours-007 article ol,
 body.colours-007 .posts-lists h3 a {
   display: table;
+}
+body.colours-008 .site-header {
+  background: #feccc8 url("/images/tile-05.svg") 20em repeat;
+  background-size: 20em;
+}
+body.colours-008 #content {
+  background: #ffd8d5 url("/images/tile-05.svg") repeat;
+  background-size: 20em;
 }
 body.colours-008 {
   background: #feccc8;
