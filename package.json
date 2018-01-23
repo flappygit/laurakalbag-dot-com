@@ -1,0 +1,23 @@
+{
+    "name": "static-kalbag",
+    "description": "Build tasks for Laura’s Hugo site",
+    "license": "CC-BY-NC-SA-4.0",
+    "repository": {
+        "type": "git",
+        "url": "git@source.ind.ie:laura/laurakalbag-dot-com.git"
+    },
+    "devDependencies": {
+        "hugo": "latest",
+        "stylus": "latest",
+        "onchange": "latest",
+        "parallelshell": "latest"
+    },
+    "scripts": {
+        "build:css": "stylus 'themes/static-kalbag/src/stylus/style.styl' -o themes/static-kalbag/static/css",
+        "watch:css": "onchange 'themes/static-kalbag/src/stylus/' -- npm run build:css",
+        "build": "npm run build:css",
+        "prewatch": "npm run build",
+        "watch": "parallelshell 'npm run watch:css'",
+        "start": "npm run watch"
+    }
+}
