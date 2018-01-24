@@ -1,41 +1,39 @@
 // Plug colour variables into here
 
-// Make accent colour from text colour (don’t use for text colours--too unpredictable!)
-$accent = lightness(saturation($text, 90%),70%)
-
-// make darker colour for accent
-$accent-darkened = lightness($accent, 60%)
-// make brighter colour for accent, saturate more to make up for alpha in link underlines
-$accent-brightened = lightness(saturation($accent, 60%),70%)
-
 &
 	background $secondary-bg
 	color $text
 
 a
-	color $text
+	color $linktext
 
 	&:hover, &:active
 		color $linktext
 		transition 0.2s
 
 p a, p a:hover, ul a, ul a:hover, ol a, ol a:hover
-	background-image linear-gradient(to top, alpha($primary-bg, 0) 0.02em, alpha($accent-brightened, 0.8) 0.03em, alpha($accent-brightened, 0.8) 0.13em, alpha($primary-bg, 0) 0.14em)
+	background-image linear-gradient(to top, alpha($primary-bg, 0) 0.02em, alpha($brilliant, .6) 0.03em, alpha($brilliant, .6) 0.13em, alpha($primary-bg, 0) 0.14em)
 	text-decoration none
+
+a:hover, p a:hover, ul a:hover, ol a:hover
+	background-image linear-gradient(to top, alpha($primary-bg, 0) 0.01em, alpha($brilliant, .8) 0.02em, alpha($brilliant, .8) 0.13em, alpha($primary-bg, 0) 0.14em)
+	color darken($brilliant, .2)
 
 h1 a, h2 a, h3 a
 	// remove gradient underline
 	background none
+	color $text
 
 .site-title
 	a
 		background $secondary-bg
+		color $text
 
 .site-footer
 	background $secondary-bg
 
 hr
-	border $accent dashed 0.1em
+	border $brilliant dashed 0.1em
 	margin 2em 0
 
 // invert colours for code
@@ -48,23 +46,24 @@ pre
 
 .navigation-menu
 	ul
-		background alpha($accent-darkened, 0.1)
+		background alpha($tab-five, 0.1)
 		li
 			background $secondary-bg
 
 .navigation-menu
-	background alpha(lightness($accent, 90%), 0.1)
+	background alpha($tab-five, 0.1)
 
 	// set active navigation link background colour
 	li.active a
 		background alpha($primary-bg, 0.5)
+		color $text
 
 &.blog
 	// set active navigation link background colour
 	.navigation-menu li a[href="/posts/"]
-		background alpha($primary-bg, 0.5)
+		background $primary-bg
 
-// Mixin for colour highlighting and underlines for menu navigationcolor lightness($accent-brightened, 30%)
+// Mixin for colour highlighting and underlines for menu navigation
 highlight-and-underline-on-interaction()
 	position relative
 
@@ -78,9 +77,8 @@ highlight-and-underline-on-interaction()
 		margin-bottom 0.05em
 		position relative
 		width auto
-
+	
 // links before and after active navigation (relies on order of navigation being reflected)
-// darken text accordingly
 &.home .navigation-menu a[href="/about-me/"],
 &.about-me .navigation-menu a[href="/"],
 &.about-me .navigation-menu a[href="/book/"],
@@ -93,8 +91,8 @@ highlight-and-underline-on-interaction()
 &.speaking .navigation-menu a[href="/projects/"],
 &.speaking .navigation-menu a[href="/contact-me/"],
 &.contact-me .navigation-menu a[href="/speaking/"]
-	background alpha($accent-darkened, 0.1)
-	color darken($text, 10%)
+	background alpha($tab-two, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
@@ -111,8 +109,8 @@ highlight-and-underline-on-interaction()
 &.past-projects .navigation-menu a[href="/contact-me/"],
 &.speaking .navigation-menu a[href="/posts/"],
 &.contact-me .navigation-menu a[href="/projects/"]
-	background alpha($accent-darkened, 0.2)
-	color darken($text, 15%)
+	background alpha($tab-three, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
@@ -127,8 +125,8 @@ highlight-and-underline-on-interaction()
 &.past-projects .navigation-menu a[href="/about-me/"],
 &.speaking .navigation-menu a[href="/book/"],
 &.contact-me .navigation-menu a[href="/posts/"]
-	background alpha($accent-darkened, 0.3)
-	color darken($text, 20%)
+	background alpha($tab-four, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
@@ -141,8 +139,8 @@ highlight-and-underline-on-interaction()
 &.past-projects .navigation-menu a[href="/"],
 &.speaking .navigation-menu a[href="/about-me/"],
 &.contact-me .navigation-menu a[href="/book/"]
-	background alpha($accent-darkened, 0.4)
-	color darken($text, 25%)
+	background alpha($tab-five, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
@@ -154,8 +152,8 @@ highlight-and-underline-on-interaction()
 &.past-projects .navigation-menu a[href="/"],
 &.speaking .navigation-menu a[href="/"],
 &.contact-me .navigation-menu a[href="/about-me/"]
-	background alpha($accent-darkened, 0.5)
-	color darken($text, 30%)
+	background alpha($tab-six, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
@@ -164,8 +162,8 @@ highlight-and-underline-on-interaction()
 // darken text accordingly
 &.home .navigation-menu a[href="/contact-me/"]
 &.contact-me .navigation-menu a[href="/"]
-	background alpha($accent-darkened, 0.6)
-	color darken($text, 35%)
+	background alpha($brilliant, .8)
+	color $darklinktext
 
 	&:hover, &:active
 		highlight-and-underline-on-interaction()
