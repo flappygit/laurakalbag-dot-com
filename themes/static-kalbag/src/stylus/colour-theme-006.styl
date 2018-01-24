@@ -3,10 +3,20 @@ $primary-bg = #F3E8FE
 $secondary-bg = #EDDBFF
 $text = #98022E
 $linktext = #AB0233
-$darklinktext = #131426
-$brilliant = #3882F8
-$tab-two = #A7E3F1
-$tab-three = #8FCEF3
-$tab-four = #72B4F4
-$tab-five = #559CF6
-$tab-six = #9A6DF9
+$darklinktext = #340022
+$brilliant = #FF003E
+$tab-two = #F6BFDF
+$tab-three = #F999C0
+$tab-four = #FB73A1
+$tab-five = #FE467F
+$tab-six = #FF2262
+
+// add SVG repeating image to background
+
+.site-header
+	background $secondary-bg url('/images/tile-006.svg') 20em repeat
+	background-size 20em
+
+#content
+	background $primary-bg url('/images/tile-006.svg') repeat
+	background-size 20em

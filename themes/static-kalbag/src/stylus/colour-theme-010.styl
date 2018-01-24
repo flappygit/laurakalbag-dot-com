@@ -1,12 +1,22 @@
 // 010 GREY + DARK GREY TEXT WITH RED ACCENT (Ind.ie theme)
-$primary-bg = #D9D9D9
-$secondary-bg = #D0D0D0
-$text = #404040
-$linktext = #A50001
-$darklinktext = #131426
-$brilliant = #3882F8
-$tab-two = #A7E3F1
-$tab-three = #8FCEF3
-$tab-four = #72B4F4
-$tab-five = #559CF6
-$tab-six = #9A6DF9
+$primary-bg = #F0F0F0
+$secondary-bg = #CFCFCF
+$text = #353535
+$linktext = #A60000
+$darklinktext = #000000
+$brilliant = #E32D00
+$tab-two = #E3C8C6
+$tab-three = #E4B0AB
+$tab-four = #DD8F86
+$tab-five = #D66F63
+$tab-six = #CF4C3D
+
+// add SVG repeating image to background
+
+.site-header
+	background $secondary-bg url('/images/tile-010.svg') 20em repeat
+	background-size 20em
+
+#content
+	background $primary-bg url('/images/tile-010.svg') repeat
+	background-size 20em
