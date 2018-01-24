@@ -10,14 +10,17 @@
         "hugo": "latest",
         "stylus": "latest",
         "onchange": "latest",
-        "parallelshell": "latest"
+        "parallelshell": "latest",
+        "svgo": "latest"
     },
     "scripts": {
         "build:css": "stylus 'themes/static-kalbag/src/stylus/style.styl' -o themes/static-kalbag/static/css",
+        "build:svg": "svgo -f 'themes/static-kalbag/src/svg/' -o 'themes/static-kalbag/static/images/'",
         "watch:css": "onchange 'themes/static-kalbag/src/stylus/' -- npm run build:css",
-        "build": "npm run build:css",
+        "watch:svg": "onchange 'themes/static-kalbag/src/svg/' -- npm run build:svg",
+        "build": "npm run build:css && npm run build:svg",
         "prewatch": "npm run build",
-        "watch": "parallelshell 'npm run watch:css'",
+        "watch": "parallelshell 'npm run watch:css' 'npm run watch:svg'",
         "start": "npm run watch"
     }
 }
