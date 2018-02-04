@@ -1,37 +1,37 @@
 @charset "UTF-8";
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-medium.woff2") format('woff2'), url("/fonts/informat-medium.woff") format('woff');
+  src: url("/fonts/informative-medium-webfont.woff2") format('woff2'), url("/fonts/informative-medium-webfont.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-mediumit.woff2") format('woff2'), url("/fonts/informat-mediumit.woff") format('woff');
+  src: url("/fonts/informative-mediumit-webfont.woff2") format('woff2'), url("/fonts/informative-mediumit-webfont.woff") format('woff');
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-semibold.woff2") format('woff2'), url("/fonts/informat-semibold.woff") format('woff');
+  src: url("/fonts/informative-semibold-webfont.woff2") format('woff2'), url("/fonts/informative-semibold-webfont.woff") format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Informat;
-  src: url("/fonts/informat-semiboldit.woff2") format('woff2'), url("/fonts/informat-semiboldit.woff") format('woff');
+  src: url("/fonts/informative-semiboldit-webfont.woff2") format('woff2'), url("/fonts/informative-semiboldit-webfont.woff") format('woff');
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
   font-family: "Informat Black";
-  src: url("/fonts/informat-black.woff2") format('woff2'), url("/fonts/informat-black.woff") format('woff');
+  src: url("/fonts/informative-black-webfont.woff2") format('woff2'), url("/fonts/informative-black-webfont.woff") format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "Informat Black";
-  src: url("/fonts/informat-blackit.woff2") format('woff2'), url("/fonts/informat-blackit.woff") format('woff');
+  src: url("/fonts/informative-blackit-webfont.woff2") format('woff2'), url("/fonts/informative-blackit-webfont.woff") format('woff');
   font-weight: bold;
   font-style: italic;
 }

@@ -22,5 +22,8 @@
         "prewatch": "npm run build",
         "watch": "parallelshell 'npm run watch:css' 'npm run watch:svg'",
         "start": "npm run watch"
+    },
+    "dependencies": {
+        "im-resize": "^2.3.2"
     }
 }
