@@ -30,6 +30,6 @@ We’re settling into a good routine here in Malmö. We’re working from the of
 
 [{{<figure class="wp-caption aligncenter size-large wp-image-4830" src="/images/2016/03/Screen-Shot-2016-03-21-at-17.17.54-1024x767.png" alt="Oskar paddling in the sea in front of the Turning Torso in Malmö" width="1024" height="767" caption="Enjoying the beach life!">}}](/images/2016/03/Screen-Shot-2016-03-21-at-17.17.54.png" rel="attachment wp-att-4830)
 
-Originally [posted on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016/1122](https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016/1122)
+Originally [posted on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016](https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016)
 
 	

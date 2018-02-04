@@ -22,6 +22,6 @@ One week to go!
 
 [{{<figure class="wp-caption aligncenter wp-image-4819 size-full" src="/images/2016/02/2016-02-16.jpg" alt="Oskar the dog lying curled up on a leather sofa" width="800" height="600" caption="If I look cute, I won’t be told off for being on the sofa…">}}](/images/2016/02/2016-02-16.jpg" rel="attachment wp-att-4819)
 
-Originally posted on the [Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016/1087](https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016/1087)
+Originally posted on the [Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016](https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016)
 
 	
