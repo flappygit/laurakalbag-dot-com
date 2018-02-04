@@ -209,14 +209,15 @@ body.colours-001 p a:hover,
 body.colours-001 ul a,
 body.colours-001 ul a:hover,
 body.colours-001 ol a,
-body.colours-001 ol a:hover {
+body.colours-001 ol a:hover,
+body.colours-001 figcaption a {
   background-image: linear-gradient(to top, rgba(233,233,233,0) 0.02em, rgba(126,128,128,0.6) 0.03em, rgba(126,128,128,0.6) 0.13em, rgba(233,233,233,0) 0.14em);
   text-decoration: none;
 }
-body.colours-001 a:hover,
 body.colours-001 p a:hover,
 body.colours-001 ul a:hover,
-body.colours-001 ol a:hover {
+body.colours-001 ol a:hover,
+body.colours-001 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(233,233,233,0) 0.01em, rgba(126,128,128,0.8) 0.02em, rgba(126,128,128,0.8) 0.13em, rgba(233,233,233,0) 0.14em);
   color: #7d7f7f;
 }
@@ -633,14 +634,15 @@ body.colours-002 p a:hover,
 body.colours-002 ul a,
 body.colours-002 ul a:hover,
 body.colours-002 ol a,
-body.colours-002 ol a:hover {
+body.colours-002 ol a:hover,
+body.colours-002 figcaption a {
   background-image: linear-gradient(to top, rgba(201,236,255,0) 0.02em, rgba(148,93,249,0.6) 0.03em, rgba(148,93,249,0.6) 0.13em, rgba(201,236,255,0) 0.14em);
   text-decoration: none;
 }
-body.colours-002 a:hover,
 body.colours-002 p a:hover,
 body.colours-002 ul a:hover,
-body.colours-002 ol a:hover {
+body.colours-002 ol a:hover,
+body.colours-002 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(201,236,255,0) 0.01em, rgba(148,93,249,0.8) 0.02em, rgba(148,93,249,0.8) 0.13em, rgba(201,236,255,0) 0.14em);
   color: #935cf9;
 }
@@ -1057,14 +1059,15 @@ body.colours-003 p a:hover,
 body.colours-003 ul a,
 body.colours-003 ul a:hover,
 body.colours-003 ol a,
-body.colours-003 ol a:hover {
+body.colours-003 ol a:hover,
+body.colours-003 figcaption a {
   background-image: linear-gradient(to top, rgba(236,230,255,0) 0.02em, rgba(255,82,104,0.6) 0.03em, rgba(255,82,104,0.6) 0.13em, rgba(236,230,255,0) 0.14em);
   text-decoration: none;
 }
-body.colours-003 a:hover,
 body.colours-003 p a:hover,
 body.colours-003 ul a:hover,
-body.colours-003 ol a:hover {
+body.colours-003 ol a:hover,
+body.colours-003 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(236,230,255,0) 0.01em, rgba(255,82,104,0.8) 0.02em, rgba(255,82,104,0.8) 0.13em, rgba(236,230,255,0) 0.14em);
   color: #ff5167;
 }
@@ -1481,14 +1484,15 @@ body.colours-004 p a:hover,
 body.colours-004 ul a,
 body.colours-004 ul a:hover,
 body.colours-004 ol a,
-body.colours-004 ol a:hover {
+body.colours-004 ol a:hover,
+body.colours-004 figcaption a {
   background-image: linear-gradient(to top, rgba(221,255,201,0) 0.02em, rgba(0,160,43,0.6) 0.03em, rgba(0,160,43,0.6) 0.13em, rgba(221,255,201,0) 0.14em);
   text-decoration: none;
 }
-body.colours-004 a:hover,
 body.colours-004 p a:hover,
 body.colours-004 ul a:hover,
-body.colours-004 ol a:hover {
+body.colours-004 ol a:hover,
+body.colours-004 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(221,255,201,0) 0.01em, rgba(0,160,43,0.8) 0.02em, rgba(0,160,43,0.8) 0.13em, rgba(221,255,201,0) 0.14em);
   color: #009f2b;
 }
@@ -1905,14 +1909,15 @@ body.colours-005 p a:hover,
 body.colours-005 ul a,
 body.colours-005 ul a:hover,
 body.colours-005 ol a,
-body.colours-005 ol a:hover {
+body.colours-005 ol a:hover,
+body.colours-005 figcaption a {
   background-image: linear-gradient(to top, rgba(255,231,246,0) 0.02em, rgba(183,113,54,0.6) 0.03em, rgba(183,113,54,0.6) 0.13em, rgba(255,231,246,0) 0.14em);
   text-decoration: none;
 }
-body.colours-005 a:hover,
 body.colours-005 p a:hover,
 body.colours-005 ul a:hover,
-body.colours-005 ol a:hover {
+body.colours-005 ol a:hover,
+body.colours-005 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(255,231,246,0) 0.01em, rgba(183,113,54,0.8) 0.02em, rgba(183,113,54,0.8) 0.13em, rgba(255,231,246,0) 0.14em);
   color: #b67136;
 }
@@ -2329,14 +2334,15 @@ body.colours-006 p a:hover,
 body.colours-006 ul a,
 body.colours-006 ul a:hover,
 body.colours-006 ol a,
-body.colours-006 ol a:hover {
+body.colours-006 ol a:hover,
+body.colours-006 figcaption a {
   background-image: linear-gradient(to top, rgba(243,232,254,0) 0.02em, rgba(255,0,62,0.6) 0.03em, rgba(255,0,62,0.6) 0.13em, rgba(243,232,254,0) 0.14em);
   text-decoration: none;
 }
-body.colours-006 a:hover,
 body.colours-006 p a:hover,
 body.colours-006 ul a:hover,
-body.colours-006 ol a:hover {
+body.colours-006 ol a:hover,
+body.colours-006 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(243,232,254,0) 0.01em, rgba(255,0,62,0.8) 0.02em, rgba(255,0,62,0.8) 0.13em, rgba(243,232,254,0) 0.14em);
   color: #fe003e;
 }
@@ -2753,14 +2759,15 @@ body.colours-007 p a:hover,
 body.colours-007 ul a,
 body.colours-007 ul a:hover,
 body.colours-007 ol a,
-body.colours-007 ol a:hover {
+body.colours-007 ol a:hover,
+body.colours-007 figcaption a {
   background-image: linear-gradient(to top, rgba(253,252,167,0) 0.02em, rgba(0,117,224,0.6) 0.03em, rgba(0,117,224,0.6) 0.13em, rgba(253,252,167,0) 0.14em);
   text-decoration: none;
 }
-body.colours-007 a:hover,
 body.colours-007 p a:hover,
 body.colours-007 ul a:hover,
-body.colours-007 ol a:hover {
+body.colours-007 ol a:hover,
+body.colours-007 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(253,252,167,0) 0.01em, rgba(0,117,224,0.8) 0.02em, rgba(0,117,224,0.8) 0.13em, rgba(253,252,167,0) 0.14em);
   color: #0074df;
 }
@@ -3177,14 +3184,15 @@ body.colours-008 p a:hover,
 body.colours-008 ul a,
 body.colours-008 ul a:hover,
 body.colours-008 ol a,
-body.colours-008 ol a:hover {
+body.colours-008 ol a:hover,
+body.colours-008 figcaption a {
   background-image: linear-gradient(to top, rgba(255,216,213,0) 0.02em, rgba(0,158,216,0.6) 0.03em, rgba(0,158,216,0.6) 0.13em, rgba(255,216,213,0) 0.14em);
   text-decoration: none;
 }
-body.colours-008 a:hover,
 body.colours-008 p a:hover,
 body.colours-008 ul a:hover,
-body.colours-008 ol a:hover {
+body.colours-008 ol a:hover,
+body.colours-008 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(255,216,213,0) 0.01em, rgba(0,158,216,0.8) 0.02em, rgba(0,158,216,0.8) 0.13em, rgba(255,216,213,0) 0.14em);
   color: #009dd7;
 }
@@ -3601,14 +3609,15 @@ body.colours-009 p a:hover,
 body.colours-009 ul a,
 body.colours-009 ul a:hover,
 body.colours-009 ol a,
-body.colours-009 ol a:hover {
+body.colours-009 ol a:hover,
+body.colours-009 figcaption a {
   background-image: linear-gradient(to top, rgba(201,255,238,0) 0.02em, rgba(56,130,248,0.6) 0.03em, rgba(56,130,248,0.6) 0.13em, rgba(201,255,238,0) 0.14em);
   text-decoration: none;
 }
-body.colours-009 a:hover,
 body.colours-009 p a:hover,
 body.colours-009 ul a:hover,
-body.colours-009 ol a:hover {
+body.colours-009 ol a:hover,
+body.colours-009 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(201,255,238,0) 0.01em, rgba(56,130,248,0.8) 0.02em, rgba(56,130,248,0.8) 0.13em, rgba(201,255,238,0) 0.14em);
   color: #3781f8;
 }
@@ -4025,14 +4034,15 @@ body.colours-010 p a:hover,
 body.colours-010 ul a,
 body.colours-010 ul a:hover,
 body.colours-010 ol a,
-body.colours-010 ol a:hover {
+body.colours-010 ol a:hover,
+body.colours-010 figcaption a {
   background-image: linear-gradient(to top, rgba(240,240,240,0) 0.02em, rgba(227,45,0,0.6) 0.03em, rgba(227,45,0,0.6) 0.13em, rgba(240,240,240,0) 0.14em);
   text-decoration: none;
 }
-body.colours-010 a:hover,
 body.colours-010 p a:hover,
 body.colours-010 ul a:hover,
-body.colours-010 ol a:hover {
+body.colours-010 ol a:hover,
+body.colours-010 figcaption a:hover {
   background-image: linear-gradient(to top, rgba(240,240,240,0) 0.01em, rgba(227,45,0,0.8) 0.02em, rgba(227,45,0,0.8) 0.13em, rgba(240,240,240,0) 0.14em);
   color: #e22d00;
 }
