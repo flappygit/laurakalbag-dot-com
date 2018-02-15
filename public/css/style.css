@@ -4509,20 +4509,28 @@ figcaption p {
     padding: 0.5rem 1rem;
   }
 }
-.posts-list {
+.posts-list,
+.resources-list {
   margin: 0;
   padding-left: 0;
 }
-.posts-list li {
+.posts-list li,
+.resources-list li {
   list-style-type: none;
 }
 .posts-list h2 a,
-.posts-list h3 a {
+.resources-list h2 a,
+.posts-list h3 a,
+.resources-list h3 a {
   text-decoration: none;
 }
-.posts-list .entry-meta {
+.posts-list .entry-meta,
+.resources-list .entry-meta {
   font-family: "Informat Black", Verdana, sans-serif;
   font-weight: bold;
+}
+.resources-list li {
+  margin-left: 1rem;
 }
 .commentlist {
   margin-top: 2em;
