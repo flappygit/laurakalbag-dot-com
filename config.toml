@@ -1,5 +1,5 @@
 baseURL = "https://laurakalbag.com"
-languageCode = "en-uk"
+languageCode = "en-GB"
 title = "Laura Kalbag"
 theme = "static-kalbag"
 [permalinks]
