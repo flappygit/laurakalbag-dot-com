@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laurakalbag.com/bookmarked-on-animation/</loc>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/podcasts-in-february-2018/</loc>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laurakalbag.com/im-a-diy-rebel/</loc>
     <lastmod>2018-02-05T13:45:02+01:00</lastmod>
   </url>
@@ -1229,7 +1239,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/accessibility/</loc>
-    <lastmod>2017-12-22T18:59:08+01:00</lastmod>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1296,6 +1306,12 @@
   <url>
     <loc>https://laurakalbag.com/tags/analytics/</loc>
     <lastmod>2015-07-30T10:19:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/tags/animation/</loc>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1452,6 +1468,12 @@
   <url>
     <loc>https://laurakalbag.com/tags/book-review/</loc>
     <lastmod>2010-07-12T16:29:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/categories/bookmarked/</loc>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2693,7 +2715,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/inclusive-design/</loc>
-    <lastmod>2011-05-23T15:05:31+00:00</lastmod>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3383,7 +3405,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/podcast/</loc>
-    <lastmod>2014-03-07T12:04:04+00:00</lastmod>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3401,7 +3423,7 @@
   
   <url>
     <loc>https://laurakalbag.com/categories/podcasts/</loc>
-    <lastmod>2015-05-23T16:12:38+00:00</lastmod>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3467,7 +3489,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/privacy/</loc>
-    <lastmod>2015-07-17T17:56:41+00:00</lastmod>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3934,6 +3956,12 @@
   </url>
   
   <url>
+    <loc>https://laurakalbag.com/tags/surveillance-capitalism/</loc>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://laurakalbag.com/tags/sweden/</loc>
     <lastmod>2016-03-21T16:24:55+00:00</lastmod>
     <priority>0</priority>
@@ -4074,6 +4102,12 @@
   <url>
     <loc>https://laurakalbag.com/tags/touch-interfaces/</loc>
     <lastmod>2011-05-23T15:05:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/tags/tracking/</loc>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   

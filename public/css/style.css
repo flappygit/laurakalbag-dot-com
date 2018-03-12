@@ -189,7 +189,7 @@ body.colours-001 .site-header {
   background-size: 20em;
 }
 body.colours-001 #content {
-  background: #e9e9e9 url("/images/tile-001.svg") repeat;
+  background: #e9e9e9 url("/images/tile-001-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-001 {
@@ -579,7 +579,7 @@ body.colours-001 #content .posts-list h3,
 body.colours-001 #content .posts-list .entry-meta,
 body.colours-001 #content .posts-list p {
   background: #e9e9e9;
-  box-shadow: #e9e9e9 0 0 0 0.8rem, rgba(233,233,233,0.8) 0 0 0 1rem;
+  box-shadow: #e9e9e9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-001 #content h1,
@@ -595,7 +595,7 @@ body.colours-001 #content .posts-list p {
   body.colours-001 #content .posts-list h3,
   body.colours-001 #content .posts-list .entry-meta,
   body.colours-001 #content .posts-list p {
-    box-shadow: #e9e9e9 0 0 0 2rem, rgba(233,233,233,0.8) 0 0 0 2.2rem;
+    box-shadow: #e9e9e9 0 0 0 2.6rem;
   }
 }
 body.colours-001 h1,
@@ -604,8 +604,6 @@ body.colours-001 h3,
 body.colours-001 h4,
 body.colours-001 h5,
 body.colours-001 h6,
-body.colours-001 article ul,
-body.colours-001 article ol,
 body.colours-001 .posts-lists h3 {
   display: table;
 }
@@ -614,7 +612,7 @@ body.colours-002 .site-header {
   background-size: 20em;
 }
 body.colours-002 #content {
-  background: #c9ecff url("/images/tile-002.svg") repeat;
+  background: #c9ecff url("/images/tile-002-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-002 {
@@ -1004,7 +1002,7 @@ body.colours-002 #content .posts-list h3,
 body.colours-002 #content .posts-list .entry-meta,
 body.colours-002 #content .posts-list p {
   background: #c9ecff;
-  box-shadow: #c9ecff 0 0 0 0.8rem, rgba(201,236,255,0.8) 0 0 0 1rem;
+  box-shadow: #c9ecff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-002 #content h1,
@@ -1020,7 +1018,7 @@ body.colours-002 #content .posts-list p {
   body.colours-002 #content .posts-list h3,
   body.colours-002 #content .posts-list .entry-meta,
   body.colours-002 #content .posts-list p {
-    box-shadow: #c9ecff 0 0 0 2rem, rgba(201,236,255,0.8) 0 0 0 2.2rem;
+    box-shadow: #c9ecff 0 0 0 2.6rem;
   }
 }
 body.colours-002 h1,
@@ -1029,8 +1027,6 @@ body.colours-002 h3,
 body.colours-002 h4,
 body.colours-002 h5,
 body.colours-002 h6,
-body.colours-002 article ul,
-body.colours-002 article ol,
 body.colours-002 .posts-lists h3 {
   display: table;
 }
@@ -1039,7 +1035,7 @@ body.colours-003 .site-header {
   background-size: 20em;
 }
 body.colours-003 #content {
-  background: #ece6ff url("/images/tile-003.svg") repeat;
+  background: #ece6ff url("/images/tile-003-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-003 {
@@ -1429,7 +1425,7 @@ body.colours-003 #content .posts-list h3,
 body.colours-003 #content .posts-list .entry-meta,
 body.colours-003 #content .posts-list p {
   background: #ece6ff;
-  box-shadow: #ece6ff 0 0 0 0.8rem, rgba(236,230,255,0.8) 0 0 0 1rem;
+  box-shadow: #ece6ff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-003 #content h1,
@@ -1445,7 +1441,7 @@ body.colours-003 #content .posts-list p {
   body.colours-003 #content .posts-list h3,
   body.colours-003 #content .posts-list .entry-meta,
   body.colours-003 #content .posts-list p {
-    box-shadow: #ece6ff 0 0 0 2rem, rgba(236,230,255,0.8) 0 0 0 2.2rem;
+    box-shadow: #ece6ff 0 0 0 2.6rem;
   }
 }
 body.colours-003 h1,
@@ -1454,8 +1450,6 @@ body.colours-003 h3,
 body.colours-003 h4,
 body.colours-003 h5,
 body.colours-003 h6,
-body.colours-003 article ul,
-body.colours-003 article ol,
 body.colours-003 .posts-lists h3 {
   display: table;
 }
@@ -1464,7 +1458,7 @@ body.colours-004 .site-header {
   background-size: 20em;
 }
 body.colours-004 #content {
-  background: #ddffc9 url("/images/tile-004.svg") repeat;
+  background: #ddffc9 url("/images/tile-004-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-004 {
@@ -1854,7 +1848,7 @@ body.colours-004 #content .posts-list h3,
 body.colours-004 #content .posts-list .entry-meta,
 body.colours-004 #content .posts-list p {
   background: #ddffc9;
-  box-shadow: #ddffc9 0 0 0 0.8rem, rgba(221,255,201,0.8) 0 0 0 1rem;
+  box-shadow: #ddffc9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-004 #content h1,
@@ -1870,7 +1864,7 @@ body.colours-004 #content .posts-list p {
   body.colours-004 #content .posts-list h3,
   body.colours-004 #content .posts-list .entry-meta,
   body.colours-004 #content .posts-list p {
-    box-shadow: #ddffc9 0 0 0 2rem, rgba(221,255,201,0.8) 0 0 0 2.2rem;
+    box-shadow: #ddffc9 0 0 0 2.6rem;
   }
 }
 body.colours-004 h1,
@@ -1879,8 +1873,6 @@ body.colours-004 h3,
 body.colours-004 h4,
 body.colours-004 h5,
 body.colours-004 h6,
-body.colours-004 article ul,
-body.colours-004 article ol,
 body.colours-004 .posts-lists h3 {
   display: table;
 }
@@ -1889,7 +1881,7 @@ body.colours-005 .site-header {
   background-size: 20em;
 }
 body.colours-005 #content {
-  background: #ffe7f6 url("/images/tile-005.svg") repeat;
+  background: #ffe7f6 url("/images/tile-005-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-005 {
@@ -2279,7 +2271,7 @@ body.colours-005 #content .posts-list h3,
 body.colours-005 #content .posts-list .entry-meta,
 body.colours-005 #content .posts-list p {
   background: #ffe7f6;
-  box-shadow: #ffe7f6 0 0 0 0.8rem, rgba(255,231,246,0.8) 0 0 0 1rem;
+  box-shadow: #ffe7f6 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-005 #content h1,
@@ -2295,7 +2287,7 @@ body.colours-005 #content .posts-list p {
   body.colours-005 #content .posts-list h3,
   body.colours-005 #content .posts-list .entry-meta,
   body.colours-005 #content .posts-list p {
-    box-shadow: #ffe7f6 0 0 0 2rem, rgba(255,231,246,0.8) 0 0 0 2.2rem;
+    box-shadow: #ffe7f6 0 0 0 2.6rem;
   }
 }
 body.colours-005 h1,
@@ -2304,8 +2296,6 @@ body.colours-005 h3,
 body.colours-005 h4,
 body.colours-005 h5,
 body.colours-005 h6,
-body.colours-005 article ul,
-body.colours-005 article ol,
 body.colours-005 .posts-lists h3 {
   display: table;
 }
@@ -2314,7 +2304,7 @@ body.colours-006 .site-header {
   background-size: 20em;
 }
 body.colours-006 #content {
-  background: #f3e8fe url("/images/tile-006.svg") repeat;
+  background: #f3e8fe url("/images/tile-006-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-006 {
@@ -2704,7 +2694,7 @@ body.colours-006 #content .posts-list h3,
 body.colours-006 #content .posts-list .entry-meta,
 body.colours-006 #content .posts-list p {
   background: #f3e8fe;
-  box-shadow: #f3e8fe 0 0 0 0.8rem, rgba(243,232,254,0.8) 0 0 0 1rem;
+  box-shadow: #f3e8fe 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-006 #content h1,
@@ -2720,7 +2710,7 @@ body.colours-006 #content .posts-list p {
   body.colours-006 #content .posts-list h3,
   body.colours-006 #content .posts-list .entry-meta,
   body.colours-006 #content .posts-list p {
-    box-shadow: #f3e8fe 0 0 0 2rem, rgba(243,232,254,0.8) 0 0 0 2.2rem;
+    box-shadow: #f3e8fe 0 0 0 2.6rem;
   }
 }
 body.colours-006 h1,
@@ -2729,8 +2719,6 @@ body.colours-006 h3,
 body.colours-006 h4,
 body.colours-006 h5,
 body.colours-006 h6,
-body.colours-006 article ul,
-body.colours-006 article ol,
 body.colours-006 .posts-lists h3 {
   display: table;
 }
@@ -2739,7 +2727,7 @@ body.colours-007 .site-header {
   background-size: 20em;
 }
 body.colours-007 #content {
-  background: #fdfca7 url("/images/tile-007.svg") repeat;
+  background: #fdfca7 url("/images/tile-007-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-007 {
@@ -3129,7 +3117,7 @@ body.colours-007 #content .posts-list h3,
 body.colours-007 #content .posts-list .entry-meta,
 body.colours-007 #content .posts-list p {
   background: #fdfca7;
-  box-shadow: #fdfca7 0 0 0 0.8rem, rgba(253,252,167,0.8) 0 0 0 1rem;
+  box-shadow: #fdfca7 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-007 #content h1,
@@ -3145,7 +3133,7 @@ body.colours-007 #content .posts-list p {
   body.colours-007 #content .posts-list h3,
   body.colours-007 #content .posts-list .entry-meta,
   body.colours-007 #content .posts-list p {
-    box-shadow: #fdfca7 0 0 0 2rem, rgba(253,252,167,0.8) 0 0 0 2.2rem;
+    box-shadow: #fdfca7 0 0 0 2.6rem;
   }
 }
 body.colours-007 h1,
@@ -3154,8 +3142,6 @@ body.colours-007 h3,
 body.colours-007 h4,
 body.colours-007 h5,
 body.colours-007 h6,
-body.colours-007 article ul,
-body.colours-007 article ol,
 body.colours-007 .posts-lists h3 {
   display: table;
 }
@@ -3164,7 +3150,7 @@ body.colours-008 .site-header {
   background-size: 20em;
 }
 body.colours-008 #content {
-  background: #ffd8d5 url("/images/tile-008.svg") repeat;
+  background: #ffd8d5 url("/images/tile-008-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-008 {
@@ -3554,7 +3540,7 @@ body.colours-008 #content .posts-list h3,
 body.colours-008 #content .posts-list .entry-meta,
 body.colours-008 #content .posts-list p {
   background: #ffd8d5;
-  box-shadow: #ffd8d5 0 0 0 0.8rem, rgba(255,216,213,0.8) 0 0 0 1rem;
+  box-shadow: #ffd8d5 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-008 #content h1,
@@ -3570,7 +3556,7 @@ body.colours-008 #content .posts-list p {
   body.colours-008 #content .posts-list h3,
   body.colours-008 #content .posts-list .entry-meta,
   body.colours-008 #content .posts-list p {
-    box-shadow: #ffd8d5 0 0 0 2rem, rgba(255,216,213,0.8) 0 0 0 2.2rem;
+    box-shadow: #ffd8d5 0 0 0 2.6rem;
   }
 }
 body.colours-008 h1,
@@ -3579,8 +3565,6 @@ body.colours-008 h3,
 body.colours-008 h4,
 body.colours-008 h5,
 body.colours-008 h6,
-body.colours-008 article ul,
-body.colours-008 article ol,
 body.colours-008 .posts-lists h3 {
   display: table;
 }
@@ -3589,7 +3573,7 @@ body.colours-009 .site-header {
   background-size: 20em;
 }
 body.colours-009 #content {
-  background: #c9ffee url("/images/tile-009.svg") repeat;
+  background: #c9ffee url("/images/tile-009-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-009 {
@@ -3979,7 +3963,7 @@ body.colours-009 #content .posts-list h3,
 body.colours-009 #content .posts-list .entry-meta,
 body.colours-009 #content .posts-list p {
   background: #c9ffee;
-  box-shadow: #c9ffee 0 0 0 0.8rem, rgba(201,255,238,0.8) 0 0 0 1rem;
+  box-shadow: #c9ffee 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-009 #content h1,
@@ -3995,7 +3979,7 @@ body.colours-009 #content .posts-list p {
   body.colours-009 #content .posts-list h3,
   body.colours-009 #content .posts-list .entry-meta,
   body.colours-009 #content .posts-list p {
-    box-shadow: #c9ffee 0 0 0 2rem, rgba(201,255,238,0.8) 0 0 0 2.2rem;
+    box-shadow: #c9ffee 0 0 0 2.6rem;
   }
 }
 body.colours-009 h1,
@@ -4004,8 +3988,6 @@ body.colours-009 h3,
 body.colours-009 h4,
 body.colours-009 h5,
 body.colours-009 h6,
-body.colours-009 article ul,
-body.colours-009 article ol,
 body.colours-009 .posts-lists h3 {
   display: table;
 }
@@ -4014,7 +3996,7 @@ body.colours-010 .site-header {
   background-size: 20em;
 }
 body.colours-010 #content {
-  background: #f0f0f0 url("/images/tile-010.svg") repeat;
+  background: #f0f0f0 url("/images/tile-010-transparent.svg") repeat-x;
   background-size: 20em;
 }
 body.colours-010 {
@@ -4404,7 +4386,7 @@ body.colours-010 #content .posts-list h3,
 body.colours-010 #content .posts-list .entry-meta,
 body.colours-010 #content .posts-list p {
   background: #f0f0f0;
-  box-shadow: #f0f0f0 0 0 0 0.8rem, rgba(240,240,240,0.8) 0 0 0 1rem;
+  box-shadow: #f0f0f0 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-010 #content h1,
@@ -4420,7 +4402,7 @@ body.colours-010 #content .posts-list p {
   body.colours-010 #content .posts-list h3,
   body.colours-010 #content .posts-list .entry-meta,
   body.colours-010 #content .posts-list p {
-    box-shadow: #f0f0f0 0 0 0 2rem, rgba(240,240,240,0.8) 0 0 0 2.2rem;
+    box-shadow: #f0f0f0 0 0 0 2.6rem;
   }
 }
 body.colours-010 h1,
@@ -4429,8 +4411,6 @@ body.colours-010 h3,
 body.colours-010 h4,
 body.colours-010 h5,
 body.colours-010 h6,
-body.colours-010 article ul,
-body.colours-010 article ol,
 body.colours-010 .posts-lists h3 {
   display: table;
 }

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts from Animation on Laura Kalbag</title>
+    <link>https://laurakalbag.com/tags/animation/</link>
+    <description>Recent posts from Laura Kalbag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 12 Mar 2018 12:17:46 +0100</lastBuildDate>
+    
+        <atom:link href="https://laurakalbag.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bookmarked: Animation</title>
+      <link>https://laurakalbag.com/bookmarked-on-animation/</link>
+      <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/bookmarked-on-animation/</guid>
+      <description>
+
+&lt;p&gt;A few weeks ago I gave a workshop in New Zealand about designing inclusive content and accessible design. Afterwards, I was asked for recommended reading on accessible animation. These are a bunch of bookmarks I’ve stored up, and what I’d recommend to get started on designing and building animations in an inclusive way:&lt;/p&gt;
+
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rosenfeldmedia.com/books/designing-interface-animation/&#34;&gt;Designing Interface Animation&lt;/a&gt; by Val Head.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://abookapart.com/products/animation-at-work&#34;&gt;Animation At Work&lt;/a&gt; by Rachel Nabors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://source.opennews.org/articles/motion-sick/&#34;&gt;Your Interactive Makes Me Sick&lt;/a&gt; by Eileen Webb.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alistapart.com/article/patterns-and-purpose&#34;&gt;Patterns and Purpose, an Excerpt from Animation at Work&lt;/a&gt; by Rachel Nabors.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity&#34;&gt;Designing Safer Web Animation For Motion Sensitivity&lt;/a&gt; by Val Head.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistapart.com/article/designing-interface-animation-interview-with-val-head&#34;&gt;Designing Interface Animation: an Interview with Val Head&lt;/a&gt; by Mica McPheeters and Caren Litherland.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://css-tricks.com/introduction-reduced-motion-media-query/&#34;&gt;An Introduction to the Reduced Motion Media Query&lt;/a&gt; by Eric Bailey.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QhnIZh0xwk0&#34;&gt;Infinite Canvas 6: Vestibular Disorders and Accessible Animation&lt;/a&gt; Rachel Nabors interviews Greg Tarnoff.&lt;/p&gt;
+
+&lt;h2 id=&#34;more&#34;&gt;More…&lt;/h2&gt;
+
+&lt;p&gt;To stay updated on the topic, I’d really recommend you follow Val Head and Rachel Nabors. One of these days I’ll add comments to my blog so folks can add their own suggestions, but &lt;a href=&#34;https://twitter.com/laurakalbag&#34;&gt;if you’ve got any further recommendations, please tweet me!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
